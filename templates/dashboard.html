@@ -1,0 +1,177 @@
+{% extends 'base.html' %}
+
+{% block title %}User Analytics Dashboard | ReVahan{% endblock %}
+
+{% block content %}
+<div class="container py-5">
+    
+    <!-- Dashboard Header -->
+    <div class="d-flex flex-wrap justify-content-between align-items-center gap-3 mb-4">
+        <div>
+            <span class="badge-custom badge-cars mb-2">Live Analytics</span>
+            <h1 class="fw-bold mb-1">Vehicle Valuation Dashboard</h1>
+            <p class="text-muted small mb-0">System-wide metrics, category distributions, and real-time Machine Learning prediction history.</p>
+        </div>
+        <div>
+            <a href="{{ url_for('categories') }}" class="btn-primary-custom">
+                <i class="bi bi-plus-circle-fill"></i> New Prediction
+            </a>
+        </div>
+    </div>
+
+    <!-- Metric Stat Cards -->
+    <div class="row g-3 mb-4">
+        <div class="col-xl-2 col-md-4 col-6">
+            <div class="metric-card">
+                <div class="metric-label">Total Appraisals</div>
+                <div class="metric-value text-primary">{{ stats.total }}</div>
+                <small class="text-muted"><i class="bi bi-database me-1"></i> Recorded</small>
+            </div>
+        </div>
+        <div class="col-xl-2 col-md-4 col-6">
+            <div class="metric-card">
+                <div class="metric-label">Cars Valued</div>
+                <div class="metric-value text-info">{{ stats.category_counts.cars }}</div>
+                <small class="text-muted"><i class="bi bi-car-front me-1"></i> Hatch/Sedan/SUV</small>
+            </div>
+        </div>
+        <div class="col-xl-2 col-md-4 col-6">
+            <div class="metric-card">
+                <div class="metric-label">Bikes Valued</div>
+                <div class="metric-value" style="color: var(--accent-cyan);">{{ stats.category_counts.bikes }}</div>
+                <small class="text-muted"><i class="bi bi-bicycle me-1"></i> Motorcycles/EV</small>
+            </div>
+        </div>
+        <div class="col-xl-2 col-md-4 col-6">
+            <div class="metric-card">
+                <div class="metric-label">Lorries Valued</div>
+                <div class="metric-value text-warning">{{ stats.category_counts.lorries }}</div>
+                <small class="text-muted"><i class="bi bi-truck me-1"></i> Commercial Trucks</small>
+            </div>
+        </div>
+        <div class="col-xl-2 col-md-4 col-6">
+            <div class="metric-card">
+                <div class="metric-label">Autos Valued</div>
+                <div class="metric-value" style="color: #A855F7;">{{ stats.category_counts.autos }}</div>
+                <small class="text-muted"><i class="bi bi-taxi-front me-1"></i> 3-Wheelers</small>
+            </div>
+        </div>
+        <div class="col-xl-2 col-md-4 col-6">
+            <div class="metric-card">
+                <div class="metric-label">Average Resale</div>
+                <div class="metric-value text-success" style="font-size: 1.6rem;">
+                    {{ format_lakhs(stats.avg_price) if stats.avg_price else "₹ 0" }}
+                </div>
+                <small class="text-muted"><i class="bi bi-currency-rupee me-1"></i> Overall Avg</small>
+            </div>
+        </div>
+    </div>
+
+    <!-- Chart Visualizations -->
+    <div class="row g-4 mb-5">
+        <div class="col-lg-4">
+            <div class="custom-card h-100 p-4">
+                <h5 class="fw-bold mb-3"><i class="bi bi-pie-chart text-primary me-2"></i> Category Distribution</h5>
+                <div style="height: 260px; position: relative;">
+                    <canvas id="categoryChartCanvas"></canvas>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-4">
+            <div class="custom-card h-100 p-4">
+                <h5 class="fw-bold mb-3"><i class="bi bi-bar-chart-fill text-info me-2"></i> Average Market Value (₹)</h5>
+                <div style="height: 260px; position: relative;">
+                    <canvas id="avgPriceChartCanvas"></canvas>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-4">
+            <div class="custom-card h-100 p-4">
+                <h5 class="fw-bold mb-3"><i class="bi bi-compass text-warning me-2"></i> Condition Spread</h5>
+                <div style="height: 260px; position: relative;">
+                    <canvas id="conditionChartCanvas"></canvas>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Recent Prediction History Table -->
+    <div class="custom-card p-4">
+        <div class="d-flex justify-content-between align-items-center mb-3">
+            <h5 class="fw-bold mb-0"><i class="bi bi-clock-history text-primary me-2"></i> Recent Vehicle Valuations</h5>
+            <a href="{{ url_for('history') }}" class="btn btn-sm btn-outline-custom">View All History &rarr;</a>
+        </div>
+
+        {% if stats.recent_predictions %}
+        <div class="table-responsive">
+            <table class="table-custom">
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>Category</th>
+                        <th>Vehicle Details</th>
+                        <th>Year / Usage</th>
+                        <th>Condition</th>
+                        <th>Location</th>
+                        <th>Estimated Price</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for item in stats.recent_predictions %}
+                    <tr>
+                        <td class="text-muted">#{{ item.id }}</td>
+                        <td>
+                            <span class="badge-custom badge-{{ item.category }}">
+                                {{ item.category|capitalize }}
+                            </span>
+                        </td>
+                        <td>
+                            <strong>{{ item.brand }} {{ item.model }}</strong>
+                            <div class="text-muted small">{{ item.fuel_type }}</div>
+                        </td>
+                        <td>
+                            <div>{{ item.year }}</div>
+                            <div class="text-muted small">{{ "{:,}".format(item.km_driven) }} km</div>
+                        </td>
+                        <td>
+                            <span class="badge bg-success small">{{ item.condition }}</span>
+                        </td>
+                        <td>{{ item.location }}</td>
+                        <td>
+                            <strong class="text-info fs-6">₹ {{ format_inr(item.predicted_price) }}</strong>
+                        </td>
+                        <td>
+                            <div class="d-flex gap-1">
+                                <a href="{{ url_for('prediction_result', prediction_id=item.id) }}" class="btn btn-sm btn-outline-primary" title="View Result">
+                                    <i class="bi bi-eye-fill"></i>
+                                </a>
+                                <a href="{{ url_for('download_report', prediction_id=item.id) }}" class="btn btn-sm btn-outline-secondary" title="Download PDF">
+                                    <i class="bi bi-file-earmark-pdf"></i>
+                                </a>
+                                <form action="{{ url_for('delete_history_record', prediction_id=item.id) }}" method="POST" onsubmit="return confirm('Delete this record?');" class="d-inline">
+                                    <button type="submit" class="btn btn-sm btn-outline-danger" title="Delete Record">
+                                        <i class="bi bi-trash"></i>
+                                    </button>
+                                </form>
+                            </div>
+                        </td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+        {% else %}
+        <div class="text-center py-5">
+            <i class="bi bi-inbox fs-1 text-muted d-block mb-3"></i>
+            <h5 class="text-light">No Valuations Recorded Yet</h5>
+            <p class="text-muted small">Submit your first vehicle price prediction to populate this dashboard.</p>
+            <a href="{{ url_for('categories') }}" class="btn-primary-custom mt-2">
+                <i class="bi bi-lightning-charge"></i> Make First Prediction
+            </a>
+        </div>
+        {% endif %}
+    </div>
+
+</div>
+{% endblock %}

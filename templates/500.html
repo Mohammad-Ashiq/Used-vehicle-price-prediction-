@@ -1,0 +1,23 @@
+{% extends 'base.html' %}
+
+{% block title %}Internal Server Error (500) | ReVahan{% endblock %}
+
+{% block content %}
+<div class="container py-5 text-center my-5">
+    <div class="custom-card p-5 mx-auto" style="max-width: 600px;">
+        <div class="display-1 fw-bold text-danger mb-3">500</div>
+        <h3 class="fw-bold text-light mb-3">Internal Server Error</h3>
+        <p class="text-muted small mb-4">
+            An unexpected error occurred while executing the valuation request. The system has logged the anomaly. Please return to the homepage or try again shortly.
+        </p>
+        <div class="d-flex justify-content-center gap-3">
+            <a href="{{ url_for('index') }}" class="btn-primary-custom">
+                <i class="bi bi-house-door me-1"></i> Return Home
+            </a>
+            <a href="{{ url_for('dashboard') }}" class="btn-outline-custom">
+                <i class="bi bi-pie-chart-fill me-1"></i> Open Dashboard
+            </a>
+        </div>
+    </div>
+</div>
+{% endblock %}

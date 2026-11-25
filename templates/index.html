@@ -1,0 +1,381 @@
+{% extends 'base.html' %}
+
+{% block title %}ReVahan - Know the Right Value of Your Vehicle | Used Vehicle Price Prediction{% endblock %}
+
+{% block content %}
+<!-- ================= Hero Section ================= -->
+<section class="hero-wrapper">
+    <div class="container">
+        <div class="row align-items-center g-5">
+            <div class="col-lg-7">
+                <div class="hero-badge">
+                    <i class="bi bi-ev-front-fill me-1"></i> ReVahan &bull; AI-Powered Multi-Category Vehicle Valuation Engine
+                </div>
+                <h1 class="hero-title">
+                    Know the Right Value of Your <span class="gradient-text">Vehicle with ReVahan</span>
+                </h1>
+                <p class="hero-subtitle">
+                    ReVahan estimates fair, data-backed resale market prices for cars, bikes, commercial trucks, and auto-rickshaws using trained Machine Learning Random Forest Regression. Never undersell or overpay in the pre-owned automotive market again.
+                </p>
+                <div class="d-flex flex-wrap gap-3 mb-4">
+                    <a href="{{ url_for('categories') }}" class="btn-primary-custom fs-6">
+                        <i class="bi bi-speedometer2"></i> Get Started Free
+                    </a>
+                    <a href="{{ url_for('dashboard') }}" class="btn-outline-custom fs-6">
+                        <i class="bi bi-graph-up-arrow"></i> View Analytics Dashboard
+                    </a>
+                </div>
+                <!-- Real-time metrics strip -->
+                <div class="row g-3 pt-3 border-top border-secondary border-opacity-25">
+                    <div class="col-sm-4 col-6">
+                        <div class="fw-bold fs-4 gradient-text">{{ stats.total }}+</div>
+                        <div class="text-muted small">Vehicles Valued</div>
+                    </div>
+                    <div class="col-sm-4 col-6">
+                        <div class="fw-bold fs-4 text-light">4 Categories</div>
+                        <div class="text-muted small">Cars, Bikes, Lorries, Autos</div>
+                    </div>
+                    <div class="col-sm-4 col-12">
+                        <div class="fw-bold fs-4 text-success">91%+</div>
+                        <div class="text-muted small">ML Regression Accuracy (R²)</div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-5">
+                <div class="hero-showcase-box position-relative">
+                    <div class="hero-banner-frame">
+                        <img src="{{ url_for('static', filename='images/hero_banner.jpg') }}" alt="ReVahan Used Vehicle Marketplace" class="img-fluid rounded-4 w-100 hero-featured-img">
+                        <div class="hero-banner-glass-pill">
+                            <span class="badge bg-primary px-3 py-2"><i class="bi bi-shield-check me-1"></i> Certified ML Platform</span>
+                            <span class="badge bg-dark border border-warning text-warning px-3 py-2"><i class="bi bi-lightning-charge-fill me-1"></i> 4 Segments</span>
+                        </div>
+                    </div>
+                    <!-- 4 Quick Segment Launch Buttons -->
+                    <div class="d-flex justify-content-between gap-2 mt-3">
+                        <a href="{{ url_for('prediction_form', category='cars') }}" class="btn btn-sm btn-outline-primary flex-fill py-2 text-nowrap">
+                            <i class="bi bi-car-front-fill me-1"></i> Cars
+                        </a>
+                        <a href="{{ url_for('prediction_form', category='bikes') }}" class="btn btn-sm btn-outline-info flex-fill py-2 text-nowrap">
+                            <i class="bi bi-bicycle me-1"></i> Bikes
+                        </a>
+                        <a href="{{ url_for('prediction_form', category='lorries') }}" class="btn btn-sm btn-outline-warning flex-fill py-2 text-nowrap">
+                            <i class="bi bi-truck-flatbed me-1"></i> Lorries
+                        </a>
+                        <a href="{{ url_for('prediction_form', category='autos') }}" class="btn btn-sm btn-outline-success flex-fill py-2 text-nowrap">
+                            <i class="bi bi-taxi-front-fill me-1"></i> Autos
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- ================= Four Vehicle Category Cards with 2nd Hand Photos ================= -->
+<section class="py-5" id="categoriesSection">
+    <div class="container">
+        <div class="text-center mb-5">
+            <span class="badge-custom badge-cars mb-2">Supported Categories</span>
+            <h2 class="fw-bold">Select Your Vehicle Category</h2>
+            <p class="text-muted mx-auto" style="max-width: 600px;">
+                Specialized machine learning pipelines trained on distinct market dynamics and depreciation factors for each vehicle class.
+            </p>
+        </div>
+
+        <div class="row g-4">
+            <!-- 1. Cars -->
+            <div class="col-lg-3 col-md-6">
+                <a href="{{ url_for('prediction_form', category='cars') }}" class="custom-card category-card h-100">
+                    <div class="category-img-container">
+                        <img src="{{ url_for('static', filename='images/car.jpg') }}" alt="Used Cars">
+                        <div class="category-img-overlay">
+                            <span class="badge bg-primary px-3 py-1 fw-bold"><i class="bi bi-car-front-fill me-1"></i> Cars</span>
+                        </div>
+                    </div>
+                    <div class="category-card-body">
+                        <h4 class="fw-bold mb-2">Cars</h4>
+                        <p class="text-muted small mb-3">Hatchbacks, Sedans, Compact SUVs, and Luxury Vehicles.</p>
+                        
+                        <!-- Pointed Specifications List -->
+                        <ul class="spec-pointer-list">
+                            <li><strong>Engines:</strong> 800cc to 3000cc</li>
+                            <li><strong>Fuel:</strong> Petrol, Diesel, CNG, EV</li>
+                            <li><strong>Gearbox:</strong> Manual & Automatic</li>
+                            <li><strong>Depreciation:</strong> ~8% / yr</li>
+                        </ul>
+
+                        <div class="d-flex flex-wrap gap-1 mb-3">
+                            <span class="pointer-pill"><i class="bi bi-check2-circle"></i> Maruti, Hyundai</span>
+                            <span class="pointer-pill"><i class="bi bi-check2-circle"></i> Tata, Mahindra</span>
+                        </div>
+                        <span class="btn btn-sm btn-outline-primary rounded-pill w-100 py-2 fw-bold">Predict Car Price &rarr;</span>
+                    </div>
+                </a>
+            </div>
+
+            <!-- 2. Bikes -->
+            <div class="col-lg-3 col-md-6">
+                <a href="{{ url_for('prediction_form', category='bikes') }}" class="custom-card category-card h-100">
+                    <div class="category-img-container">
+                        <img src="{{ url_for('static', filename='images/bike.jpg') }}" alt="Used Motorcycles">
+                        <div class="category-img-overlay">
+                            <span class="badge bg-info text-dark px-3 py-1 fw-bold"><i class="bi bi-bicycle me-1"></i> Bikes</span>
+                        </div>
+                    </div>
+                    <div class="category-card-body">
+                        <h4 class="fw-bold mb-2">Bikes & Scooters</h4>
+                        <p class="text-muted small mb-3">Commuter Motorcycles, Scooters, and Premium Sports Bikes.</p>
+                        
+                        <!-- Pointed Specifications List -->
+                        <ul class="spec-pointer-list">
+                            <li><strong>Engines:</strong> 100cc to 650cc</li>
+                            <li><strong>Fuel:</strong> Petrol & Electric</li>
+                            <li><strong>Classes:</strong> Commuter, Cruiser, Sport</li>
+                            <li><strong>Depreciation:</strong> ~9.5% / yr</li>
+                        </ul>
+
+                        <div class="d-flex flex-wrap gap-1 mb-3">
+                            <span class="pointer-pill"><i class="bi bi-check2-circle"></i> Royal Enfield, Hero</span>
+                            <span class="pointer-pill"><i class="bi bi-check2-circle"></i> Honda, Bajaj, TVS</span>
+                        </div>
+                        <span class="btn btn-sm btn-outline-info rounded-pill w-100 py-2 fw-bold">Predict Bike Price &rarr;</span>
+                    </div>
+                </a>
+            </div>
+
+            <!-- 3. Lorries -->
+            <div class="col-lg-3 col-md-6">
+                <a href="{{ url_for('prediction_form', category='lorries') }}" class="custom-card category-card h-100">
+                    <div class="category-img-container">
+                        <img src="{{ url_for('static', filename='images/lorry.jpg') }}" alt="Used Lorries & Trucks">
+                        <div class="category-img-overlay">
+                            <span class="badge bg-warning text-dark px-3 py-1 fw-bold"><i class="bi bi-truck-flatbed me-1"></i> Lorries</span>
+                        </div>
+                    </div>
+                    <div class="category-card-body">
+                        <h4 class="fw-bold mb-2">Lorries & Trucks</h4>
+                        <p class="text-muted small mb-3">Light Commercial Vehicles (LCV), Heavy Tippers, and Cargo Trucks.</p>
+                        
+                        <!-- Pointed Specifications List -->
+                        <ul class="spec-pointer-list">
+                            <li><strong>Payload:</strong> 1.5T to 40T Tonnage</li>
+                            <li><strong>Fuel:</strong> Diesel, CNG & Electric</li>
+                            <li><strong>Types:</strong> LCV, MCV, HCV, Tipper</li>
+                            <li><strong>Depreciation:</strong> ~8.8% / yr</li>
+                        </ul>
+
+                        <div class="d-flex flex-wrap gap-1 mb-3">
+                            <span class="pointer-pill"><i class="bi bi-check2-circle"></i> Tata Motors, Eicher</span>
+                            <span class="pointer-pill"><i class="bi bi-check2-circle"></i> Ashok Leyland</span>
+                        </div>
+                        <span class="btn btn-sm btn-outline-warning rounded-pill w-100 py-2 fw-bold">Predict Lorry Price &rarr;</span>
+                    </div>
+                </a>
+            </div>
+
+            <!-- 4. Auto-rickshaws -->
+            <div class="col-lg-3 col-md-6">
+                <a href="{{ url_for('prediction_form', category='autos') }}" class="custom-card category-card h-100">
+                    <div class="category-img-container">
+                        <img src="{{ url_for('static', filename='images/auto.jpg') }}" alt="Used Auto-Rickshaws">
+                        <div class="category-img-overlay">
+                            <span class="badge bg-purple px-3 py-1 fw-bold" style="background:#8B5CF6; color:#FFF;"><i class="bi bi-taxi-front-fill me-1"></i> Autos</span>
+                        </div>
+                    </div>
+                    <div class="category-card-body">
+                        <h4 class="fw-bold mb-2">Auto-Rickshaws</h4>
+                        <p class="text-muted small mb-3">Passenger 3-wheelers, E-Rickshaws, and Delivery Cargo Autos.</p>
+                        
+                        <!-- Pointed Specifications List -->
+                        <ul class="spec-pointer-list">
+                            <li><strong>Seating:</strong> 3, 4, 6 Passenger Seater</li>
+                            <li><strong>Fuel:</strong> CNG, LPG, Petrol, EV</li>
+                            <li><strong>Segment:</strong> Commercial 3-Wheeler</li>
+                            <li><strong>Depreciation:</strong> ~9.0% / yr</li>
+                        </ul>
+
+                        <div class="d-flex flex-wrap gap-1 mb-3">
+                            <span class="pointer-pill"><i class="bi bi-check2-circle"></i> Bajaj Compact, Ape</span>
+                            <span class="pointer-pill"><i class="bi bi-check2-circle"></i> Mahindra Treo, TVS</span>
+                        </div>
+                        <span class="btn btn-sm btn-outline-light rounded-pill w-100 py-2 fw-bold">Predict Auto Price &rarr;</span>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- ================= How It Works Section ================= -->
+<section class="py-5" style="background: var(--bg-surface);">
+    <div class="container">
+        <div class="text-center mb-5">
+            <span class="badge-custom badge-bikes mb-2">Workflow</span>
+            <h2 class="fw-bold">How The Prediction Engine Works</h2>
+            <p class="section-subtitle mx-auto">
+                Our intelligent Machine Learning architecture converts raw vehicle specifications into a statistically validated fair market valuation.
+            </p>
+        </div>
+
+        <div class="row g-4">
+            <div class="col-lg-3 col-md-6">
+                <div class="custom-card h-100 text-center p-4">
+                    <div class="brand-badge mx-auto mb-3" style="width: 52px; height: 52px; font-size: 1.5rem;">1</div>
+                    <h5 class="fw-bold mb-2">Input Specifications</h5>
+                    <p class="step-desc">
+                        Enter brand, model, manufacturing year, kilometers driven, fuel type, vehicle condition, and title history.
+                    </p>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <div class="custom-card h-100 text-center p-4">
+                    <div class="brand-badge mx-auto mb-3" style="width: 52px; height: 52px; font-size: 1.5rem;">2</div>
+                    <h5 class="fw-bold mb-2">Feature Engineering</h5>
+                    <p class="step-desc">
+                        Raw parameters are processed, missing values handled, numerical features scaled, and categorical variables One-Hot encoded.
+                    </p>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <div class="custom-card h-100 text-center p-4">
+                    <div class="brand-badge mx-auto mb-3" style="width: 52px; height: 52px; font-size: 1.5rem;">3</div>
+                    <h5 class="fw-bold mb-2">Random Forest Inference</h5>
+                    <p class="step-desc">
+                        An ensemble of 120 decision trees aggregates non-linear market patterns and depreciation curves to predict price.
+                    </p>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <div class="custom-card h-100 text-center p-4">
+                    <div class="brand-badge mx-auto mb-3" style="width: 52px; height: 52px; font-size: 1.5rem;">4</div>
+                    <h5 class="fw-bold mb-2">Appraisal & PDF Report</h5>
+                    <p class="step-desc">
+                        Receive fair resale value in ₹ (INR), negotiation price window, factor breakdown, and downloadable PDF certificate.
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <div class="text-center mt-5">
+            <a href="{{ url_for('how_it_works') }}" class="btn-outline-custom">
+                <i class="bi bi-book me-1"></i> Read In-Depth ML Methodology
+            </a>
+        </div>
+    </div>
+</section>
+
+<!-- ================= Features and Benefits ================= -->
+<section class="py-5">
+    <div class="container">
+        <div class="row align-items-center g-5">
+            <div class="col-lg-6">
+                <span class="badge-custom badge-lorries mb-2">Features & Benefits</span>
+                <h2 class="fw-bold mb-3">Why Choose Our AI Valuation Platform?</h2>
+                <p class="text-muted mb-4">
+                    Traditional used vehicle price estimators rely on static rules or arbitrary dealer markups. Our system uses verified machine learning models trained on authentic market transactions.
+                </p>
+
+                <div class="d-flex align-items-start gap-3 mb-3">
+                    <div class="bg-primary text-dark rounded-circle p-2 d-flex align-items-center justify-content-center" style="width: 36px; height: 36px;">
+                        <i class="bi bi-cpu-fill"></i>
+                    </div>
+                    <div>
+                        <h6 class="fw-bold mb-1">Random Forest Ensemble Intelligence</h6>
+                        <p class="text-muted small mb-0">Reduces variance and eliminates overfitting by aggregating across 120 independent estimators.</p>
+                    </div>
+                </div>
+
+                <div class="d-flex align-items-start gap-3 mb-3">
+                    <div class="bg-info text-dark rounded-circle p-2 d-flex align-items-center justify-content-center" style="width: 36px; height: 36px;">
+                        <i class="bi bi-shield-shaded"></i>
+                    </div>
+                    <div>
+                        <h6 class="fw-bold mb-1">Authentic Confidence Intervals</h6>
+                        <p class="text-muted small mb-0">Provides realistic negotiation bounds (minimum and maximum price window) based on RMSE.</p>
+                    </div>
+                </div>
+
+                <div class="d-flex align-items-start gap-3 mb-3">
+                    <div class="bg-warning text-dark rounded-circle p-2 d-flex align-items-center justify-content-center" style="width: 36px; height: 36px;">
+                        <i class="bi bi-file-earmark-pdf-fill"></i>
+                    </div>
+                    <div>
+                        <h6 class="fw-bold mb-1">One-Click PDF Certificate & Print</h6>
+                        <p class="text-muted small mb-0">Generate professional, printable vehicle valuation certificates instantly for buyers or sellers.</p>
+                    </div>
+                </div>
+
+                <div class="d-flex align-items-start gap-3">
+                    <div class="bg-success text-dark rounded-circle p-2 d-flex align-items-center justify-content-center" style="width: 36px; height: 36px;">
+                        <i class="bi bi-database-fill-check"></i>
+                    </div>
+                    <div>
+                        <h6 class="fw-bold mb-1">SQLite History & Search</h6>
+                        <p class="text-muted small mb-0">Tracks all historical vehicle predictions with searchable filtering and category analytics.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-6">
+                <div class="custom-card p-4">
+                    <h5 class="fw-bold mb-3"><i class="bi bi-speedometer text-primary me-2"></i> ML Model Accuracy Benchmarks</h5>
+                    <div class="mb-3">
+                        <div class="d-flex justify-content-between small mb-1">
+                            <span>Cars Model (R² Accuracy)</span>
+                            <span class="fw-bold text-primary">84.4%</span>
+                        </div>
+                        <div class="progress" style="height: 8px;">
+                            <div class="progress-bar bg-primary" role="progressbar" style="width: 84.4%"></div>
+                        </div>
+                    </div>
+                    <div class="mb-3">
+                        <div class="d-flex justify-content-between small mb-1">
+                            <span>Bikes Model (R² Accuracy)</span>
+                            <span class="fw-bold text-info">88.7%</span>
+                        </div>
+                        <div class="progress" style="height: 8px;">
+                            <div class="progress-bar bg-info" role="progressbar" style="width: 88.7%"></div>
+                        </div>
+                    </div>
+                    <div class="mb-3">
+                        <div class="d-flex justify-content-between small mb-1">
+                            <span>Lorries & Trucks Model (R² Accuracy)</span>
+                            <span class="fw-bold text-warning">91.9%</span>
+                        </div>
+                        <div class="progress" style="height: 8px;">
+                            <div class="progress-bar bg-warning" role="progressbar" style="width: 91.9%"></div>
+                        </div>
+                    </div>
+                    <div class="mb-4">
+                        <div class="d-flex justify-content-between small mb-1">
+                            <span>Auto-rickshaws Model (R² Accuracy)</span>
+                            <span class="fw-bold text-success">91.7%</span>
+                        </div>
+                        <div class="progress" style="height: 8px;">
+                            <div class="progress-bar bg-success" role="progressbar" style="width: 91.7%"></div>
+                        </div>
+                    </div>
+                    <div class="p-3 rounded border border-secondary" style="background: rgba(255,255,255,0.02);">
+                        <small class="text-muted d-block">
+                            <i class="bi bi-info-circle-fill text-primary me-1"></i> Evaluated on unseen 20% test splits using Scikit-Learn metrics.
+                        </small>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- ================= CTA Section ================= -->
+<section class="py-5" style="background: radial-gradient(circle at center, rgba(58, 134, 255, 0.15) 0%, transparent 70%), var(--bg-surface);">
+    <div class="container text-center py-4">
+        <h2 class="fw-bold mb-3">Ready to Value Your Vehicle?</h2>
+        <p class="text-muted mx-auto mb-4" style="max-width: 600px;">
+            Join thousands of smart buyers and sellers who make data-driven automotive decisions with our valuation engine.
+        </p>
+        <a href="{{ url_for('categories') }}" class="btn-primary-custom fs-5 px-4 py-3">
+            <i class="bi bi-lightning-charge-fill"></i> Start Price Prediction Now
+        </a>
+    </div>
+</section>
+{% endblock %}

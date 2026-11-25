@@ -1,0 +1,56 @@
+{
+  "name": "ReVahan - Used Vehicle Price Prediction System",
+  "short_name": "ReVahan",
+  "description": "AI Used Vehicle Price Prediction Engine for Cars, Bikes, Commercial Lorries, and Auto Rickshaws across India.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0f172a",
+  "theme_color": "#00f2fe",
+  "icons": [
+    {
+      "src": "/static/images/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/static/images/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Predict Car Price",
+      "short_name": "Car",
+      "description": "Calculate used car valuation",
+      "url": "/predict/cars",
+      "icons": [{ "src": "/static/images/icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Predict Bike Price",
+      "short_name": "Bike",
+      "description": "Calculate used bike & scooter valuation",
+      "url": "/predict/bikes",
+      "icons": [{ "src": "/static/images/icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Predict Commercial Lorry",
+      "short_name": "Lorry",
+      "description": "Calculate commercial vehicle valuation",
+      "url": "/predict/commercial",
+      "icons": [{ "src": "/static/images/icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Predict Auto Rickshaw",
+      "short_name": "Auto",
+      "description": "Calculate passenger & cargo 3-wheeler valuation",
+      "url": "/predict/auto",
+      "icons": [{ "src": "/static/images/icon-192.png", "sizes": "192x192" }]
+    }
+  ],
+  "categories": ["utilities", "automotive", "finance"]
+}

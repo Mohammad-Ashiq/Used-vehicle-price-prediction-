@@ -1,0 +1,1601 @@
+brand,model,manufacturing_year,kilometers_driven,engine_capacity,fuel_type,number_of_owners,vehicle_condition,resale_price
+KTM,Duke 200,2011,62517,200,Petrol,2,Poor,23500
+Bajaj,Platina 100,2014,67415,102,Petrol,3,Excellent,13100
+Honda,Shine 125,2018,41905,125,Petrol,2,Good,33500
+Yamaha,FZ-S FI,2013,124637,149,Petrol,1,Good,21600
+Bajaj,Platina 100,2022,21999,102,Petrol,2,Fair,31600
+Bajaj,Dominar 400,2019,45226,373,Petrol,2,Good,88500
+KTM,Duke 200,2010,110283,200,Petrol,2,Excellent,28900
+TVS,Apache RTR 160,2013,122814,160,Petrol,2,Fair,16800
+Bajaj,Dominar 400,2020,45416,373,Petrol,1,Excellent,131300
+Bajaj,Avenger 220,2017,62618,220,Petrol,2,Excellent,49300
+Yamaha,Aerox 155,2017,48708,155,Petrol,2,Good,48400
+Bajaj,Dominar 400,2020,48624,373,Petrol,1,Good,115900
+Bajaj,Platina 100,2010,84294,102,Petrol,2,Fair,12000
+Bajaj,Pulsar NS200,2012,110909,200,Petrol,2,Good,21700
+Bajaj,Pulsar 150,2018,49564,150,Petrol,3,Fair,27500
+Suzuki,Access 125,2011,98233,124,Petrol,4,Excellent,12000
+Hero,Xpulse 200,2014,81027,200,Petrol,2,Good,31700
+Yamaha,FZ-S FI,2017,82754,149,Petrol,1,Fair,32400
+Bajaj,Pulsar 150,2018,57881,150,Petrol,2,Good,38700
+Bajaj,Platina 100,2020,62864,102,Petrol,1,Good,31400
+Hero,Xpulse 200,2022,23383,200,Petrol,1,Good,91500
+Honda,Unicorn,2014,85656,160,Petrol,1,Good,27500
+Bajaj,Platina 100,2011,79877,102,Petrol,2,Good,12000
+TVS,Jupiter,2025,15571,110,Petrol,1,Excellent,75100
+Bajaj,Pulsar NS200,2011,94204,200,Petrol,2,Good,25200
+Bajaj,Pulsar NS200,2015,110276,200,Petrol,4,Good,22400
+Suzuki,Burgman Street,2022,18505,125,Petrol,1,Good,61100
+Hero,HF Deluxe,2023,27289,97,Petrol,2,Poor,31900
+Honda,Unicorn,2015,59881,160,Petrol,1,Good,33300
+TVS,Raider 125,2010,140000,125,Electric,3,Good,12000
+Yamaha,MT-15,2013,71635,155,Petrol,2,Good,34900
+Hero,Glamour,2020,50174,125,Petrol,2,Poor,24800
+KTM,Duke 200,2021,25628,200,Petrol,3,Good,89800
+Honda,Unicorn,2019,55618,160,Petrol,4,Fair,27000
+Honda,Activa 6G,2013,119693,110,Petrol,2,Excellent,14100
+Honda,Activa 6G,2020,60481,110,Petrol,1,Good,36400
+KTM,Duke 390,2022,16570,373,Petrol,1,Good,204000
+Bajaj,Dominar 400,2013,60103,373,Petrol,2,Excellent,55900
+TVS,Apache RTR 160,2022,13296,160,Petrol,2,Good,68900
+Bajaj,Pulsar 150,2014,53682,150,Petrol,4,Excellent,22700
+Hero,Glamour,2011,124255,125,Petrol,1,Excellent,15700
+Honda,Shine 125,2022,28376,125,Petrol,1,Good,61100
+Honda,Activa 6G,2021,23422,110,Petrol,2,Excellent,47200
+Hero,HF Deluxe,2024,9255,97,Petrol,1,Good,50900
+TVS,Jupiter,2022,44672,110,Petrol,1,Good,46300
+Yamaha,R15 V4,2022,46060,155,Petrol,1,Good,109600
+Hero,HF Deluxe,2016,51340,97,Petrol,2,Excellent,20800
+Royal Enfield,Classic 350,2016,93996,349,Petrol,1,Excellent,70000
+Royal Enfield,Continental GT 650,2011,138520,648,Petrol,3,Poor,26800
+Hero,Xpulse 200,2017,75729,200,Petrol,1,Good,53900
+Bajaj,Pulsar NS200,2020,40420,200,Petrol,3,Good,57300
+Royal Enfield,Continental GT 650,2016,58927,648,Petrol,3,Good,92100
+Suzuki,Gixxer 150,2018,62330,155,Petrol,2,Excellent,53200
+Honda,Hornet 2.0,2014,89505,184,Petrol,3,Good,27700
+Royal Enfield,Bullet 350,2017,40401,349,Petrol,1,Good,80500
+TVS,Apache RTR 160,2021,39797,160,Petrol,1,Good,67000
+Yamaha,R15 V4,2020,42442,155,Petrol,1,Good,95000
+Hero,Xpulse 200,2019,42954,200,Petrol,1,Good,71800
+Bajaj,Platina 100,2016,74805,102,Petrol,1,Good,19700
+Royal Enfield,Hunter 350,2014,126995,349,Petrol,3,Good,28000
+Honda,Shine 125,2016,78161,125,Petrol,1,Good,25600
+KTM,Duke 390,2023,23950,373,Petrol,1,Good,229300
+Bajaj,Platina 100,2023,32109,102,Petrol,1,Good,45300
+TVS,Jupiter,2017,48292,110,Petrol,1,Good,28400
+Hero,Glamour,2024,5778,125,Petrol,2,Excellent,74100
+Yamaha,MT-15,2017,47816,155,Petrol,2,Excellent,57400
+Bajaj,Pulsar NS200,2011,76379,200,Petrol,2,Good,24900
+Bajaj,Avenger 220,2024,8281,220,Petrol,1,Poor,79500
+Hero,HF Deluxe,2020,35786,97,Petrol,1,Good,34600
+Bajaj,Platina 100,2017,94140,102,Petrol,1,Good,21800
+Yamaha,Aerox 155,2022,18990,155,Petrol,2,Poor,54100
+Royal Enfield,Classic 350,2022,35836,349,Petrol,1,Good,151800
+TVS,Jupiter,2023,35209,110,Petrol,1,Good,50300
+Bajaj,Dominar 400,2022,23879,373,Petrol,1,Good,139800
+Hero,Splendor Plus,2019,58035,97,Petrol,1,Excellent,36900
+Honda,Activa 6G,2011,111920,110,Petrol,3,Good,12000
+Hero,Xpulse 200,2021,32460,200,Petrol,3,Excellent,64900
+Hero,HF Deluxe,2022,36627,97,Petrol,1,Excellent,46700
+TVS,XL 100,2019,75605,100,Petrol,2,Excellent,18600
+Honda,Hornet 2.0,2015,101422,184,Petrol,2,Poor,22000
+Honda,Shine 125,2021,51243,125,Petrol,2,Fair,32800
+Bajaj,Platina 100,2015,107278,102,Electric,1,Good,15600
+TVS,XL 100,2020,60360,100,Petrol,1,Good,22200
+Royal Enfield,Classic 350,2023,22859,349,Petrol,1,Excellent,199000
+Suzuki,Access 125,2021,52762,124,Petrol,1,Excellent,46700
+Hero,Glamour,2021,39184,125,Petrol,1,Excellent,51900
+TVS,Apache RR 310,2011,88405,312,Petrol,1,Excellent,55400
+Honda,Activa 6G,2018,45888,110,Petrol,1,Excellent,36500
+Honda,Shine 125,2022,31675,125,Petrol,1,Good,57100
+TVS,XL 100,2014,93701,100,Petrol,2,Fair,12000
+TVS,Raider 125,2021,28508,125,Petrol,2,Excellent,51100
+Bajaj,Pulsar 150,2022,17255,150,Petrol,1,Excellent,79300
+Hero,Xpulse 200,2020,53256,200,Petrol,1,Good,75500
+Hero,HF Deluxe,2022,18279,97,Petrol,1,Excellent,47300
+TVS,Raider 125,2019,41579,125,Petrol,2,Good,38800
+Hero,Passion Pro,2023,21447,113,Petrol,1,Good,59400
+Hero,Xpulse 200,2014,84596,200,Petrol,2,Excellent,35900
+Bajaj,Platina 100,2017,57732,102,Petrol,2,Good,20800
+Hero,HF Deluxe,2015,104618,97,Petrol,2,Good,14800
+Suzuki,Burgman Street,2018,87376,125,Petrol,2,Excellent,33400
+Hero,Glamour,2023,17857,125,Petrol,1,Fair,51100
+Hero,Passion Pro,2019,49339,113,Petrol,2,Excellent,34900
+Honda,Shine 125,2019,60567,125,Petrol,1,Good,37600
+Yamaha,MT-15,2015,48258,155,Petrol,1,Excellent,55300
+Honda,Unicorn,2017,56739,160,Petrol,1,Good,42300
+Bajaj,Pulsar 150,2023,19131,150,Petrol,2,Excellent,80200
+Hero,Xpulse 200,2020,52087,200,Petrol,1,Good,72100
+Yamaha,Aerox 155,2017,40710,155,Petrol,3,Good,45700
+Hero,Splendor Plus,2015,86483,97,Petrol,2,Good,17500
+Suzuki,Burgman Street,2023,20652,125,Petrol,1,Poor,46400
+TVS,Apache RTR 160,2015,52842,160,Petrol,2,Excellent,35900
+Hero,Glamour,2014,53587,125,Petrol,2,Good,19600
+Royal Enfield,Classic 350,2012,74517,349,Petrol,1,Excellent,56600
+Honda,Dio,2021,33057,110,Petrol,1,Good,44700
+Bajaj,Pulsar 150,2024,16381,150,Petrol,1,Excellent,96400
+Bajaj,Dominar 400,2020,55714,373,Petrol,1,Excellent,126900
+Bajaj,Dominar 400,2012,109358,373,Petrol,1,Fair,32300
+Honda,Hornet 2.0,2022,10278,184,Petrol,1,Excellent,104200
+Suzuki,Gixxer 150,2021,33221,155,Petrol,1,Good,79500
+TVS,Apache RR 310,2017,87058,312,Petrol,2,Poor,53400
+Hero,Passion Pro,2013,112419,113,Petrol,1,Good,15700
+Bajaj,Platina 100,2021,40377,102,Petrol,2,Good,32700
+TVS,Jupiter,2016,81073,110,Petrol,1,Good,24700
+TVS,Apache RTR 160,2022,35996,160,Petrol,2,Fair,55800
+Suzuki,Gixxer 150,2019,55311,155,Petrol,1,Excellent,64600
+Honda,Unicorn,2021,50860,160,Petrol,1,Good,62900
+Suzuki,Gixxer 150,2020,32397,155,Petrol,1,Good,74600
+Hero,Glamour,2019,31798,125,Petrol,1,Good,43000
+Hero,Xpulse 200,2015,73263,200,Petrol,1,Excellent,48100
+Hero,HF Deluxe,2012,65972,97,Petrol,2,Excellent,13100
+TVS,Apache RR 310,2018,39694,312,Petrol,2,Good,95400
+Hero,Xpulse 200,2019,37460,200,Petrol,2,Poor,45100
+Hero,Xpulse 200,2020,32992,200,Petrol,1,Good,76600
+Royal Enfield,Bullet 350,2019,38339,349,Petrol,3,Good,69400
+Royal Enfield,Hunter 350,2017,97099,349,Petrol,3,Excellent,49900
+Bajaj,Avenger 220,2021,45383,220,Petrol,1,Good,74800
+Bajaj,Pulsar 150,2011,91104,150,Petrol,2,Excellent,18500
+Royal Enfield,Continental GT 650,2023,12450,648,Petrol,3,Excellent,230700
+Royal Enfield,Hunter 350,2016,98080,349,Petrol,2,Good,47800
+Bajaj,Dominar 400,2018,76941,373,Petrol,3,Excellent,73100
+Hero,Glamour,2021,25041,125,Petrol,1,Good,51400
+Yamaha,FZ-S FI,2023,9630,149,Petrol,1,Excellent,93300
+Yamaha,FZ-S FI,2020,47842,149,Petrol,2,Good,51600
+Honda,Hornet 2.0,2021,45639,184,Petrol,1,Excellent,85000
+Hero,Passion Pro,2020,32222,113,Petrol,1,Good,45500
+TVS,XL 100,2014,114277,100,Petrol,2,Fair,12000
+Hero,Xpulse 200,2016,67633,200,Petrol,2,Excellent,46800
+KTM,Duke 200,2018,46524,200,Petrol,2,Good,66700
+Bajaj,Pulsar NS200,2014,117433,200,Petrol,2,Excellent,29700
+Yamaha,Aerox 155,2013,103728,155,Petrol,1,Excellent,32100
+TVS,Raider 125,2023,24011,125,Petrol,1,Fair,57300
+Royal Enfield,Hunter 350,2020,32241,349,Petrol,3,Excellent,83600
+TVS,Raider 125,2020,58072,125,Petrol,1,Good,43200
+Yamaha,MT-15,2014,117707,155,Petrol,1,Good,36200
+Bajaj,Pulsar NS200,2019,68420,200,Petrol,1,Excellent,69200
+Bajaj,Pulsar 150,2010,120728,150,Petrol,1,Excellent,17300
+Bajaj,Pulsar NS200,2019,61373,200,Petrol,3,Good,48900
+TVS,Raider 125,2023,29036,125,Petrol,1,Good,68100
+Honda,Hornet 2.0,2018,46125,184,Petrol,2,Poor,37100
+Honda,Unicorn,2020,52562,160,Petrol,1,Fair,46200
+Hero,HF Deluxe,2020,37984,97,Petrol,2,Fair,26100
+TVS,Apache RR 310,2019,44451,312,Petrol,1,Fair,113200
+Bajaj,Dominar 400,2011,101004,373,Petrol,1,Good,40300
+TVS,XL 100,2023,22697,100,Petrol,1,Fair,28200
+Hero,Glamour,2015,96669,125,Petrol,1,Good,21500
+TVS,Apache RR 310,2018,84248,312,Petrol,2,Good,85500
+Hero,HF Deluxe,2017,65674,97,Petrol,3,Good,16700
+TVS,Apache RR 310,2021,38872,312,Petrol,1,Excellent,171300
+KTM,Duke 390,2013,56627,373,Petrol,2,Good,65200
+Bajaj,Platina 100,2022,15428,102,Petrol,1,Excellent,49500
+Honda,Hornet 2.0,2022,42506,184,Petrol,1,Fair,73200
+Bajaj,Platina 100,2024,11514,102,Petrol,1,Fair,48300
+Royal Enfield,Himalayan 450,2015,43664,452,Petrol,2,Good,85900
+Honda,Activa 6G,2012,136531,110,Petrol,2,Excellent,13100
+Hero,Xpulse 200,2016,90040,200,Petrol,3,Poor,22000
+TVS,Raider 125,2012,94965,125,Petrol,2,Excellent,17700
+Bajaj,Dominar 400,2017,34779,373,Petrol,1,Fair,79400
+Hero,Passion Pro,2018,44626,113,Petrol,1,Good,36700
+TVS,Jupiter,2020,54291,110,Petrol,1,Fair,32800
+Honda,Unicorn,2024,21128,160,Petrol,1,Excellent,99600
+Royal Enfield,Continental GT 650,2019,52800,648,Petrol,2,Good,150400
+Yamaha,R15 V4,2021,54562,155,Petrol,1,Good,94100
+Honda,Unicorn,2021,47093,160,Petrol,2,Excellent,56400
+Hero,Splendor Plus,2014,85532,97,Petrol,2,Excellent,19600
+Honda,Unicorn,2012,111757,160,Petrol,1,Excellent,21800
+Hero,Xpulse 200,2020,54571,200,Petrol,1,Good,71800
+TVS,Apache RTR 160,2010,95253,160,Petrol,1,Good,18700
+Hero,Splendor Plus,2023,17158,97,Petrol,1,Good,55500
+Royal Enfield,Hunter 350,2020,54183,349,Petrol,3,Good,71400
+Hero,HF Deluxe,2021,43161,97,Petrol,2,Good,32700
+Honda,Hornet 2.0,2017,93805,184,Petrol,3,Good,31200
+TVS,Apache RTR 160,2023,19568,160,Petrol,1,Excellent,91700
+Bajaj,Platina 100,2023,27983,102,Petrol,2,Excellent,46200
+Hero,HF Deluxe,2018,37923,97,Petrol,1,Good,27900
+TVS,Raider 125,2022,35845,125,Petrol,1,Fair,54800
+Bajaj,Avenger 220,2015,60203,220,Petrol,2,Excellent,40400
+Hero,HF Deluxe,2018,72966,97,Petrol,4,Good,16500
+Bajaj,Pulsar 150,2024,20536,150,Petrol,1,Good,84600
+Royal Enfield,Bullet 350,2017,38631,349,Petrol,3,Good,56900
+Honda,Dio,2024,16324,110,Petrol,1,Poor,41300
+TVS,Raider 125,2019,28315,125,Petrol,2,Excellent,43900
+Royal Enfield,Hunter 350,2015,100746,349,Petrol,2,Fair,34900
+Royal Enfield,Hunter 350,2021,44050,349,Petrol,1,Fair,87000
+Honda,Activa 6G,2017,90669,110,Petrol,1,Excellent,30500
+Hero,HF Deluxe,2015,107956,97,Petrol,2,Fair,12000
+Yamaha,MT-15,2019,50739,155,Petrol,3,Fair,48600
+TVS,Jupiter,2017,33082,110,Petrol,3,Excellent,26100
+Yamaha,MT-15,2014,122150,155,Petrol,1,Excellent,38200
+Hero,Splendor Plus,2024,9116,97,Petrol,1,Good,65900
+TVS,Apache RTR 160,2020,42753,160,Petrol,1,Excellent,62000
+Yamaha,FZ-S FI,2010,95063,149,Petrol,1,Poor,14000
+Hero,Splendor Plus,2021,15073,97,Petrol,1,Fair,41500
+Bajaj,Platina 100,2011,140000,102,Petrol,1,Good,12000
+Honda,Unicorn,2022,21315,160,Petrol,1,Excellent,80100
+Hero,Glamour,2018,57790,125,Petrol,2,Poor,20300
+Hero,Glamour,2019,48037,125,Petrol,2,Good,32200
+Hero,Splendor Plus,2021,35377,97,Petrol,1,Fair,36900
+TVS,Raider 125,2019,69130,125,Petrol,2,Good,34400
+Suzuki,Access 125,2022,26670,124,Petrol,1,Good,50900
+Royal Enfield,Hunter 350,2023,42115,349,Petrol,2,Good,115200
+Bajaj,Pulsar NS200,2016,63184,200,Petrol,1,Good,45100
+Bajaj,Avenger 220,2021,32296,220,Petrol,1,Excellent,82000
+TVS,XL 100,2017,65019,100,Petrol,1,Good,18300
+Bajaj,Platina 100,2023,11279,102,Petrol,2,Excellent,49400
+Royal Enfield,Continental GT 650,2018,50038,648,Petrol,2,Good,130800
+Hero,Xpulse 200,2023,15887,200,Petrol,2,Good,91700
+Bajaj,Pulsar NS200,2017,55600,200,Petrol,2,Good,48200
+Bajaj,Pulsar 150,2017,91068,150,Petrol,3,Fair,22900
+TVS,Jupiter,2010,140000,110,Petrol,4,Excellent,12000
+Honda,Activa 6G,2020,35483,110,Petrol,1,Fair,33900
+Royal Enfield,Himalayan 450,2019,45374,452,Petrol,3,Fair,93400
+TVS,Raider 125,2022,17062,125,Petrol,2,Good,51100
+Honda,Hornet 2.0,2024,8826,184,Petrol,1,Good,114300
+Hero,HF Deluxe,2022,18008,97,Petrol,1,Good,43900
+Hero,HF Deluxe,2017,66857,97,Petrol,2,Poor,13900
+Bajaj,Pulsar 150,2022,33820,150,Petrol,1,Good,68500
+Honda,Activa 6G,2016,54137,110,Petrol,3,Good,19600
+Royal Enfield,Continental GT 650,2011,100835,648,Petrol,1,Fair,52800
+Yamaha,Aerox 155,2022,45208,155,Petrol,1,Good,94000
+Bajaj,Platina 100,2020,42281,102,Petrol,1,Poor,23900
+TVS,Apache RTR 160,2016,45906,160,Petrol,4,Excellent,28700
+Royal Enfield,Bullet 350,2012,65524,349,Petrol,1,Fair,39400
+Hero,HF Deluxe,2013,62756,97,Petrol,2,Excellent,16400
+Suzuki,Access 125,2012,83648,124,Petrol,2,Excellent,16800
+Royal Enfield,Classic 350,2018,57205,349,Petrol,2,Fair,72500
+Royal Enfield,Continental GT 650,2011,85513,648,Petrol,2,Good,59000
+Bajaj,Pulsar NS200,2022,23328,200,Petrol,2,Excellent,90200
+Suzuki,Gixxer 150,2017,68612,155,Petrol,1,Excellent,48700
+TVS,XL 100,2018,75256,100,Petrol,1,Good,18400
+Bajaj,Dominar 400,2013,99258,373,Petrol,1,Good,48100
+Bajaj,Pulsar NS200,2016,38956,200,Petrol,2,Good,45100
+Bajaj,Pulsar 150,2016,86891,150,Petrol,2,Excellent,31100
+Hero,Glamour,2017,59247,125,Petrol,1,Fair,26900
+Hero,Glamour,2022,29219,125,Petrol,3,Excellent,46000
+Hero,Glamour,2017,57922,125,Petrol,1,Fair,27900
+Royal Enfield,Himalayan 450,2021,35279,452,Petrol,1,Good,176700
+Bajaj,Pulsar 150,2022,34573,150,Petrol,1,Good,71200
+Bajaj,Pulsar 150,2019,43969,150,Petrol,1,Good,48800
+Hero,HF Deluxe,2013,140000,97,Petrol,4,Good,12000
+Honda,Dio,2019,26243,110,Petrol,3,Excellent,31800
+TVS,Apache RR 310,2020,29888,312,Petrol,1,Good,135500
+Royal Enfield,Continental GT 650,2018,52935,648,Petrol,1,Good,151000
+Hero,Splendor Plus,2016,106540,97,Petrol,1,Good,20600
+Suzuki,Gixxer 150,2020,61574,155,Petrol,2,Good,52500
+Royal Enfield,Himalayan 450,2021,48427,452,Petrol,1,Good,163300
+TVS,Apache RR 310,2021,49423,312,Petrol,2,Good,133200
+Honda,Hornet 2.0,2017,41259,184,Petrol,2,Fair,40300
+Bajaj,Dominar 400,2020,34246,373,Petrol,1,Poor,84200
+Royal Enfield,Hunter 350,2019,53514,349,Petrol,2,Fair,61100
+Suzuki,Access 125,2012,78476,124,Petrol,1,Excellent,19400
+Hero,HF Deluxe,2022,42359,97,Petrol,1,Good,40900
+Hero,HF Deluxe,2019,51600,97,Petrol,2,Excellent,29700
+TVS,Raider 125,2018,75484,125,Electric,2,Fair,27100
+Hero,Xpulse 200,2020,51821,200,Petrol,2,Good,62300
+Hero,Splendor Plus,2022,25859,97,Petrol,1,Fair,39500
+Bajaj,Platina 100,2011,138332,102,Petrol,3,Excellent,12000
+KTM,RC 200,2014,115597,200,Petrol,1,Good,45900
+TVS,Jupiter,2018,48102,110,Petrol,2,Fair,23600
+Hero,HF Deluxe,2018,65028,97,Petrol,1,Excellent,26600
+Hero,Xpulse 200,2024,6447,200,Petrol,1,Good,123300
+Honda,Unicorn,2021,27826,160,Petrol,2,Good,61300
+Bajaj,Dominar 400,2015,50578,373,Petrol,2,Fair,52000
+TVS,Raider 125,2012,121799,125,Petrol,1,Good,17100
+Bajaj,Avenger 220,2018,53764,220,Petrol,2,Fair,41600
+Honda,Activa 6G,2013,76776,110,Petrol,3,Fair,12300
+Hero,Splendor Plus,2013,56277,97,Petrol,3,Poor,12000
+TVS,Jupiter,2018,67181,110,Petrol,1,Excellent,32100
+Hero,Passion Pro,2018,81962,113,Petrol,2,Excellent,28500
+Hero,HF Deluxe,2016,114600,97,Petrol,1,Excellent,19700
+Yamaha,Aerox 155,2019,67132,155,Petrol,2,Poor,36800
+Bajaj,Pulsar 150,2020,55760,150,Petrol,1,Good,54900
+TVS,Jupiter,2019,78642,110,Petrol,1,Excellent,35000
+Hero,Passion Pro,2020,56338,113,Petrol,1,Good,38900
+TVS,XL 100,2017,97642,100,Petrol,1,Fair,12500
+TVS,Raider 125,2012,121154,125,Petrol,1,Fair,13200
+Royal Enfield,Classic 350,2020,17345,349,Petrol,1,Excellent,154000
+Honda,Shine 125,2017,77989,125,Petrol,2,Excellent,28500
+Honda,Activa 6G,2020,28378,110,Petrol,1,Fair,37700
+TVS,Raider 125,2020,24183,125,Petrol,1,Fair,44500
+Yamaha,FZ-S FI,2025,9927,149,Petrol,1,Good,113800
+Hero,Glamour,2021,42856,125,Petrol,1,Poor,35500
+Honda,Hornet 2.0,2020,49943,184,Petrol,1,Good,72200
+Honda,Activa 6G,2017,46393,110,Petrol,1,Good,30600
+Bajaj,Platina 100,2018,56530,102,Petrol,4,Excellent,18500
+TVS,Apache RR 310,2023,12174,312,Petrol,1,Fair,171700
+TVS,Jupiter,2020,42388,110,Petrol,1,Good,37900
+Honda,Hornet 2.0,2018,30142,184,Petrol,3,Excellent,50900
+Bajaj,Avenger 220,2019,45479,220,Petrol,1,Excellent,65800
+Hero,Splendor Plus,2021,47274,97,Petrol,1,Fair,37500
+Honda,Dio,2017,47727,110,Petrol,3,Fair,17900
+Hero,Splendor Plus,2014,79681,97,Petrol,2,Excellent,17900
+TVS,Apache RTR 160,2017,86970,160,Electric,1,Poor,27200
+Hero,Xpulse 200,2022,29866,200,Petrol,2,Poor,55300
+Hero,Xpulse 200,2015,78009,200,Petrol,2,Fair,30900
+Suzuki,Access 125,2018,74996,124,Petrol,2,Good,26400
+TVS,Apache RR 310,2017,73421,312,Petrol,2,Fair,69300
+TVS,Apache RTR 160,2012,95964,160,Petrol,1,Fair,19700
+Royal Enfield,Classic 350,2012,140000,349,Petrol,2,Good,32200
+Honda,Unicorn,2023,34562,160,Petrol,1,Poor,54100
+Royal Enfield,Continental GT 650,2019,31803,648,Petrol,1,Good,184800
+KTM,Duke 200,2018,61321,200,Petrol,1,Good,83800
+Hero,HF Deluxe,2016,43740,97,Petrol,2,Excellent,21000
+Bajaj,Avenger 220,2011,136455,220,Petrol,1,Excellent,22600
+Bajaj,Avenger 220,2022,36884,220,Petrol,1,Fair,74700
+Bajaj,Pulsar 150,2015,47742,150,Petrol,2,Good,28600
+TVS,XL 100,2012,62470,100,Petrol,3,Excellent,12000
+Honda,Activa 6G,2022,43030,110,Petrol,1,Excellent,55800
+Honda,Shine 125,2019,34139,125,Petrol,3,Poor,19900
+Honda,Dio,2022,24088,110,Petrol,1,Good,48900
+Suzuki,Access 125,2018,79711,124,Petrol,1,Excellent,29700
+Royal Enfield,Bullet 350,2015,74229,349,Petrol,1,Excellent,58400
+Bajaj,Dominar 400,2013,69454,373,Petrol,1,Excellent,60200
+TVS,Apache RTR 160,2020,40575,160,Petrol,1,Good,64000
+Honda,Hornet 2.0,2020,53151,184,Petrol,1,Poor,48600
+Hero,HF Deluxe,2024,16707,97,Petrol,1,Good,55900
+Yamaha,Aerox 155,2014,100545,155,Petrol,2,Excellent,33600
+Honda,Dio,2018,54976,110,Petrol,1,Excellent,32700
+Bajaj,Avenger 220,2023,26384,220,Petrol,2,Fair,78100
+Honda,Shine 125,2019,45600,125,Petrol,2,Good,37600
+KTM,RC 200,2017,58553,200,Petrol,1,Good,79700
+Hero,Passion Pro,2022,31561,113,Petrol,1,Good,51000
+TVS,Jupiter,2017,85503,110,Petrol,3,Poor,12700
+Hero,Xpulse 200,2022,28515,200,Petrol,1,Good,94100
+Hero,Glamour,2022,39707,125,Petrol,1,Excellent,60800
+Hero,Passion Pro,2023,21914,113,Petrol,1,Good,57400
+Hero,Xpulse 200,2017,68151,200,Petrol,2,Excellent,50600
+Hero,HF Deluxe,2021,25086,97,Petrol,1,Excellent,43000
+KTM,Duke 390,2019,55397,373,Petrol,1,Good,134800
+Suzuki,Access 125,2014,89104,124,Petrol,2,Excellent,19100
+Hero,Xpulse 200,2020,48708,200,Petrol,1,Good,74000
+Bajaj,Platina 100,2022,45514,102,Petrol,1,Good,38500
+Hero,HF Deluxe,2017,81355,97,Petrol,1,Good,19500
+Hero,Glamour,2022,21222,125,Petrol,1,Fair,49100
+TVS,XL 100,2015,104754,100,Petrol,2,Good,12000
+Suzuki,Burgman Street,2023,23852,125,Petrol,1,Fair,58500
+Royal Enfield,Classic 350,2020,54706,349,Petrol,1,Excellent,124000
+Honda,Activa 6G,2018,88796,110,Petrol,2,Good,26200
+TVS,Apache RR 310,2023,27478,312,Petrol,1,Good,200500
+Royal Enfield,Himalayan 450,2016,40414,452,Petrol,1,Poor,70800
+Hero,Xpulse 200,2021,21236,200,Petrol,2,Poor,55900
+Honda,Dio,2024,11712,110,Petrol,1,Poor,45400
+Bajaj,Pulsar 150,2018,75006,150,Petrol,2,Good,34900
+Hero,Splendor Plus,2022,20909,97,Petrol,1,Good,47600
+Yamaha,FZ-S FI,2014,122869,149,Petrol,2,Good,22100
+Royal Enfield,Continental GT 650,2019,41913,648,Petrol,2,Good,147700
+Hero,Xpulse 200,2021,53585,200,Petrol,1,Good,85500
+KTM,RC 200,2014,90715,200,Petrol,1,Good,46300
+KTM,RC 200,2016,46286,200,Petrol,4,Good,43200
+TVS,Raider 125,2021,34702,125,Petrol,2,Good,49900
+Honda,Shine 125,2020,53551,125,Petrol,1,Fair,35000
+Honda,Unicorn,2022,43576,160,Petrol,1,Good,68400
+Bajaj,Platina 100,2021,27803,102,Petrol,2,Excellent,36200
+TVS,Apache RTR 160,2020,36585,160,Petrol,1,Good,57500
+Royal Enfield,Classic 350,2024,25239,349,Petrol,1,Excellent,195600
+Yamaha,R15 V4,2020,49247,155,Petrol,1,Good,89800
+TVS,Jupiter,2021,46082,110,Petrol,1,Good,42200
+Hero,HF Deluxe,2021,40191,97,Petrol,1,Good,39200
+Hero,HF Deluxe,2020,34916,97,Petrol,1,Poor,23100
+Hero,Passion Pro,2020,44447,113,Petrol,1,Excellent,41400
+Hero,Passion Pro,2011,119551,113,Petrol,1,Good,12400
+Royal Enfield,Himalayan 450,2013,134107,452,Petrol,1,Poor,37400
+TVS,Apache RR 310,2019,35039,312,Petrol,2,Fair,96700
+Hero,Passion Pro,2019,30908,113,Petrol,1,Good,39900
+Suzuki,Access 125,2011,112402,124,Petrol,1,Fair,12000
+Bajaj,Pulsar 150,2021,56904,150,Petrol,1,Poor,40100
+Hero,HF Deluxe,2012,111785,97,Petrol,4,Fair,12000
+Bajaj,Pulsar 150,2021,40694,150,Electric,1,Good,60100
+Bajaj,Pulsar 150,2016,53851,150,Petrol,1,Good,36100
+Bajaj,Dominar 400,2012,140000,373,Petrol,2,Excellent,35400
+Bajaj,Pulsar NS200,2019,65018,200,Petrol,1,Fair,52600
+TVS,Raider 125,2012,140000,125,Petrol,3,Good,12000
+Royal Enfield,Hunter 350,2016,69646,349,Petrol,2,Excellent,57000
+Hero,Glamour,2022,13080,125,Petrol,1,Good,58300
+Bajaj,Dominar 400,2021,40453,373,Petrol,2,Excellent,122700
+Honda,Dio,2023,21401,110,Petrol,2,Good,46700
+Suzuki,Gixxer 150,2023,32534,155,Petrol,1,Excellent,101200
+Yamaha,FZ-S FI,2018,66826,149,Petrol,1,Excellent,52300
+TVS,XL 100,2019,36700,100,Petrol,2,Poor,13600
+Honda,Dio,2019,72007,110,Petrol,1,Excellent,34500
+Bajaj,Avenger 220,2016,105653,220,Petrol,1,Poor,25000
+TVS,Apache RTR 160,2017,45416,160,Petrol,1,Good,43800
+Royal Enfield,Bullet 350,2023,17818,349,Petrol,2,Fair,120400
+Honda,Activa 6G,2013,113228,110,Petrol,1,Good,15400
+Bajaj,Dominar 400,2021,51647,373,Petrol,1,Good,123400
+Hero,HF Deluxe,2018,50915,97,Petrol,2,Good,22300
+Honda,Dio,2022,21632,110,Petrol,1,Poor,36300
+Royal Enfield,Hunter 350,2022,33995,349,Petrol,3,Excellent,93500
+Honda,Hornet 2.0,2019,63497,184,Petrol,1,Excellent,69100
+KTM,Duke 390,2014,86262,373,Petrol,2,Fair,57600
+Hero,Glamour,2021,22774,125,Petrol,3,Fair,35600
+Honda,Dio,2018,77578,110,Petrol,2,Excellent,29000
+Royal Enfield,Himalayan 450,2013,67802,452,Petrol,1,Good,78100
+TVS,Apache RTR 160,2010,140000,160,Petrol,1,Good,15200
+Hero,Glamour,2011,124267,125,Petrol,1,Good,12900
+Hero,Xpulse 200,2016,89150,200,Petrol,1,Good,41000
+Bajaj,Dominar 400,2014,55512,373,Petrol,1,Excellent,71700
+Royal Enfield,Continental GT 650,2015,119621,648,Petrol,1,Excellent,101000
+Bajaj,Platina 100,2021,57639,102,Petrol,1,Excellent,36300
+TVS,Jupiter,2012,68334,110,Petrol,1,Excellent,17100
+TVS,Raider 125,2014,79444,125,Petrol,2,Excellent,22300
+Suzuki,Gixxer 150,2015,84759,155,Petrol,1,Good,35200
+TVS,Apache RTR 160,2015,41791,160,Petrol,1,Fair,32600
+Honda,Dio,2019,77589,110,Petrol,1,Fair,27200
+Hero,Passion Pro,2020,42322,113,Petrol,1,Fair,34800
+Honda,Activa 6G,2011,84461,110,Petrol,1,Poor,12000
+Royal Enfield,Himalayan 450,2020,46453,452,Petrol,1,Excellent,179600
+Royal Enfield,Continental GT 650,2022,30680,648,Petrol,1,Good,248000
+Honda,Shine 125,2021,48393,125,Petrol,1,Good,50100
+KTM,Duke 200,2020,31698,200,Petrol,1,Good,105900
+TVS,XL 100,2022,20003,100,Petrol,2,Good,25500
+Yamaha,FZ-S FI,2016,94733,149,Petrol,1,Good,33800
+Bajaj,Pulsar NS200,2014,102683,200,Petrol,1,Good,33200
+Honda,Hornet 2.0,2024,19042,184,Petrol,1,Good,104800
+Bajaj,Dominar 400,2020,44963,373,Petrol,2,Good,109600
+Honda,Unicorn,2020,53909,160,Petrol,2,Excellent,52200
+Bajaj,Pulsar 150,2012,133844,150,Petrol,1,Excellent,19500
+TVS,Raider 125,2020,59099,125,Petrol,1,Good,43300
+Bajaj,Avenger 220,2013,60732,220,Petrol,2,Fair,24100
+Bajaj,Avenger 220,2017,88018,220,Petrol,2,Excellent,43400
+Honda,Dio,2018,38439,110,Petrol,3,Good,25000
+Bajaj,Dominar 400,2022,35334,373,Petrol,1,Good,146700
+Bajaj,Platina 100,2019,75489,102,Petrol,1,Excellent,30500
+Bajaj,Pulsar NS200,2017,65091,200,Petrol,1,Fair,43500
+Bajaj,Avenger 220,2015,89000,220,Petrol,1,Good,39000
+KTM,Duke 200,2015,62947,200,Petrol,1,Fair,48900
+TVS,XL 100,2021,40182,100,Petrol,1,Good,27000
+Honda,Hornet 2.0,2019,57612,184,Petrol,1,Good,64700
+Hero,HF Deluxe,2019,40480,97,Petrol,1,Poor,20500
+Honda,Dio,2010,140000,110,Petrol,1,Fair,12000
+Hero,HF Deluxe,2018,34517,97,Petrol,4,Fair,15500
+TVS,Apache RTR 160,2011,76302,160,Petrol,2,Good,20400
+Suzuki,Gixxer 150,2019,75647,155,Petrol,2,Fair,41500
+Bajaj,Pulsar 150,2023,17608,150,Petrol,1,Fair,72400
+Honda,Hornet 2.0,2011,98006,184,Petrol,3,Good,19900
+Honda,Shine 125,2021,29481,125,Petrol,2,Poor,30000
+Hero,Glamour,2024,8768,125,Petrol,1,Excellent,82800
+Royal Enfield,Classic 350,2021,58290,349,Petrol,2,Good,108600
+Royal Enfield,Classic 350,2010,69865,349,Petrol,2,Fair,29700
+Hero,Xpulse 200,2016,76827,200,Petrol,2,Good,39600
+Bajaj,Dominar 400,2017,100784,373,Petrol,2,Good,64500
+Bajaj,Pulsar 150,2014,64485,150,Petrol,1,Good,28800
+Honda,Hornet 2.0,2021,37865,184,Petrol,1,Good,82500
+Hero,HF Deluxe,2014,76959,97,Petrol,1,Excellent,18300
+Honda,Activa 6G,2018,71206,110,Petrol,1,Good,31000
+Royal Enfield,Bullet 350,2013,124883,349,Petrol,1,Poor,26900
+Bajaj,Dominar 400,2021,38408,373,Petrol,1,Fair,107000
+Honda,Dio,2016,74653,110,Petrol,2,Good,21700
+Honda,Activa 6G,2015,55725,110,Petrol,1,Good,24400
+Honda,Activa 6G,2021,32461,110,Petrol,2,Fair,34100
+Hero,HF Deluxe,2020,49827,97,Petrol,1,Poor,23600
+Suzuki,Access 125,2021,25986,124,Petrol,2,Fair,35000
+Hero,Passion Pro,2016,107204,113,Petrol,4,Excellent,15600
+Royal Enfield,Classic 350,2022,29403,349,Petrol,1,Fair,122600
+TVS,XL 100,2024,9353,100,Petrol,1,Good,39700
+Bajaj,Platina 100,2021,43504,102,Petrol,2,Good,34600
+Bajaj,Pulsar 150,2019,39239,150,Petrol,1,Excellent,57000
+Bajaj,Pulsar NS200,2017,39215,200,Petrol,3,Good,42100
+Honda,Dio,2024,11583,110,Petrol,1,Good,66200
+Yamaha,Aerox 155,2021,27195,155,Petrol,3,Fair,53800
+Hero,Glamour,2020,37057,125,Petrol,1,Good,46000
+Hero,Xpulse 200,2012,119190,200,Petrol,1,Excellent,28600
+Bajaj,Pulsar 150,2022,15974,150,Petrol,1,Good,72000
+TVS,Apache RR 310,2013,119074,312,Petrol,1,Good,54600
+Bajaj,Pulsar NS200,2019,71326,200,Petrol,1,Good,59800
+Hero,HF Deluxe,2014,78527,97,Petrol,1,Good,16700
+TVS,XL 100,2015,63267,100,Petrol,1,Fair,12100
+TVS,XL 100,2017,49133,100,Petrol,4,Excellent,13800
+Bajaj,Platina 100,2022,37743,102,Petrol,1,Excellent,48400
+Hero,HF Deluxe,2021,42541,97,Petrol,2,Excellent,34500
+TVS,Apache RTR 160,2018,76056,160,Petrol,1,Fair,37500
+Bajaj,Platina 100,2019,27995,102,Electric,4,Good,21400
+Royal Enfield,Bullet 350,2020,27318,349,Petrol,3,Excellent,90400
+Bajaj,Avenger 220,2020,50960,220,Petrol,1,Excellent,75700
+Honda,Unicorn,2019,65626,160,Petrol,1,Excellent,50500
+Yamaha,R15 V4,2020,45828,155,Petrol,1,Poor,60700
+Hero,Xpulse 200,2017,103508,200,Petrol,1,Excellent,48300
+TVS,Raider 125,2020,57416,125,Petrol,2,Good,40200
+Bajaj,Pulsar 150,2016,49633,150,Petrol,3,Good,28700
+Hero,Passion Pro,2021,19721,113,Petrol,1,Excellent,50500
+Bajaj,Pulsar 150,2015,87976,150,Petrol,2,Good,27000
+TVS,Jupiter,2016,42821,110,Petrol,1,Excellent,30000
+Suzuki,Burgman Street,2016,83039,125,Petrol,1,Poor,19500
+Bajaj,Pulsar NS200,2022,32486,200,Petrol,2,Poor,53300
+TVS,Apache RTR 160,2019,44139,160,Petrol,1,Poor,35600
+Hero,Passion Pro,2019,41275,113,Petrol,1,Fair,32300
+Bajaj,Pulsar NS200,2023,30582,200,Petrol,1,Good,105100
+TVS,Jupiter,2011,121026,110,Electric,1,Fair,12000
+Hero,Xpulse 200,2024,3754,200,Petrol,1,Good,132400
+TVS,Raider 125,2013,78004,125,Petrol,1,Good,21700
+Hero,HF Deluxe,2020,55941,97,Petrol,1,Excellent,35200
+Suzuki,Burgman Street,2023,8493,125,Petrol,1,Excellent,73200
+Royal Enfield,Bullet 350,2020,34223,349,Petrol,1,Good,108000
+Suzuki,Burgman Street,2022,31453,125,Petrol,1,Good,60400
+TVS,Raider 125,2018,37084,125,Petrol,1,Good,40700
+Bajaj,Pulsar 150,2019,51081,150,Petrol,1,Fair,41800
+TVS,Jupiter,2021,17071,110,Petrol,2,Excellent,43800
+Honda,Activa 6G,2012,105222,110,Petrol,1,Fair,12000
+Royal Enfield,Himalayan 450,2023,30460,452,Petrol,2,Fair,170600
+Hero,Xpulse 200,2017,66201,200,Petrol,3,Good,41000
+Bajaj,Platina 100,2017,79155,102,Petrol,1,Good,22800
+Bajaj,Avenger 220,2017,38457,220,Petrol,2,Good,49500
+Honda,Shine 125,2022,44159,125,Petrol,1,Good,52000
+Hero,HF Deluxe,2023,30848,97,Petrol,1,Good,46600
+Suzuki,Gixxer 150,2023,34928,155,Petrol,1,Excellent,98500
+Bajaj,Avenger 220,2023,18065,220,Petrol,3,Excellent,88700
+Hero,Splendor Plus,2021,48592,97,Petrol,2,Good,37400
+Hero,HF Deluxe,2018,49585,97,Petrol,2,Good,22900
+Hero,Splendor Plus,2023,24847,97,Petrol,3,Good,41100
+Bajaj,Pulsar 150,2011,131431,150,Petrol,3,Fair,12000
+Honda,Shine 125,2016,60220,125,Petrol,1,Excellent,31100
+Suzuki,Gixxer 150,2021,43154,155,Petrol,1,Good,73900
+TVS,Raider 125,2025,7744,125,Petrol,1,Fair,70000
+TVS,Jupiter,2017,50913,110,Petrol,2,Fair,21600
+Honda,Dio,2019,26864,110,Petrol,3,Fair,23400
+Royal Enfield,Hunter 350,2018,45562,349,Petrol,1,Good,78200
+Hero,HF Deluxe,2021,52360,97,Petrol,1,Poor,24900
+Royal Enfield,Continental GT 650,2022,36428,648,Petrol,1,Excellent,263000
+Bajaj,Pulsar 150,2012,76733,150,Petrol,1,Fair,19600
+TVS,XL 100,2019,35006,100,Petrol,1,Excellent,25700
+TVS,Apache RR 310,2020,56229,312,Petrol,2,Excellent,127100
+Hero,Splendor Plus,2012,100407,97,Petrol,2,Poor,12000
+Bajaj,Dominar 400,2023,24053,373,Petrol,1,Excellent,161500
+Bajaj,Pulsar 150,2020,51466,150,Petrol,1,Excellent,62600
+Honda,Hornet 2.0,2023,29939,184,Petrol,1,Fair,85800
+Hero,Splendor Plus,2018,56522,97,Petrol,2,Good,28800
+Bajaj,Pulsar 150,2020,62951,150,Petrol,3,Poor,24400
+Royal Enfield,Classic 350,2020,22832,349,Petrol,1,Fair,110400
+Yamaha,Aerox 155,2023,23373,155,Petrol,3,Fair,65900
+Bajaj,Pulsar NS200,2014,79343,200,Petrol,1,Good,36200
+TVS,XL 100,2023,13565,100,Petrol,3,Poor,18400
+Honda,Unicorn,2010,138348,160,Petrol,2,Excellent,13900
+Honda,Hornet 2.0,2016,85456,184,Petrol,1,Good,40900
+Royal Enfield,Hunter 350,2019,55093,349,Petrol,1,Fair,73900
+Hero,Passion Pro,2018,54719,113,Petrol,2,Good,29700
+Hero,Glamour,2020,37150,125,Petrol,1,Poor,31400
+Royal Enfield,Hunter 350,2021,48543,349,Petrol,1,Fair,84800
+Royal Enfield,Hunter 350,2019,65500,349,Petrol,2,Good,70400
+Honda,Hornet 2.0,2018,81178,184,Petrol,1,Good,51100
+Hero,Splendor Plus,2020,36010,97,Petrol,1,Excellent,43100
+KTM,RC 200,2019,53754,200,Petrol,2,Poor,56900
+TVS,Apache RR 310,2012,140000,312,Petrol,1,Excellent,44900
+Honda,Activa 6G,2020,29939,110,Petrol,1,Good,39800
+Bajaj,Platina 100,2021,42126,102,Petrol,2,Poor,22800
+Royal Enfield,Hunter 350,2018,61821,349,Petrol,1,Good,79800
+Hero,HF Deluxe,2019,57685,97,Petrol,1,Excellent,30700
+Yamaha,FZ-S FI,2021,19703,149,Petrol,1,Fair,60100
+Honda,Unicorn,2023,18159,160,Petrol,2,Fair,56000
+Bajaj,Dominar 400,2017,54536,373,Petrol,2,Good,75600
+Hero,Glamour,2019,65291,125,Petrol,2,Good,34700
+Hero,Splendor Plus,2018,71981,97,Petrol,2,Good,27000
+Bajaj,Dominar 400,2014,74368,373,Electric,1,Excellent,65600
+Hero,Xpulse 200,2016,46711,200,Petrol,1,Good,48700
+Honda,Unicorn,2024,11499,160,Petrol,1,Good,86800
+TVS,Apache RR 310,2013,101773,312,Petrol,3,Good,45600
+TVS,Jupiter,2016,72018,110,Petrol,1,Fair,19700
+Honda,Dio,2014,77292,110,Petrol,2,Good,18500
+Hero,Passion Pro,2021,30213,113,Petrol,1,Excellent,53300
+Bajaj,Platina 100,2022,14983,102,Petrol,1,Good,42100
+Bajaj,Avenger 220,2020,59104,220,Petrol,1,Excellent,74900
+Yamaha,MT-15,2015,78159,155,Petrol,2,Good,37800
+Hero,Xpulse 200,2011,126955,200,Petrol,2,Fair,17400
+Bajaj,Pulsar NS200,2022,16936,200,Petrol,1,Excellent,104200
+Honda,Dio,2025,6226,110,Petrol,1,Poor,47800
+Honda,Activa 6G,2017,80577,110,Petrol,2,Excellent,26800
+Bajaj,Pulsar NS200,2014,121663,200,Petrol,1,Excellent,36200
+Bajaj,Platina 100,2023,14740,102,Petrol,1,Good,49100
+Suzuki,Gixxer 150,2021,37313,155,Petrol,2,Poor,47700
+Bajaj,Dominar 400,2011,95729,373,Petrol,1,Excellent,43300
+Hero,Xpulse 200,2010,134950,200,Petrol,1,Excellent,22000
+Yamaha,MT-15,2024,18397,155,Petrol,1,Fair,107500
+Hero,HF Deluxe,2015,123886,97,Petrol,1,Good,14600
+Hero,Passion Pro,2020,33967,113,Petrol,1,Excellent,45200
+Hero,Glamour,2019,68183,125,Petrol,1,Fair,31700
+TVS,Raider 125,2020,59494,125,Petrol,1,Excellent,50200
+Yamaha,FZ-S FI,2015,56825,149,Petrol,4,Poor,15400
+Hero,Passion Pro,2016,68451,113,Petrol,2,Fair,18800
+Hero,Splendor Plus,2024,11509,97,Petrol,1,Fair,55800
+Suzuki,Burgman Street,2021,47963,125,Petrol,2,Fair,38500
+Honda,Activa 6G,2012,111960,110,Petrol,3,Fair,12000
+Hero,HF Deluxe,2018,72118,97,Petrol,1,Good,23000
+TVS,Raider 125,2014,86565,125,Petrol,1,Poor,15700
+Bajaj,Pulsar 150,2021,33573,150,Petrol,1,Excellent,65700
+TVS,Raider 125,2016,77230,125,Petrol,2,Excellent,27000
+Bajaj,Avenger 220,2011,130986,220,Petrol,1,Fair,17400
+Hero,Xpulse 200,2010,118225,200,Petrol,2,Excellent,20100
+Hero,HF Deluxe,2016,105194,97,Petrol,3,Good,13400
+TVS,Apache RTR 160,2011,127688,160,Petrol,2,Excellent,18100
+Hero,Passion Pro,2021,33912,113,Petrol,2,Excellent,44600
+Bajaj,Pulsar 150,2022,41764,150,Petrol,1,Good,65300
+Bajaj,Dominar 400,2016,110778,373,Petrol,1,Fair,51800
+TVS,Apache RR 310,2012,140000,312,Petrol,2,Excellent,40800
+KTM,RC 200,2014,64736,200,Petrol,3,Poor,29600
+Royal Enfield,Continental GT 650,2018,58188,648,Petrol,2,Good,128900
+Yamaha,Aerox 155,2024,15907,155,Petrol,1,Excellent,128900
+Hero,HF Deluxe,2010,118223,97,Petrol,2,Good,12000
+Honda,Activa 6G,2016,52284,110,Petrol,1,Fair,23700
+TVS,Apache RR 310,2013,139079,312,Petrol,1,Excellent,50000
+Hero,Glamour,2016,64899,125,Petrol,2,Poor,17600
+Royal Enfield,Continental GT 650,2015,113005,648,Petrol,3,Good,68700
+TVS,Raider 125,2022,26631,125,Petrol,3,Good,44100
+Honda,Hornet 2.0,2016,111829,184,Petrol,2,Excellent,38900
+Honda,Shine 125,2019,44836,125,Petrol,3,Excellent,35700
+TVS,Apache RR 310,2019,48296,312,Petrol,2,Good,105100
+TVS,XL 100,2013,48588,100,Petrol,3,Good,12000
+TVS,Apache RTR 160,2015,53058,160,Petrol,2,Excellent,34200
+TVS,Apache RTR 160,2021,25478,160,Petrol,2,Fair,52900
+TVS,Raider 125,2015,62867,125,Petrol,3,Fair,17400
+Suzuki,Burgman Street,2015,116407,125,Petrol,2,Poor,12500
+Hero,Glamour,2017,41491,125,Petrol,2,Excellent,33700
+Honda,Activa 6G,2016,100954,110,Petrol,2,Good,18500
+Bajaj,Avenger 220,2011,124550,220,Petrol,1,Fair,17600
+Yamaha,MT-15,2010,140000,155,Petrol,2,Fair,17200
+TVS,Apache RR 310,2017,107854,312,Petrol,1,Excellent,89100
+Hero,Splendor Plus,2023,18683,97,Petrol,1,Excellent,60200
+Honda,Hornet 2.0,2011,114730,184,Petrol,2,Good,18600
+Bajaj,Avenger 220,2024,12746,220,Petrol,1,Excellent,121500
+Bajaj,Pulsar 150,2014,80295,150,Petrol,1,Fair,23300
+Hero,Glamour,2020,51312,125,Petrol,1,Good,42300
+Royal Enfield,Classic 350,2020,30859,349,Petrol,1,Good,121600
+Hero,Passion Pro,2019,72349,113,Petrol,1,Excellent,38400
+Suzuki,Access 125,2020,37248,124,Petrol,2,Excellent,39800
+TVS,Apache RTR 160,2020,48098,160,Petrol,2,Excellent,53200
+Honda,Activa 6G,2016,99990,110,Petrol,3,Good,17200
+Hero,Splendor Plus,2016,67747,97,Petrol,1,Fair,21500
+Bajaj,Avenger 220,2018,76883,220,Petrol,1,Good,49600
+Hero,Glamour,2014,50210,125,Petrol,1,Good,24300
+Royal Enfield,Hunter 350,2016,97733,349,Petrol,1,Excellent,58500
+Royal Enfield,Himalayan 450,2017,59743,452,Petrol,2,Excellent,109900
+Honda,Dio,2014,46399,110,Petrol,2,Good,18900
+Hero,Passion Pro,2017,96208,113,Petrol,1,Excellent,26700
+Bajaj,Pulsar 150,2024,14720,150,Petrol,1,Good,94500
+TVS,Apache RTR 160,2015,73197,160,Petrol,2,Excellent,31900
+Bajaj,Pulsar NS200,2016,95290,200,Petrol,1,Fair,37100
+TVS,XL 100,2018,42564,100,Petrol,2,Fair,15700
+Royal Enfield,Himalayan 450,2025,3043,452,Petrol,1,Poor,218000
+Royal Enfield,Hunter 350,2023,17361,349,Petrol,2,Good,120400
+TVS,Raider 125,2017,95289,125,Petrol,3,Fair,19100
+Suzuki,Gixxer 150,2011,79049,155,Petrol,1,Good,26300
+Royal Enfield,Himalayan 450,2021,40520,452,Petrol,2,Poor,109000
+Honda,Hornet 2.0,2012,60779,184,Petrol,2,Poor,18200
+Honda,Dio,2021,44637,110,Petrol,1,Good,41500
+Royal Enfield,Continental GT 650,2020,50684,648,Petrol,1,Excellent,168100
+KTM,Duke 390,2020,58177,373,Petrol,1,Fair,124800
+Hero,Splendor Plus,2011,110131,97,Petrol,1,Fair,12000
+Bajaj,Dominar 400,2023,18383,373,Petrol,2,Good,145000
+KTM,RC 200,2021,24785,200,Petrol,3,Good,99700
+Bajaj,Avenger 220,2012,104300,220,Electric,3,Good,19400
+Bajaj,Pulsar NS200,2024,14274,200,Petrol,1,Good,118300
+Honda,Activa 6G,2020,64703,110,Petrol,1,Good,36100
+Yamaha,FZ-S FI,2021,45560,149,Petrol,1,Excellent,72000
+Bajaj,Pulsar 150,2019,62686,150,Petrol,3,Good,35300
+Hero,Passion Pro,2021,58925,113,Petrol,1,Fair,35900
+Hero,Xpulse 200,2022,42193,200,Petrol,1,Excellent,92900
+Hero,Xpulse 200,2013,127862,200,Petrol,1,Fair,21800
+Honda,Dio,2012,127486,110,Petrol,2,Excellent,12400
+Honda,Activa 6G,2017,47087,110,Petrol,1,Excellent,33300
+Bajaj,Pulsar NS200,2024,10662,200,Petrol,1,Good,113900
+Royal Enfield,Classic 350,2020,34390,349,Petrol,2,Excellent,122600
+Bajaj,Pulsar NS200,2020,41574,200,Petrol,1,Good,74900
+Royal Enfield,Hunter 350,2017,95018,349,Petrol,1,Good,56900
+Hero,Glamour,2015,124431,125,Petrol,1,Good,20600
+Hero,Glamour,2016,66165,125,Petrol,1,Good,28500
+TVS,Jupiter,2020,26671,110,Petrol,1,Good,38300
+Hero,HF Deluxe,2020,43812,97,Petrol,2,Good,29600
+Hero,Glamour,2020,59176,125,Petrol,1,Fair,37400
+Royal Enfield,Classic 350,2022,31070,349,Petrol,1,Good,153000
+Bajaj,Dominar 400,2022,41724,373,Petrol,3,Poor,75200
+KTM,Duke 200,2016,54533,200,Petrol,1,Fair,57100
+Bajaj,Pulsar 150,2016,65669,150,Petrol,2,Excellent,32900
+Bajaj,Platina 100,2020,64490,102,Petrol,2,Fair,24400
+Honda,Activa 6G,2020,34366,110,Petrol,1,Fair,38100
+Yamaha,Aerox 155,2018,52892,155,Petrol,2,Good,51900
+Hero,Xpulse 200,2022,34784,200,Petrol,2,Fair,67200
+Hero,Xpulse 200,2022,24124,200,Petrol,2,Good,80100
+Bajaj,Avenger 220,2019,64884,220,Petrol,2,Excellent,60000
+Hero,Splendor Plus,2013,85844,97,Petrol,3,Good,12600
+Bajaj,Pulsar 150,2016,54551,150,Petrol,1,Good,35500
+Bajaj,Dominar 400,2019,36495,373,Petrol,1,Fair,97000
+Honda,Activa 6G,2016,104775,110,Petrol,1,Poor,14100
+Hero,Xpulse 200,2021,26248,200,Petrol,1,Fair,75500
+TVS,Raider 125,2021,42529,125,Petrol,1,Excellent,61000
+Royal Enfield,Classic 350,2015,103348,349,Petrol,3,Good,45500
+Royal Enfield,Himalayan 450,2022,16152,452,Petrol,2,Excellent,197200
+Hero,Passion Pro,2010,132109,113,Petrol,1,Good,12000
+Hero,Xpulse 200,2024,18593,200,Petrol,1,Excellent,125800
+Bajaj,Dominar 400,2021,27057,373,Petrol,1,Good,140400
+Suzuki,Access 125,2019,30202,124,Petrol,3,Excellent,32700
+Bajaj,Pulsar 150,2015,80493,150,Petrol,2,Excellent,26800
+Hero,Passion Pro,2013,106753,113,Petrol,1,Excellent,18700
+Hero,Splendor Plus,2019,48214,97,Petrol,4,Excellent,24300
+Bajaj,Dominar 400,2015,78781,373,Petrol,2,Good,55900
+Bajaj,Pulsar 150,2012,78776,150,Petrol,1,Fair,17200
+Hero,Glamour,2023,7246,125,Petrol,1,Good,69800
+Bajaj,Platina 100,2016,93557,102,Petrol,1,Poor,12000
+TVS,XL 100,2016,76284,100,Electric,1,Excellent,16700
+Hero,HF Deluxe,2020,53037,97,Petrol,2,Excellent,30600
+Honda,Hornet 2.0,2022,22957,184,Petrol,1,Fair,79100
+Bajaj,Platina 100,2011,140000,102,Petrol,3,Good,12000
+TVS,Apache RR 310,2019,36684,312,Petrol,1,Excellent,142200
+TVS,XL 100,2018,66802,100,Petrol,4,Fair,12000
+Honda,Unicorn,2020,35554,160,Petrol,1,Good,57700
+Hero,Glamour,2019,66499,125,Petrol,3,Good,28400
+Hero,Glamour,2016,74196,125,Petrol,1,Good,26600
+Honda,Dio,2020,24734,110,Petrol,2,Good,33700
+Hero,Splendor Plus,2020,43464,97,Petrol,1,Good,36300
+Bajaj,Dominar 400,2018,34864,373,Petrol,2,Good,88000
+Hero,Passion Pro,2016,92441,113,Petrol,3,Good,18700
+Honda,Shine 125,2022,22390,125,Petrol,2,Good,49300
+Hero,Xpulse 200,2024,10485,200,Petrol,1,Good,122700
+Royal Enfield,Hunter 350,2020,35786,349,Petrol,1,Fair,85300
+Honda,Dio,2021,16264,110,Petrol,1,Fair,40000
+TVS,Apache RR 310,2018,38786,312,Electric,1,Good,116900
+Honda,Dio,2015,59459,110,Petrol,2,Good,19300
+Bajaj,Dominar 400,2020,48686,373,Petrol,2,Fair,80300
+Honda,Hornet 2.0,2017,72839,184,Petrol,1,Excellent,49900
+Royal Enfield,Himalayan 450,2014,59982,452,Petrol,4,Good,57100
+Bajaj,Avenger 220,2012,130101,220,Petrol,1,Good,24200
+Yamaha,MT-15,2020,47901,155,Petrol,2,Fair,65300
+TVS,Apache RTR 160,2016,50765,160,Petrol,1,Poor,27600
+Honda,Activa 6G,2012,93970,110,Petrol,1,Good,15900
+Yamaha,R15 V4,2016,64732,155,Petrol,1,Excellent,63100
+Hero,Splendor Plus,2020,44352,97,Petrol,1,Excellent,44200
+Bajaj,Platina 100,2017,78173,102,Petrol,1,Good,22300
+Honda,Activa 6G,2017,43536,110,Petrol,4,Good,20400
+Hero,HF Deluxe,2021,53828,97,Petrol,2,Good,32400
+Hero,Xpulse 200,2013,70664,200,Petrol,2,Good,30700
+Bajaj,Dominar 400,2011,117164,373,Petrol,1,Good,38300
+TVS,Apache RR 310,2012,74680,312,Petrol,1,Excellent,65000
+Bajaj,Pulsar 150,2017,38418,150,Electric,1,Excellent,49200
+Royal Enfield,Himalayan 450,2024,25732,452,Petrol,1,Fair,207600
+Royal Enfield,Hunter 350,2022,26522,349,Petrol,1,Good,120300
+TVS,XL 100,2020,43026,100,Petrol,1,Poor,16700
+Royal Enfield,Continental GT 650,2013,140000,648,Petrol,2,Excellent,62900
+Hero,Glamour,2020,47700,125,Petrol,3,Poor,23700
+Hero,Xpulse 200,2022,28303,200,Petrol,1,Good,89200
+Honda,Unicorn,2023,15788,160,Petrol,3,Excellent,68300
+Honda,Shine 125,2018,81988,125,Petrol,1,Good,30300
+Hero,Glamour,2024,3537,125,Petrol,1,Good,77500
+Hero,Xpulse 200,2015,113566,200,Petrol,4,Poor,15000
+Royal Enfield,Continental GT 650,2016,89932,648,Petrol,1,Excellent,126800
+Royal Enfield,Classic 350,2015,71590,349,Petrol,1,Poor,47000
+Hero,Splendor Plus,2021,40245,97,Petrol,1,Excellent,50700
+Hero,HF Deluxe,2010,140000,97,Petrol,1,Good,12000
+Hero,Xpulse 200,2021,51075,200,Petrol,1,Good,79400
+Suzuki,Burgman Street,2019,35550,125,Petrol,4,Good,27300
+Hero,HF Deluxe,2017,79356,97,Petrol,3,Excellent,18200
+Royal Enfield,Himalayan 450,2020,51834,452,Petrol,1,Fair,132000
+Hero,HF Deluxe,2014,110816,97,Petrol,2,Good,13000
+Honda,Shine 125,2021,45077,125,Petrol,1,Excellent,53700
+Yamaha,FZ-S FI,2020,71965,149,Petrol,1,Fair,47700
+TVS,Apache RTR 160,2018,79748,160,Petrol,2,Fair,33100
+Bajaj,Dominar 400,2013,59059,373,Petrol,3,Good,43800
+Honda,Dio,2012,108992,110,Petrol,1,Excellent,14100
+Bajaj,Avenger 220,2019,61255,220,Petrol,2,Good,49600
+Hero,Glamour,2020,65410,125,Petrol,1,Poor,28200
+Hero,Passion Pro,2017,50724,113,Petrol,1,Good,27700
+TVS,Raider 125,2013,97153,125,Petrol,3,Fair,12300
+Honda,Hornet 2.0,2021,41199,184,Petrol,1,Fair,65400
+Yamaha,R15 V4,2021,40501,155,Petrol,1,Fair,85800
+Bajaj,Pulsar NS200,2018,38843,200,Petrol,1,Fair,50800
+Honda,Activa 6G,2018,32220,110,Petrol,3,Good,27500
+Honda,Activa 6G,2015,109632,110,Petrol,1,Good,20900
+Hero,Passion Pro,2018,61085,113,Petrol,2,Good,29200
+Honda,Shine 125,2022,26950,125,Petrol,1,Excellent,57200
+Hero,Splendor Plus,2010,80991,97,Petrol,3,Good,12000
+Bajaj,Pulsar NS200,2020,43576,200,Petrol,1,Good,75200
+KTM,Duke 200,2021,33057,200,Petrol,1,Excellent,126100
+Royal Enfield,Continental GT 650,2016,84908,648,Petrol,3,Good,80500
+Hero,Passion Pro,2020,37458,113,Petrol,1,Good,42000
+KTM,Duke 390,2012,78456,373,Petrol,1,Good,62800
+Hero,HF Deluxe,2018,39197,97,Petrol,1,Fair,23600
+TVS,Apache RTR 160,2012,119454,160,Petrol,4,Excellent,14600
+Bajaj,Pulsar 150,2021,15999,150,Petrol,1,Excellent,74500
+Honda,Dio,2022,38444,110,Petrol,1,Fair,41400
+Hero,Passion Pro,2024,5758,113,Petrol,1,Excellent,72000
+Hero,Splendor Plus,2011,113569,97,Petrol,2,Good,12000
+Bajaj,Dominar 400,2017,74928,373,Petrol,1,Excellent,86500
+Bajaj,Dominar 400,2021,26045,373,Petrol,1,Good,118000
+Bajaj,Avenger 220,2017,47525,220,Petrol,3,Poor,26900
+Hero,Glamour,2014,82119,125,Petrol,2,Fair,18200
+Bajaj,Platina 100,2016,55002,102,Petrol,1,Poor,15300
+TVS,Apache RR 310,2018,71085,312,Petrol,2,Good,86000
+TVS,XL 100,2023,21665,100,Petrol,1,Excellent,39100
+TVS,Raider 125,2010,93913,125,Petrol,1,Good,14500
+Yamaha,FZ-S FI,2017,94717,149,Petrol,2,Good,36700
+Hero,Splendor Plus,2021,55959,97,Petrol,2,Poor,25100
+Suzuki,Access 125,2023,11115,124,Petrol,3,Good,48400
+Bajaj,Platina 100,2020,37522,102,Petrol,1,Good,32800
+Honda,Activa 6G,2024,11968,110,Petrol,1,Good,66200
+TVS,Apache RR 310,2019,71110,312,Petrol,2,Excellent,111500
+Bajaj,Dominar 400,2019,70430,373,Petrol,2,Poor,58700
+Hero,HF Deluxe,2019,56730,97,Petrol,1,Poor,20100
+Royal Enfield,Himalayan 450,2023,24989,452,Petrol,1,Good,233200
+TVS,Apache RTR 160,2023,26668,160,Petrol,1,Good,83500
+Honda,Dio,2019,32495,110,Petrol,2,Good,31900
+Royal Enfield,Continental GT 650,2014,70200,648,Petrol,3,Excellent,81200
+KTM,Duke 200,2019,26464,200,Petrol,2,Excellent,93900
+TVS,Raider 125,2015,68101,125,Petrol,2,Good,24200
+Suzuki,Access 125,2013,64009,124,Petrol,4,Poor,12000
+Honda,Hornet 2.0,2015,65633,184,Petrol,2,Excellent,39100
+Hero,Passion Pro,2024,22635,113,Petrol,1,Good,64800
+TVS,XL 100,2017,97718,100,Petrol,1,Excellent,16600
+Royal Enfield,Bullet 350,2018,59242,349,Petrol,3,Fair,52200
+TVS,Jupiter,2011,134526,110,Petrol,2,Excellent,12000
+Hero,Xpulse 200,2012,73750,200,Petrol,2,Good,24300
+Honda,Dio,2020,28328,110,Petrol,2,Good,36800
+Hero,Passion Pro,2023,22072,113,Petrol,1,Excellent,62900
+Hero,Xpulse 200,2024,13937,200,Petrol,1,Fair,101000
+Hero,Xpulse 200,2021,22179,200,Petrol,1,Fair,78100
+Honda,Activa 6G,2019,53860,110,Petrol,4,Good,23200
+Bajaj,Pulsar 150,2010,89263,150,Petrol,1,Fair,14500
+Yamaha,FZ-S FI,2023,22222,149,Petrol,1,Excellent,96100
+KTM,RC 200,2012,73450,200,Petrol,2,Good,38000
+TVS,Apache RTR 160,2013,86779,160,Petrol,2,Good,23200
+Hero,Xpulse 200,2018,78511,200,Petrol,2,Fair,41100
+Honda,Shine 125,2021,23397,125,Petrol,1,Good,49600
+Royal Enfield,Hunter 350,2023,30511,349,Petrol,1,Excellent,150700
+Yamaha,FZ-S FI,2021,39704,149,Petrol,1,Poor,49000
+Honda,Unicorn,2024,15005,160,Petrol,1,Good,93100
+TVS,Raider 125,2017,58435,125,Petrol,1,Excellent,35800
+Hero,Glamour,2015,55009,125,Petrol,2,Good,23000
+TVS,Apache RR 310,2021,33806,312,Petrol,3,Fair,97000
+TVS,Raider 125,2017,36461,125,Petrol,2,Good,31500
+Yamaha,R15 V4,2018,27759,155,Petrol,2,Poor,50900
+TVS,Raider 125,2020,34265,125,Petrol,2,Good,43200
+Royal Enfield,Continental GT 650,2014,97289,648,Petrol,1,Excellent,98000
+Bajaj,Platina 100,2018,36838,102,Petrol,2,Good,25400
+Honda,Activa 6G,2021,36939,110,Petrol,1,Good,43600
+Honda,Unicorn,2021,36309,160,Petrol,1,Fair,52400
+Bajaj,Pulsar NS200,2017,53169,200,Petrol,2,Good,46100
+TVS,Apache RTR 160,2024,12027,160,Petrol,1,Good,93200
+Honda,Activa 6G,2016,57316,110,Petrol,3,Excellent,23700
+Hero,Splendor Plus,2019,53746,97,Petrol,2,Excellent,32700
+Royal Enfield,Continental GT 650,2020,26534,648,Petrol,2,Good,180100
+Honda,Dio,2018,58058,110,Petrol,1,Excellent,32800
+KTM,RC 200,2024,18999,200,Petrol,1,Good,165500
+TVS,Jupiter,2018,85631,110,Petrol,1,Good,28600
+Hero,Passion Pro,2021,43919,113,Petrol,1,Good,45200
+Hero,HF Deluxe,2021,34306,97,Petrol,1,Excellent,43800
+Hero,Xpulse 200,2020,30015,200,Petrol,1,Fair,66200
+TVS,XL 100,2023,14719,100,Petrol,3,Poor,20700
+TVS,Apache RTR 160,2017,64307,160,Petrol,2,Good,37100
+Yamaha,MT-15,2021,18230,155,Petrol,2,Good,87900
+Hero,Splendor Plus,2022,22776,97,Petrol,1,Excellent,53400
+Honda,Unicorn,2016,79646,160,Petrol,1,Poor,23600
+Honda,Shine 125,2022,28486,125,Petrol,1,Good,53500
+Bajaj,Platina 100,2012,78589,102,Petrol,2,Excellent,13600
+Bajaj,Pulsar NS200,2022,18481,200,Petrol,1,Good,96100
+Honda,Activa 6G,2023,27620,110,Petrol,1,Excellent,65700
+Bajaj,Pulsar NS200,2014,76016,200,Petrol,1,Excellent,38400
+KTM,Duke 390,2024,15109,373,Petrol,1,Fair,207100
+Hero,Passion Pro,2018,62797,113,Petrol,3,Excellent,27200
+Bajaj,Platina 100,2016,76826,102,Petrol,1,Fair,16900
+Suzuki,Access 125,2025,8359,124,Petrol,1,Good,77400
+TVS,Raider 125,2021,45531,125,Petrol,1,Fair,49800
+Royal Enfield,Bullet 350,2018,48969,349,Petrol,1,Good,75000
+Bajaj,Platina 100,2014,128219,102,Electric,1,Good,13700
+Royal Enfield,Continental GT 650,2015,98775,648,Petrol,2,Excellent,89900
+Honda,Dio,2018,81337,110,Petrol,4,Excellent,19700
+TVS,Apache RTR 160,2016,68500,160,Petrol,1,Excellent,41500
+Hero,Glamour,2022,30819,125,Petrol,3,Excellent,45200
+KTM,Duke 200,2017,56173,200,Petrol,1,Fair,58500
+Honda,Activa 6G,2021,46028,110,Petrol,1,Fair,39000
+Yamaha,MT-15,2016,87687,155,Petrol,1,Good,47900
+KTM,RC 200,2018,47829,200,Petrol,1,Good,84600
+Hero,Splendor Plus,2015,121320,97,Petrol,1,Excellent,20400
+TVS,XL 100,2019,52367,100,Petrol,3,Good,15600
+Hero,Passion Pro,2017,90443,113,Petrol,2,Good,23700
+Honda,Hornet 2.0,2021,24937,184,Petrol,1,Excellent,96100
+Royal Enfield,Hunter 350,2014,74116,349,Petrol,2,Fair,34800
+Yamaha,Aerox 155,2012,69074,155,Petrol,1,Good,30700
+Hero,HF Deluxe,2015,109625,97,Petrol,1,Fair,13600
+Bajaj,Pulsar NS200,2019,60870,200,Petrol,2,Good,56900
+TVS,XL 100,2024,11911,100,Petrol,1,Excellent,40100
+Yamaha,MT-15,2020,37208,155,Petrol,1,Good,91300
+Hero,HF Deluxe,2020,29627,97,Petrol,1,Excellent,39600
+TVS,Jupiter,2014,103527,110,Petrol,3,Good,13200
+Royal Enfield,Classic 350,2022,31173,349,Petrol,1,Excellent,174000
+Honda,Dio,2018,77442,110,Petrol,1,Good,29500
+Bajaj,Dominar 400,2019,47431,373,Petrol,1,Good,106400
+Honda,Dio,2021,39078,110,Petrol,1,Good,44800
+Honda,Dio,2019,35199,110,Petrol,3,Good,28100
+Yamaha,R15 V4,2016,82892,155,Petrol,2,Excellent,50100
+Bajaj,Platina 100,2021,51659,102,Petrol,1,Fair,31400
+Honda,Unicorn,2014,79776,160,Petrol,1,Excellent,30900
+TVS,Jupiter,2011,119708,110,Petrol,1,Poor,12000
+Hero,Glamour,2023,15804,125,Petrol,2,Good,56700
+TVS,XL 100,2019,63412,100,Petrol,3,Excellent,17200
+Hero,Splendor Plus,2022,14684,97,Petrol,1,Good,55000
+TVS,Raider 125,2014,81959,125,Petrol,3,Good,16600
+Royal Enfield,Himalayan 450,2018,56937,452,Petrol,3,Excellent,101000
+Hero,HF Deluxe,2021,21051,97,Petrol,1,Excellent,42800
+Honda,Activa 6G,2019,46094,110,Petrol,1,Excellent,41800
+Yamaha,R15 V4,2020,50334,155,Petrol,2,Fair,66200
+Royal Enfield,Bullet 350,2018,55173,349,Petrol,2,Good,71300
+TVS,Jupiter,2018,64904,110,Petrol,1,Good,29800
+TVS,XL 100,2014,74774,100,Petrol,1,Poor,12000
+Bajaj,Pulsar NS200,2020,40129,200,Petrol,1,Fair,62700
+Honda,Shine 125,2015,110858,125,Petrol,1,Good,20700
+Hero,Glamour,2016,50896,125,Petrol,2,Excellent,28500
+Suzuki,Burgman Street,2016,96932,125,Petrol,1,Fair,23500
+Bajaj,Avenger 220,2021,29359,220,Petrol,1,Excellent,88500
+Bajaj,Pulsar 150,2019,82223,150,Petrol,3,Good,33200
+Hero,HF Deluxe,2022,24443,97,Petrol,1,Fair,36200
+Royal Enfield,Himalayan 450,2021,17779,452,Petrol,2,Excellent,180100
+Hero,Glamour,2015,64024,125,Petrol,1,Good,25300
+Hero,HF Deluxe,2024,15948,97,Petrol,1,Good,50800
+Honda,Dio,2022,38437,110,Petrol,1,Excellent,51600
+TVS,XL 100,2019,60977,100,Petrol,1,Good,21400
+Bajaj,Dominar 400,2021,35299,373,Petrol,1,Good,136700
+Hero,Passion Pro,2024,12623,113,Petrol,1,Excellent,69700
+Bajaj,Dominar 400,2013,114488,373,Petrol,1,Excellent,52100
+Honda,Hornet 2.0,2023,24411,184,Petrol,1,Fair,80200
+Royal Enfield,Bullet 350,2022,20193,349,Petrol,3,Good,98100
+Honda,Hornet 2.0,2021,39791,184,Petrol,2,Good,72400
+Royal Enfield,Hunter 350,2016,77059,349,Petrol,1,Poor,38700
+Suzuki,Access 125,2021,18260,124,Petrol,3,Fair,32700
+Hero,Passion Pro,2022,48276,113,Petrol,1,Good,50400
+Honda,Activa 6G,2019,58642,110,Petrol,1,Fair,30700
+Yamaha,FZ-S FI,2020,35976,149,Petrol,1,Fair,52400
+Royal Enfield,Himalayan 450,2020,57978,452,Petrol,1,Excellent,166000
+Hero,Splendor Plus,2019,24673,97,Petrol,2,Good,32100
+Hero,Splendor Plus,2023,32011,97,Petrol,1,Excellent,60000
+TVS,Apache RTR 160,2019,47614,160,Electric,1,Excellent,65800
+Honda,Hornet 2.0,2022,41476,184,Petrol,1,Good,89200
+Bajaj,Dominar 400,2019,39922,373,Petrol,4,Fair,61300
+Bajaj,Platina 100,2020,31553,102,Petrol,1,Fair,29700
+Hero,HF Deluxe,2014,51942,97,Petrol,1,Excellent,18700
+TVS,Raider 125,2023,14416,125,Electric,1,Fair,60400
+TVS,Apache RR 310,2017,100303,312,Petrol,1,Good,85500
+Bajaj,Pulsar 150,2012,97876,150,Petrol,2,Good,18800
+TVS,Raider 125,2018,25578,125,Petrol,2,Excellent,44100
+Bajaj,Dominar 400,2020,53389,373,Petrol,1,Poor,70800
+Hero,Xpulse 200,2018,68201,200,Petrol,2,Excellent,51900
+Bajaj,Pulsar 150,2018,32013,150,Petrol,3,Excellent,38100
+Honda,Dio,2020,63249,110,Petrol,1,Fair,31000
+Bajaj,Pulsar 150,2016,50594,150,Petrol,1,Good,37600
+Honda,Unicorn,2016,107508,160,Petrol,3,Good,21800
+Royal Enfield,Hunter 350,2011,140000,349,Petrol,3,Good,20800
+Hero,Passion Pro,2016,44130,113,Petrol,2,Good,23800
+Honda,Activa 6G,2017,75244,110,Petrol,1,Good,26200
+Royal Enfield,Continental GT 650,2013,128086,648,Petrol,1,Poor,46000
+Honda,Hornet 2.0,2022,30969,184,Petrol,1,Good,96500
+Hero,HF Deluxe,2019,49202,97,Petrol,1,Good,31600
+Yamaha,FZ-S FI,2022,19226,149,Petrol,1,Poor,55900
+Honda,Activa 6G,2019,46369,110,Petrol,2,Good,32400
+Honda,Unicorn,2023,34870,160,Petrol,1,Good,75100
+KTM,RC 200,2019,69240,200,Petrol,1,Fair,81400
+Yamaha,MT-15,2019,63349,155,Petrol,2,Fair,53000
+Honda,Unicorn,2012,115610,160,Petrol,1,Excellent,22100
+Bajaj,Pulsar NS200,2021,39133,200,Electric,2,Excellent,78900
+Bajaj,Platina 100,2020,49646,102,Petrol,1,Good,33400
+Bajaj,Avenger 220,2022,26889,220,Petrol,1,Excellent,96300
+TVS,Apache RTR 160,2010,140000,160,Petrol,3,Good,12000
+KTM,Duke 200,2014,66407,200,Petrol,3,Good,38100
+Bajaj,Pulsar 150,2018,45987,150,Petrol,1,Good,44800
+Hero,Xpulse 200,2016,44308,200,Petrol,1,Excellent,58900
+Royal Enfield,Continental GT 650,2018,56550,648,Petrol,1,Excellent,176900
+Hero,Passion Pro,2018,63647,113,Petrol,2,Fair,23400
+Hero,Splendor Plus,2012,140000,97,Petrol,2,Good,12000
+Bajaj,Avenger 220,2023,11174,220,Electric,1,Poor,68200
+Royal Enfield,Bullet 350,2024,22493,349,Petrol,1,Poor,117600
+Bajaj,Pulsar 150,2019,44127,150,Petrol,2,Fair,36900
+Yamaha,FZ-S FI,2018,65809,149,Petrol,3,Excellent,40300
+Royal Enfield,Himalayan 450,2019,45165,452,Petrol,1,Good,140700
+Honda,Unicorn,2023,19783,160,Petrol,3,Good,56600
+Hero,HF Deluxe,2020,40923,97,Petrol,1,Excellent,38600
+Bajaj,Dominar 400,2016,77695,373,Petrol,2,Excellent,69500
+Hero,Glamour,2022,23755,125,Petrol,1,Good,57800
+Suzuki,Burgman Street,2018,88588,125,Petrol,2,Good,30300
+Honda,Shine 125,2025,11163,125,Petrol,1,Poor,48400
+Royal Enfield,Bullet 350,2019,51541,349,Petrol,1,Good,90600
+TVS,XL 100,2011,140000,100,Petrol,1,Good,12000
+Honda,Hornet 2.0,2017,47406,184,Petrol,2,Excellent,51900
+TVS,Raider 125,2017,50824,125,Petrol,1,Excellent,40800
+TVS,Raider 125,2011,140000,125,Petrol,1,Excellent,15100
+Hero,Glamour,2013,118956,125,Petrol,1,Good,17000
+Suzuki,Burgman Street,2016,94645,125,Petrol,4,Excellent,20500
+Bajaj,Dominar 400,2025,2234,373,Petrol,1,Good,221600
+Hero,HF Deluxe,2021,37988,97,Petrol,1,Good,40300
+Hero,Splendor Plus,2019,75738,97,Petrol,3,Good,24500
+Honda,Shine 125,2021,41939,125,Petrol,1,Good,47200
+TVS,Raider 125,2019,44897,125,Petrol,1,Good,43900
+Hero,Splendor Plus,2016,54955,97,Petrol,2,Good,21500
+TVS,Apache RR 310,2022,27970,312,Petrol,1,Good,174300
+TVS,Apache RR 310,2019,47867,312,Petrol,1,Excellent,141400
+Bajaj,Platina 100,2022,29705,102,Petrol,1,Excellent,43900
+Bajaj,Avenger 220,2013,65522,220,Petrol,3,Fair,21100
+Honda,Unicorn,2015,99191,160,Petrol,4,Poor,12200
+TVS,Apache RTR 160,2014,59705,160,Petrol,1,Fair,29500
+TVS,Apache RR 310,2022,18207,312,Petrol,2,Excellent,175600
+Hero,Xpulse 200,2025,3297,200,Petrol,1,Fair,122300
+TVS,XL 100,2019,40988,100,Petrol,3,Fair,13900
+Bajaj,Dominar 400,2020,53982,373,Petrol,1,Fair,95600
+Bajaj,Platina 100,2013,114242,102,Petrol,2,Good,12000
+Bajaj,Dominar 400,2018,73435,373,Petrol,2,Good,75900
+Royal Enfield,Classic 350,2024,16738,349,Petrol,1,Fair,162500
+Royal Enfield,Classic 350,2023,25198,349,Petrol,2,Good,144500
+Bajaj,Avenger 220,2022,43335,220,Petrol,1,Good,87100
+Honda,Shine 125,2014,101422,125,Petrol,4,Good,13500
+Honda,Activa 6G,2014,123760,110,Petrol,1,Fair,15200
+TVS,Jupiter,2019,53979,110,Petrol,2,Good,29600
+Bajaj,Pulsar 150,2017,72476,150,Petrol,3,Good,29700
+Hero,HF Deluxe,2020,51312,97,Petrol,2,Poor,19200
+Royal Enfield,Hunter 350,2021,39708,349,Petrol,1,Good,101100
+Hero,Glamour,2016,59258,125,Petrol,2,Fair,22100
+TVS,Apache RTR 160,2011,140000,160,Petrol,1,Good,17400
+Hero,Xpulse 200,2015,57274,200,Petrol,2,Excellent,41900
+Bajaj,Pulsar 150,2023,29787,150,Petrol,1,Fair,64400
+Honda,Unicorn,2019,31516,160,Petrol,1,Good,51700
+TVS,Apache RR 310,2018,84519,312,Petrol,1,Good,93000
+Honda,Unicorn,2018,76326,160,Petrol,1,Fair,36300
+Honda,Shine 125,2020,50702,125,Petrol,1,Excellent,46300
+Hero,Glamour,2017,93072,125,Petrol,1,Good,27900
+Yamaha,Aerox 155,2023,33893,155,Petrol,1,Poor,66300
+Honda,Hornet 2.0,2012,88978,184,Petrol,4,Excellent,21200
+Bajaj,Avenger 220,2015,48108,220,Petrol,2,Fair,30700
+Yamaha,R15 V4,2021,25602,155,Petrol,2,Good,95300
+TVS,Apache RTR 160,2015,69854,160,Petrol,1,Excellent,35300
+Hero,Passion Pro,2021,18101,113,Petrol,2,Fair,36400
+Suzuki,Burgman Street,2020,63888,125,Petrol,2,Excellent,45700
+Hero,HF Deluxe,2023,21746,97,Petrol,1,Poor,30000
+KTM,Duke 390,2019,48531,373,Petrol,1,Good,135300
+KTM,Duke 200,2015,74553,200,Petrol,2,Good,48100
+Hero,Xpulse 200,2024,14971,200,Petrol,2,Good,98500
+Honda,Shine 125,2020,60747,125,Petrol,3,Good,31100
+Honda,Activa 6G,2018,34875,110,Petrol,2,Poor,20300
+Honda,Activa 6G,2023,10240,110,Petrol,2,Poor,36300
+Bajaj,Platina 100,2019,64168,102,Petrol,3,Poor,14200
+Royal Enfield,Himalayan 450,2017,44648,452,Petrol,1,Good,113800
+Honda,Unicorn,2013,52249,160,Petrol,3,Excellent,23400
+Hero,Splendor Plus,2024,23544,97,Petrol,2,Good,55800
+Honda,Hornet 2.0,2019,45267,184,Petrol,1,Excellent,68900
+Bajaj,Platina 100,2013,105317,102,Petrol,3,Good,12000
+Honda,Shine 125,2020,25767,125,Petrol,1,Good,46400
+Bajaj,Pulsar NS200,2015,107081,200,Petrol,1,Excellent,38600
+Yamaha,FZ-S FI,2011,108108,149,Petrol,1,Fair,17100
+Honda,Hornet 2.0,2017,68786,184,Petrol,1,Fair,39400
+Hero,Splendor Plus,2016,45435,97,Petrol,1,Good,26600
+Hero,Splendor Plus,2023,13564,97,Petrol,1,Fair,47900
+Bajaj,Pulsar 150,2022,32657,150,Petrol,1,Good,65000
+Honda,Dio,2021,42429,110,Petrol,1,Excellent,50100
+Honda,Activa 6G,2024,16616,110,Petrol,1,Fair,53000
+TVS,Apache RR 310,2018,60034,312,Petrol,3,Good,78700
+Royal Enfield,Bullet 350,2022,36426,349,Petrol,1,Good,131800
+TVS,Raider 125,2021,25779,125,Petrol,2,Good,46300
+Royal Enfield,Himalayan 450,2019,53030,452,Petrol,2,Good,122600
+Bajaj,Pulsar 150,2022,33534,150,Petrol,1,Excellent,78500
+Hero,Xpulse 200,2024,17442,200,Petrol,1,Good,116800
+Bajaj,Dominar 400,2015,76003,373,Petrol,1,Good,64400
+Bajaj,Platina 100,2022,16179,102,Petrol,1,Good,42900
+Hero,HF Deluxe,2011,140000,97,Petrol,2,Good,12000
+TVS,Raider 125,2025,9784,125,Electric,1,Good,85700
+Hero,Passion Pro,2017,60076,113,Petrol,1,Excellent,32100
+Hero,Splendor Plus,2019,29059,97,Petrol,1,Good,37300
+Suzuki,Gixxer 150,2022,22567,155,Petrol,2,Excellent,82300
+Hero,HF Deluxe,2018,77421,97,Petrol,1,Excellent,25900
+Royal Enfield,Himalayan 450,2020,58198,452,Petrol,1,Good,147800
+TVS,Apache RTR 160,2016,92076,160,Petrol,2,Good,30800
+TVS,Apache RR 310,2022,33761,312,Petrol,1,Fair,138800
+Suzuki,Burgman Street,2012,85353,125,Petrol,1,Good,20600
+Hero,Splendor Plus,2020,34860,97,Petrol,1,Good,41700
+Hero,HF Deluxe,2017,44568,97,Petrol,3,Good,18200
+Honda,Unicorn,2014,63041,160,Petrol,2,Poor,18300
+Royal Enfield,Hunter 350,2019,46325,349,Petrol,1,Good,81300
+Royal Enfield,Bullet 350,2023,31800,349,Petrol,1,Excellent,150500
+KTM,Duke 200,2018,34547,200,Petrol,3,Fair,55000
+Bajaj,Dominar 400,2016,63482,373,Petrol,1,Excellent,80000
+Hero,Glamour,2020,56199,125,Petrol,2,Good,40900
+TVS,Jupiter,2014,101406,110,Petrol,2,Fair,12700
+TVS,Raider 125,2019,54751,125,Petrol,2,Fair,31300
+TVS,Jupiter,2020,25860,110,Petrol,2,Good,36900
+Hero,HF Deluxe,2013,134725,97,Petrol,1,Excellent,13200
+Hero,Glamour,2021,18023,125,Petrol,2,Good,47800
+TVS,Apache RTR 160,2021,49945,160,Petrol,2,Good,53600
+Royal Enfield,Bullet 350,2014,108020,349,Petrol,1,Good,44900
+Royal Enfield,Continental GT 650,2022,30938,648,Petrol,1,Excellent,275600
+Hero,Passion Pro,2023,16493,113,Petrol,2,Good,50600
+Royal Enfield,Himalayan 450,2019,70588,452,Petrol,2,Excellent,131300
+TVS,Jupiter,2018,37291,110,Petrol,1,Good,31400
+Honda,Unicorn,2012,140000,160,Petrol,2,Excellent,16100
+Royal Enfield,Continental GT 650,2017,94626,648,Petrol,4,Excellent,86500
+Honda,Hornet 2.0,2018,55681,184,Petrol,1,Good,59000
+Honda,Activa 6G,2016,65718,110,Petrol,2,Fair,19100
+Honda,Dio,2019,70705,110,Petrol,2,Good,27600
+Royal Enfield,Bullet 350,2025,7822,349,Petrol,1,Good,169800
+TVS,XL 100,2019,62309,100,Petrol,1,Fair,17100
+Honda,Unicorn,2012,139164,160,Petrol,2,Excellent,16200
+Bajaj,Platina 100,2020,57503,102,Petrol,1,Excellent,36100
+TVS,Apache RR 310,2020,37208,312,Petrol,1,Excellent,154500
+Hero,Glamour,2019,54371,125,Petrol,2,Excellent,38700
+Royal Enfield,Classic 350,2017,58304,349,Petrol,1,Poor,55400
+TVS,Jupiter,2015,46230,110,Petrol,1,Good,21800
+Honda,Hornet 2.0,2022,27382,184,Petrol,1,Fair,78800
+TVS,XL 100,2010,66396,100,Petrol,1,Fair,12000
+Suzuki,Access 125,2020,50607,124,Petrol,1,Good,37900
+Royal Enfield,Classic 350,2019,44570,349,Petrol,2,Good,95800
+Hero,Passion Pro,2021,52753,113,Petrol,1,Excellent,46500
+Hero,Glamour,2018,32064,125,Petrol,1,Good,39900
+Yamaha,Aerox 155,2015,53606,155,Petrol,3,Fair,26400
+Yamaha,MT-15,2019,30289,155,Petrol,1,Good,80300
+Suzuki,Burgman Street,2015,65623,125,Petrol,2,Excellent,27800
+Royal Enfield,Continental GT 650,2018,78733,648,Petrol,2,Good,123800
+Suzuki,Access 125,2021,44022,124,Petrol,2,Excellent,44600
+Hero,Splendor Plus,2020,44448,97,Petrol,1,Good,36800
+Hero,Glamour,2020,30596,125,Petrol,1,Good,48800
+Yamaha,R15 V4,2021,42365,155,Petrol,2,Fair,72900
+Honda,Hornet 2.0,2020,46554,184,Petrol,1,Good,74800
+Hero,Glamour,2021,40314,125,Petrol,2,Good,44000
+Honda,Dio,2017,42280,110,Petrol,1,Good,30400
+Bajaj,Pulsar NS200,2022,9210,200,Petrol,2,Fair,78100
+Honda,Dio,2018,61644,110,Petrol,1,Excellent,34100
+Royal Enfield,Hunter 350,2017,50146,349,Petrol,1,Good,68400
+Hero,Xpulse 200,2022,25790,200,Petrol,1,Good,89000
+Hero,Xpulse 200,2010,99526,200,Petrol,4,Fair,12300
+TVS,Raider 125,2017,71480,125,Petrol,2,Good,30400
+Bajaj,Pulsar NS200,2020,26602,200,Petrol,3,Good,59600
+KTM,Duke 390,2017,99636,373,Petrol,1,Good,90400
+Yamaha,Aerox 155,2018,84567,155,Petrol,1,Good,47400
+Bajaj,Avenger 220,2019,31724,220,Petrol,1,Good,69700
+Bajaj,Avenger 220,2012,140000,220,Petrol,3,Good,18300
+Bajaj,Pulsar 150,2018,86019,150,Petrol,1,Excellent,41700
+Hero,Xpulse 200,2016,107728,200,Petrol,1,Good,40900
+Honda,Activa 6G,2015,113397,110,Petrol,2,Good,17400
+Hero,Passion Pro,2016,86639,113,Petrol,3,Excellent,21100
+Bajaj,Avenger 220,2020,36444,220,Petrol,2,Good,62400
+Hero,Splendor Plus,2018,30831,97,Petrol,1,Excellent,35100
+Royal Enfield,Continental GT 650,2016,77989,648,Petrol,1,Good,110400
+Hero,Glamour,2022,22142,125,Petrol,1,Excellent,64100
+TVS,Jupiter,2012,91026,110,Petrol,2,Good,13300
+Hero,Passion Pro,2022,38299,113,Petrol,1,Good,50300
+TVS,Apache RTR 160,2016,69333,160,Petrol,3,Excellent,32100
+Honda,Shine 125,2021,55010,125,Petrol,2,Excellent,43700
+TVS,XL 100,2020,69040,100,Petrol,1,Good,22500
+Bajaj,Dominar 400,2020,53760,373,Petrol,1,Fair,102200
+Honda,Hornet 2.0,2015,79959,184,Petrol,1,Good,37500
+Bajaj,Pulsar 150,2021,27239,150,Petrol,1,Poor,42400
+Honda,Dio,2020,40214,110,Petrol,2,Fair,28500
+Hero,Splendor Plus,2022,33893,97,Petrol,2,Excellent,45200
+Bajaj,Pulsar NS200,2018,67504,200,Petrol,3,Excellent,47000
+Hero,Splendor Plus,2023,25704,97,Petrol,1,Fair,43800
+Bajaj,Avenger 220,2018,85989,220,Petrol,2,Fair,38100
+Honda,Dio,2020,43970,110,Petrol,1,Good,40500
+KTM,Duke 390,2019,33785,373,Petrol,3,Good,103500
+TVS,Apache RTR 160,2013,109334,160,Petrol,2,Good,20300
+Hero,Passion Pro,2015,101581,113,Petrol,2,Good,17500
+Suzuki,Gixxer 150,2022,17954,155,Petrol,1,Excellent,97000
+Honda,Shine 125,2022,18652,125,Petrol,1,Poor,35200
+Hero,Glamour,2012,140000,125,Petrol,2,Good,12400
+Hero,Glamour,2016,94244,125,Petrol,1,Excellent,28700
+Royal Enfield,Classic 350,2022,17137,349,Petrol,1,Poor,106900
+Hero,Glamour,2017,53708,125,Petrol,2,Fair,24500
+Yamaha,MT-15,2015,92672,155,Petrol,2,Good,39100
+Hero,Xpulse 200,2010,110294,200,Petrol,1,Fair,18000
+Yamaha,R15 V4,2016,38761,155,Petrol,1,Good,64500
+TVS,Jupiter,2021,34083,110,Petrol,2,Fair,33400
+Bajaj,Pulsar NS200,2012,74335,200,Petrol,1,Good,31000
+Hero,Splendor Plus,2017,55965,97,Petrol,3,Good,21100
+Honda,Dio,2019,76417,110,Petrol,2,Fair,23100
+Suzuki,Access 125,2018,87744,124,Petrol,1,Good,30500
+Bajaj,Dominar 400,2021,21180,373,Petrol,1,Good,144800
+Hero,HF Deluxe,2023,18582,97,Petrol,1,Good,46700
+Honda,Hornet 2.0,2010,140000,184,Petrol,2,Excellent,19100
+Bajaj,Avenger 220,2010,123442,220,Petrol,3,Poor,12000
+Bajaj,Pulsar 150,2012,59058,150,Petrol,1,Excellent,26900
+Honda,Shine 125,2020,49855,125,Petrol,2,Good,36300
+Bajaj,Platina 100,2011,62598,102,Petrol,3,Fair,12000
+Honda,Dio,2022,17940,110,Petrol,1,Excellent,56300
+Honda,Dio,2012,59738,110,Petrol,1,Excellent,18400
+TVS,Jupiter,2020,29920,110,Petrol,1,Poor,27700
+Royal Enfield,Himalayan 450,2015,74793,452,Petrol,1,Fair,75100
+Yamaha,Aerox 155,2019,62570,155,Petrol,1,Fair,55300
+Yamaha,R15 V4,2015,62335,155,Petrol,1,Excellent,61500
+Bajaj,Dominar 400,2013,51649,373,Petrol,2,Good,54100
+Hero,Passion Pro,2019,34809,113,Petrol,1,Good,39200
+Bajaj,Pulsar 150,2015,51165,150,Petrol,1,Good,35700
+Hero,Splendor Plus,2014,111941,97,Petrol,1,Fair,14700
+Bajaj,Platina 100,2023,29378,102,Petrol,1,Excellent,54000
+Yamaha,MT-15,2012,124497,155,Petrol,2,Good,24700
+Hero,Passion Pro,2019,43965,113,Petrol,2,Poor,21400
+Honda,Hornet 2.0,2023,32145,184,Petrol,2,Good,97600
+Honda,Shine 125,2021,26041,125,Petrol,1,Excellent,59700
+Hero,Glamour,2024,14088,125,Petrol,2,Excellent,68300
+Bajaj,Pulsar NS200,2012,59703,200,Petrol,1,Poor,23700
+Honda,Shine 125,2011,91961,125,Petrol,3,Good,12400
+Royal Enfield,Hunter 350,2010,108464,349,Petrol,2,Fair,19700
+Hero,Splendor Plus,2016,77355,97,Petrol,1,Excellent,25100
+Hero,Glamour,2014,124194,125,Petrol,1,Good,17700
+KTM,Duke 390,2022,19445,373,Petrol,1,Excellent,229100
+Hero,Splendor Plus,2015,78262,97,Petrol,2,Excellent,19800
+Hero,Glamour,2016,52803,125,Petrol,1,Good,28100
+Hero,Xpulse 200,2013,114318,200,Petrol,2,Good,25100
+Bajaj,Dominar 400,2022,23367,373,Petrol,1,Excellent,153400
+Royal Enfield,Himalayan 450,2018,48000,452,Petrol,1,Good,131900
+Bajaj,Pulsar NS200,2020,21219,200,Petrol,1,Good,80000
+Bajaj,Pulsar NS200,2022,33580,200,Electric,2,Fair,67100
+TVS,Apache RTR 160,2017,71750,160,Petrol,1,Good,39500
+Bajaj,Pulsar 150,2012,100222,150,Petrol,1,Good,20200
+Royal Enfield,Himalayan 450,2018,68111,452,Petrol,4,Poor,55500
+Honda,Shine 125,2025,10884,125,Petrol,1,Poor,52700
+Bajaj,Avenger 220,2016,93746,220,Petrol,2,Good,35400
+Bajaj,Platina 100,2016,79342,102,Petrol,4,Good,12100
+TVS,Jupiter,2025,7474,110,Petrol,1,Fair,53200
+Suzuki,Gixxer 150,2021,52302,155,Petrol,1,Good,77900
+Honda,Dio,2023,28455,110,Petrol,1,Excellent,60500
+Suzuki,Gixxer 150,2018,45451,155,Petrol,1,Excellent,63100
+KTM,Duke 390,2019,52130,373,Petrol,2,Good,119600
+Hero,HF Deluxe,2017,38259,97,Petrol,3,Good,18700
+Bajaj,Pulsar NS200,2010,95348,200,Petrol,1,Good,24700
+Royal Enfield,Classic 350,2019,38254,349,Petrol,1,Good,108500
+Honda,Dio,2021,32761,110,Petrol,2,Good,39900
+Royal Enfield,Hunter 350,2019,69085,349,Petrol,2,Excellent,75400
+Hero,Passion Pro,2021,25861,113,Petrol,1,Good,44700
+Hero,HF Deluxe,2012,102091,97,Petrol,2,Good,12000
+Bajaj,Pulsar 150,2019,75317,150,Electric,2,Poor,28300
+TVS,XL 100,2024,9077,100,Petrol,1,Good,40000
+TVS,Apache RR 310,2019,53117,312,Petrol,1,Excellent,132100
+Royal Enfield,Classic 350,2015,86846,349,Petrol,1,Fair,51500
+Suzuki,Burgman Street,2016,66607,125,Petrol,3,Excellent,26000
+Hero,Passion Pro,2015,86667,113,Petrol,2,Excellent,20000
+Honda,Hornet 2.0,2019,57326,184,Petrol,1,Fair,52700
+Honda,Hornet 2.0,2024,18745,184,Petrol,1,Good,110500
+Royal Enfield,Hunter 350,2017,60999,349,Petrol,2,Poor,40200
+Honda,Unicorn,2012,99588,160,Petrol,2,Fair,16100
+Suzuki,Burgman Street,2015,109196,125,Petrol,2,Fair,17100
+Hero,Glamour,2018,80149,125,Petrol,2,Good,30200
+TVS,XL 100,2024,10300,100,Petrol,1,Fair,34400
+TVS,Raider 125,2018,77982,125,Petrol,3,Excellent,27800
+Royal Enfield,Continental GT 650,2019,46264,648,Petrol,2,Fair,132600
+Bajaj,Pulsar 150,2018,34691,150,Petrol,1,Good,45900
+Bajaj,Platina 100,2021,21507,102,Petrol,3,Excellent,36300
+Honda,Activa 6G,2017,73601,110,Petrol,4,Good,18400
+Bajaj,Pulsar NS200,2022,34004,200,Petrol,1,Good,89000
+Bajaj,Platina 100,2016,89309,102,Petrol,1,Good,19700
+Royal Enfield,Himalayan 450,2021,34459,452,Petrol,2,Excellent,174400
+Hero,HF Deluxe,2016,111054,97,Petrol,2,Good,16100
+TVS,Raider 125,2016,47405,125,Electric,1,Good,32600
+TVS,Apache RR 310,2020,60346,312,Petrol,3,Good,94600
+Hero,Xpulse 200,2016,61935,200,Petrol,2,Excellent,46900
+Bajaj,Avenger 220,2014,115645,220,Petrol,2,Excellent,28200
+Hero,Xpulse 200,2010,114223,200,Petrol,2,Excellent,20900
+Hero,Xpulse 200,2018,34692,200,Petrol,3,Good,48900
+KTM,Duke 390,2018,88577,373,Petrol,1,Fair,96700
+Royal Enfield,Himalayan 450,2020,53775,452,Petrol,1,Excellent,162600
+Hero,Xpulse 200,2017,57374,200,Petrol,1,Good,52800
+Suzuki,Gixxer 150,2022,43423,155,Petrol,1,Excellent,87400
+Honda,Hornet 2.0,2016,44692,184,Petrol,3,Fair,30000
+Suzuki,Gixxer 150,2023,32484,155,Petrol,1,Fair,81400
+Honda,Hornet 2.0,2012,123354,184,Petrol,1,Good,23900
+TVS,Apache RR 310,2018,33805,312,Petrol,3,Fair,80200
+Bajaj,Avenger 220,2023,17381,220,Petrol,1,Good,112100
+Bajaj,Avenger 220,2017,89698,220,Petrol,2,Good,40900
+Hero,HF Deluxe,2016,87935,97,Petrol,2,Fair,14400
+Bajaj,Avenger 220,2012,85612,220,Petrol,2,Good,25000
+Yamaha,R15 V4,2022,38721,155,Petrol,2,Fair,80000
+Hero,HF Deluxe,2010,99202,97,Petrol,2,Good,12000
+TVS,Raider 125,2012,123375,125,Electric,1,Good,15800
+Honda,Activa 6G,2022,15930,110,Petrol,1,Excellent,62000
+Royal Enfield,Himalayan 450,2020,42192,452,Petrol,1,Good,149800
+TVS,Apache RR 310,2016,39417,312,Petrol,2,Fair,67400
+Hero,Splendor Plus,2023,5705,97,Petrol,1,Fair,50000
+Bajaj,Pulsar 150,2021,32333,150,Petrol,1,Good,64600
+Royal Enfield,Classic 350,2017,58091,349,Petrol,1,Good,84600
+Yamaha,FZ-S FI,2010,66245,149,Petrol,3,Fair,14200
+Hero,Splendor Plus,2019,54103,97,Petrol,1,Good,35000
+Hero,HF Deluxe,2021,49380,97,Petrol,3,Poor,18700
+Royal Enfield,Continental GT 650,2020,61847,648,Petrol,1,Good,182800
+Royal Enfield,Himalayan 450,2019,30889,452,Petrol,2,Fair,119400
+Hero,Passion Pro,2020,37247,113,Petrol,1,Fair,36200
+TVS,Apache RTR 160,2021,46820,160,Petrol,1,Fair,56500
+Hero,Xpulse 200,2015,104577,200,Petrol,4,Good,26000
+Hero,Glamour,2020,32630,125,Petrol,2,Good,39500
+Bajaj,Pulsar 150,2023,30564,150,Petrol,1,Good,76500
+Bajaj,Platina 100,2014,89485,102,Petrol,1,Excellent,18700
+Honda,Activa 6G,2020,51627,110,Petrol,2,Excellent,38200
+TVS,Apache RR 310,2019,38709,312,Petrol,2,Excellent,123200
+KTM,Duke 200,2016,69928,200,Petrol,2,Poor,36800
+TVS,Apache RR 310,2016,98516,312,Petrol,1,Good,79600
+Hero,Splendor Plus,2019,66967,97,Petrol,2,Fair,24700
+Honda,Dio,2019,52159,110,Petrol,3,Excellent,26800
+Honda,Hornet 2.0,2016,75050,184,Petrol,2,Poor,27000
+Honda,Hornet 2.0,2018,32322,184,Petrol,2,Poor,35600
+Hero,Glamour,2019,50118,125,Petrol,1,Good,39100
+Bajaj,Platina 100,2020,56364,102,Petrol,1,Excellent,35700
+KTM,Duke 390,2024,15468,373,Petrol,1,Good,243700
+Royal Enfield,Bullet 350,2019,49234,349,Petrol,1,Good,94400
+TVS,Apache RTR 160,2020,66634,160,Petrol,1,Poor,38200
+Yamaha,R15 V4,2015,87774,155,Petrol,2,Good,44800
+Bajaj,Avenger 220,2015,97789,220,Petrol,4,Good,23200
+Honda,Activa 6G,2017,86431,110,Petrol,1,Fair,20800
+Hero,Xpulse 200,2017,44374,200,Petrol,1,Poor,39800
+Suzuki,Gixxer 150,2020,45580,155,Petrol,2,Good,56700
+Honda,Unicorn,2021,55801,160,Petrol,1,Excellent,67100
+Bajaj,Platina 100,2022,28014,102,Petrol,2,Good,35300
+TVS,Apache RR 310,2021,37582,312,Electric,1,Good,147500
+Honda,Activa 6G,2023,34546,110,Petrol,3,Excellent,44500
+TVS,Jupiter,2010,110287,110,Petrol,2,Poor,12000
+Hero,Glamour,2018,73962,125,Petrol,3,Excellent,27700
+Bajaj,Pulsar NS200,2015,57692,200,Electric,1,Fair,37600
+Hero,Glamour,2025,8896,125,Petrol,2,Good,72500
+Bajaj,Avenger 220,2021,33268,220,Petrol,1,Excellent,90300
+Hero,Splendor Plus,2020,61180,97,Petrol,1,Excellent,41500
+Yamaha,Aerox 155,2020,52907,155,Petrol,2,Excellent,70000
+Hero,Splendor Plus,2017,61829,97,Petrol,1,Fair,24100
+Royal Enfield,Continental GT 650,2017,62471,648,Petrol,2,Good,108800
+Bajaj,Dominar 400,2020,46028,373,Electric,1,Good,112000
+Hero,HF Deluxe,2019,76597,97,Petrol,1,Good,26400
+Hero,Glamour,2017,43993,125,Petrol,1,Excellent,35800
+Royal Enfield,Himalayan 450,2020,59765,452,Petrol,1,Good,151800
+Royal Enfield,Classic 350,2016,97814,349,Petrol,2,Excellent,65700
+Hero,Splendor Plus,2015,46361,97,Petrol,2,Excellent,23700
+Royal Enfield,Classic 350,2016,70701,349,Petrol,1,Fair,63300
+Bajaj,Pulsar 150,2021,22372,150,Petrol,2,Excellent,65200
+Bajaj,Dominar 400,2021,52754,373,Petrol,1,Poor,81400
+Honda,Unicorn,2015,71009,160,Petrol,3,Good,24700
+Bajaj,Pulsar NS200,2020,22298,200,Petrol,1,Poor,56100
+Honda,Activa 6G,2024,13343,110,Petrol,1,Good,69500
+Bajaj,Dominar 400,2015,117312,373,Petrol,1,Excellent,59000
+TVS,Jupiter,2021,44821,110,Petrol,1,Poor,28300
+Royal Enfield,Classic 350,2015,121140,349,Petrol,1,Poor,35400
+KTM,Duke 390,2011,87386,373,Petrol,1,Excellent,62200
+Yamaha,R15 V4,2016,63294,155,Petrol,1,Good,62400
+Royal Enfield,Classic 350,2018,69012,349,Petrol,1,Fair,74100
+TVS,XL 100,2019,43794,100,Petrol,2,Good,20300
+KTM,RC 200,2021,27645,200,Petrol,1,Fair,105500
+Bajaj,Avenger 220,2021,32679,220,Petrol,1,Good,76800
+Honda,Dio,2022,40980,110,Petrol,3,Fair,31600
+Bajaj,Pulsar NS200,2021,25438,200,Petrol,1,Fair,73600
+Hero,Glamour,2019,43519,125,Petrol,1,Good,41800
+TVS,Raider 125,2020,47410,125,Petrol,1,Poor,32100
+TVS,XL 100,2023,17960,100,Petrol,1,Poor,22900
+TVS,Apache RTR 160,2018,35825,160,Petrol,3,Good,39500
+Honda,Shine 125,2016,61629,125,Petrol,1,Fair,25900
+Hero,Passion Pro,2019,62908,113,Petrol,1,Good,34400
+Suzuki,Gixxer 150,2022,45514,155,Petrol,1,Fair,69500
+Bajaj,Pulsar 150,2022,23198,150,Petrol,1,Fair,60800
+Bajaj,Avenger 220,2022,40550,220,Petrol,1,Excellent,94100
+Hero,Passion Pro,2015,60811,113,Petrol,2,Excellent,26100
+Honda,Unicorn,2014,78214,160,Petrol,2,Good,25700
+TVS,Raider 125,2019,27961,125,Petrol,1,Good,42500
+Honda,Activa 6G,2013,65994,110,Petrol,2,Excellent,19400
+Hero,Passion Pro,2020,28087,113,Petrol,1,Fair,35900
+TVS,XL 100,2015,101308,100,Petrol,2,Fair,12000
+Suzuki,Burgman Street,2015,87674,125,Petrol,2,Good,23500
+Royal Enfield,Himalayan 450,2020,28117,452,Petrol,1,Good,181200
+Honda,Hornet 2.0,2021,29816,184,Petrol,1,Poor,59900
+TVS,Jupiter,2021,22265,110,Petrol,1,Fair,39300
+Hero,Xpulse 200,2023,12567,200,Petrol,1,Poor,75900
+Bajaj,Pulsar 150,2019,37117,150,Petrol,3,Poor,26700
+TVS,XL 100,2020,55393,100,Petrol,1,Good,23700
+Bajaj,Dominar 400,2022,23703,373,Petrol,1,Good,152500
+Honda,Shine 125,2019,63120,125,Petrol,1,Excellent,41300
+Hero,Splendor Plus,2013,67562,97,Petrol,2,Excellent,18500
+Hero,HF Deluxe,2011,70639,97,Petrol,1,Fair,12000
+Hero,HF Deluxe,2023,15824,97,Petrol,1,Excellent,57900
+Royal Enfield,Hunter 350,2022,25121,349,Petrol,1,Fair,102800
+TVS,Apache RTR 160,2011,139672,160,Petrol,2,Good,15500
+Honda,Hornet 2.0,2023,14011,184,Petrol,1,Good,95700
+Yamaha,MT-15,2018,39946,155,Petrol,1,Excellent,73300
+TVS,Jupiter,2016,70044,110,Petrol,2,Good,21400
+Bajaj,Avenger 220,2011,115682,220,Petrol,2,Fair,16300
+Hero,Splendor Plus,2019,72095,97,Petrol,1,Fair,29000
+Royal Enfield,Classic 350,2024,7352,349,Petrol,1,Excellent,224800
+Hero,Splendor Plus,2017,74156,97,Petrol,1,Excellent,28800
+KTM,RC 200,2015,54176,200,Petrol,1,Fair,55400
+TVS,Raider 125,2023,25521,125,Petrol,1,Good,65500
+Bajaj,Platina 100,2021,25657,102,Petrol,1,Excellent,41600
+TVS,Apache RTR 160,2024,6636,160,Petrol,1,Good,98500
+Royal Enfield,Continental GT 650,2020,40116,648,Petrol,1,Good,189500
+TVS,Jupiter,2020,39446,110,Petrol,1,Good,37900
+TVS,Jupiter,2020,28567,110,Petrol,3,Excellent,34700
+TVS,Apache RTR 160,2020,51651,160,Petrol,1,Excellent,63800
+Honda,Dio,2017,45488,110,Petrol,4,Fair,15300
+Royal Enfield,Classic 350,2023,14812,349,Petrol,2,Excellent,166300
+Honda,Unicorn,2020,31559,160,Petrol,1,Excellent,66700
+Royal Enfield,Classic 350,2022,11885,349,Petrol,1,Poor,108300
+Bajaj,Dominar 400,2021,33665,373,Petrol,2,Good,125200
+Royal Enfield,Himalayan 450,2014,92753,452,Petrol,1,Good,75800
+Bajaj,Pulsar NS200,2024,15876,200,Petrol,1,Poor,80000
+Honda,Dio,2024,15061,110,Petrol,2,Good,56000
+Honda,Dio,2020,40776,110,Petrol,1,Fair,34300
+TVS,Jupiter,2014,88756,110,Petrol,1,Fair,16000
+TVS,Jupiter,2019,82402,110,Petrol,1,Poor,21400
+Hero,Glamour,2018,53229,125,Petrol,1,Poor,24800
+Yamaha,MT-15,2018,71046,155,Petrol,1,Good,64400
+TVS,Apache RR 310,2021,40279,312,Petrol,2,Fair,114300
+KTM,RC 200,2024,18485,200,Petrol,1,Excellent,184500
+Hero,Passion Pro,2021,26882,113,Petrol,2,Fair,36100
+Bajaj,Pulsar NS200,2019,58054,200,Petrol,1,Good,66400
+Hero,Passion Pro,2017,51472,113,Petrol,4,Fair,17300
+KTM,Duke 390,2018,49196,373,Petrol,4,Fair,70600
+Honda,Dio,2022,37252,110,Petrol,1,Poor,30900
+TVS,Apache RTR 160,2016,108183,160,Petrol,1,Fair,27600
+Hero,HF Deluxe,2020,28292,97,Petrol,2,Excellent,32600
+Bajaj,Avenger 220,2018,75680,220,Petrol,1,Excellent,56300
+Bajaj,Pulsar 150,2018,70129,150,Petrol,1,Fair,36900
+Hero,Xpulse 200,2024,15615,200,Petrol,1,Good,107700
+Bajaj,Pulsar NS200,2015,118198,200,Petrol,2,Good,29600
+Honda,Dio,2019,64071,110,Petrol,1,Good,34100
+Suzuki,Gixxer 150,2021,38292,155,Petrol,2,Good,63800
+Royal Enfield,Himalayan 450,2012,111379,452,Petrol,2,Good,48200
+Bajaj,Avenger 220,2023,6977,220,Petrol,1,Good,104800
+Honda,Hornet 2.0,2013,100685,184,Petrol,2,Fair,22000
+Honda,Hornet 2.0,2013,125281,184,Petrol,2,Excellent,25200
+Honda,Hornet 2.0,2021,38411,184,Petrol,3,Fair,48600
+Hero,Xpulse 200,2024,15139,200,Petrol,1,Good,122500
+TVS,XL 100,2020,51923,100,Petrol,1,Good,23500
+Honda,Unicorn,2022,40314,160,Petrol,2,Fair,48500
+Honda,Dio,2017,53659,110,Petrol,2,Good,24200
+Honda,Hornet 2.0,2024,10858,184,Petrol,1,Good,116000
+Bajaj,Avenger 220,2016,80470,220,Petrol,1,Good,40600
+Bajaj,Dominar 400,2021,54569,373,Petrol,2,Poor,66500
+Honda,Hornet 2.0,2023,26215,184,Petrol,1,Good,96100
+Bajaj,Dominar 400,2021,36644,373,Petrol,3,Poor,69800
+Yamaha,R15 V4,2014,61744,155,Petrol,3,Fair,29200
+Royal Enfield,Bullet 350,2021,33922,349,Petrol,2,Fair,86400
+Hero,Glamour,2016,88105,125,Petrol,1,Good,28300
+Royal Enfield,Bullet 350,2012,56465,349,Petrol,3,Excellent,39400
+Bajaj,Pulsar NS200,2012,90634,200,Electric,1,Fair,24600
+Royal Enfield,Bullet 350,2015,100096,349,Petrol,1,Good,52400
+Hero,Passion Pro,2013,107225,113,Petrol,2,Excellent,15700
+Hero,Xpulse 200,2017,71537,200,Petrol,1,Excellent,57000
+Suzuki,Gixxer 150,2022,37644,155,Petrol,1,Poor,57700
+Royal Enfield,Hunter 350,2023,30680,349,Petrol,1,Good,132300
+Hero,Xpulse 200,2022,38160,200,Petrol,1,Fair,79600
+Royal Enfield,Classic 350,2017,39775,349,Petrol,1,Excellent,100500
+Honda,Unicorn,2017,61072,160,Petrol,3,Good,29200
+Honda,Shine 125,2015,72967,125,Petrol,1,Fair,20700
+TVS,XL 100,2024,22435,100,Petrol,2,Poor,23900
+Royal Enfield,Continental GT 650,2017,87790,648,Petrol,1,Excellent,136000
+Yamaha,FZ-S FI,2016,66845,149,Petrol,1,Excellent,42500
+Bajaj,Pulsar 150,2025,1000,150,Petrol,1,Excellent,105500
+Honda,Activa 6G,2016,42771,110,Petrol,3,Good,22300
+Royal Enfield,Classic 350,2021,28709,349,Petrol,1,Good,137300
+Honda,Activa 6G,2019,23466,110,Petrol,3,Good,29700
+Hero,HF Deluxe,2017,86291,97,Petrol,1,Fair,17500
+Bajaj,Dominar 400,2018,68132,373,Petrol,2,Good,73200
+TVS,XL 100,2016,54707,100,Petrol,1,Poor,12000
+Bajaj,Platina 100,2020,28418,102,Petrol,3,Good,26900
+Honda,Shine 125,2022,35067,125,Petrol,1,Excellent,57000
+Hero,Passion Pro,2024,20331,113,Petrol,1,Excellent,68400
+Bajaj,Avenger 220,2015,108222,220,Petrol,2,Good,30800
+Bajaj,Dominar 400,2013,100937,373,Petrol,3,Good,35500
+TVS,Jupiter,2017,42943,110,Petrol,1,Excellent,31200
+Honda,Hornet 2.0,2015,64840,184,Petrol,1,Excellent,45000
+Hero,Splendor Plus,2015,84373,97,Petrol,2,Good,17500
+Hero,Splendor Plus,2022,14474,97,Petrol,1,Fair,43200
+Hero,HF Deluxe,2024,8376,97,Petrol,1,Fair,45400
+Bajaj,Platina 100,2012,140000,102,Petrol,2,Good,12000
+Bajaj,Platina 100,2015,47574,102,Petrol,3,Good,16100
+TVS,Raider 125,2021,43741,125,Petrol,1,Good,52800
+Honda,Shine 125,2019,47384,125,Petrol,2,Good,33400
+Bajaj,Pulsar 150,2010,112343,150,Petrol,1,Fair,13600
+Hero,Splendor Plus,2021,47431,97,Petrol,2,Excellent,41800
+Honda,Activa 6G,2012,65027,110,Petrol,2,Good,16300
+Royal Enfield,Continental GT 650,2025,12261,648,Petrol,1,Good,311600
+KTM,Duke 200,2016,92532,200,Petrol,3,Fair,38100
+Bajaj,Pulsar NS200,2011,103105,200,Petrol,2,Fair,18500
+Hero,Splendor Plus,2016,71423,97,Petrol,1,Good,24900
+Hero,Xpulse 200,2012,107043,200,Petrol,3,Good,20500
+Honda,Dio,2023,31116,110,Petrol,2,Good,47500
+KTM,Duke 200,2022,26943,200,Petrol,2,Good,107600
+Honda,Dio,2022,20769,110,Petrol,2,Excellent,50100
+Hero,Splendor Plus,2022,36750,97,Petrol,1,Good,49900
+Bajaj,Avenger 220,2020,62986,220,Petrol,1,Good,62900
+Bajaj,Pulsar 150,2020,42355,150,Petrol,1,Good,56600
+TVS,Apache RR 310,2019,63052,312,Petrol,2,Excellent,109600
+Hero,Splendor Plus,2021,31613,97,Petrol,1,Good,44200
+Hero,Glamour,2013,109396,125,Petrol,1,Good,16800
+Hero,Splendor Plus,2015,80022,97,Petrol,1,Fair,18400
+TVS,Raider 125,2019,52369,125,Petrol,1,Excellent,45400
+Honda,Unicorn,2021,23030,160,Petrol,1,Excellent,74400
+Bajaj,Pulsar 150,2020,64458,150,Petrol,2,Excellent,49700
+Bajaj,Pulsar 150,2022,45552,150,Petrol,1,Good,66500
+Hero,Passion Pro,2012,66661,113,Petrol,1,Good,17300
+Suzuki,Access 125,2020,45703,124,Petrol,1,Fair,33600
+Hero,Splendor Plus,2015,70152,97,Petrol,1,Good,21000
+Hero,Passion Pro,2017,47570,113,Petrol,1,Excellent,33400
+Hero,Passion Pro,2013,100987,113,Petrol,3,Good,12700
+Yamaha,R15 V4,2021,41086,155,Petrol,1,Good,108700
+Bajaj,Dominar 400,2020,44867,373,Petrol,1,Fair,94700
+Hero,HF Deluxe,2019,58098,97,Petrol,2,Excellent,28200
+Royal Enfield,Himalayan 450,2018,62347,452,Petrol,1,Good,124100
+Royal Enfield,Bullet 350,2012,111752,349,Petrol,1,Poor,25900
+Honda,Activa 6G,2019,76765,110,Petrol,2,Poor,19600
+Royal Enfield,Continental GT 650,2018,75679,648,Petrol,1,Good,142400
+Honda,Activa 6G,2014,89471,110,Petrol,2,Excellent,17700
+KTM,Duke 200,2019,31127,200,Petrol,2,Good,81200
+Honda,Hornet 2.0,2023,22921,184,Petrol,1,Excellent,116000
+Hero,Xpulse 200,2021,12533,200,Petrol,2,Excellent,91200
+Bajaj,Avenger 220,2018,42691,220,Petrol,1,Good,60500
+Hero,Passion Pro,2022,32322,113,Petrol,1,Good,54900
+Hero,Glamour,2012,69058,125,Petrol,2,Poor,12000
+Honda,Hornet 2.0,2023,32908,184,Petrol,1,Excellent,106100
+Suzuki,Access 125,2012,81215,124,Petrol,3,Excellent,14500
+Hero,Splendor Plus,2021,33992,97,Petrol,1,Good,44100
+Honda,Unicorn,2021,41129,160,Petrol,1,Excellent,69900
+Hero,Glamour,2021,21874,125,Petrol,2,Fair,39400
+Bajaj,Platina 100,2019,31772,102,Petrol,3,Excellent,27600
+TVS,Apache RR 310,2019,30856,312,Petrol,2,Fair,101500
+KTM,Duke 390,2021,49102,373,Petrol,1,Fair,132500
+Hero,Splendor Plus,2013,85079,97,Petrol,1,Excellent,18800
+Bajaj,Platina 100,2019,71696,102,Petrol,1,Excellent,30800
+Hero,Xpulse 200,2023,27867,200,Petrol,1,Excellent,114300
+Hero,Xpulse 200,2017,91204,200,Petrol,2,Poor,29000
+TVS,Apache RTR 160,2015,68708,160,Petrol,1,Good,31800
+Hero,Splendor Plus,2024,16583,97,Petrol,2,Good,47700
+Honda,Unicorn,2018,37923,160,Petrol,2,Excellent,48600
+Bajaj,Dominar 400,2019,61380,373,Petrol,2,Good,87500
+Honda,Activa 6G,2019,27169,110,Petrol,2,Fair,29000
+TVS,XL 100,2014,49683,100,Petrol,1,Good,13600
+Honda,Shine 125,2023,13926,125,Petrol,1,Good,60000
+Yamaha,MT-15,2020,38158,155,Petrol,1,Good,85700
+Bajaj,Avenger 220,2023,17605,220,Petrol,1,Good,97200
+Yamaha,MT-15,2020,48061,155,Petrol,1,Excellent,86500
+Honda,Shine 125,2020,45783,125,Petrol,2,Excellent,43500
+Yamaha,MT-15,2020,54162,155,Petrol,1,Good,83500
+Honda,Unicorn,2010,127496,160,Petrol,1,Fair,12500
+Bajaj,Avenger 220,2015,85240,220,Petrol,1,Good,35000
+Honda,Unicorn,2019,33084,160,Petrol,2,Fair,42000
+TVS,Apache RTR 160,2020,66620,160,Petrol,1,Excellent,62400
+TVS,Jupiter,2017,63169,110,Petrol,2,Good,22100
+Honda,Unicorn,2018,70729,160,Petrol,1,Good,40300
+Hero,Glamour,2020,61085,125,Petrol,2,Excellent,40500
+Bajaj,Pulsar NS200,2022,28017,200,Petrol,1,Excellent,108400
+TVS,Apache RR 310,2014,85515,312,Petrol,3,Good,50500
+TVS,Apache RR 310,2018,35840,312,Petrol,1,Fair,99500
+Royal Enfield,Classic 350,2020,35361,349,Petrol,2,Good,106900
+Royal Enfield,Continental GT 650,2010,135191,648,Petrol,2,Excellent,51100
+Suzuki,Burgman Street,2019,55866,125,Petrol,3,Poor,21100
+Bajaj,Platina 100,2018,62672,102,Petrol,3,Good,20100
+KTM,Duke 200,2018,76507,200,Petrol,1,Excellent,79500
+TVS,Apache RTR 160,2021,35869,160,Petrol,1,Good,65500
+Royal Enfield,Continental GT 650,2021,39213,648,Petrol,1,Excellent,244300
+Royal Enfield,Bullet 350,2021,33801,349,Petrol,1,Excellent,122300
+Hero,Passion Pro,2024,19702,113,Petrol,1,Fair,54400
+Bajaj,Pulsar 150,2018,68925,150,Petrol,1,Good,41800
+TVS,Raider 125,2018,72432,125,Petrol,2,Good,31600
+TVS,Apache RR 310,2017,98662,312,Petrol,2,Excellent,91100
+Suzuki,Burgman Street,2020,62155,125,Petrol,1,Fair,37600
+Honda,Dio,2020,26053,110,Petrol,1,Excellent,44800
+Hero,HF Deluxe,2023,20921,97,Petrol,1,Good,49800
+Royal Enfield,Bullet 350,2017,49780,349,Petrol,3,Poor,38800
+Royal Enfield,Hunter 350,2019,38697,349,Petrol,1,Fair,71500
+Bajaj,Pulsar NS200,2022,18135,200,Petrol,1,Fair,84300
+Hero,Xpulse 200,2016,81931,200,Petrol,1,Good,43200
+Suzuki,Burgman Street,2019,72459,125,Petrol,4,Good,25900
+Hero,HF Deluxe,2018,41555,97,Petrol,1,Good,27200
+Honda,Dio,2016,109887,110,Petrol,1,Good,19500
+TVS,Jupiter,2014,115226,110,Petrol,2,Fair,12700
+Honda,Hornet 2.0,2021,40504,184,Petrol,1,Good,82200
+Suzuki,Access 125,2023,17964,124,Petrol,1,Good,59800
+Bajaj,Avenger 220,2019,60010,220,Petrol,1,Fair,54300
+TVS,Apache RR 310,2018,75452,312,Petrol,1,Good,98000
+Honda,Shine 125,2021,29008,125,Petrol,1,Good,51000
+Royal Enfield,Bullet 350,2018,37936,349,Petrol,2,Poor,52400
+Honda,Activa 6G,2020,58994,110,Petrol,1,Good,38300
+Honda,Unicorn,2022,25955,160,Petrol,1,Good,74600
+Bajaj,Pulsar NS200,2016,41932,200,Petrol,1,Excellent,59400
+Bajaj,Platina 100,2016,68384,102,Petrol,2,Good,17200
+Hero,Splendor Plus,2021,29011,97,Petrol,1,Good,43000
+Honda,Shine 125,2017,43760,125,Petrol,2,Good,28300
+Honda,Unicorn,2019,58934,160,Petrol,3,Good,36900
+Honda,Activa 6G,2015,45057,110,Petrol,1,Excellent,27400
+Honda,Unicorn,2019,76280,160,Petrol,3,Good,33200
+Hero,Xpulse 200,2015,90713,200,Petrol,3,Good,27100
+Hero,Glamour,2016,110244,125,Petrol,1,Excellent,24400
+Hero,Passion Pro,2020,27745,113,Petrol,1,Excellent,45300
+Bajaj,Pulsar NS200,2019,34546,200,Petrol,1,Good,70400
+TVS,XL 100,2021,23614,100,Petrol,1,Fair,25100
+TVS,Apache RTR 160,2021,36937,160,Petrol,1,Excellent,73600
+Hero,Splendor Plus,2019,43456,97,Petrol,3,Fair,23500
+TVS,Raider 125,2018,41940,125,Petrol,3,Good,29500
+Bajaj,Avenger 220,2022,25447,220,Petrol,1,Excellent,98900
+Bajaj,Platina 100,2017,78788,102,Petrol,1,Fair,17400
+TVS,Apache RR 310,2011,107006,312,Petrol,2,Good,40500
+Bajaj,Avenger 220,2018,80067,220,Petrol,1,Excellent,57000
+Honda,Shine 125,2017,95923,125,Petrol,2,Excellent,27400
+Honda,Dio,2021,22927,110,Petrol,1,Good,46400
+Bajaj,Dominar 400,2019,65037,373,Petrol,2,Good,82700

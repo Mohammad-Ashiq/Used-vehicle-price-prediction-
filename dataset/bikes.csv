@@ -1,0 +1,2501 @@
+brand,model,year,km_driven,fuel_type,owners,condition,engine_cc,location,price
+TVS,Raider 125,2013,70266,Petrol,1st Owner,Good,125,Tripura,33700
+Aprilia,SR 125,2017,74042,Petrol,2nd Owner,Good,160,Ladakh,80700
+Simple Energy,Simple One,2018,50086,Electric,2nd Owner,Good,110,Dadra and Nagar Haveli and Daman and Diu,52200
+Ola Electric,S1 Air,2021,49504,Electric,1st Owner,Excellent,110,Manipur,76200
+Ultraviolette,F77 Recon,2019,60948,Electric,1st Owner,Good,250,Puducherry,211400
+Aprilia,SXR 160,2012,105940,Petrol,2nd Owner,Poor,160,Chandigarh,37100
+KTM,200 Duke,2020,25324,Petrol,1st Owner,Good,250,Punjab,154400
+Triumph,Tiger 900,2021,44261,Petrol,1st Owner,Excellent,400,Assam,226600
+Ather Energy,450S,2013,86161,Electric,1st Owner,Good,110,Punjab,44200
+Jawa,Jawa 350,2011,120000,Petrol,1st Owner,Good,334,Jammu and Kashmir,50200
+Ola Electric,S1 X 3kWh,2021,44589,Electric,1st Owner,Fair,110,West Bengal,69700
+Triumph,Tiger 900,2014,117366,Petrol,1st Owner,Poor,400,Puducherry,61100
+Benelli,502C,2024,12843,Petrol,1st Owner,Fair,374,Maharashtra,231500
+BMW Motorrad,G 310 R,2024,18420,Petrol,1st Owner,Fair,313,Madhya Pradesh,306200
+Hero MotoCorp,Mavrick 440,2018,58248,Petrol,1st Owner,Excellent,110,Madhya Pradesh,46800
+Aprilia,SR 160,2014,115736,Petrol,1st Owner,Excellent,160,Puducherry,71300
+Tork Motors,Kratos R,2014,59262,Electric,1st Owner,Fair,125,Uttar Pradesh,50200
+Yamaha,Fascino 125,2022,34427,Petrol,1st Owner,Good,155,Jharkhand,95100
+Husqvarna,Svartpilen 250,2013,74090,Petrol,1st Owner,Good,250,Sikkim,70200
+Ather Energy,450S,2016,65868,Electric,4th Owner & Above,Excellent,110,Jharkhand,41100
+Ducati,Monster,2012,77240,Petrol,1st Owner,Fair,803,Telangana,288100
+Benelli,Leoncino 500,2013,63661,Petrol,3rd Owner,Good,374,Jharkhand,70600
+Simple Energy,Simple One,2016,45719,Electric,1st Owner,Excellent,110,Jharkhand,77800
+Vespa,SXL 125,2021,23337,Petrol,1st Owner,Good,125,Tamil Nadu,96900
+Hero MotoCorp,Xpulse 200 4V,2016,91037,Petrol,1st Owner,Excellent,110,Uttarakhand,32600
+Triumph,Tiger 900,2018,58545,Petrol,2nd Owner,Excellent,400,Maharashtra,116100
+Royal Enfield,Continental GT 650,2014,92914,Petrol,1st Owner,Fair,349,Assam,66400
+Yamaha,R15 V4,2017,79859,Petrol,2nd Owner,Fair,155,West Bengal,47200
+Ather Energy,450X Gen 3,2021,26761,Electric,1st Owner,Fair,110,Arunachal Pradesh,68300
+BMW Motorrad,F 900 XR,2021,51005,Petrol,3rd Owner,Excellent,313,Sikkim,173600
+Yamaha,FZ-S FI,2020,56551,Petrol,1st Owner,Good,155,Dadra and Nagar Haveli and Daman and Diu,74200
+TVS,Ntorq 125,2012,104078,Petrol,1st Owner,Good,125,Manipur,24900
+Revolt Motors,RV400,2013,99595,Electric,1st Owner,Excellent,110,Andhra Pradesh,44700
+KTM,200 Duke,2013,68191,Petrol,2nd Owner,Fair,250,Himachal Pradesh,55300
+Aprilia,SR 125,2018,69660,Petrol,2nd Owner,Excellent,160,Puducherry,111500
+Simple Energy,Simple Dot One,2019,68456,Electric,1st Owner,Excellent,110,Ladakh,92900
+Simple Energy,Simple One,2013,88175,Electric,1st Owner,Excellent,110,Uttarakhand,56200
+Jawa,42 Bobber,2015,77463,Petrol,1st Owner,Fair,334,Arunachal Pradesh,56600
+Kawasaki,Z650,2021,31978,Petrol,1st Owner,Good,400,Maharashtra,267100
+BMW Motorrad,G 310 RR,2019,68101,Petrol,1st Owner,Fair,313,Nagaland,163100
+Benelli,Leoncino 500,2024,11370,Petrol,1st Owner,Good,374,Jammu and Kashmir,294400
+Royal Enfield,Super Meteor 650,2017,68394,Petrol,1st Owner,Good,349,Jharkhand,110100
+Ultraviolette,F77 Mach 2,2023,20275,Electric,1st Owner,Excellent,250,Delhi NCR,340100
+Aprilia,SXR 160,2017,77937,Petrol,1st Owner,Good,160,Chhattisgarh,83400
+Revolt Motors,RV400 BRZ,2018,81840,Electric,1st Owner,Excellent,110,Chandigarh,61700
+Suzuki,Burgman Street,2023,27761,Petrol,1st Owner,Good,125,Telangana,99000
+Kawasaki,Ninja 300,2023,15631,Petrol,1st Owner,Good,400,Mizoram,415400
+Aprilia,SXR 160,2022,19848,Petrol,1st Owner,Good,160,Uttar Pradesh,140400
+TVS,Raider 125,2018,55846,Petrol,3rd Owner,Good,125,Odisha,34200
+KTM,RC 200,2019,56245,Petrol,1st Owner,Good,250,Jharkhand,119700
+Harley-Davidson,Nightster,2011,90746,Petrol,1st Owner,Fair,440,Andhra Pradesh,72400
+Benelli,Imperiale 400,2018,61101,Petrol,2nd Owner,Excellent,374,Bihar,172700
+Ultraviolette,F77 Recon,2013,110235,Electric,1st Owner,Good,250,Kerala,102100
+Hero MotoCorp,Mavrick 440,2018,52992,Petrol,1st Owner,Excellent,110,Chandigarh,40200
+Revolt Motors,RV1,2016,82872,Electric,1st Owner,Good,110,Andaman and Nicobar Islands,55000
+Kawasaki,Eliminator 500,2016,52733,Petrol,2nd Owner,Good,400,Mizoram,185000
+Yamaha,FZ-S FI,2017,53744,Petrol,2nd Owner,Good,155,Assam,56000
+Ultraviolette,F77 Recon,2014,69911,Electric,4th Owner & Above,Good,250,Andaman and Nicobar Islands,70100
+Tork Motors,Kratos Urban,2023,29532,Electric,1st Owner,Excellent,125,Tripura,152600
+Hero MotoCorp,Destini 125,2018,73040,Petrol,1st Owner,Good,110,Assam,36500
+Aprilia,SR 160,2017,65190,Petrol,1st Owner,Good,160,Jammu and Kashmir,102200
+Triumph,Bonneville T100,2015,96170,Petrol,1st Owner,Excellent,400,Arunachal Pradesh,111400
+Ather Energy,Rizta,2015,70650,Electric,1st Owner,Good,110,Gujarat,43300
+TVS,Jupiter 125,2011,120000,Petrol,2nd Owner,Fair,125,Lakshadweep,19500
+Ultraviolette,F77 Recon,2020,48922,Electric,1st Owner,Excellent,250,Karnataka,264100
+Jawa,Jawa Perak,2021,30564,Petrol,1st Owner,Good,334,Nagaland,119900
+Vespa,VXL 125,2011,120000,Petrol,2nd Owner,Excellent,125,Tamil Nadu,36200
+Benelli,TRK 502,2024,15169,Petrol,1st Owner,Good,374,Dadra and Nagar Haveli and Daman and Diu,251200
+Vespa,VXL 125,2013,120000,Petrol,2nd Owner,Good,125,Mizoram,36400
+Vespa,VXL 150,2017,37963,Petrol,1st Owner,Good,125,Gujarat,63600
+Vespa,VXL 150,2023,29154,Petrol,1st Owner,Good,125,Delhi NCR,114600
+Honda,CB300R,2023,18921,Petrol,1st Owner,Good,125,West Bengal,67700
+Aprilia,Tuono 660,2018,63471,Petrol,1st Owner,Good,160,Odisha,114300
+Aprilia,SR 160,2023,18585,Petrol,1st Owner,Excellent,160,Himachal Pradesh,236700
+Ather Energy,450S,2011,120000,Electric,1st Owner,Good,110,Sikkim,30600
+Bajaj,Avenger Cruise 220,2015,70870,Petrol,1st Owner,Excellent,160,Nagaland,57800
+Aprilia,SR 160,2018,63681,Petrol,2nd Owner,Excellent,160,Haryana,122300
+Bajaj,Pulsar N250,2023,23058,Petrol,2nd Owner,Excellent,160,Bihar,104700
+BMW Motorrad,G 310 R,2016,79871,Petrol,2nd Owner,Poor,313,Gujarat,94000
+Royal Enfield,Bullet 350,2015,61135,Petrol,2nd Owner,Poor,349,Kerala,62600
+Revolt Motors,RV1,2018,37890,Electric,1st Owner,Excellent,110,Chandigarh,78600
+Jawa,Jawa Perak,2012,120000,Petrol,1st Owner,Excellent,334,Andhra Pradesh,52100
+Yamaha,FZ 25,2019,61038,Petrol,1st Owner,Excellent,155,Punjab,98300
+Aprilia,SR 160,2017,51240,Petrol,2nd Owner,Excellent,160,Ladakh,105900
+Yamaha,FZ 25,2013,79714,Petrol,1st Owner,Good,155,Lakshadweep,47600
+Ather Energy,450X Gen 3,2016,93504,Electric,1st Owner,Fair,110,Ladakh,50500
+Yamaha,FZ 25,2013,120000,Petrol,4th Owner & Above,Good,155,Assam,26300
+Honda,Shine 125,2014,110131,Petrol,1st Owner,Good,125,Chandigarh,23300
+Simple Energy,Simple One,2013,120000,Electric,1st Owner,Good,110,West Bengal,36600
+Royal Enfield,Continental GT 650,2022,30089,Petrol,1st Owner,Good,349,Sikkim,182200
+Royal Enfield,Super Meteor 650,2017,92893,Petrol,1st Owner,Good,349,Dadra and Nagar Haveli and Daman and Diu,105900
+KTM,RC 390,2012,120000,Petrol,1st Owner,Good,250,Manipur,56100
+Revolt Motors,RV400 BRZ,2023,30445,Electric,2nd Owner,Good,110,Sikkim,97100
+Yamaha,R15 V4,2013,120000,Petrol,1st Owner,Good,155,Assam,45900
+Triumph,Scrambler 400 X,2016,85222,Petrol,1st Owner,Excellent,400,Chandigarh,119200
+Revolt Motors,RV1,2013,99221,Electric,2nd Owner,Fair,110,Arunachal Pradesh,30000
+Yamaha,R15M,2022,41627,Petrol,1st Owner,Fair,155,Ladakh,76200
+Husqvarna,Svartpilen 401,2020,57216,Petrol,4th Owner & Above,Good,250,Odisha,82200
+Ducati,Multistrada V4,2019,65136,Petrol,2nd Owner,Good,803,Odisha,631200
+Revolt Motors,RV400 BRZ,2017,86382,Electric,1st Owner,Good,110,Punjab,48600
+Kawasaki,Z900,2015,95969,Petrol,2nd Owner,Excellent,400,Kerala,167000
+Bajaj,Avenger Cruise 220,2019,55705,Petrol,1st Owner,Good,160,Arunachal Pradesh,61100
+Ducati,Scrambler Icon,2020,35674,Petrol,2nd Owner,Good,803,Nagaland,594300
+Ducati,Panigale V2,2017,40518,Petrol,1st Owner,Excellent,1303,Himachal Pradesh,1588800
+Honda,Shine 125,2014,90582,Petrol,1st Owner,Good,125,Jammu and Kashmir,32900
+Tork Motors,Kratos Urban,2014,68535,Electric,1st Owner,Excellent,125,Puducherry,53700
+Bajaj,Pulsar 150,2011,120000,Petrol,1st Owner,Good,160,Madhya Pradesh,31300
+BMW Motorrad,G 310 R,2021,35158,Petrol,2nd Owner,Excellent,313,Rajasthan,216200
+Jawa,Jawa Perak,2016,72426,Petrol,2nd Owner,Excellent,334,Delhi NCR,84300
+Triumph,Bonneville T100,2016,43895,Petrol,2nd Owner,Excellent,400,Tripura,124300
+Husqvarna,Svartpilen 401,2012,83688,Petrol,2nd Owner,Fair,250,Chhattisgarh,45000
+Ola Electric,S1 X 3kWh,2022,27466,Electric,2nd Owner,Good,110,Bihar,83000
+Ultraviolette,F77 Mach 2,2012,91379,Electric,2nd Owner,Good,250,Kerala,93000
+Jawa,Jawa Perak,2015,66338,Petrol,1st Owner,Good,334,Himachal Pradesh,70900
+Yezdi,Adventure,2018,44770,Petrol,2nd Owner,Excellent,334,Bihar,117800
+Simple Energy,Simple Dot One,2014,65154,Electric,2nd Owner,Good,110,Odisha,47000
+Harley-Davidson,X440,2013,102449,Petrol,1st Owner,Excellent,440,Arunachal Pradesh,140800
+Bajaj,Pulsar N160,2012,120000,Petrol,1st Owner,Fair,160,Karnataka,31900
+Ather Energy,450 Apex,2011,120000,Electric,2nd Owner,Good,110,Mizoram,27600
+Revolt Motors,RV400,2016,59181,Electric,1st Owner,Good,110,Haryana,57000
+Harley-Davidson,Iron 883,2019,60714,Petrol,1st Owner,Good,440,West Bengal,196100
+BMW Motorrad,S 1000 RR,2012,73550,Petrol,2nd Owner,Excellent,813,Haryana,331600
+Tork Motors,Kratos R,2022,35995,Electric,4th Owner & Above,Excellent,125,Odisha,85700
+Harley-Davidson,Street 750,2020,46332,Petrol,1st Owner,Good,440,Chhattisgarh,200100
+Ultraviolette,F77 Recon,2016,50935,Electric,1st Owner,Good,250,Assam,141800
+Bajaj,Dominar 250,2016,66799,Petrol,2nd Owner,Excellent,160,Andaman and Nicobar Islands,49400
+KTM,390 Adventure,2021,33176,Petrol,1st Owner,Fair,250,Chhattisgarh,150800
+Bajaj,Pulsar 150,2014,102343,Petrol,1st Owner,Excellent,160,Jammu and Kashmir,53700
+Benelli,TRK 502X,2024,19849,Petrol,2nd Owner,Good,374,Arunachal Pradesh,219300
+KTM,RC 390,2015,85820,Petrol,3rd Owner,Excellent,250,Ladakh,81000
+Yezdi,Scrambler,2022,30289,Petrol,2nd Owner,Good,334,Chandigarh,113600
+Bajaj,Chetak EV,2022,23592,Electric,2nd Owner,Good,160,Jammu and Kashmir,83700
+Bajaj,Dominar 250,2021,46407,Petrol,1st Owner,Fair,160,Andaman and Nicobar Islands,88100
+Hero MotoCorp,Passion Plus,2020,50472,Petrol,1st Owner,Good,110,Chandigarh,50200
+Jawa,42 Bobber,2020,59927,Petrol,1st Owner,Good,334,Himachal Pradesh,117000
+KTM,RC 200,2011,64067,Petrol,2nd Owner,Good,250,Andhra Pradesh,58500
+Ather Energy,Rizta,2012,80239,Electric,1st Owner,Excellent,110,Maharashtra,46700
+Hero MotoCorp,Xtreme 160R,2019,62861,Petrol,2nd Owner,Good,110,Ladakh,35400
+Ola Electric,S1 Air,2016,77007,Electric,1st Owner,Excellent,110,Ladakh,45200
+Triumph,Bonneville T100,2013,108701,Petrol,1st Owner,Excellent,400,Rajasthan,108200
+TVS,Apache RTR 200 4V,2012,120000,Petrol,2nd Owner,Poor,125,Punjab,18000
+Yamaha,R15 V4,2019,53378,Petrol,2nd Owner,Excellent,155,Madhya Pradesh,74500
+KTM,200 Duke,2022,23670,Petrol,1st Owner,Excellent,250,Uttarakhand,161800
+Kawasaki,Z900,2018,79362,Petrol,1st Owner,Good,400,Goa,202800
+Yezdi,Roadster,2016,62387,Petrol,1st Owner,Good,334,Haryana,74800
+Aprilia,SR 160,2012,69421,Petrol,1st Owner,Excellent,160,Andaman and Nicobar Islands,60200
+TVS,XL100,2014,103185,Petrol,1st Owner,Good,100,Haryana,22300
+Yezdi,Roadster,2017,43176,Petrol,1st Owner,Good,334,Arunachal Pradesh,113600
+Triumph,Street Triple,2015,71422,Petrol,1st Owner,Good,400,Jammu and Kashmir,119900
+Yezdi,Adventure,2024,24200,Petrol,4th Owner & Above,Good,334,Goa,135000
+Hero MotoCorp,Passion Plus,2023,27707,Petrol,1st Owner,Poor,110,Tamil Nadu,42100
+Ducati,Monster,2011,120000,Petrol,3rd Owner,Good,803,Himachal Pradesh,174900
+Tork Motors,Kratos R,2019,47157,Electric,3rd Owner,Good,125,Gujarat,76700
+Simple Energy,Simple Dot One,2023,19929,Electric,1st Owner,Good,110,Bihar,127800
+Triumph,Trident 660,2011,120000,Petrol,1st Owner,Good,400,Goa,71800
+Jawa,Jawa 350,2012,76088,Petrol,2nd Owner,Fair,334,Arunachal Pradesh,44000
+Aprilia,SR 160,2014,115600,Petrol,2nd Owner,Excellent,160,Uttarakhand,68600
+Benelli,502C,2021,41797,Petrol,1st Owner,Fair,374,Tamil Nadu,173000
+Ola Electric,S1 X Plus,2016,61962,Electric,4th Owner & Above,Good,110,Dadra and Nagar Haveli and Daman and Diu,29000
+Husqvarna,Vitpilen 250,2013,90696,Petrol,1st Owner,Excellent,250,Uttarakhand,95000
+Simple Energy,Simple One,2018,44049,Electric,1st Owner,Good,110,Rajasthan,76000
+KTM,250 Adventure,2024,14763,Petrol,1st Owner,Excellent,250,Nagaland,245700
+Aprilia,Tuono 660,2012,117429,Petrol,1st Owner,Excellent,160,Andhra Pradesh,65200
+TVS,Apache RTR 160 4V,2020,37843,Petrol,1st Owner,Poor,125,Meghalaya,45700
+Kawasaki,Eliminator 500,2020,36989,Petrol,2nd Owner,Fair,400,Kerala,246500
+Revolt Motors,RV400,2016,90580,Electric,2nd Owner,Fair,110,Madhya Pradesh,33900
+Benelli,TRK 502,2023,22930,Petrol,1st Owner,Good,374,Puducherry,276100
+Suzuki,Access 125,2017,86317,Petrol,1st Owner,Poor,125,Dadra and Nagar Haveli and Daman and Diu,35900
+Bajaj,Pulsar N250,2013,120000,Petrol,1st Owner,Good,160,Chandigarh,38100
+Ultraviolette,F77 Recon,2022,41414,Electric,1st Owner,Excellent,250,Uttarakhand,239200
+Harley-Davidson,Nightster,2017,75805,Petrol,1st Owner,Good,440,Jammu and Kashmir,155700
+Tork Motors,Kratos Urban,2015,59452,Electric,2nd Owner,Good,125,Ladakh,51200
+Revolt Motors,RV400 BRZ,2013,75811,Electric,2nd Owner,Poor,110,Puducherry,27600
+Simple Energy,Simple Dot One,2011,105430,Electric,1st Owner,Excellent,110,Meghalaya,37600
+TVS,Apache RTR 160 4V,2021,45031,Petrol,1st Owner,Poor,125,Karnataka,40400
+Ather Energy,450X Gen 3,2021,36088,Electric,1st Owner,Good,110,Maharashtra,91500
+Suzuki,Gixxer 250,2017,56633,Petrol,2nd Owner,Excellent,125,Gujarat,48700
+Hero MotoCorp,Splendor Plus,2022,31665,Petrol,2nd Owner,Fair,100,Arunachal Pradesh,29600
+KTM,125 Duke,2011,110544,Petrol,2nd Owner,Fair,250,West Bengal,42400
+Ather Energy,450S,2018,74604,Electric,2nd Owner,Good,110,Jammu and Kashmir,48000
+Aprilia,SR 160,2021,43598,Petrol,2nd Owner,Good,160,Uttarakhand,137900
+Yamaha,Aerox 155,2024,15842,Petrol,2nd Owner,Fair,155,Uttar Pradesh,92400
+Royal Enfield,Interceptor 650,2016,81978,Petrol,1st Owner,Excellent,349,Gujarat,106400
+Ather Energy,450 Apex,2020,41037,Electric,2nd Owner,Excellent,110,Sikkim,79900
+Tork Motors,Kratos R,2017,91237,Electric,4th Owner & Above,Excellent,125,Maharashtra,39500
+Simple Energy,Simple Dot One,2015,71602,Electric,1st Owner,Good,110,Meghalaya,53900
+Husqvarna,Svartpilen 250,2018,72447,Petrol,2nd Owner,Excellent,250,Tripura,132700
+Bajaj,Platina 100,2013,104576,Petrol,1st Owner,Good,100,Haryana,27600
+Husqvarna,Svartpilen 401,2023,26766,Petrol,1st Owner,Good,250,Tamil Nadu,179900
+Suzuki,Gixxer SF 250,2023,24070,Petrol,1st Owner,Good,125,Manipur,92400
+Kawasaki,Ninja 400,2016,83466,Petrol,3rd Owner,Good,400,Chandigarh,118100
+KTM,125 Duke,2013,81606,Petrol,1st Owner,Excellent,250,Manipur,83700
+Tork Motors,Kratos R,2022,31587,Electric,1st Owner,Fair,125,Assam,79700
+BMW Motorrad,G 310 R,2014,68838,Petrol,2nd Owner,Good,313,Lakshadweep,105000
+Aprilia,SR 125,2016,67981,Petrol,1st Owner,Good,160,Delhi NCR,95600
+Revolt Motors,RV400,2014,83041,Electric,2nd Owner,Good,110,Telangana,33600
+Ultraviolette,F77 Mach 2,2017,69396,Electric,1st Owner,Poor,250,Tripura,108700
+Husqvarna,Vitpilen 250,2022,37544,Petrol,1st Owner,Good,250,Lakshadweep,167800
+BMW Motorrad,F 900 XR,2017,53918,Petrol,2nd Owner,Good,313,Andaman and Nicobar Islands,153900
+Ola Electric,S1 X Plus,2016,79056,Electric,3rd Owner,Good,110,Puducherry,32900
+Ather Energy,450X Gen 3,2018,64881,Electric,3rd Owner,Good,110,Ladakh,45600
+Ultraviolette,F77 Mach 2,2016,43031,Electric,1st Owner,Good,250,Uttarakhand,136200
+Jawa,Jawa 350,2022,19042,Petrol,1st Owner,Good,334,Ladakh,160300
+Ultraviolette,F77 Mach 2,2018,44902,Electric,1st Owner,Excellent,250,Punjab,200900
+Ather Energy,Rizta,2019,56406,Electric,1st Owner,Good,110,Manipur,65000
+Yamaha,R15M,2018,51905,Petrol,1st Owner,Good,155,Uttar Pradesh,63300
+Ultraviolette,F77 Recon,2020,51018,Electric,1st Owner,Excellent,250,Sikkim,226400
+Harley-Davidson,X440,2020,40674,Petrol,1st Owner,Good,440,Telangana,211400
+Benelli,Imperiale 400,2014,51852,Petrol,2nd Owner,Excellent,374,Jharkhand,118700
+BMW Motorrad,G 310 GS,2017,51929,Petrol,1st Owner,Good,313,Chandigarh,159400
+Husqvarna,Svartpilen 250,2022,25580,Petrol,1st Owner,Good,250,Chhattisgarh,160000
+Yezdi,Roadster,2020,31871,Petrol,1st Owner,Good,334,Uttar Pradesh,146100
+Simple Energy,Simple One,2014,120000,Electric,1st Owner,Excellent,110,Andaman and Nicobar Islands,53000
+Vespa,ZX 125,2014,98898,Petrol,1st Owner,Good,125,Nagaland,44600
+Ducati,Monster,2020,51550,Petrol,1st Owner,Fair,803,Odisha,674300
+Tork Motors,Kratos Urban,2019,34654,Electric,2nd Owner,Fair,125,Nagaland,69300
+Ather Energy,450 Apex,2018,73807,Electric,3rd Owner,Good,110,Puducherry,45300
+Simple Energy,Simple Dot One,2020,27406,Electric,1st Owner,Fair,110,Goa,66400
+BMW Motorrad,F 900 XR,2015,95620,Petrol,1st Owner,Fair,313,Lakshadweep,122500
+BMW Motorrad,G 310 RR,2015,70839,Petrol,1st Owner,Excellent,313,Maharashtra,140300
+Yezdi,Roadster,2011,74662,Petrol,2nd Owner,Good,334,Tripura,52900
+Ola Electric,S1 Air,2014,73967,Electric,1st Owner,Good,110,Sikkim,33300
+TVS,Apache RTR 160 4V,2021,31798,Petrol,1st Owner,Good,125,Andhra Pradesh,77300
+Honda,Shine 125,2015,73857,Petrol,1st Owner,Fair,125,Bihar,26400
+Yezdi,Scrambler,2018,57311,Petrol,1st Owner,Good,334,Goa,102200
+Yamaha,MT-15 V2,2016,46675,Petrol,2nd Owner,Fair,155,Uttar Pradesh,41600
+Jawa,Jawa Perak,2022,39509,Petrol,1st Owner,Good,334,Assam,158500
+Harley-Davidson,X440,2020,33844,Petrol,1st Owner,Good,440,Uttar Pradesh,221100
+KTM,250 Adventure,2011,120000,Petrol,1st Owner,Good,250,Dadra and Nagar Haveli and Daman and Diu,49200
+Aprilia,RS 457,2011,70594,Petrol,2nd Owner,Fair,160,Gujarat,40700
+Bajaj,Pulsar N250,2017,79990,Petrol,1st Owner,Excellent,160,Haryana,63800
+Yezdi,Adventure,2016,44595,Petrol,1st Owner,Excellent,334,Manipur,114400
+Ather Energy,Rizta,2012,102319,Electric,1st Owner,Good,110,Lakshadweep,34900
+Harley-Davidson,Street 750,2020,58453,Petrol,2nd Owner,Fair,440,Puducherry,206100
+Jawa,Jawa 350,2022,21124,Petrol,1st Owner,Good,334,Maharashtra,153500
+Bajaj,Avenger Street 160,2020,41555,Petrol,1st Owner,Fair,160,Mizoram,59800
+Honda,Shine 125,2021,26906,Petrol,1st Owner,Good,125,Tamil Nadu,59900
+Husqvarna,Vitpilen 250,2011,96404,Petrol,2nd Owner,Fair,250,Kerala,43700
+Simple Energy,Simple One,2021,28124,Electric,1st Owner,Poor,110,Telangana,73900
+Ducati,Panigale V2,2012,71585,Petrol,1st Owner,Fair,1303,Chhattisgarh,929800
+TVS,Ronin,2024,19598,Petrol,1st Owner,Good,125,Manipur,97100
+Yamaha,RayZR 125 Fi,2024,21022,Petrol,1st Owner,Fair,155,Bihar,104900
+Royal Enfield,Meteor 350,2015,100218,Petrol,1st Owner,Good,349,Jammu and Kashmir,83000
+TVS,Jupiter 110,2022,26716,Petrol,2nd Owner,Fair,125,Bihar,67200
+Jawa,Jawa 350,2012,65486,Petrol,2nd Owner,Good,334,Andhra Pradesh,49700
+Yezdi,Scrambler,2022,41433,Petrol,1st Owner,Good,334,Uttarakhand,169200
+Vespa,VXL 125,2018,77564,Petrol,2nd Owner,Good,125,Meghalaya,59600
+Ather Energy,450 Apex,2020,56629,Electric,1st Owner,Good,110,Sikkim,72300
+Aprilia,RS 457,2013,108827,Petrol,1st Owner,Good,160,Puducherry,62100
+Ola Electric,S1 X 3kWh,2011,105406,Electric,4th Owner & Above,Excellent,110,Jharkhand,20100
+Ultraviolette,F77 Mach 2,2016,71695,Electric,2nd Owner,Fair,250,Kerala,100700
+Suzuki,Gixxer SF,2023,20371,Petrol,1st Owner,Excellent,125,Assam,94700
+Harley-Davidson,Nightster,2021,34903,Petrol,1st Owner,Good,440,Ladakh,228900
+Hero MotoCorp,Glamour,2021,35057,Petrol,1st Owner,Good,110,Haryana,62900
+Yezdi,Roadster,2019,45790,Petrol,1st Owner,Good,334,Himachal Pradesh,125800
+Yezdi,Adventure,2021,53638,Petrol,1st Owner,Excellent,334,Uttar Pradesh,155700
+Yamaha,Fascino 125,2024,17385,Petrol,1st Owner,Good,155,Delhi NCR,144500
+Suzuki,Burgman Street,2013,79232,Petrol,3rd Owner,Excellent,125,Sikkim,31700
+Yezdi,Roadster,2016,87797,Petrol,1st Owner,Good,334,Chhattisgarh,68300
+TVS,Raider 125,2011,92153,Petrol,1st Owner,Fair,125,Manipur,25900
+Tork Motors,Kratos R,2012,101748,Electric,1st Owner,Excellent,125,Manipur,41400
+Royal Enfield,Meteor 350,2022,34722,Petrol,1st Owner,Fair,349,Nagaland,136200
+Simple Energy,Simple One,2023,31294,Electric,1st Owner,Excellent,110,Arunachal Pradesh,137900
+Vespa,SXL 150,2015,94049,Petrol,1st Owner,Fair,125,Chandigarh,42600
+Benelli,502C,2013,107970,Petrol,2nd Owner,Excellent,374,Haryana,101700
+Aprilia,SR 125,2014,88191,Petrol,2nd Owner,Fair,160,Ladakh,49900
+TVS,Ronin,2011,120000,Petrol,1st Owner,Excellent,125,Uttarakhand,22700
+BMW Motorrad,F 900 XR,2023,30742,Petrol,2nd Owner,Good,313,Dadra and Nagar Haveli and Daman and Diu,280200
+Harley-Davidson,Fat Boy,2017,51322,Petrol,1st Owner,Poor,940,Jharkhand,464700
+Tork Motors,Kratos Urban,2013,78717,Electric,1st Owner,Good,125,Madhya Pradesh,53000
+Bajaj,Platina 110,2021,38459,Petrol,1st Owner,Excellent,100,Meghalaya,79300
+Jawa,Jawa 42,2019,40689,Petrol,1st Owner,Poor,334,Andaman and Nicobar Islands,80000
+Ducati,Multistrada V4,2022,18576,Petrol,1st Owner,Good,803,Rajasthan,1021600
+Aprilia,SXR 160,2021,27384,Petrol,1st Owner,Excellent,160,Maharashtra,148900
+Yezdi,Adventure,2014,59504,Petrol,2nd Owner,Good,334,Gujarat,63200
+Honda,Dio 125,2022,38892,Petrol,2nd Owner,Excellent,125,Andhra Pradesh,71400
+TVS,Jupiter 110,2012,81443,Petrol,1st Owner,Good,125,Tripura,33300
+Jawa,Jawa Perak,2014,66755,Petrol,1st Owner,Good,334,Haryana,66400
+Jawa,Jawa 42,2014,116017,Petrol,3rd Owner,Excellent,334,West Bengal,49700
+BMW Motorrad,G 310 R,2023,14646,Petrol,1st Owner,Excellent,313,Punjab,293000
+Benelli,TRK 502X,2019,61697,Petrol,2nd Owner,Good,374,Ladakh,167200
+Bajaj,Chetak EV,2019,49737,Electric,4th Owner & Above,Fair,160,Himachal Pradesh,45200
+Ather Energy,450S,2015,61093,Electric,3rd Owner,Good,110,Delhi NCR,39700
+Ather Energy,450X Gen 3,2014,65076,Electric,1st Owner,Fair,110,Rajasthan,44900
+Honda,Dio 125,2018,43394,Petrol,1st Owner,Fair,125,Ladakh,32200
+Yezdi,Adventure,2018,59070,Petrol,1st Owner,Good,334,Manipur,102500
+Ducati,Panigale V2,2011,120000,Petrol,3rd Owner,Excellent,1303,Puducherry,743300
+TVS,Apache RTR 160 4V,2021,37646,Petrol,2nd Owner,Excellent,125,Jammu and Kashmir,74000
+Vespa,SXL 125,2023,19470,Petrol,1st Owner,Good,125,Maharashtra,111100
+Suzuki,Access 125,2022,38277,Petrol,4th Owner & Above,Good,125,Karnataka,58300
+Honda,Dio 110,2017,39845,Petrol,1st Owner,Excellent,125,Kerala,45000
+Revolt Motors,RV400 BRZ,2016,75171,Electric,1st Owner,Poor,110,Goa,30200
+Aprilia,SR 160,2023,21186,Petrol,3rd Owner,Excellent,160,Arunachal Pradesh,188300
+Simple Energy,Simple One,2021,26679,Electric,1st Owner,Good,110,Manipur,96500
+Kawasaki,Versys 650,2012,65628,Petrol,1st Owner,Excellent,400,Telangana,174300
+Vespa,VXL 150,2015,58507,Petrol,1st Owner,Good,125,Gujarat,52800
+Ducati,Scrambler Icon,2017,57154,Petrol,1st Owner,Good,803,Ladakh,610500
+Benelli,TRK 502X,2016,89999,Petrol,1st Owner,Good,374,Goa,130600
+Ola Electric,S1 Pro Gen 2,2014,108742,Electric,1st Owner,Good,110,Lakshadweep,35500
+Yamaha,Aerox 155,2024,11365,Petrol,1st Owner,Good,155,Delhi NCR,147300
+TVS,Raider 125,2011,69785,Petrol,1st Owner,Excellent,125,Ladakh,36000
+Harley-Davidson,Fat Boy,2014,79718,Petrol,1st Owner,Good,940,Mizoram,370900
+Ola Electric,S1 Pro Gen 2,2024,21516,Electric,1st Owner,Fair,110,Mizoram,71900
+Husqvarna,Svartpilen 401,2024,19749,Petrol,1st Owner,Poor,250,Sikkim,130400
+Benelli,TRK 502,2011,97780,Petrol,1st Owner,Good,374,Manipur,82900
+Yamaha,FZ-S FI,2017,46585,Petrol,2nd Owner,Good,155,West Bengal,60900
+Ultraviolette,F77 Mach 2,2019,64804,Electric,1st Owner,Excellent,250,Nagaland,184200
+Ola Electric,S1 X Plus,2024,19491,Electric,3rd Owner,Good,110,Madhya Pradesh,62500
+Benelli,Leoncino 500,2012,115461,Petrol,1st Owner,Fair,374,Chandigarh,62100
+Suzuki,Avenis,2024,17233,Petrol,1st Owner,Good,125,Uttarakhand,104000
+Husqvarna,Svartpilen 401,2021,40526,Petrol,1st Owner,Good,250,Sikkim,183600
+Benelli,TRK 502,2019,48770,Petrol,2nd Owner,Fair,374,Odisha,160400
+Husqvarna,Svartpilen 250,2017,55320,Petrol,1st Owner,Good,250,Jharkhand,130700
+Benelli,Leoncino 500,2023,31119,Petrol,2nd Owner,Good,374,Sikkim,261100
+Revolt Motors,RV1,2020,36667,Electric,1st Owner,Good,110,Goa,71300
+Revolt Motors,RV1,2024,15331,Electric,1st Owner,Excellent,110,Himachal Pradesh,109900
+Tork Motors,Kratos Urban,2018,43733,Electric,1st Owner,Excellent,125,Ladakh,81400
+Triumph,Scrambler 400 X,2015,67070,Petrol,1st Owner,Fair,400,Nagaland,99500
+Honda,CB300R,2019,30224,Petrol,1st Owner,Good,125,Telangana,60700
+Ather Energy,450S,2020,30979,Electric,1st Owner,Poor,110,Ladakh,49600
+Kawasaki,Eliminator 500,2018,44463,Petrol,3rd Owner,Fair,400,Goa,165500
+Simple Energy,Simple Dot One,2023,31840,Electric,1st Owner,Excellent,110,Jharkhand,112900
+Aprilia,SR 125,2018,65046,Petrol,1st Owner,Excellent,160,Uttar Pradesh,138200
+Revolt Motors,RV400 BRZ,2023,31746,Electric,1st Owner,Excellent,110,Maharashtra,102300
+Royal Enfield,Continental GT 650,2023,25164,Petrol,1st Owner,Good,349,Bihar,158900
+Tork Motors,Kratos Urban,2012,61838,Electric,1st Owner,Good,125,Assam,51100
+Vespa,VXL 125,2020,38371,Petrol,3rd Owner,Excellent,125,Chandigarh,76100
+Revolt Motors,RV400 BRZ,2014,120000,Electric,1st Owner,Excellent,110,Mizoram,36800
+Triumph,Tiger 900,2016,60961,Petrol,1st Owner,Excellent,400,Sikkim,148200
+Jawa,Jawa 42,2013,112437,Petrol,1st Owner,Good,334,Sikkim,55800
+Benelli,Imperiale 400,2021,49182,Petrol,2nd Owner,Excellent,374,Karnataka,210000
+KTM,390 Adventure,2024,12060,Petrol,1st Owner,Good,250,Telangana,233900
+Ather Energy,450 Apex,2012,119654,Electric,3rd Owner,Excellent,110,Uttarakhand,34800
+BMW Motorrad,G 310 R,2022,33037,Petrol,1st Owner,Excellent,313,Assam,284800
+Tork Motors,Kratos Urban,2016,48266,Electric,1st Owner,Excellent,125,Assam,85400
+Aprilia,SR 125,2021,42130,Petrol,2nd Owner,Good,160,Madhya Pradesh,144900
+KTM,RC 390,2023,20175,Petrol,3rd Owner,Excellent,250,Odisha,161300
+Hero MotoCorp,Xpulse 200 4V,2020,30393,Petrol,1st Owner,Excellent,110,Haryana,64100
+Vespa,ZX 125,2021,47790,Petrol,1st Owner,Good,125,Goa,80500
+Simple Energy,Simple Dot One,2019,67595,Electric,4th Owner & Above,Fair,110,Puducherry,45100
+Ather Energy,450 Apex,2020,33561,Electric,1st Owner,Good,110,Chandigarh,95700
+Jawa,Jawa Perak,2022,37414,Petrol,1st Owner,Good,334,Haryana,123100
+Yamaha,R15 V4,2021,22654,Petrol,3rd Owner,Good,155,Uttar Pradesh,85100
+KTM,200 Duke,2024,23339,Petrol,1st Owner,Poor,250,Tamil Nadu,158500
+Hero MotoCorp,Passion Plus,2020,48605,Petrol,1st Owner,Fair,110,Bihar,35100
+Ultraviolette,F77 Recon,2013,55592,Electric,3rd Owner,Good,250,Maharashtra,79200
+Triumph,Speed 400,2013,71294,Petrol,1st Owner,Good,400,Tripura,79100
+Royal Enfield,Classic 350,2024,13265,Petrol,1st Owner,Fair,349,Bihar,170800
+Jawa,42 Bobber,2022,31419,Petrol,1st Owner,Good,334,Delhi NCR,150400
+Suzuki,Avenis,2022,27627,Petrol,1st Owner,Fair,125,Telangana,64600
+Vespa,SXL 125,2024,20200,Petrol,2nd Owner,Good,125,Nagaland,108000
+Ather Energy,450 Apex,2012,100111,Electric,1st Owner,Good,110,Uttarakhand,40900
+Aprilia,RS 457,2016,77479,Petrol,3rd Owner,Excellent,160,West Bengal,74500
+Ola Electric,S1 X 3kWh,2015,95768,Electric,1st Owner,Good,110,Andhra Pradesh,43400
+Tork Motors,Kratos Urban,2015,84083,Electric,2nd Owner,Excellent,125,Arunachal Pradesh,55700
+Royal Enfield,Himalayan 450,2022,24920,Petrol,1st Owner,Good,349,Uttarakhand,165700
+Jawa,42 Bobber,2020,53214,Petrol,1st Owner,Fair,334,Jammu and Kashmir,112700
+Honda,Hornet 2.0,2013,106582,Petrol,2nd Owner,Excellent,125,Andaman and Nicobar Islands,28000
+Benelli,TRK 502X,2024,12294,Petrol,2nd Owner,Excellent,374,Jammu and Kashmir,278300
+Harley-Davidson,Street 750,2014,85621,Petrol,1st Owner,Good,440,Odisha,148400
+Jawa,42 Bobber,2015,85515,Petrol,1st Owner,Excellent,334,Gujarat,82800
+Royal Enfield,Meteor 350,2016,90921,Petrol,1st Owner,Excellent,349,Telangana,119400
+Triumph,Speed 400,2023,22894,Petrol,1st Owner,Good,400,Tripura,267500
+Royal Enfield,Bullet 350,2021,36922,Petrol,2nd Owner,Fair,349,Telangana,123900
+Husqvarna,Svartpilen 401,2012,102416,Petrol,2nd Owner,Excellent,250,Odisha,60000
+Triumph,Bonneville T100,2015,70800,Petrol,1st Owner,Fair,400,West Bengal,87000
+TVS,Ntorq 125,2021,28932,Petrol,3rd Owner,Good,125,Uttarakhand,62600
+Honda,Hornet 2.0,2020,37851,Petrol,4th Owner & Above,Good,125,Goa,38200
+Ducati,Monster,2012,98268,Petrol,1st Owner,Good,803,Rajasthan,302500
+Bajaj,Dominar 250,2018,61879,Petrol,1st Owner,Fair,160,Meghalaya,61000
+Ultraviolette,F77 Recon,2020,62937,Electric,4th Owner & Above,Good,250,Arunachal Pradesh,116200
+Honda,Unicorn,2023,25322,Petrol,1st Owner,Good,125,Maharashtra,67500
+Yamaha,Aerox 155,2011,116757,Petrol,2nd Owner,Excellent,155,Maharashtra,32700
+Ducati,Scrambler Icon,2011,77654,Petrol,2nd Owner,Excellent,803,Puducherry,307900
+Aprilia,SR 125,2012,106465,Petrol,1st Owner,Excellent,160,Andaman and Nicobar Islands,77800
+Tork Motors,Kratos Urban,2017,61816,Electric,1st Owner,Fair,125,Himachal Pradesh,66700
+Vespa,SXL 125,2022,20400,Petrol,2nd Owner,Good,125,Odisha,83600
+Royal Enfield,Interceptor 650,2024,11212,Petrol,1st Owner,Good,349,Karnataka,182800
+Ola Electric,S1 X Plus,2018,64111,Electric,1st Owner,Good,110,Puducherry,51000
+Harley-Davidson,Fat Boy,2013,79371,Petrol,2nd Owner,Excellent,940,Mizoram,399400
+Ola Electric,S1 Air,2020,48537,Electric,1st Owner,Excellent,110,West Bengal,83700
+Revolt Motors,RV400,2015,46286,Electric,1st Owner,Good,110,Andhra Pradesh,44200
+Ather Energy,Rizta,2020,40662,Electric,4th Owner & Above,Good,110,Haryana,48300
+Vespa,SXL 125,2020,53717,Petrol,2nd Owner,Good,125,Himachal Pradesh,77900
+Vespa,SXL 150,2011,82221,Petrol,1st Owner,Good,125,Nagaland,30300
+Yezdi,Adventure,2014,88024,Petrol,1st Owner,Fair,334,Ladakh,66200
+Benelli,502C,2015,98268,Petrol,1st Owner,Fair,374,Rajasthan,91400
+BMW Motorrad,S 1000 RR,2021,52405,Petrol,2nd Owner,Good,813,Tripura,706800
+Hero MotoCorp,Splendor Plus,2016,47965,Petrol,3rd Owner,Good,100,Dadra and Nagar Haveli and Daman and Diu,21500
+Kawasaki,Versys 650,2020,38375,Petrol,3rd Owner,Excellent,400,Assam,216000
+TVS,Apache RR 310,2016,53578,Petrol,1st Owner,Excellent,125,Odisha,55500
+Ultraviolette,F77 Recon,2018,70799,Electric,1st Owner,Excellent,250,Goa,189900
+Bajaj,Dominar 400,2016,83869,Petrol,2nd Owner,Good,160,Gujarat,52200
+Triumph,Bonneville T100,2019,33731,Petrol,1st Owner,Excellent,400,Kerala,175900
+Aprilia,SXR 160,2017,76170,Petrol,2nd Owner,Good,160,Bihar,100100
+Royal Enfield,Meteor 350,2012,57293,Petrol,4th Owner & Above,Fair,349,Chhattisgarh,43300
+Benelli,Imperiale 400,2013,63225,Petrol,1st Owner,Good,374,Odisha,89700
+Tork Motors,Kratos Urban,2020,29142,Electric,1st Owner,Good,125,Tamil Nadu,92700
+Ducati,Monster,2023,19484,Petrol,4th Owner & Above,Fair,803,Assam,612700
+Hero MotoCorp,Mavrick 440,2022,41402,Petrol,1st Owner,Excellent,110,Chhattisgarh,61900
+Tork Motors,Kratos R,2013,63680,Electric,1st Owner,Excellent,125,Madhya Pradesh,64700
+TVS,Apache RR 310,2014,119202,Petrol,1st Owner,Excellent,125,Himachal Pradesh,41200
+KTM,250 Duke,2017,60799,Petrol,1st Owner,Excellent,250,Uttar Pradesh,99200
+Ducati,Panigale V2,2011,99248,Petrol,1st Owner,Excellent,1303,Jharkhand,962300
+Royal Enfield,Classic 350,2017,72861,Petrol,1st Owner,Good,349,Rajasthan,115500
+Hero MotoCorp,Super Splendor,2024,21844,Petrol,1st Owner,Good,100,West Bengal,57400
+Triumph,Tiger 900,2023,14989,Petrol,2nd Owner,Excellent,400,Tripura,272700
+Husqvarna,Svartpilen 401,2013,120000,Petrol,2nd Owner,Good,250,Manipur,55000
+KTM,200 Duke,2016,58486,Petrol,1st Owner,Excellent,250,Goa,112800
+Ducati,Panigale V2,2011,120000,Petrol,1st Owner,Fair,1303,Ladakh,738500
+Royal Enfield,Himalayan 450,2021,31951,Petrol,2nd Owner,Good,349,Sikkim,130900
+Ather Energy,450X Gen 3,2011,91837,Electric,2nd Owner,Excellent,110,Punjab,29100
+Honda,CB300R,2011,116372,Petrol,1st Owner,Good,125,Meghalaya,19700
+Ducati,Scrambler Icon,2011,92248,Petrol,1st Owner,Excellent,803,Chandigarh,369600
+Honda,Activa 6G,2019,67265,Petrol,2nd Owner,Excellent,125,Andaman and Nicobar Islands,48800
+Honda,CB350RS,2012,120000,Petrol,3rd Owner,Excellent,125,Bihar,20400
+Yamaha,RayZR 125 Fi,2024,18675,Petrol,2nd Owner,Fair,155,Maharashtra,107400
+Revolt Motors,RV1,2012,98085,Electric,1st Owner,Good,110,Gujarat,36000
+Ola Electric,S1 X Plus,2016,79232,Electric,2nd Owner,Poor,110,Meghalaya,24700
+Husqvarna,Svartpilen 250,2021,32867,Petrol,2nd Owner,Excellent,250,Tripura,189500
+Vespa,SXL 125,2021,25564,Petrol,4th Owner & Above,Good,125,Delhi NCR,53600
+Ola Electric,S1 X 3kWh,2011,98530,Electric,2nd Owner,Excellent,110,Tamil Nadu,29300
+Simple Energy,Simple Dot One,2024,13509,Electric,1st Owner,Fair,110,Tripura,114000
+Hero MotoCorp,Pleasure Plus,2013,120000,Petrol,2nd Owner,Excellent,110,Jharkhand,20500
+Simple Energy,Simple One,2020,49459,Electric,1st Owner,Excellent,110,Tripura,94100
+Bajaj,Pulsar NS200,2019,65230,Petrol,1st Owner,Poor,160,Manipur,49600
+Hero MotoCorp,Pleasure Plus,2020,37307,Petrol,2nd Owner,Excellent,110,Chandigarh,49300
+Suzuki,Avenis,2017,75115,Petrol,1st Owner,Fair,125,Ladakh,40600
+Benelli,Leoncino 500,2012,82667,Petrol,1st Owner,Good,374,Himachal Pradesh,104600
+TVS,Jupiter 125,2017,75055,Petrol,1st Owner,Good,125,West Bengal,44900
+Benelli,Leoncino 500,2016,100153,Petrol,2nd Owner,Good,374,Haryana,101400
+Yamaha,MT-15 V2,2024,22168,Petrol,3rd Owner,Good,155,Meghalaya,85100
+Simple Energy,Simple Dot One,2022,32416,Electric,1st Owner,Excellent,110,Delhi NCR,126000
+Ducati,Multistrada V4,2023,27668,Petrol,1st Owner,Good,803,Haryana,1025100
+Simple Energy,Simple One,2018,47379,Electric,4th Owner & Above,Good,110,Meghalaya,45900
+Ola Electric,S1 X 3kWh,2015,60207,Electric,1st Owner,Good,110,Dadra and Nagar Haveli and Daman and Diu,44300
+Yamaha,RayZR 125 Fi,2011,120000,Petrol,1st Owner,Good,155,Mizoram,30200
+Ather Energy,450X Gen 3,2023,24145,Electric,1st Owner,Poor,110,Madhya Pradesh,64400
+KTM,200 Duke,2012,79826,Petrol,1st Owner,Excellent,250,Uttar Pradesh,65100
+Aprilia,SXR 160,2014,74044,Petrol,1st Owner,Excellent,160,Himachal Pradesh,83100
+Kawasaki,Eliminator 500,2018,47188,Petrol,1st Owner,Good,400,Uttar Pradesh,233800
+Ultraviolette,F77 Mach 2,2016,49256,Electric,3rd Owner,Fair,250,Himachal Pradesh,94200
+Bajaj,Platina 110,2019,50745,Petrol,1st Owner,Excellent,100,Nagaland,61900
+BMW Motorrad,G 310 RR,2021,41716,Petrol,3rd Owner,Good,313,Delhi NCR,210100
+Tork Motors,Kratos R,2014,54841,Electric,1st Owner,Excellent,125,Rajasthan,60100
+KTM,250 Duke,2016,70823,Petrol,1st Owner,Fair,250,Chandigarh,65900
+Ola Electric,S1 X 3kWh,2022,37415,Electric,2nd Owner,Good,110,Tamil Nadu,71200
+Yamaha,R15M,2020,30758,Petrol,2nd Owner,Good,155,Andhra Pradesh,72600
+Vespa,VXL 150,2017,69011,Petrol,2nd Owner,Good,125,Nagaland,49300
+TVS,Jupiter 110,2012,58897,Petrol,1st Owner,Good,125,Dadra and Nagar Haveli and Daman and Diu,33500
+Suzuki,Gixxer 250,2020,34092,Petrol,1st Owner,Fair,125,Chhattisgarh,53000
+Revolt Motors,RV1,2020,48950,Electric,1st Owner,Fair,110,Meghalaya,60400
+Triumph,Scrambler 400 X,2023,24586,Petrol,1st Owner,Excellent,400,Delhi NCR,258700
+Suzuki,Gixxer SF,2017,40243,Petrol,3rd Owner,Good,125,Karnataka,38600
+Harley-Davidson,Fat Boy,2015,73121,Petrol,3rd Owner,Poor,940,Manipur,295500
+Kawasaki,Eliminator 500,2022,34274,Petrol,1st Owner,Excellent,400,Delhi NCR,361000
+Bajaj,Avenger Street 160,2021,30957,Petrol,1st Owner,Excellent,160,Sikkim,99400
+Kawasaki,Z650,2022,34556,Petrol,2nd Owner,Excellent,400,Ladakh,351100
+Bajaj,Pulsar 150,2023,20999,Petrol,1st Owner,Excellent,160,Goa,119200
+Hero MotoCorp,Glamour,2021,25552,Petrol,1st Owner,Good,110,Sikkim,48100
+Ultraviolette,F77 Mach 2,2016,57955,Electric,2nd Owner,Good,250,Telangana,134800
+Hero MotoCorp,Glamour,2020,54073,Petrol,3rd Owner,Good,110,Rajasthan,36600
+BMW Motorrad,F 900 XR,2016,86816,Petrol,1st Owner,Good,313,Kerala,125600
+Harley-Davidson,Street 750,2012,120000,Petrol,1st Owner,Excellent,440,Odisha,99400
+Ather Energy,450 Apex,2015,52297,Electric,1st Owner,Fair,110,Telangana,44700
+Yezdi,Adventure,2020,32774,Petrol,1st Owner,Excellent,334,Haryana,153400
+Husqvarna,Svartpilen 250,2015,104350,Petrol,1st Owner,Good,250,Punjab,73900
+Ducati,Multistrada V4,2020,35999,Petrol,1st Owner,Good,803,Haryana,686600
+Yezdi,Scrambler,2016,101772,Petrol,3rd Owner,Excellent,334,Nagaland,78800
+Ather Energy,450X Gen 3,2016,53081,Electric,1st Owner,Good,110,Gujarat,63600
+Honda,Hornet 2.0,2013,71420,Petrol,2nd Owner,Good,125,Karnataka,23800
+KTM,RC 390,2015,110541,Petrol,2nd Owner,Excellent,250,Mizoram,66900
+Yezdi,Scrambler,2021,31402,Petrol,1st Owner,Excellent,334,Meghalaya,182400
+Tork Motors,Kratos Urban,2019,50003,Electric,2nd Owner,Good,125,Arunachal Pradesh,65300
+Royal Enfield,Shotgun 650,2014,98468,Petrol,2nd Owner,Good,349,Lakshadweep,81300
+Husqvarna,Vitpilen 250,2018,51399,Petrol,2nd Owner,Fair,250,Delhi NCR,99400
+Royal Enfield,Hunter 350,2021,34315,Petrol,2nd Owner,Excellent,349,Meghalaya,127200
+Husqvarna,Svartpilen 250,2016,92343,Petrol,2nd Owner,Fair,250,Delhi NCR,83000
+Royal Enfield,Himalayan 450,2023,31921,Petrol,1st Owner,Excellent,349,Chhattisgarh,223800
+Ultraviolette,F77 Mach 2,2018,82645,Electric,2nd Owner,Good,250,Manipur,152300
+Triumph,Trident 660,2019,59837,Petrol,1st Owner,Fair,400,Madhya Pradesh,122700
+Revolt Motors,RV400,2021,29329,Electric,1st Owner,Good,110,Arunachal Pradesh,95800
+Simple Energy,Simple One,2021,48701,Electric,3rd Owner,Good,110,Manipur,63400
+Ola Electric,S1 X 3kWh,2012,120000,Electric,2nd Owner,Good,110,Goa,25400
+Triumph,Scrambler 400 X,2018,68940,Petrol,2nd Owner,Poor,400,Andhra Pradesh,81000
+Jawa,Jawa 350,2019,71200,Petrol,1st Owner,Good,334,Uttar Pradesh,111400
+Jawa,Jawa Perak,2017,76693,Petrol,2nd Owner,Excellent,334,Andhra Pradesh,84800
+Ather Energy,450 Apex,2023,30027,Electric,2nd Owner,Excellent,110,Karnataka,86600
+Jawa,42 Bobber,2014,111131,Petrol,2nd Owner,Good,334,Chhattisgarh,51900
+TVS,Star City Plus,2021,42101,Petrol,2nd Owner,Fair,125,Gujarat,48600
+Ducati,Multistrada V4,2012,117401,Petrol,2nd Owner,Good,803,Uttar Pradesh,254800
+Simple Energy,Simple One,2016,86045,Electric,1st Owner,Good,110,Jharkhand,62300
+Kawasaki,Ninja 400,2022,30694,Petrol,2nd Owner,Fair,400,Assam,250700
+Suzuki,Avenis,2024,16099,Petrol,1st Owner,Excellent,125,Ladakh,99500
+Revolt Motors,RV1,2014,77880,Electric,2nd Owner,Good,110,Rajasthan,38100
+TVS,Jupiter 125,2018,72753,Petrol,1st Owner,Good,125,Delhi NCR,57600
+Suzuki,Burgman Street,2020,56108,Petrol,4th Owner & Above,Excellent,125,Arunachal Pradesh,40900
+Aprilia,SXR 160,2014,54604,Petrol,2nd Owner,Good,160,Mizoram,63400
+Hero MotoCorp,Splendor Plus,2019,36216,Petrol,1st Owner,Good,100,Puducherry,31500
+Husqvarna,Svartpilen 250,2011,74612,Petrol,1st Owner,Good,250,Arunachal Pradesh,69000
+BMW Motorrad,G 310 R,2015,109436,Petrol,1st Owner,Good,313,Andaman and Nicobar Islands,110200
+Revolt Motors,RV400,2012,83076,Electric,1st Owner,Fair,110,Andhra Pradesh,26100
+Royal Enfield,Classic 350,2021,32323,Petrol,1st Owner,Excellent,349,Punjab,165700
+Honda,Dio 110,2024,9623,Petrol,2nd Owner,Excellent,125,Andhra Pradesh,76500
+TVS,Apache RTR 200 4V,2016,66823,Petrol,1st Owner,Excellent,125,Bihar,41900
+Tork Motors,Kratos R,2013,108350,Electric,1st Owner,Good,125,Chandigarh,46600
+Bajaj,Platina 110,2023,16472,Petrol,2nd Owner,Fair,100,Puducherry,59400
+Vespa,SXL 150,2024,20842,Petrol,1st Owner,Good,125,Telangana,132200
+Suzuki,V-Strom SX 250,2012,68670,Petrol,1st Owner,Good,125,Manipur,31500
+Revolt Motors,RV1,2011,87902,Electric,1st Owner,Good,110,Mizoram,34300
+Simple Energy,Simple Dot One,2023,30503,Electric,2nd Owner,Fair,110,Manipur,96300
+Vespa,ZX 125,2011,109774,Petrol,2nd Owner,Good,125,Assam,32700
+Revolt Motors,RV400,2018,73673,Electric,1st Owner,Fair,110,Gujarat,48300
+Vespa,VXL 150,2017,76027,Petrol,3rd Owner,Fair,125,Madhya Pradesh,36500
+Ather Energy,450S,2021,38912,Electric,3rd Owner,Excellent,110,Rajasthan,75400
+BMW Motorrad,G 310 R,2011,120000,Petrol,1st Owner,Good,313,Chandigarh,76600
+Kawasaki,Ninja 400,2016,65138,Petrol,2nd Owner,Good,400,Rajasthan,136800
+Tork Motors,Kratos R,2019,61454,Electric,1st Owner,Good,125,Jammu and Kashmir,83200
+Vespa,ZX 125,2013,106848,Petrol,1st Owner,Poor,125,Gujarat,32200
+Honda,CB200X,2023,18181,Petrol,3rd Owner,Excellent,125,Punjab,53100
+Bajaj,Pulsar NS200,2015,74319,Petrol,1st Owner,Good,160,Andhra Pradesh,54800
+Kawasaki,Ninja 300,2011,120000,Petrol,1st Owner,Good,400,Goa,123400
+Kawasaki,Ninja 650,2017,44977,Petrol,2nd Owner,Poor,400,Bihar,116000
+Ather Energy,Rizta,2012,120000,Electric,1st Owner,Good,110,Andhra Pradesh,33000
+Yamaha,RayZR 125 Fi,2011,120000,Petrol,1st Owner,Good,155,Chandigarh,33600
+Harley-Davidson,Nightster,2023,26509,Petrol,2nd Owner,Good,440,Mizoram,296300
+Ultraviolette,F77 Mach 2,2021,45317,Electric,3rd Owner,Good,250,Gujarat,198900
+BMW Motorrad,F 900 XR,2022,31364,Petrol,1st Owner,Good,313,Karnataka,273500
+Hero MotoCorp,Xpulse 200 4V,2012,69583,Petrol,1st Owner,Excellent,110,West Bengal,29800
+Harley-Davidson,Iron 883,2012,120000,Petrol,2nd Owner,Fair,440,Gujarat,67500
+TVS,Apache RTR 160 4V,2020,31171,Petrol,1st Owner,Excellent,125,Meghalaya,72600
+BMW Motorrad,G 310 RR,2024,14407,Petrol,2nd Owner,Good,313,Arunachal Pradesh,266700
+Husqvarna,Vitpilen 250,2013,81087,Petrol,2nd Owner,Excellent,250,Chhattisgarh,68400
+Kawasaki,Ninja 300,2012,110397,Petrol,1st Owner,Excellent,400,Tripura,135800
+TVS,Apache RTR 200 4V,2021,38702,Petrol,1st Owner,Fair,125,Kerala,62100
+Ultraviolette,F77 Recon,2021,50074,Electric,1st Owner,Poor,250,Meghalaya,150900
+Jawa,Jawa 42,2021,28182,Petrol,1st Owner,Fair,334,Gujarat,123700
+Triumph,Trident 660,2020,51999,Petrol,2nd Owner,Good,400,Goa,166000
+Triumph,Street Triple,2023,30443,Petrol,1st Owner,Excellent,400,Ladakh,229200
+Revolt Motors,RV1,2019,36877,Electric,1st Owner,Fair,110,Punjab,58100
+Yamaha,R15 V4,2016,76682,Petrol,2nd Owner,Good,155,Maharashtra,46200
+Simple Energy,Simple Dot One,2013,92743,Electric,1st Owner,Fair,110,Rajasthan,40000
+Benelli,502C,2021,49997,Petrol,1st Owner,Excellent,374,Mizoram,208400
+Harley-Davidson,Iron 883,2015,93340,Petrol,1st Owner,Excellent,440,Nagaland,149700
+Kawasaki,Eliminator 500,2011,89679,Petrol,1st Owner,Good,400,Tripura,119500
+Aprilia,SR 125,2019,51085,Petrol,2nd Owner,Good,160,Telangana,106300
+Benelli,Leoncino 500,2023,32937,Petrol,1st Owner,Good,374,Odisha,271800
+Yezdi,Roadster,2013,66003,Petrol,1st Owner,Good,334,Telangana,68600
+Jawa,Jawa 42,2011,71068,Petrol,1st Owner,Poor,334,Manipur,38400
+Revolt Motors,RV1,2011,101205,Electric,3rd Owner,Good,110,Gujarat,21700
+Harley-Davidson,Iron 883,2017,79658,Petrol,1st Owner,Good,440,Manipur,151200
+Husqvarna,Svartpilen 401,2021,42072,Petrol,1st Owner,Fair,250,Jharkhand,128500
+Ather Energy,450 Apex,2014,82916,Electric,1st Owner,Fair,110,Uttarakhand,33800
+Triumph,Street Triple,2022,41345,Petrol,1st Owner,Good,400,Jammu and Kashmir,221100
+Yamaha,Fascino 125,2022,22459,Petrol,1st Owner,Good,155,Jharkhand,116600
+TVS,Radeon,2024,13471,Petrol,3rd Owner,Excellent,125,Maharashtra,72200
+Ultraviolette,F77 Mach 2,2012,99452,Electric,1st Owner,Excellent,250,Nagaland,111000
+Kawasaki,Versys 650,2016,81223,Petrol,1st Owner,Good,400,Jammu and Kashmir,199700
+TVS,Jupiter 110,2013,111391,Petrol,1st Owner,Good,125,Assam,28100
+Revolt Motors,RV400 BRZ,2016,76938,Electric,3rd Owner,Good,110,Himachal Pradesh,39900
+Ducati,Multistrada V4,2015,59548,Petrol,1st Owner,Excellent,803,Manipur,511600
+BMW Motorrad,G 310 GS,2013,110885,Petrol,1st Owner,Good,313,Kerala,110700
+Jawa,Jawa 350,2013,84548,Petrol,2nd Owner,Excellent,334,Madhya Pradesh,52700
+Revolt Motors,RV400 BRZ,2022,33351,Electric,1st Owner,Good,110,Sikkim,101100
+Benelli,Imperiale 400,2016,70029,Petrol,1st Owner,Excellent,374,Puducherry,143600
+Suzuki,Burgman Street,2014,54422,Petrol,4th Owner & Above,Excellent,125,Maharashtra,29200
+BMW Motorrad,S 1000 RR,2014,57113,Petrol,1st Owner,Excellent,813,Nagaland,551200
+Simple Energy,Simple Dot One,2011,120000,Electric,2nd Owner,Good,110,Telangana,29800
+Husqvarna,Svartpilen 250,2017,66456,Petrol,1st Owner,Good,250,Kerala,106900
+Revolt Motors,RV1,2024,13892,Electric,1st Owner,Fair,110,Nagaland,92700
+KTM,250 Adventure,2023,14618,Petrol,1st Owner,Excellent,250,Ladakh,216100
+Jawa,Jawa 350,2018,71017,Petrol,1st Owner,Excellent,334,Puducherry,107400
+Honda,CB300R,2011,120000,Petrol,1st Owner,Excellent,125,Karnataka,23800
+Simple Energy,Simple Dot One,2014,116346,Electric,1st Owner,Good,110,Delhi NCR,38100
+Aprilia,SXR 160,2021,41034,Petrol,1st Owner,Excellent,160,Gujarat,154900
+Honda,SP 125,2018,42439,Petrol,1st Owner,Excellent,125,Uttar Pradesh,52100
+Yamaha,FZ 25,2016,50908,Petrol,1st Owner,Good,155,Assam,59800
+KTM,RC 390,2016,98526,Petrol,2nd Owner,Fair,250,Jharkhand,69100
+Yezdi,Scrambler,2015,85719,Petrol,1st Owner,Excellent,334,West Bengal,91800
+Husqvarna,Vitpilen 250,2011,104323,Petrol,1st Owner,Fair,250,Uttarakhand,51200
+Simple Energy,Simple Dot One,2018,46296,Electric,2nd Owner,Excellent,110,West Bengal,71200
+Royal Enfield,Interceptor 650,2012,101835,Petrol,2nd Owner,Good,349,Rajasthan,56300
+Benelli,Imperiale 400,2013,75592,Petrol,2nd Owner,Good,374,Nagaland,76700
+Ultraviolette,F77 Mach 2,2015,113769,Electric,1st Owner,Excellent,250,Andaman and Nicobar Islands,149700
+Honda,Dio 125,2014,77279,Petrol,1st Owner,Good,125,Uttar Pradesh,32100
+Yamaha,Aerox 155,2020,30224,Petrol,3rd Owner,Good,155,Manipur,80000
+Simple Energy,Simple One,2014,120000,Electric,1st Owner,Good,110,Dadra and Nagar Haveli and Daman and Diu,43800
+Bajaj,Pulsar N160,2011,66539,Petrol,1st Owner,Good,160,Tamil Nadu,40600
+TVS,Raider 125,2022,25680,Petrol,1st Owner,Excellent,125,Lakshadweep,79400
+Hero MotoCorp,Super Splendor,2023,24307,Petrol,1st Owner,Good,100,Maharashtra,51000
+Kawasaki,Ninja 300,2014,109793,Petrol,2nd Owner,Excellent,400,Jammu and Kashmir,152800
+Simple Energy,Simple Dot One,2021,42498,Electric,2nd Owner,Fair,110,Arunachal Pradesh,74000
+Honda,Dio 110,2018,47582,Petrol,2nd Owner,Good,125,Meghalaya,34300
+Honda,Activa 6G,2022,34108,Petrol,2nd Owner,Poor,125,Odisha,43100
+Vespa,SXL 150,2022,35676,Petrol,1st Owner,Good,125,Chandigarh,84500
+Bajaj,Pulsar N250,2022,29959,Petrol,1st Owner,Excellent,160,Telangana,125200
+Ducati,Multistrada V4,2013,77813,Petrol,1st Owner,Excellent,803,Karnataka,356700
+Jawa,Jawa 42,2015,55118,Petrol,1st Owner,Good,334,Uttarakhand,80300
+Kawasaki,Versys 650,2012,110716,Petrol,2nd Owner,Good,400,Ladakh,110000
+Yamaha,FZ-X,2023,15272,Petrol,2nd Owner,Excellent,155,Himachal Pradesh,111800
+Hero MotoCorp,Xpulse 200 4V,2019,42982,Petrol,1st Owner,Fair,110,Dadra and Nagar Haveli and Daman and Diu,40000
+Ultraviolette,F77 Recon,2018,65714,Electric,1st Owner,Excellent,250,Puducherry,169500
+KTM,250 Duke,2017,76977,Petrol,1st Owner,Good,250,Delhi NCR,114200
+Ultraviolette,F77 Recon,2017,90605,Electric,2nd Owner,Good,250,Mizoram,143700
+Yezdi,Roadster,2013,56341,Petrol,3rd Owner,Fair,334,Himachal Pradesh,47100
+Harley-Davidson,Fat Boy,2013,59962,Petrol,1st Owner,Good,940,Ladakh,477600
+Royal Enfield,Shotgun 650,2018,82683,Petrol,1st Owner,Excellent,349,Karnataka,121800
+Bajaj,Dominar 250,2016,84197,Petrol,1st Owner,Good,160,Lakshadweep,55300
+Ultraviolette,F77 Mach 2,2017,80499,Electric,1st Owner,Fair,250,Himachal Pradesh,137700
+Ducati,Scrambler Icon,2014,64147,Petrol,1st Owner,Excellent,803,Goa,474400
+Suzuki,Gixxer 150,2011,120000,Petrol,1st Owner,Fair,125,Mizoram,20300
+Yezdi,Scrambler,2019,44674,Petrol,1st Owner,Excellent,334,Odisha,119000
+Ather Energy,Rizta,2012,81872,Electric,1st Owner,Excellent,110,Chandigarh,36600
+Aprilia,SR 125,2018,82485,Petrol,1st Owner,Good,160,Goa,99800
+Triumph,Street Triple,2017,88076,Petrol,2nd Owner,Good,400,Maharashtra,128500
+Vespa,ZX 125,2022,32549,Petrol,1st Owner,Good,125,Jharkhand,93600
+Ultraviolette,F77 Recon,2022,22402,Electric,1st Owner,Excellent,250,West Bengal,332100
+Ducati,Panigale V2,2017,75671,Petrol,1st Owner,Fair,1303,Lakshadweep,1467200
+Ducati,Panigale V2,2018,81203,Petrol,1st Owner,Good,1303,Bihar,1968000
+Hero MotoCorp,Glamour,2024,22443,Petrol,1st Owner,Excellent,110,Rajasthan,84800
+Simple Energy,Simple One,2014,90523,Electric,1st Owner,Fair,110,Haryana,45100
+Jawa,Jawa 350,2021,30627,Petrol,2nd Owner,Excellent,334,Punjab,140300
+Simple Energy,Simple Dot One,2013,65114,Electric,1st Owner,Good,110,Meghalaya,44200
+Ultraviolette,F77 Recon,2013,78387,Electric,1st Owner,Excellent,250,Lakshadweep,102200
+Kawasaki,Ninja 300,2021,37088,Petrol,2nd Owner,Good,400,Odisha,234000
+Kawasaki,Ninja 400,2015,80686,Petrol,3rd Owner,Excellent,400,Nagaland,120000
+Tork Motors,Kratos R,2014,118861,Electric,2nd Owner,Good,125,Chandigarh,43800
+Kawasaki,Ninja 650,2023,16736,Petrol,1st Owner,Good,400,Gujarat,310700
+Yamaha,R15 V4,2022,37301,Petrol,1st Owner,Fair,155,Dadra and Nagar Haveli and Daman and Diu,96800
+KTM,125 Duke,2016,58026,Petrol,1st Owner,Good,250,Dadra and Nagar Haveli and Daman and Diu,94900
+Triumph,Street Triple,2012,84950,Petrol,1st Owner,Good,400,West Bengal,74900
+Ultraviolette,F77 Mach 2,2023,29874,Electric,1st Owner,Excellent,250,Chandigarh,332200
+Royal Enfield,Hunter 350,2021,27485,Petrol,2nd Owner,Excellent,349,Meghalaya,142800
+Ducati,Scrambler Icon,2024,21779,Petrol,1st Owner,Excellent,803,Kerala,1177800
+BMW Motorrad,S 1000 RR,2022,40489,Petrol,2nd Owner,Good,813,Assam,618400
+TVS,XL100,2013,120000,Petrol,1st Owner,Good,100,Telangana,21500
+Ultraviolette,F77 Mach 2,2023,19412,Electric,1st Owner,Fair,250,Kerala,297500
+Honda,CB200X,2021,43950,Petrol,1st Owner,Excellent,125,Nagaland,64400
+Suzuki,Gixxer SF 250,2014,78405,Petrol,1st Owner,Excellent,125,Uttarakhand,37600
+Kawasaki,Ninja 400,2023,33480,Petrol,1st Owner,Good,400,Jharkhand,309200
+BMW Motorrad,S 1000 RR,2014,73825,Petrol,1st Owner,Good,813,Andaman and Nicobar Islands,448200
+Triumph,Trident 660,2011,116015,Petrol,1st Owner,Good,400,Assam,67400
+Ather Energy,450X Gen 3,2021,36226,Electric,1st Owner,Good,110,West Bengal,100600
+Benelli,Leoncino 500,2015,73770,Petrol,1st Owner,Excellent,374,Punjab,159200
+Revolt Motors,RV400,2015,100576,Electric,1st Owner,Good,110,Tripura,38400
+Tork Motors,Kratos Urban,2019,44261,Electric,1st Owner,Excellent,125,Uttarakhand,109500
+Triumph,Speed 400,2018,46684,Petrol,2nd Owner,Fair,400,Jammu and Kashmir,109700
+Simple Energy,Simple Dot One,2021,35412,Electric,1st Owner,Fair,110,Uttarakhand,77300
+Ducati,Monster,2021,52319,Petrol,1st Owner,Excellent,803,Rajasthan,699500
+Ather Energy,Rizta,2019,40322,Electric,1st Owner,Excellent,110,Himachal Pradesh,88200
+Simple Energy,Simple Dot One,2018,79590,Electric,2nd Owner,Excellent,110,Himachal Pradesh,60800
+Yezdi,Scrambler,2012,84661,Petrol,1st Owner,Excellent,334,Dadra and Nagar Haveli and Daman and Diu,54900
+Bajaj,Pulsar RS200,2013,69195,Petrol,1st Owner,Good,160,Madhya Pradesh,45600
+Tork Motors,Kratos R,2021,27317,Electric,1st Owner,Good,125,Goa,99900
+Ultraviolette,F77 Recon,2013,96547,Electric,2nd Owner,Good,250,Sikkim,94000
+Honda,Hornet 2.0,2014,99089,Petrol,2nd Owner,Good,125,Arunachal Pradesh,24300
+BMW Motorrad,F 900 XR,2015,75271,Petrol,1st Owner,Excellent,313,Puducherry,131900
+Ultraviolette,F77 Mach 2,2020,48657,Electric,1st Owner,Excellent,250,Tamil Nadu,259600
+Hero MotoCorp,Destini 125,2020,34656,Petrol,1st Owner,Good,110,Kerala,45900
+Ather Energy,450S,2023,17361,Electric,2nd Owner,Good,110,Punjab,86700
+Ducati,Scrambler Icon,2011,120000,Petrol,1st Owner,Good,803,Meghalaya,272200
+Kawasaki,Z650,2012,61262,Petrol,3rd Owner,Good,400,Tripura,98000
+Honda,Dio 110,2017,49370,Petrol,1st Owner,Good,125,Ladakh,47200
+Benelli,502C,2015,111559,Petrol,4th Owner & Above,Fair,374,Meghalaya,73000
+Tork Motors,Kratos Urban,2017,71861,Electric,2nd Owner,Excellent,125,Punjab,57000
+Vespa,ZX 125,2021,28466,Petrol,1st Owner,Excellent,125,Uttar Pradesh,94300
+Suzuki,Gixxer SF,2020,27993,Petrol,2nd Owner,Fair,125,Delhi NCR,51900
+Ola Electric,S1 Air,2020,44846,Electric,2nd Owner,Fair,110,Karnataka,52800
+Hero MotoCorp,HF Deluxe,2012,100566,Petrol,1st Owner,Good,100,Meghalaya,18000
+Jawa,Jawa 42,2014,69754,Petrol,1st Owner,Good,334,Chhattisgarh,62200
+Hero MotoCorp,Pleasure Plus,2012,71290,Petrol,1st Owner,Good,110,West Bengal,23600
+Honda,Activa 125,2016,80853,Petrol,3rd Owner,Excellent,125,Chandigarh,27200
+Triumph,Tiger 900,2022,33573,Petrol,1st Owner,Excellent,400,Goa,278000
+Yezdi,Scrambler,2014,108796,Petrol,1st Owner,Excellent,334,Meghalaya,81800
+Suzuki,V-Strom SX 250,2012,86134,Petrol,1st Owner,Good,125,Haryana,26300
+Revolt Motors,RV400,2022,30301,Electric,1st Owner,Good,110,Kerala,104300
+Kawasaki,Ninja 300,2014,99219,Petrol,1st Owner,Fair,400,Lakshadweep,108100
+Suzuki,Gixxer SF,2020,48809,Petrol,1st Owner,Excellent,125,Andhra Pradesh,73200
+Ola Electric,S1 Air,2022,19759,Electric,2nd Owner,Good,110,Kerala,64300
+Yezdi,Roadster,2021,50604,Petrol,1st Owner,Excellent,334,West Bengal,145500
+Jawa,42 Bobber,2022,25724,Petrol,1st Owner,Excellent,334,Goa,147700
+Aprilia,RS 457,2017,92182,Petrol,2nd Owner,Good,160,Himachal Pradesh,74300
+Hero MotoCorp,Glamour,2016,53916,Petrol,1st Owner,Excellent,110,Andaman and Nicobar Islands,34900
+Hero MotoCorp,Glamour,2020,45976,Petrol,2nd Owner,Fair,110,Sikkim,31700
+Hero MotoCorp,Xpulse 200 4V,2011,94280,Petrol,1st Owner,Excellent,110,Chhattisgarh,25400
+Triumph,Speed 400,2023,20865,Petrol,1st Owner,Excellent,400,Odisha,259400
+Benelli,Leoncino 500,2023,22940,Petrol,1st Owner,Good,374,Andhra Pradesh,227500
+Simple Energy,Simple One,2021,35575,Electric,1st Owner,Excellent,110,Jammu and Kashmir,121300
+Triumph,Trident 660,2012,99447,Petrol,1st Owner,Good,400,Andaman and Nicobar Islands,88500
+Simple Energy,Simple One,2020,29315,Electric,1st Owner,Excellent,110,Andhra Pradesh,99100
+Bajaj,Avenger Street 160,2024,11430,Petrol,2nd Owner,Fair,160,Lakshadweep,77100
+Ola Electric,S1 Pro Gen 2,2013,78227,Electric,1st Owner,Good,110,Nagaland,32800
+Benelli,Imperiale 400,2018,36924,Petrol,1st Owner,Fair,374,Andaman and Nicobar Islands,158200
+Aprilia,Tuono 660,2014,94772,Petrol,2nd Owner,Good,160,Mizoram,63700
+BMW Motorrad,F 900 XR,2021,32671,Petrol,3rd Owner,Good,313,Ladakh,155300
+Honda,Activa 125,2023,31176,Petrol,3rd Owner,Good,125,Delhi NCR,48100
+Yezdi,Scrambler,2012,107448,Petrol,1st Owner,Good,334,Arunachal Pradesh,53800
+Honda,CB350 Hness,2012,96013,Petrol,1st Owner,Fair,125,Chandigarh,18900
+Honda,Shine 100,2021,27185,Petrol,2nd Owner,Good,100,Manipur,42600
+Aprilia,SR 125,2021,28527,Petrol,2nd Owner,Excellent,160,Tamil Nadu,148800
+Revolt Motors,RV1,2015,81815,Electric,2nd Owner,Good,110,Jammu and Kashmir,34900
+BMW Motorrad,G 310 GS,2014,67376,Petrol,2nd Owner,Fair,313,Arunachal Pradesh,98100
+Kawasaki,Ninja 300,2020,35748,Petrol,2nd Owner,Excellent,400,Ladakh,306200
+Yezdi,Scrambler,2015,55750,Petrol,1st Owner,Excellent,334,Uttar Pradesh,94400
+Jawa,Jawa 42,2020,30720,Petrol,1st Owner,Good,334,Karnataka,136700
+Royal Enfield,Continental GT 650,2024,12647,Petrol,1st Owner,Excellent,349,Tripura,198300
+Honda,Activa 125,2014,69818,Petrol,1st Owner,Good,125,Himachal Pradesh,29100
+Yezdi,Adventure,2022,41346,Petrol,2nd Owner,Excellent,334,Karnataka,136300
+Aprilia,Tuono 660,2014,64874,Petrol,1st Owner,Excellent,160,Telangana,87300
+TVS,XL100,2021,50112,Petrol,2nd Owner,Fair,100,Goa,40000
+BMW Motorrad,G 310 RR,2020,38505,Petrol,1st Owner,Good,313,Karnataka,209100
+Bajaj,Dominar 250,2022,27607,Petrol,2nd Owner,Good,160,Jammu and Kashmir,85000
+Jawa,Jawa 350,2012,70972,Petrol,1st Owner,Good,334,Kerala,53300
+Ultraviolette,F77 Recon,2020,48468,Electric,1st Owner,Excellent,250,Maharashtra,219300
+Revolt Motors,RV1,2018,53564,Electric,2nd Owner,Good,110,Andhra Pradesh,54400
+Triumph,Speed 400,2021,25374,Petrol,2nd Owner,Good,400,Kerala,164700
+KTM,200 Duke,2018,74243,Petrol,1st Owner,Good,250,Chhattisgarh,98700
+Aprilia,RS 457,2017,93519,Petrol,1st Owner,Good,160,Tripura,85000
+Harley-Davidson,Iron 883,2024,20311,Petrol,1st Owner,Excellent,440,Uttarakhand,430300
+Ather Energy,Rizta,2011,98445,Electric,1st Owner,Excellent,110,Andaman and Nicobar Islands,32900
+Ola Electric,S1 Pro Gen 2,2013,118503,Electric,1st Owner,Good,110,Assam,34100
+Hero MotoCorp,Xtreme 160R,2023,18126,Petrol,1st Owner,Excellent,110,Karnataka,62000
+Royal Enfield,Meteor 350,2011,62165,Petrol,1st Owner,Fair,349,Dadra and Nagar Haveli and Daman and Diu,57300
+Ola Electric,S1 X Plus,2024,16044,Electric,1st Owner,Fair,110,Bihar,91500
+Bajaj,Pulsar 125,2020,45291,Petrol,1st Owner,Good,160,Uttar Pradesh,87200
+Ola Electric,S1 X Plus,2015,59544,Electric,1st Owner,Excellent,110,Nagaland,47500
+Royal Enfield,Himalayan 450,2021,38639,Petrol,1st Owner,Good,349,Lakshadweep,158200
+Bajaj,Avenger Cruise 220,2020,40330,Petrol,3rd Owner,Excellent,160,Nagaland,80100
+Triumph,Trident 660,2017,51534,Petrol,1st Owner,Good,400,Jammu and Kashmir,130600
+KTM,200 Duke,2018,57814,Petrol,2nd Owner,Good,250,Maharashtra,92300
+Ducati,Monster,2022,32179,Petrol,1st Owner,Good,803,Lakshadweep,829500
+Hero MotoCorp,Xpulse 200 4V,2014,93926,Petrol,1st Owner,Fair,110,Arunachal Pradesh,25400
+Aprilia,SR 160,2021,35825,Petrol,1st Owner,Good,160,Uttarakhand,161400
+Harley-Davidson,Nightster,2017,39867,Petrol,2nd Owner,Good,440,Goa,182500
+Aprilia,SR 160,2013,106255,Petrol,2nd Owner,Excellent,160,Gujarat,56500
+Royal Enfield,Himalayan 450,2015,50414,Petrol,2nd Owner,Good,349,Rajasthan,86700
+KTM,250 Adventure,2015,89182,Petrol,1st Owner,Good,250,Sikkim,69400
+BMW Motorrad,S 1000 RR,2016,88697,Petrol,2nd Owner,Good,813,Mizoram,477800
+Simple Energy,Simple Dot One,2022,21017,Electric,1st Owner,Excellent,110,Puducherry,129900
+Ducati,Multistrada V4,2024,17011,Petrol,1st Owner,Excellent,803,Karnataka,1318000
+Benelli,502C,2013,103701,Petrol,2nd Owner,Poor,374,Rajasthan,65800
+Suzuki,Gixxer SF 250,2021,51003,Petrol,1st Owner,Excellent,125,Bihar,79500
+Ultraviolette,F77 Recon,2018,35285,Electric,2nd Owner,Excellent,250,Goa,173200
+Harley-Davidson,Iron 883,2022,28232,Petrol,1st Owner,Good,440,Sikkim,275200
+Suzuki,V-Strom SX 250,2014,75487,Petrol,1st Owner,Excellent,125,West Bengal,40000
+Hero MotoCorp,Xpulse 200 4V,2016,51035,Petrol,1st Owner,Excellent,110,Uttarakhand,31500
+Aprilia,Tuono 660,2018,42640,Petrol,1st Owner,Good,160,Tamil Nadu,118900
+Suzuki,Gixxer 150,2011,89664,Petrol,1st Owner,Good,125,Tripura,28700
+KTM,RC 200,2022,37206,Petrol,1st Owner,Good,250,Odisha,185400
+Revolt Motors,RV400 BRZ,2021,46849,Electric,2nd Owner,Good,110,Madhya Pradesh,62500
+Benelli,502C,2022,24434,Petrol,1st Owner,Excellent,374,Uttarakhand,277300
+Simple Energy,Simple Dot One,2018,72409,Electric,2nd Owner,Excellent,110,Chandigarh,66000
+Jawa,42 Bobber,2020,57714,Petrol,2nd Owner,Good,334,Sikkim,98600
+Husqvarna,Vitpilen 250,2023,26747,Petrol,3rd Owner,Excellent,250,Maharashtra,152800
+Jawa,Jawa 42,2011,112288,Petrol,1st Owner,Good,334,Madhya Pradesh,44900
+Bajaj,Pulsar RS200,2022,41846,Petrol,2nd Owner,Excellent,160,Arunachal Pradesh,88400
+Royal Enfield,Interceptor 650,2017,47667,Petrol,1st Owner,Good,349,Gujarat,100800
+TVS,XL100,2015,100697,Petrol,1st Owner,Fair,100,Uttarakhand,25300
+Vespa,SXL 125,2015,90432,Petrol,2nd Owner,Fair,125,Chandigarh,39200
+Yamaha,R15M,2020,38690,Petrol,1st Owner,Excellent,155,Assam,82600
+Simple Energy,Simple Dot One,2014,84758,Electric,1st Owner,Good,110,Lakshadweep,46400
+Tork Motors,Kratos R,2024,21434,Electric,1st Owner,Good,125,Goa,140300
+Simple Energy,Simple Dot One,2012,120000,Electric,1st Owner,Fair,110,Uttar Pradesh,32900
+Harley-Davidson,Fat Boy,2023,19738,Petrol,1st Owner,Excellent,940,Chhattisgarh,1139000
+Yamaha,R15M,2024,19351,Petrol,1st Owner,Excellent,155,Delhi NCR,167000
+Bajaj,CT 110X,2023,24535,Petrol,2nd Owner,Excellent,160,Punjab,107100
+Honda,CB200X,2021,45296,Petrol,1st Owner,Good,125,Sikkim,68600
+Simple Energy,Simple One,2022,20858,Electric,1st Owner,Excellent,110,Dadra and Nagar Haveli and Daman and Diu,137900
+Honda,CB350RS,2015,92962,Petrol,2nd Owner,Excellent,125,Gujarat,30700
+Harley-Davidson,X440,2020,50458,Petrol,2nd Owner,Good,440,Nagaland,221900
+Triumph,Scrambler 400 X,2015,90611,Petrol,2nd Owner,Good,400,Madhya Pradesh,93100
+Tork Motors,Kratos Urban,2019,43576,Electric,1st Owner,Excellent,125,Uttar Pradesh,96200
+Aprilia,RS 457,2022,31004,Petrol,1st Owner,Good,160,Uttarakhand,152800
+Ducati,Multistrada V4,2020,61014,Petrol,1st Owner,Good,803,Meghalaya,691300
+Ducati,Monster,2016,62597,Petrol,1st Owner,Fair,803,Manipur,389100
+Triumph,Tiger 900,2013,66897,Petrol,3rd Owner,Good,400,Telangana,83000
+Yezdi,Roadster,2012,120000,Petrol,1st Owner,Good,334,Punjab,56500
+Tork Motors,Kratos Urban,2019,43702,Electric,2nd Owner,Good,125,Uttarakhand,78900
+Bajaj,Dominar 400,2014,53856,Petrol,1st Owner,Excellent,160,Maharashtra,51000
+Yamaha,MT-15 V2,2024,16075,Petrol,1st Owner,Excellent,155,Haryana,155300
+Harley-Davidson,Nightster,2022,35830,Petrol,1st Owner,Poor,440,Goa,207200
+Aprilia,SXR 160,2021,43894,Petrol,1st Owner,Excellent,160,Tripura,146700
+Royal Enfield,Bullet 350,2017,48851,Petrol,1st Owner,Good,349,Delhi NCR,108300
+Yezdi,Adventure,2013,114858,Petrol,2nd Owner,Excellent,334,Punjab,65400
+Husqvarna,Svartpilen 250,2022,21637,Petrol,1st Owner,Excellent,250,Ladakh,181200
+BMW Motorrad,G 310 RR,2017,51354,Petrol,1st Owner,Good,313,Sikkim,194300
+Bajaj,Pulsar NS200,2022,35118,Petrol,1st Owner,Poor,160,Andhra Pradesh,69000
+Ducati,Panigale V2,2017,91840,Petrol,1st Owner,Excellent,1303,Chhattisgarh,1780400
+TVS,Ronin,2019,62875,Petrol,2nd Owner,Excellent,125,Maharashtra,62700
+Ducati,Multistrada V4,2017,75904,Petrol,1st Owner,Excellent,803,Chhattisgarh,558700
+Yamaha,Aerox 155,2016,77010,Petrol,1st Owner,Excellent,155,Delhi NCR,76000
+Husqvarna,Svartpilen 250,2020,38983,Petrol,2nd Owner,Good,250,Maharashtra,137300
+Husqvarna,Svartpilen 250,2012,113073,Petrol,1st Owner,Excellent,250,Andaman and Nicobar Islands,78000
+Triumph,Tiger 900,2012,107261,Petrol,2nd Owner,Fair,400,Meghalaya,56300
+Yezdi,Adventure,2011,102315,Petrol,2nd Owner,Good,334,Sikkim,44500
+Ola Electric,S1 X 3kWh,2020,29023,Electric,2nd Owner,Good,110,Jammu and Kashmir,64200
+Aprilia,SR 125,2022,19255,Petrol,1st Owner,Good,160,Uttarakhand,190400
+Bajaj,Pulsar RS200,2012,92697,Petrol,1st Owner,Excellent,160,Jammu and Kashmir,40300
+Yamaha,MT-15 V2,2023,26949,Petrol,1st Owner,Excellent,155,Nagaland,141900
+Ather Energy,450X Gen 3,2013,99140,Electric,1st Owner,Good,110,Madhya Pradesh,44500
+Simple Energy,Simple Dot One,2016,71815,Electric,4th Owner & Above,Fair,110,Chhattisgarh,35100
+KTM,390 Adventure,2016,44934,Petrol,2nd Owner,Excellent,250,Goa,91800
+Ola Electric,S1 X 3kWh,2022,28396,Electric,3rd Owner,Good,110,Telangana,67800
+Tork Motors,Kratos R,2011,120000,Electric,1st Owner,Excellent,125,Chandigarh,38500
+Yezdi,Roadster,2016,82920,Petrol,2nd Owner,Good,334,Assam,77300
+BMW Motorrad,G 310 GS,2013,58698,Petrol,1st Owner,Good,313,Maharashtra,99300
+Vespa,VXL 125,2013,57541,Petrol,1st Owner,Good,125,Dadra and Nagar Haveli and Daman and Diu,51000
+KTM,125 Duke,2011,80715,Petrol,1st Owner,Excellent,250,Manipur,60300
+Yezdi,Scrambler,2011,102802,Petrol,1st Owner,Excellent,334,Uttar Pradesh,57700
+Triumph,Tiger 900,2024,20118,Petrol,1st Owner,Good,400,Rajasthan,281000
+BMW Motorrad,G 310 GS,2012,92870,Petrol,1st Owner,Fair,313,Sikkim,88900
+Ducati,Multistrada V4,2014,100945,Petrol,1st Owner,Poor,803,West Bengal,285900
+Honda,Shine 100,2012,70833,Petrol,1st Owner,Fair,100,Uttarakhand,18000
+Kawasaki,Z650,2011,120000,Petrol,1st Owner,Excellent,400,Goa,133500
+Yezdi,Roadster,2020,56422,Petrol,1st Owner,Excellent,334,Bihar,159000
+Honda,Dio 125,2019,69434,Petrol,1st Owner,Good,125,Manipur,42500
+Simple Energy,Simple Dot One,2024,16112,Electric,2nd Owner,Good,110,Assam,103000
+Kawasaki,Ninja 300,2020,47905,Petrol,1st Owner,Excellent,400,Manipur,266400
+Suzuki,Access 125,2013,120000,Petrol,1st Owner,Good,125,Kerala,28500
+Bajaj,Pulsar NS200,2020,49409,Petrol,1st Owner,Excellent,160,Andhra Pradesh,75800
+Yamaha,R15M,2013,79247,Petrol,1st Owner,Fair,155,Assam,33500
+KTM,390 Duke,2019,61525,Petrol,4th Owner & Above,Good,250,West Bengal,69500
+Revolt Motors,RV400 BRZ,2024,20043,Electric,1st Owner,Poor,110,Chhattisgarh,86400
+Tork Motors,Kratos Urban,2014,92893,Electric,1st Owner,Excellent,125,Chandigarh,46700
+Ultraviolette,F77 Mach 2,2012,101514,Electric,1st Owner,Good,250,Maharashtra,81500
+Ultraviolette,F77 Recon,2013,84544,Electric,1st Owner,Fair,250,Dadra and Nagar Haveli and Daman and Diu,98500
+Harley-Davidson,Street 750,2016,48926,Petrol,2nd Owner,Excellent,440,Dadra and Nagar Haveli and Daman and Diu,142500
+Honda,Unicorn,2018,54296,Petrol,1st Owner,Excellent,125,Puducherry,49000
+Royal Enfield,Classic 350,2011,120000,Petrol,4th Owner & Above,Good,349,Andaman and Nicobar Islands,47500
+Jawa,Jawa 42,2024,10825,Petrol,1st Owner,Good,334,Dadra and Nagar Haveli and Daman and Diu,162300
+Revolt Motors,RV400,2020,45712,Electric,1st Owner,Excellent,110,Chandigarh,73700
+Yezdi,Scrambler,2017,63772,Petrol,1st Owner,Good,334,Punjab,96400
+BMW Motorrad,G 310 RR,2016,68805,Petrol,2nd Owner,Good,313,Ladakh,144000
+Triumph,Scrambler 400 X,2021,48723,Petrol,3rd Owner,Good,400,Ladakh,155200
+TVS,iQube EV,2024,13289,Electric,1st Owner,Excellent,125,Manipur,119500
+Jawa,Jawa 350,2017,54171,Petrol,4th Owner & Above,Good,334,Bihar,57100
+Tork Motors,Kratos R,2019,40436,Electric,4th Owner & Above,Fair,125,Manipur,55400
+Triumph,Trident 660,2023,23764,Petrol,1st Owner,Excellent,400,Punjab,227700
+Jawa,Jawa Perak,2014,113605,Petrol,1st Owner,Excellent,334,Telangana,61600
+Tork Motors,Kratos Urban,2016,49082,Electric,2nd Owner,Good,125,Ladakh,58900
+Revolt Motors,RV400,2019,55140,Electric,1st Owner,Excellent,110,Nagaland,73700
+Simple Energy,Simple One,2017,45046,Electric,2nd Owner,Good,110,Jammu and Kashmir,58800
+Yezdi,Adventure,2022,24694,Petrol,2nd Owner,Poor,334,Maharashtra,112000
+Hero MotoCorp,Passion Plus,2016,81203,Petrol,1st Owner,Good,110,Kerala,33500
+TVS,Star City Plus,2014,118282,Petrol,1st Owner,Good,125,Nagaland,36000
+Husqvarna,Svartpilen 250,2022,24391,Petrol,2nd Owner,Fair,250,Uttar Pradesh,154800
+KTM,RC 390,2012,120000,Petrol,1st Owner,Excellent,250,Lakshadweep,73800
+Triumph,Bonneville T100,2014,58222,Petrol,1st Owner,Excellent,400,Uttar Pradesh,129100
+Suzuki,Avenis,2017,63947,Petrol,1st Owner,Good,125,Punjab,50000
+Ather Energy,Rizta,2012,96009,Electric,1st Owner,Good,110,Himachal Pradesh,33500
+Royal Enfield,Guerrilla 450,2017,48481,Petrol,3rd Owner,Excellent,349,Odisha,83700
+Suzuki,Gixxer SF,2011,120000,Petrol,2nd Owner,Good,125,Maharashtra,21500
+Yamaha,RayZR 125 Fi,2013,96777,Petrol,1st Owner,Good,155,Maharashtra,43700
+Bajaj,Platina 100,2011,120000,Petrol,1st Owner,Good,100,Uttar Pradesh,21600
+Royal Enfield,Super Meteor 650,2014,119821,Petrol,1st Owner,Good,349,Jammu and Kashmir,90000
+Harley-Davidson,Nightster,2012,111794,Petrol,4th Owner & Above,Excellent,440,Manipur,71600
+Ultraviolette,F77 Mach 2,2012,65932,Electric,1st Owner,Good,250,Tripura,95100
+Tork Motors,Kratos R,2016,92449,Electric,1st Owner,Excellent,125,Sikkim,67400
+Yezdi,Roadster,2020,40727,Petrol,1st Owner,Excellent,334,Punjab,127500
+Bajaj,Pulsar 150,2023,20637,Petrol,2nd Owner,Excellent,160,Tripura,103700
+Harley-Davidson,Nightster,2021,25164,Petrol,2nd Owner,Excellent,440,Gujarat,280600
+Simple Energy,Simple Dot One,2013,120000,Electric,3rd Owner,Good,110,Delhi NCR,34600
+Harley-Davidson,Fat Boy,2024,23552,Petrol,1st Owner,Excellent,940,Tamil Nadu,1469800
+Yamaha,R15M,2014,107030,Petrol,1st Owner,Good,155,Andhra Pradesh,40400
+Bajaj,Dominar 250,2021,35607,Petrol,1st Owner,Excellent,160,Meghalaya,113800
+Hero MotoCorp,Super Splendor,2022,19432,Petrol,1st Owner,Excellent,100,Sikkim,50200
+KTM,RC 200,2018,70688,Petrol,1st Owner,Excellent,250,Mizoram,134700
+Bajaj,Pulsar N160,2023,31374,Petrol,1st Owner,Good,160,Kerala,104800
+Yamaha,FZ 25,2019,35178,Petrol,1st Owner,Good,155,Tamil Nadu,93200
+BMW Motorrad,S 1000 RR,2012,120000,Petrol,1st Owner,Excellent,813,Assam,350300
+Tork Motors,Kratos R,2014,120000,Electric,2nd Owner,Good,125,Manipur,42200
+Harley-Davidson,Iron 883,2024,23572,Petrol,1st Owner,Good,440,Karnataka,294100
+Ola Electric,S1 X Plus,2023,32761,Electric,1st Owner,Excellent,110,Bihar,108000
+Ultraviolette,F77 Mach 2,2017,57000,Electric,1st Owner,Excellent,250,Puducherry,184200
+Simple Energy,Simple One,2011,110608,Electric,2nd Owner,Excellent,110,Uttarakhand,30500
+Royal Enfield,Shotgun 650,2019,42492,Petrol,3rd Owner,Good,349,Nagaland,107000
+Aprilia,SXR 160,2016,79418,Petrol,1st Owner,Excellent,160,Maharashtra,106000
+Yamaha,FZ-X,2011,105652,Petrol,1st Owner,Good,155,Gujarat,30800
+Benelli,Imperiale 400,2015,101410,Petrol,1st Owner,Excellent,374,Uttar Pradesh,127500
+Aprilia,SR 160,2019,48334,Petrol,1st Owner,Excellent,160,Odisha,161200
+Ola Electric,S1 X Plus,2011,101699,Electric,1st Owner,Excellent,110,Odisha,29700
+Benelli,TRK 502X,2011,113422,Petrol,1st Owner,Good,374,Maharashtra,68700
+Royal Enfield,Guerrilla 450,2013,117373,Petrol,1st Owner,Excellent,349,Punjab,88500
+KTM,250 Adventure,2011,75736,Petrol,2nd Owner,Good,250,Andaman and Nicobar Islands,45400
+Husqvarna,Vitpilen 250,2015,111253,Petrol,1st Owner,Good,250,West Bengal,79000
+Benelli,502C,2016,53305,Petrol,1st Owner,Excellent,374,Meghalaya,132900
+Kawasaki,Ninja 400,2019,41114,Petrol,1st Owner,Poor,400,Tamil Nadu,180100
+Jawa,Jawa 42,2024,15853,Petrol,1st Owner,Excellent,334,Kerala,220200
+Vespa,SXL 150,2015,91638,Petrol,1st Owner,Good,125,Delhi NCR,55900
+Harley-Davidson,Nightster,2015,93822,Petrol,2nd Owner,Good,440,Chandigarh,139100
+Tork Motors,Kratos R,2017,62047,Electric,1st Owner,Fair,125,Tripura,63500
+Triumph,Bonneville T100,2018,45724,Petrol,2nd Owner,Excellent,400,Madhya Pradesh,147400
+Kawasaki,Ninja 300,2014,116019,Petrol,3rd Owner,Good,400,Gujarat,103800
+Aprilia,RS 457,2012,118271,Petrol,2nd Owner,Good,160,Nagaland,48900
+Honda,Dio 125,2013,119390,Petrol,1st Owner,Good,125,Chandigarh,28400
+Bajaj,Dominar 250,2020,47723,Petrol,1st Owner,Excellent,160,Uttarakhand,93300
+Tork Motors,Kratos R,2015,81837,Electric,4th Owner & Above,Fair,125,Uttarakhand,27400
+TVS,Apache RTR 160 4V,2023,22226,Petrol,2nd Owner,Good,125,Jharkhand,72400
+Ather Energy,450X Gen 3,2018,71885,Electric,2nd Owner,Good,110,Karnataka,48500
+Ultraviolette,F77 Mach 2,2017,40514,Electric,1st Owner,Good,250,Puducherry,179100
+Jawa,Jawa 42,2014,56622,Petrol,1st Owner,Fair,334,Maharashtra,59700
+Triumph,Street Triple,2018,37332,Petrol,1st Owner,Good,400,Mizoram,152000
+Husqvarna,Svartpilen 250,2015,45386,Petrol,2nd Owner,Excellent,250,Andaman and Nicobar Islands,87300
+Honda,Shine 100,2024,21141,Petrol,1st Owner,Poor,100,Assam,37500
+Ola Electric,S1 X Plus,2017,65944,Electric,2nd Owner,Good,110,Sikkim,38100
+Harley-Davidson,Iron 883,2014,103504,Petrol,1st Owner,Good,440,Jharkhand,126500
+Jawa,Jawa 350,2021,50512,Petrol,1st Owner,Good,334,Rajasthan,148100
+BMW Motorrad,G 310 RR,2024,16778,Petrol,3rd Owner,Good,313,Meghalaya,259400
+Benelli,Imperiale 400,2024,18160,Petrol,1st Owner,Good,374,Tamil Nadu,336600
+Ather Energy,450X Gen 3,2022,38196,Electric,1st Owner,Excellent,110,Uttar Pradesh,113600
+Revolt Motors,RV400,2014,100474,Electric,3rd Owner,Excellent,110,Tripura,34400
+Honda,Activa 6G,2014,115463,Petrol,1st Owner,Good,125,Tamil Nadu,25100
+Tork Motors,Kratos R,2013,120000,Electric,2nd Owner,Good,125,Gujarat,37300
+Suzuki,Gixxer 250,2024,19743,Petrol,4th Owner & Above,Good,125,Arunachal Pradesh,52400
+Suzuki,Burgman Street,2022,28363,Petrol,3rd Owner,Excellent,125,Andaman and Nicobar Islands,66500
+Simple Energy,Simple Dot One,2012,94222,Electric,1st Owner,Excellent,110,Jammu and Kashmir,40200
+Ducati,Panigale V2,2013,79382,Petrol,1st Owner,Fair,1303,Jammu and Kashmir,1147100
+Revolt Motors,RV400,2017,72062,Electric,3rd Owner,Excellent,110,Tamil Nadu,47900
+Yamaha,Aerox 155,2014,70336,Petrol,2nd Owner,Good,155,Goa,51500
+Royal Enfield,Classic 350,2022,29123,Petrol,1st Owner,Excellent,349,Andhra Pradesh,210000
+Simple Energy,Simple One,2021,50604,Electric,2nd Owner,Poor,110,Nagaland,51000
+KTM,390 Duke,2019,63961,Petrol,1st Owner,Good,250,Telangana,138300
+Bajaj,Pulsar RS200,2019,31676,Petrol,1st Owner,Excellent,160,Tripura,99200
+BMW Motorrad,F 900 XR,2021,38989,Petrol,1st Owner,Good,313,Uttarakhand,258100
+TVS,Jupiter 110,2022,26808,Petrol,1st Owner,Good,125,Karnataka,75400
+Jawa,Jawa 350,2019,52885,Petrol,1st Owner,Excellent,334,Madhya Pradesh,124600
+Ultraviolette,F77 Recon,2016,77065,Electric,2nd Owner,Excellent,250,West Bengal,144300
+Yezdi,Adventure,2021,32839,Petrol,1st Owner,Good,334,Andaman and Nicobar Islands,128300
+Jawa,Jawa 350,2014,85256,Petrol,1st Owner,Excellent,334,Kerala,84400
+Suzuki,Gixxer SF,2015,99614,Petrol,1st Owner,Good,125,Delhi NCR,40900
+Yamaha,FZ-X,2015,72870,Petrol,1st Owner,Good,155,Rajasthan,47600
+Husqvarna,Vitpilen 250,2014,60448,Petrol,2nd Owner,Good,250,Andaman and Nicobar Islands,80500
+Ultraviolette,F77 Mach 2,2011,72761,Electric,1st Owner,Good,250,Andaman and Nicobar Islands,108100
+Vespa,ZX 125,2023,30525,Petrol,3rd Owner,Excellent,125,Andaman and Nicobar Islands,87800
+Harley-Davidson,Street 750,2024,20049,Petrol,2nd Owner,Fair,440,Uttar Pradesh,280000
+Benelli,502C,2022,20747,Petrol,1st Owner,Good,374,Andhra Pradesh,223000
+Revolt Motors,RV1,2012,80263,Electric,1st Owner,Fair,110,Sikkim,26000
+Vespa,VXL 125,2011,95442,Petrol,2nd Owner,Excellent,125,Ladakh,36700
+Ultraviolette,F77 Recon,2020,48789,Electric,3rd Owner,Good,250,Chhattisgarh,177100
+Husqvarna,Vitpilen 250,2017,38738,Petrol,1st Owner,Excellent,250,Odisha,136300
+BMW Motorrad,S 1000 RR,2013,93042,Petrol,2nd Owner,Good,813,Ladakh,353700
+Yezdi,Roadster,2024,21192,Petrol,2nd Owner,Good,334,Mizoram,140000
+Husqvarna,Svartpilen 401,2012,120000,Petrol,2nd Owner,Excellent,250,Meghalaya,57400
+Simple Energy,Simple Dot One,2016,68782,Electric,1st Owner,Fair,110,Haryana,54500
+Yezdi,Scrambler,2024,22555,Petrol,1st Owner,Excellent,334,Tamil Nadu,212500
+Harley-Davidson,Iron 883,2020,50899,Petrol,1st Owner,Good,440,Tamil Nadu,261200
+Yezdi,Roadster,2022,42879,Petrol,1st Owner,Fair,334,Himachal Pradesh,149600
+Hero MotoCorp,Xtreme 125R,2015,107876,Petrol,1st Owner,Good,110,Mizoram,31200
+Yamaha,Aerox 155,2014,99478,Petrol,2nd Owner,Fair,155,Telangana,30500
+Triumph,Bonneville T100,2019,63077,Petrol,2nd Owner,Excellent,400,Meghalaya,145600
+Honda,Hornet 2.0,2015,90512,Petrol,2nd Owner,Good,125,Dadra and Nagar Haveli and Daman and Diu,25400
+Jawa,Jawa 350,2011,101535,Petrol,1st Owner,Excellent,334,Telangana,58600
+Ola Electric,S1 X Plus,2018,54561,Electric,1st Owner,Good,110,Goa,60700
+Benelli,TRK 502X,2015,53925,Petrol,2nd Owner,Good,374,Tamil Nadu,105100
+Revolt Motors,RV400 BRZ,2024,21784,Electric,1st Owner,Poor,110,Himachal Pradesh,86100
+Hero MotoCorp,HF Deluxe,2018,40764,Petrol,1st Owner,Good,100,Telangana,33700
+Hero MotoCorp,Glamour,2021,44897,Petrol,1st Owner,Good,110,Maharashtra,56000
+Revolt Motors,RV400 BRZ,2020,30607,Electric,1st Owner,Excellent,110,Haryana,92400
+Ducati,Multistrada V4,2024,16077,Petrol,1st Owner,Good,803,Mizoram,1214600
+Revolt Motors,RV1,2011,120000,Electric,2nd Owner,Excellent,110,Andhra Pradesh,25100
+Aprilia,SR 160,2018,74310,Petrol,1st Owner,Excellent,160,Lakshadweep,109600
+Husqvarna,Vitpilen 250,2023,20111,Petrol,2nd Owner,Good,250,Odisha,188300
+Triumph,Scrambler 400 X,2020,30722,Petrol,1st Owner,Good,400,Dadra and Nagar Haveli and Daman and Diu,185900
+Yamaha,Fascino 125,2016,69110,Petrol,1st Owner,Excellent,155,Ladakh,65700
+Jawa,Jawa 42,2015,81465,Petrol,1st Owner,Good,334,Madhya Pradesh,63600
+Ather Energy,Rizta,2019,52874,Electric,2nd Owner,Excellent,110,Arunachal Pradesh,76800
+Ultraviolette,F77 Recon,2022,35558,Electric,2nd Owner,Excellent,250,Jammu and Kashmir,256600
+Harley-Davidson,Nightster,2011,120000,Petrol,3rd Owner,Fair,440,Kerala,67500
+KTM,390 Duke,2011,78412,Petrol,1st Owner,Good,250,Uttarakhand,63100
+Husqvarna,Svartpilen 401,2015,76108,Petrol,1st Owner,Good,250,Chhattisgarh,89600
+Tork Motors,Kratos Urban,2017,77613,Electric,1st Owner,Good,125,Odisha,61900
+Triumph,Bonneville T100,2012,68881,Petrol,2nd Owner,Excellent,400,Sikkim,75600
+Honda,Activa 125,2018,45210,Petrol,1st Owner,Good,125,Madhya Pradesh,47300
+Ather Energy,Rizta,2016,62363,Electric,3rd Owner,Fair,110,Chandigarh,41000
+Husqvarna,Vitpilen 250,2021,29071,Petrol,1st Owner,Excellent,250,Haryana,183300
+Hero MotoCorp,HF Deluxe,2013,93990,Petrol,1st Owner,Excellent,100,Kerala,20700
+Triumph,Tiger 900,2016,50928,Petrol,2nd Owner,Good,400,Uttar Pradesh,102200
+Revolt Motors,RV1,2023,15297,Electric,1st Owner,Excellent,110,Tamil Nadu,123700
+Benelli,TRK 502,2021,29666,Petrol,2nd Owner,Excellent,374,Uttar Pradesh,201300
+Husqvarna,Svartpilen 401,2015,99656,Petrol,1st Owner,Poor,250,Haryana,52000
+Ather Energy,Rizta,2016,47446,Electric,2nd Owner,Excellent,110,Meghalaya,48600
+Ducati,Multistrada V4,2018,67623,Petrol,1st Owner,Fair,803,Himachal Pradesh,464700
+Tork Motors,Kratos Urban,2018,49315,Electric,1st Owner,Excellent,125,Andaman and Nicobar Islands,89100
+Kawasaki,Ninja 300,2018,40182,Petrol,1st Owner,Fair,400,Arunachal Pradesh,203100
+Ducati,Monster,2020,48393,Petrol,1st Owner,Good,803,Uttarakhand,812300
+Benelli,TRK 502X,2023,31870,Petrol,1st Owner,Excellent,374,Karnataka,286700
+KTM,250 Adventure,2019,57550,Petrol,4th Owner & Above,Excellent,250,Jharkhand,84300
+Suzuki,Gixxer SF 250,2024,21492,Petrol,1st Owner,Good,125,Lakshadweep,109100
+Simple Energy,Simple Dot One,2016,86655,Electric,1st Owner,Excellent,110,Bihar,62200
+Yamaha,FZ 25,2021,42108,Petrol,2nd Owner,Excellent,155,Uttarakhand,102100
+Bajaj,Pulsar N160,2012,81656,Petrol,2nd Owner,Excellent,160,Uttar Pradesh,39500
+KTM,250 Duke,2017,50355,Petrol,1st Owner,Good,250,Punjab,112400
+Ather Energy,450X Gen 3,2012,113229,Electric,1st Owner,Poor,110,Maharashtra,25600
+Honda,CB350RS,2017,48537,Petrol,2nd Owner,Excellent,125,Chhattisgarh,39200
+Honda,Dio 125,2024,21732,Petrol,2nd Owner,Good,125,Punjab,71000
+Aprilia,RS 457,2022,35757,Petrol,2nd Owner,Excellent,160,Dadra and Nagar Haveli and Daman and Diu,140800
+Ultraviolette,F77 Mach 2,2016,98791,Electric,1st Owner,Excellent,250,Rajasthan,158200
+Vespa,SXL 150,2018,67793,Petrol,1st Owner,Good,125,Assam,64500
+Yamaha,Aerox 155,2020,59798,Petrol,2nd Owner,Excellent,155,Dadra and Nagar Haveli and Daman and Diu,84200
+Ultraviolette,F77 Mach 2,2014,108168,Electric,1st Owner,Excellent,250,Jammu and Kashmir,129400
+Benelli,TRK 502X,2013,59756,Petrol,1st Owner,Good,374,Chhattisgarh,103100
+Benelli,Imperiale 400,2022,31850,Petrol,1st Owner,Good,374,Telangana,249800
+Ather Energy,450 Apex,2023,16272,Electric,4th Owner & Above,Good,110,Puducherry,77800
+Royal Enfield,Meteor 350,2016,96737,Petrol,1st Owner,Good,349,Arunachal Pradesh,107300
+Ducati,Scrambler Icon,2021,26132,Petrol,2nd Owner,Good,803,Manipur,595900
+Jawa,Jawa 42,2018,60294,Petrol,1st Owner,Fair,334,Tamil Nadu,88400
+Ola Electric,S1 X Plus,2013,87678,Electric,2nd Owner,Good,110,Uttarakhand,26600
+Jawa,42 Bobber,2021,27606,Petrol,1st Owner,Excellent,334,Haryana,133100
+Jawa,Jawa 350,2011,120000,Petrol,1st Owner,Excellent,334,Tamil Nadu,55000
+Simple Energy,Simple Dot One,2021,23478,Electric,1st Owner,Good,110,Puducherry,100300
+Ducati,Multistrada V4,2023,31406,Petrol,1st Owner,Good,803,Andaman and Nicobar Islands,967000
+Tork Motors,Kratos Urban,2024,16145,Electric,1st Owner,Excellent,125,Manipur,146300
+BMW Motorrad,S 1000 RR,2020,40618,Petrol,3rd Owner,Good,813,Jharkhand,477600
+Husqvarna,Vitpilen 250,2013,94620,Petrol,1st Owner,Excellent,250,Maharashtra,93500
+Suzuki,V-Strom SX 250,2016,47871,Petrol,1st Owner,Excellent,125,Rajasthan,48500
+Hero MotoCorp,Xpulse 200 4V,2023,22998,Petrol,2nd Owner,Good,110,West Bengal,55300
+Bajaj,Pulsar 125,2020,43470,Petrol,3rd Owner,Good,160,Lakshadweep,59000
+Triumph,Bonneville T100,2019,35917,Petrol,1st Owner,Good,400,Tripura,142300
+Suzuki,V-Strom SX 250,2019,45504,Petrol,1st Owner,Good,125,Tamil Nadu,64300
+Jawa,Jawa Perak,2012,120000,Petrol,1st Owner,Excellent,334,Tripura,49400
+Ducati,Scrambler Icon,2016,53780,Petrol,1st Owner,Good,803,Meghalaya,553000
+Yamaha,FZ-X,2019,42335,Petrol,1st Owner,Fair,155,Chhattisgarh,62300
+Ola Electric,S1 Pro Gen 2,2023,25206,Electric,1st Owner,Good,110,Lakshadweep,102000
+KTM,390 Duke,2024,18692,Petrol,1st Owner,Excellent,250,Andhra Pradesh,239500
+Jawa,Jawa 350,2017,55849,Petrol,1st Owner,Good,334,Chhattisgarh,90900
+Kawasaki,Ninja 650,2015,75416,Petrol,2nd Owner,Good,400,Himachal Pradesh,165100
+KTM,RC 200,2011,120000,Petrol,1st Owner,Excellent,250,Madhya Pradesh,70500
+Jawa,Jawa Perak,2024,18190,Petrol,1st Owner,Poor,334,Karnataka,117800
+Simple Energy,Simple One,2011,110521,Electric,2nd Owner,Excellent,110,Dadra and Nagar Haveli and Daman and Diu,34900
+Vespa,SXL 125,2023,22331,Petrol,2nd Owner,Good,125,Bihar,107100
+Benelli,Leoncino 500,2021,48287,Petrol,2nd Owner,Fair,374,Uttarakhand,142000
+Benelli,502C,2019,66757,Petrol,3rd Owner,Good,374,Bihar,157900
+Harley-Davidson,Fat Boy,2021,25208,Petrol,1st Owner,Excellent,940,Arunachal Pradesh,1189000
+Hero MotoCorp,Xtreme 125R,2022,25165,Petrol,1st Owner,Excellent,110,Ladakh,67500
+Harley-Davidson,Nightster,2016,80951,Petrol,2nd Owner,Good,440,Haryana,122300
+BMW Motorrad,G 310 RR,2019,68115,Petrol,3rd Owner,Good,313,Nagaland,135700
+Triumph,Bonneville T100,2020,56704,Petrol,1st Owner,Excellent,400,Jammu and Kashmir,166300
+Harley-Davidson,X440,2022,25372,Petrol,1st Owner,Excellent,440,Madhya Pradesh,332100
+Triumph,Bonneville T100,2013,87983,Petrol,1st Owner,Good,400,Chandigarh,93700
+Hero MotoCorp,Super Splendor,2014,111982,Petrol,1st Owner,Excellent,100,Himachal Pradesh,18100
+Triumph,Tiger 900,2019,48008,Petrol,3rd Owner,Good,400,Ladakh,128700
+KTM,125 Duke,2024,16303,Petrol,1st Owner,Poor,250,Karnataka,142700
+KTM,125 Duke,2014,52727,Petrol,2nd Owner,Good,250,Ladakh,61100
+Suzuki,Access 125,2015,92116,Petrol,3rd Owner,Good,125,Ladakh,29400
+Ducati,Multistrada V4,2019,46919,Petrol,1st Owner,Fair,803,Dadra and Nagar Haveli and Daman and Diu,492100
+Jawa,42 Bobber,2014,104934,Petrol,1st Owner,Excellent,334,Andhra Pradesh,69700
+Simple Energy,Simple Dot One,2021,28834,Electric,1st Owner,Excellent,110,Lakshadweep,107200
+Simple Energy,Simple One,2019,70525,Electric,1st Owner,Excellent,110,Sikkim,69100
+Harley-Davidson,Fat Boy,2021,27574,Petrol,1st Owner,Fair,940,Arunachal Pradesh,841400
+Bajaj,Pulsar N250,2018,72032,Petrol,1st Owner,Excellent,160,Uttar Pradesh,59500
+Aprilia,RS 457,2021,46008,Petrol,1st Owner,Good,160,West Bengal,140100
+Revolt Motors,RV400 BRZ,2015,76687,Electric,1st Owner,Excellent,110,Punjab,41700
+Harley-Davidson,X440,2019,54181,Petrol,1st Owner,Good,440,Assam,253300
+Yezdi,Scrambler,2015,87499,Petrol,1st Owner,Good,334,Jammu and Kashmir,80900
+Ultraviolette,F77 Mach 2,2017,49273,Electric,1st Owner,Excellent,250,Karnataka,201600
+Triumph,Bonneville T100,2012,99795,Petrol,1st Owner,Excellent,400,Odisha,103500
+Ultraviolette,F77 Mach 2,2021,43215,Electric,1st Owner,Good,250,Uttar Pradesh,218000
+Ultraviolette,F77 Mach 2,2022,19264,Electric,1st Owner,Fair,250,Puducherry,244700
+Husqvarna,Svartpilen 401,2023,25733,Petrol,1st Owner,Excellent,250,Rajasthan,218900
+Hero MotoCorp,Mavrick 440,2012,119257,Petrol,1st Owner,Fair,110,Maharashtra,18000
+Hero MotoCorp,Pleasure Plus,2012,120000,Petrol,3rd Owner,Fair,110,Gujarat,18000
+Hero MotoCorp,Passion Plus,2019,43761,Petrol,2nd Owner,Good,110,Telangana,42600
+Yezdi,Scrambler,2017,58406,Petrol,1st Owner,Excellent,334,Tamil Nadu,99600
+TVS,Apache RTR 160 4V,2020,44599,Petrol,2nd Owner,Excellent,125,Tamil Nadu,61700
+Simple Energy,Simple Dot One,2016,43467,Electric,1st Owner,Good,110,Andaman and Nicobar Islands,59400
+KTM,RC 200,2016,87816,Petrol,1st Owner,Fair,250,Kerala,64700
+Bajaj,Pulsar 125,2023,17894,Petrol,1st Owner,Excellent,160,Mizoram,132500
+TVS,Raider 125,2015,65119,Petrol,2nd Owner,Good,125,Jharkhand,31000
+Ducati,Panigale V2,2016,59056,Petrol,2nd Owner,Good,1303,Haryana,1544300
+Simple Energy,Simple Dot One,2015,86206,Electric,1st Owner,Excellent,110,Madhya Pradesh,59200
+Suzuki,V-Strom SX 250,2017,90212,Petrol,1st Owner,Excellent,125,Dadra and Nagar Haveli and Daman and Diu,47100
+Hero MotoCorp,Karizma XMR,2015,89037,Petrol,1st Owner,Fair,110,Nagaland,26300
+Yamaha,Aerox 155,2014,75495,Petrol,1st Owner,Excellent,155,Goa,59400
+Royal Enfield,Interceptor 650,2024,12192,Petrol,3rd Owner,Fair,349,Telangana,135600
+Hero MotoCorp,Pleasure Plus,2015,109845,Petrol,1st Owner,Good,110,Dadra and Nagar Haveli and Daman and Diu,28400
+Jawa,Jawa Perak,2019,57863,Petrol,1st Owner,Fair,334,Kerala,107600
+BMW Motorrad,G 310 GS,2013,84342,Petrol,1st Owner,Good,313,Maharashtra,111200
+TVS,XL100,2013,85356,Petrol,1st Owner,Excellent,100,Uttarakhand,27200
+BMW Motorrad,S 1000 RR,2017,85975,Petrol,1st Owner,Good,813,Haryana,483900
+Harley-Davidson,Nightster,2018,65559,Petrol,1st Owner,Good,440,Odisha,191700
+Ola Electric,S1 Air,2014,80416,Electric,2nd Owner,Excellent,110,Uttar Pradesh,39100
+Kawasaki,Versys 650,2011,120000,Petrol,1st Owner,Good,400,Andaman and Nicobar Islands,119600
+Suzuki,Avenis,2012,93941,Petrol,2nd Owner,Excellent,125,Gujarat,24600
+Ola Electric,S1 Pro Gen 2,2015,48550,Electric,2nd Owner,Excellent,110,Madhya Pradesh,38700
+Triumph,Trident 660,2022,19362,Petrol,1st Owner,Excellent,400,Andhra Pradesh,276200
+Ducati,Scrambler Icon,2024,12818,Petrol,1st Owner,Fair,803,Telangana,945600
+Bajaj,Pulsar NS200,2023,32511,Petrol,1st Owner,Good,160,Gujarat,98400
+KTM,RC 390,2024,16024,Petrol,1st Owner,Good,250,West Bengal,216300
+Ducati,Scrambler Icon,2017,57232,Petrol,1st Owner,Excellent,803,Kerala,556000
+Harley-Davidson,Nightster,2020,33478,Petrol,3rd Owner,Excellent,440,Puducherry,220100
+Royal Enfield,Interceptor 650,2012,120000,Petrol,1st Owner,Poor,349,Himachal Pradesh,52800
+Aprilia,SR 160,2016,96364,Petrol,2nd Owner,Good,160,Arunachal Pradesh,63400
+Husqvarna,Svartpilen 401,2012,64117,Petrol,1st Owner,Good,250,West Bengal,81900
+Ducati,Panigale V2,2019,40215,Petrol,2nd Owner,Good,1303,Karnataka,1419000
+Honda,Dio 125,2018,80526,Petrol,2nd Owner,Good,125,Nagaland,43300
+Ather Energy,450X Gen 3,2011,119065,Electric,1st Owner,Excellent,110,Uttar Pradesh,30800
+Honda,Dio 125,2013,120000,Petrol,1st Owner,Good,125,Rajasthan,21300
+BMW Motorrad,F 900 XR,2019,66875,Petrol,1st Owner,Excellent,313,Manipur,218500
+Triumph,Scrambler 400 X,2023,28562,Petrol,1st Owner,Good,400,Kerala,211400
+Triumph,Street Triple,2015,87529,Petrol,1st Owner,Good,400,Odisha,88100
+Jawa,42 Bobber,2012,101099,Petrol,1st Owner,Good,334,Chandigarh,49900
+Honda,Dio 125,2024,19656,Petrol,4th Owner & Above,Good,125,Maharashtra,56600
+Ola Electric,S1 Air,2016,65122,Electric,1st Owner,Excellent,110,Sikkim,49600
+Vespa,SXL 150,2011,120000,Petrol,1st Owner,Excellent,125,Bihar,35000
+TVS,Sport,2012,110243,Petrol,1st Owner,Good,125,Jammu and Kashmir,29200
+Suzuki,Gixxer 150,2023,29325,Petrol,1st Owner,Excellent,125,Haryana,85700
+Harley-Davidson,Nightster,2020,53334,Petrol,3rd Owner,Excellent,440,Andhra Pradesh,172400
+Ducati,Scrambler Icon,2023,30709,Petrol,1st Owner,Excellent,803,Tripura,1240800
+Royal Enfield,Interceptor 650,2014,67155,Petrol,1st Owner,Fair,349,Jharkhand,71000
+Hero MotoCorp,HF Deluxe,2022,30181,Petrol,1st Owner,Excellent,100,Mizoram,46400
+Tork Motors,Kratos R,2021,38295,Electric,1st Owner,Fair,125,Andhra Pradesh,88900
+Tork Motors,Kratos Urban,2018,72231,Electric,1st Owner,Fair,125,Manipur,61500
+Jawa,Jawa 350,2017,50614,Petrol,1st Owner,Good,334,Arunachal Pradesh,90700
+Yamaha,FZ 25,2017,63253,Petrol,1st Owner,Excellent,155,West Bengal,78200
+Harley-Davidson,Street 750,2014,77158,Petrol,1st Owner,Excellent,440,Punjab,133500
+Jawa,Jawa Perak,2016,53012,Petrol,1st Owner,Good,334,Delhi NCR,74300
+Ultraviolette,F77 Recon,2012,85394,Electric,3rd Owner,Good,250,Ladakh,68900
+Husqvarna,Svartpilen 250,2022,31289,Petrol,1st Owner,Excellent,250,Haryana,189000
+Kawasaki,Ninja 400,2012,73012,Petrol,1st Owner,Poor,400,Punjab,101300
+BMW Motorrad,G 310 GS,2021,50831,Petrol,3rd Owner,Good,313,Mizoram,151900
+Hero MotoCorp,Mavrick 440,2020,40181,Petrol,1st Owner,Excellent,110,Tamil Nadu,52700
+Hero MotoCorp,Passion Plus,2012,114740,Petrol,3rd Owner,Good,110,Goa,18000
+Yezdi,Roadster,2011,73890,Petrol,1st Owner,Good,334,Goa,51100
+Aprilia,RS 457,2011,120000,Petrol,1st Owner,Good,160,West Bengal,51900
+Hero MotoCorp,HF Deluxe,2021,46837,Petrol,2nd Owner,Excellent,100,Himachal Pradesh,38900
+Simple Energy,Simple One,2024,17531,Electric,1st Owner,Excellent,110,Haryana,150000
+Kawasaki,Ninja 400,2022,24982,Petrol,2nd Owner,Fair,400,Haryana,230200
+Benelli,TRK 502X,2021,34618,Petrol,1st Owner,Good,374,Jharkhand,242900
+Honda,CB350RS,2015,53628,Petrol,1st Owner,Fair,125,Mizoram,28900
+KTM,250 Adventure,2022,25705,Petrol,1st Owner,Good,250,Uttar Pradesh,142600
+Bajaj,Chetak EV,2015,74328,Electric,2nd Owner,Excellent,160,West Bengal,53100
+Kawasaki,Z900,2011,102829,Petrol,1st Owner,Excellent,400,Gujarat,139400
+Suzuki,V-Strom SX 250,2021,25021,Petrol,2nd Owner,Good,125,Meghalaya,76200
+Tork Motors,Kratos R,2019,56877,Electric,1st Owner,Good,125,Rajasthan,96100
+Yezdi,Roadster,2023,27697,Petrol,1st Owner,Excellent,334,Rajasthan,166100
+Kawasaki,Versys 650,2015,101257,Petrol,1st Owner,Excellent,400,Dadra and Nagar Haveli and Daman and Diu,160200
+Tork Motors,Kratos Urban,2021,36884,Electric,1st Owner,Poor,125,Meghalaya,59200
+Husqvarna,Vitpilen 250,2016,47860,Petrol,2nd Owner,Excellent,250,Arunachal Pradesh,110800
+Simple Energy,Simple One,2020,41611,Electric,1st Owner,Good,110,Tamil Nadu,84300
+Hero MotoCorp,Super Splendor,2021,49272,Petrol,1st Owner,Fair,100,Jharkhand,34500
+Aprilia,SR 160,2013,85485,Petrol,1st Owner,Excellent,160,Kerala,74900
+Ducati,Monster,2016,92851,Petrol,2nd Owner,Good,803,Tripura,336400
+Benelli,502C,2020,29841,Petrol,4th Owner & Above,Good,374,Bihar,138700
+Suzuki,Burgman Street,2013,120000,Petrol,1st Owner,Good,125,Himachal Pradesh,33800
+Royal Enfield,Bullet 350,2012,74132,Petrol,1st Owner,Excellent,349,Maharashtra,82500
+Jawa,Jawa Perak,2013,109544,Petrol,3rd Owner,Excellent,334,Madhya Pradesh,43200
+Yamaha,Fascino 125,2018,42860,Petrol,2nd Owner,Excellent,155,Delhi NCR,79000
+Yamaha,FZ-X,2015,92727,Petrol,1st Owner,Excellent,155,Meghalaya,62900
+Kawasaki,Ninja 300,2019,50594,Petrol,1st Owner,Excellent,400,Bihar,271600
+Ultraviolette,F77 Recon,2013,108108,Electric,1st Owner,Poor,250,Andhra Pradesh,86400
+Ather Energy,450 Apex,2024,20059,Electric,1st Owner,Fair,110,Manipur,94800
+Ultraviolette,F77 Mach 2,2018,62893,Electric,1st Owner,Good,250,Gujarat,173300
+Ultraviolette,F77 Mach 2,2013,60917,Electric,1st Owner,Fair,250,Chhattisgarh,85500
+Suzuki,Access 125,2018,50244,Petrol,2nd Owner,Excellent,125,Mizoram,46200
+Ather Energy,450 Apex,2024,19467,Electric,2nd Owner,Excellent,110,Maharashtra,130000
+Simple Energy,Simple One,2024,11175,Electric,1st Owner,Excellent,110,Rajasthan,129900
+Benelli,Imperiale 400,2023,29056,Petrol,1st Owner,Fair,374,Gujarat,256400
+Hero MotoCorp,Destini 125,2019,69710,Petrol,1st Owner,Good,110,Haryana,47800
+TVS,Ntorq 125,2022,30855,Petrol,1st Owner,Good,125,Maharashtra,83700
+Jawa,Jawa 350,2012,120000,Petrol,1st Owner,Good,334,Lakshadweep,54500
+Tork Motors,Kratos R,2014,82100,Electric,2nd Owner,Fair,125,Manipur,40000
+TVS,Apache RTR 200 4V,2018,36938,Petrol,1st Owner,Excellent,125,Telangana,65300
+Hero MotoCorp,Xtreme 125R,2011,66051,Petrol,3rd Owner,Excellent,110,Jammu and Kashmir,21000
+Suzuki,Gixxer SF,2012,116155,Petrol,1st Owner,Good,125,Kerala,28800
+Simple Energy,Simple One,2016,48199,Electric,2nd Owner,Good,110,Delhi NCR,53400
+Vespa,SXL 125,2019,50842,Petrol,1st Owner,Poor,125,West Bengal,61300
+TVS,Raider 125,2023,30915,Petrol,1st Owner,Good,125,Tripura,92700
+Ultraviolette,F77 Recon,2021,42795,Electric,3rd Owner,Excellent,250,Chhattisgarh,174300
+Husqvarna,Svartpilen 250,2020,39940,Petrol,1st Owner,Excellent,250,Maharashtra,197500
+Suzuki,Gixxer SF,2014,86603,Petrol,3rd Owner,Excellent,125,Maharashtra,32800
+Revolt Motors,RV1,2017,44420,Electric,1st Owner,Excellent,110,Andhra Pradesh,57100
+Jawa,Jawa 42,2013,117467,Petrol,2nd Owner,Good,334,Punjab,41400
+Ducati,Panigale V2,2014,63131,Petrol,3rd Owner,Excellent,1303,West Bengal,1385800
+Royal Enfield,Shotgun 650,2011,94740,Petrol,1st Owner,Fair,349,Andaman and Nicobar Islands,61000
+TVS,Apache RTR 160 4V,2018,83983,Petrol,2nd Owner,Excellent,125,Tamil Nadu,39700
+Ultraviolette,F77 Mach 2,2016,85526,Electric,1st Owner,Poor,250,Gujarat,110300
+Tork Motors,Kratos Urban,2023,32865,Electric,1st Owner,Good,125,Andaman and Nicobar Islands,128400
+Simple Energy,Simple One,2018,49634,Electric,1st Owner,Excellent,110,Bihar,90700
+Revolt Motors,RV400 BRZ,2016,99058,Electric,1st Owner,Good,110,Nagaland,51300
+Yamaha,FZ-S FI,2017,75078,Petrol,1st Owner,Good,155,Meghalaya,53900
+Hero MotoCorp,HF Deluxe,2015,102344,Petrol,2nd Owner,Excellent,100,Lakshadweep,18000
+Revolt Motors,RV400 BRZ,2012,120000,Electric,1st Owner,Good,110,Punjab,26400
+Hero MotoCorp,Splendor Plus,2015,48640,Petrol,1st Owner,Fair,100,Mizoram,18000
+Yezdi,Adventure,2015,95440,Petrol,1st Owner,Excellent,334,Uttarakhand,89200
+Vespa,ZX 125,2024,14084,Petrol,1st Owner,Good,125,Goa,130200
+Aprilia,RS 457,2020,37246,Petrol,4th Owner & Above,Excellent,160,Gujarat,109100
+Yezdi,Scrambler,2021,34413,Petrol,1st Owner,Good,334,Arunachal Pradesh,124500
+TVS,Raider 125,2018,78383,Petrol,1st Owner,Good,125,Chhattisgarh,56600
+Ultraviolette,F77 Recon,2023,24780,Electric,2nd Owner,Good,250,Madhya Pradesh,256800
+TVS,Ronin,2014,105561,Petrol,1st Owner,Good,125,Uttar Pradesh,27500
+Yamaha,RayZR 125 Fi,2017,44420,Petrol,3rd Owner,Excellent,155,Uttarakhand,54300
+Tork Motors,Kratos R,2015,53200,Electric,1st Owner,Good,125,Chhattisgarh,56500
+KTM,125 Duke,2015,109885,Petrol,1st Owner,Good,250,Karnataka,81500
+BMW Motorrad,G 310 RR,2012,118341,Petrol,2nd Owner,Poor,313,Punjab,66100
+Hero MotoCorp,Pleasure Plus,2017,58389,Petrol,1st Owner,Fair,110,Meghalaya,33700
+Ather Energy,450S,2015,85355,Electric,1st Owner,Good,110,Dadra and Nagar Haveli and Daman and Diu,50700
+Benelli,Leoncino 500,2021,46838,Petrol,1st Owner,Good,374,Maharashtra,225800
+Honda,Unicorn,2024,11222,Petrol,1st Owner,Good,125,Haryana,73300
+Vespa,ZX 125,2018,55721,Petrol,1st Owner,Poor,125,Bihar,47100
+Bajaj,Dominar 400,2014,114031,Petrol,2nd Owner,Excellent,160,Maharashtra,34100
+Ducati,Multistrada V4,2024,12360,Petrol,1st Owner,Fair,803,Rajasthan,1021500
+Hero MotoCorp,Mavrick 440,2021,37227,Petrol,2nd Owner,Good,110,Uttarakhand,44700
+Ultraviolette,F77 Recon,2023,24879,Electric,3rd Owner,Poor,250,Nagaland,169300
+BMW Motorrad,S 1000 RR,2011,74589,Petrol,3rd Owner,Excellent,813,Goa,318200
+Harley-Davidson,Fat Boy,2011,120000,Petrol,2nd Owner,Fair,940,Rajasthan,236400
+Triumph,Scrambler 400 X,2021,28527,Petrol,3rd Owner,Fair,400,Puducherry,123200
+Triumph,Trident 660,2021,42196,Petrol,2nd Owner,Good,400,Uttarakhand,156600
+Triumph,Trident 660,2013,56870,Petrol,1st Owner,Poor,400,Sikkim,63100
+Tork Motors,Kratos R,2013,92627,Electric,1st Owner,Good,125,Jharkhand,49500
+Ather Energy,450 Apex,2019,53702,Electric,1st Owner,Poor,110,Karnataka,53700
+Revolt Motors,RV400 BRZ,2011,85828,Electric,2nd Owner,Good,110,Kerala,31300
+Ducati,Panigale V2,2013,106112,Petrol,3rd Owner,Fair,1303,Odisha,627200
+Jawa,Jawa 350,2018,63543,Petrol,1st Owner,Good,334,Dadra and Nagar Haveli and Daman and Diu,83800
+Tork Motors,Kratos Urban,2015,56175,Electric,1st Owner,Excellent,125,Chhattisgarh,71700
+Yezdi,Roadster,2017,68511,Petrol,2nd Owner,Good,334,Kerala,94400
+Yamaha,RayZR 125 Fi,2017,71142,Petrol,1st Owner,Good,155,Dadra and Nagar Haveli and Daman and Diu,54600
+Royal Enfield,Meteor 350,2021,24477,Petrol,1st Owner,Good,349,Punjab,146000
+Ather Energy,450X Gen 3,2023,22572,Electric,2nd Owner,Good,110,Kerala,83700
+Kawasaki,Z900,2019,31945,Petrol,2nd Owner,Good,400,Haryana,204400
+Husqvarna,Svartpilen 250,2015,73806,Petrol,1st Owner,Poor,250,Lakshadweep,63800
+BMW Motorrad,F 900 XR,2015,75115,Petrol,1st Owner,Poor,313,Jharkhand,105100
+Suzuki,Gixxer 150,2022,44524,Petrol,1st Owner,Good,125,West Bengal,79400
+Revolt Motors,RV1,2014,94033,Electric,2nd Owner,Good,110,Maharashtra,32500
+Jawa,42 Bobber,2019,51577,Petrol,1st Owner,Good,334,Punjab,125800
+Revolt Motors,RV400 BRZ,2014,53624,Electric,1st Owner,Good,110,Himachal Pradesh,37500
+Bajaj,Platina 110,2024,10528,Petrol,1st Owner,Fair,100,Tamil Nadu,74900
+Ducati,Multistrada V4,2013,78045,Petrol,1st Owner,Good,803,Jammu and Kashmir,374600
+BMW Motorrad,G 310 GS,2019,62234,Petrol,1st Owner,Fair,313,Jammu and Kashmir,165600
+Aprilia,Tuono 660,2024,19339,Petrol,2nd Owner,Poor,160,Andaman and Nicobar Islands,134500
+Benelli,Leoncino 500,2023,26368,Petrol,1st Owner,Excellent,374,Andaman and Nicobar Islands,269800
+Yamaha,Aerox 155,2023,20586,Petrol,2nd Owner,Excellent,155,Rajasthan,131400
+Bajaj,Dominar 250,2013,54504,Petrol,1st Owner,Fair,160,Chandigarh,38100
+Ather Energy,450X Gen 3,2023,28477,Electric,2nd Owner,Good,110,Kerala,80800
+BMW Motorrad,F 900 XR,2015,86829,Petrol,1st Owner,Excellent,313,Maharashtra,167900
+Bajaj,Dominar 250,2012,119463,Petrol,1st Owner,Good,160,Manipur,29900
+Bajaj,Chetak EV,2011,120000,Electric,2nd Owner,Poor,160,Chandigarh,18000
+Suzuki,Burgman Street,2018,54060,Petrol,2nd Owner,Poor,125,Andhra Pradesh,37100
+TVS,XL100,2024,21556,Petrol,1st Owner,Fair,100,Dadra and Nagar Haveli and Daman and Diu,65300
+Ultraviolette,F77 Mach 2,2024,11710,Electric,3rd Owner,Good,250,Uttarakhand,208300
+Vespa,ZX 125,2024,13815,Petrol,2nd Owner,Excellent,125,Andhra Pradesh,134400
+Suzuki,Gixxer SF 250,2024,19014,Petrol,1st Owner,Excellent,125,Rajasthan,103600
+Kawasaki,Ninja 400,2022,19101,Petrol,1st Owner,Excellent,400,Puducherry,363700
+Hero MotoCorp,Splendor Plus,2016,47732,Petrol,2nd Owner,Fair,100,Haryana,21400
+Triumph,Bonneville T100,2024,16758,Petrol,3rd Owner,Good,400,Madhya Pradesh,236200
+Husqvarna,Vitpilen 250,2023,23838,Petrol,1st Owner,Excellent,250,Rajasthan,240200
+Aprilia,SR 160,2016,69364,Petrol,1st Owner,Excellent,160,Uttar Pradesh,100900
+Tork Motors,Kratos R,2015,91522,Electric,1st Owner,Excellent,125,Delhi NCR,58900
+Kawasaki,Ninja 300,2013,93890,Petrol,2nd Owner,Excellent,400,Puducherry,146900
+TVS,Ntorq 125,2019,30187,Petrol,1st Owner,Good,125,Sikkim,49700
+Benelli,Imperiale 400,2017,65756,Petrol,2nd Owner,Excellent,374,Assam,145700
+Simple Energy,Simple Dot One,2015,105921,Electric,1st Owner,Poor,110,Mizoram,29600
+Simple Energy,Simple Dot One,2021,23718,Electric,2nd Owner,Fair,110,Chhattisgarh,72100
+TVS,Apache RTR 200 4V,2019,60550,Petrol,2nd Owner,Good,125,Mizoram,48700
+BMW Motorrad,G 310 R,2015,52045,Petrol,2nd Owner,Excellent,313,Jharkhand,134100
+Hero MotoCorp,Xtreme 125R,2021,38925,Petrol,1st Owner,Good,110,Chhattisgarh,63000
+KTM,390 Adventure,2018,44127,Petrol,1st Owner,Good,250,Chandigarh,108900
+Simple Energy,Simple One,2016,59556,Electric,2nd Owner,Excellent,110,Arunachal Pradesh,62700
+Ducati,Monster,2024,20839,Petrol,3rd Owner,Good,803,Lakshadweep,701200
+Hero MotoCorp,Xtreme 125R,2019,41545,Petrol,3rd Owner,Good,110,West Bengal,38200
+Revolt Motors,RV400 BRZ,2018,73092,Electric,1st Owner,Good,110,Karnataka,68000
+Yamaha,FZ 25,2015,84158,Petrol,1st Owner,Poor,155,Jharkhand,39300
+Yamaha,Fascino 125,2022,27666,Petrol,1st Owner,Good,155,Chandigarh,127200
+Kawasaki,Eliminator 500,2019,57879,Petrol,2nd Owner,Excellent,400,Nagaland,259300
+Husqvarna,Vitpilen 250,2023,22977,Petrol,1st Owner,Fair,250,Arunachal Pradesh,173300
+Ultraviolette,F77 Mach 2,2017,80313,Electric,1st Owner,Excellent,250,Andhra Pradesh,167100
+Vespa,VXL 125,2018,72696,Petrol,1st Owner,Good,125,Karnataka,58100
+Simple Energy,Simple Dot One,2018,39595,Electric,3rd Owner,Good,110,Gujarat,59500
+Yezdi,Scrambler,2023,17205,Petrol,1st Owner,Good,334,Tamil Nadu,197500
+Yezdi,Adventure,2024,21373,Petrol,1st Owner,Poor,334,Tripura,117200
+Suzuki,Avenis,2020,31639,Petrol,1st Owner,Excellent,125,Puducherry,85400
+Hero MotoCorp,Xtreme 160R,2011,118364,Petrol,3rd Owner,Fair,110,Puducherry,18000
+TVS,Radeon,2021,51231,Petrol,2nd Owner,Poor,125,Andhra Pradesh,46700
+Triumph,Bonneville T100,2015,114362,Petrol,1st Owner,Good,400,Manipur,93500
+Tork Motors,Kratos R,2011,84510,Electric,2nd Owner,Good,125,Andhra Pradesh,33100
+Ola Electric,S1 X Plus,2017,55348,Electric,2nd Owner,Good,110,Andhra Pradesh,48700
+BMW Motorrad,F 900 XR,2021,47169,Petrol,1st Owner,Excellent,313,Mizoram,310300
+Royal Enfield,Continental GT 650,2020,29244,Petrol,1st Owner,Good,349,Madhya Pradesh,144900
+Tork Motors,Kratos R,2021,48440,Electric,1st Owner,Good,125,Rajasthan,96900
+Triumph,Street Triple,2019,50334,Petrol,1st Owner,Good,400,Arunachal Pradesh,157300
+Aprilia,SR 125,2023,13703,Petrol,1st Owner,Excellent,160,Telangana,211200
+Vespa,VXL 150,2024,13661,Petrol,1st Owner,Excellent,125,Chandigarh,114100
+BMW Motorrad,F 900 XR,2021,46921,Petrol,1st Owner,Good,313,Maharashtra,246500
+Ola Electric,S1 Pro Gen 2,2021,31068,Electric,1st Owner,Excellent,110,Odisha,89900
+Hero MotoCorp,Karizma XMR,2011,107863,Petrol,1st Owner,Excellent,110,Telangana,24500
+Ducati,Scrambler Icon,2023,17401,Petrol,1st Owner,Good,803,Tripura,872900
+Ather Energy,450 Apex,2019,50996,Electric,1st Owner,Fair,110,Telangana,59600
+Suzuki,Access 125,2011,94821,Petrol,2nd Owner,Good,125,Jharkhand,22800
+TVS,Apache RTR 200 4V,2020,57894,Petrol,1st Owner,Excellent,125,Chhattisgarh,67400
+Ducati,Multistrada V4,2024,12466,Petrol,3rd Owner,Excellent,803,Madhya Pradesh,913000
+Harley-Davidson,Fat Boy,2020,61218,Petrol,3rd Owner,Good,940,Haryana,604300
+Tork Motors,Kratos Urban,2015,71108,Electric,2nd Owner,Poor,125,Lakshadweep,41600
+Vespa,ZX 125,2017,80136,Petrol,2nd Owner,Excellent,125,Madhya Pradesh,56000
+Royal Enfield,Meteor 350,2014,100888,Petrol,2nd Owner,Excellent,349,Tripura,76200
+Royal Enfield,Guerrilla 450,2022,34743,Petrol,1st Owner,Excellent,349,Punjab,148300
+Vespa,SXL 150,2017,66684,Petrol,2nd Owner,Good,125,Tripura,59700
+Yamaha,Fascino 125,2022,30823,Petrol,1st Owner,Good,155,Arunachal Pradesh,99200
+Benelli,TRK 502,2024,17760,Petrol,3rd Owner,Excellent,374,Assam,256100
+Hero MotoCorp,HF Deluxe,2020,45690,Petrol,1st Owner,Good,100,Chandigarh,35800
+Aprilia,SXR 160,2011,114350,Petrol,2nd Owner,Good,160,Uttarakhand,42800
+Yezdi,Scrambler,2021,28811,Petrol,1st Owner,Good,334,Tripura,140300
+Yezdi,Scrambler,2019,59693,Petrol,2nd Owner,Excellent,334,Bihar,123700
+Yamaha,RayZR 125 Fi,2021,30277,Petrol,3rd Owner,Good,155,Chhattisgarh,68000
+Ola Electric,S1 Air,2015,54101,Electric,2nd Owner,Poor,110,Andaman and Nicobar Islands,22200
+TVS,Jupiter 110,2019,40144,Petrol,1st Owner,Good,125,Tamil Nadu,60300
+Kawasaki,Ninja 650,2018,59625,Petrol,2nd Owner,Fair,400,Lakshadweep,188900
+Kawasaki,Z650,2016,77022,Petrol,1st Owner,Good,400,Himachal Pradesh,204100
+Yamaha,FZ-X,2021,53625,Petrol,1st Owner,Good,155,Uttarakhand,83400
+Triumph,Trident 660,2020,44890,Petrol,1st Owner,Excellent,400,Delhi NCR,206300
+Hero MotoCorp,Karizma XMR,2019,40167,Petrol,2nd Owner,Good,110,Meghalaya,35300
+Royal Enfield,Interceptor 650,2024,17296,Petrol,1st Owner,Fair,349,Sikkim,179800
+Triumph,Tiger 900,2021,26479,Petrol,1st Owner,Good,400,Odisha,204900
+TVS,Sport,2017,91118,Petrol,1st Owner,Excellent,125,Mizoram,50800
+TVS,Sport,2013,90957,Petrol,1st Owner,Good,125,Dadra and Nagar Haveli and Daman and Diu,36100
+Royal Enfield,Classic 350,2024,12810,Petrol,1st Owner,Good,349,Uttar Pradesh,204300
+Hero MotoCorp,HF Deluxe,2018,51008,Petrol,1st Owner,Good,100,Delhi NCR,28100
+Triumph,Tiger 900,2013,79029,Petrol,2nd Owner,Excellent,400,Sikkim,84700
+Ducati,Multistrada V4,2020,33860,Petrol,4th Owner & Above,Excellent,803,Uttarakhand,518200
+Kawasaki,Ninja 300,2011,73856,Petrol,1st Owner,Excellent,400,Karnataka,130900
+KTM,390 Adventure,2019,39128,Petrol,1st Owner,Excellent,250,Lakshadweep,151400
+Ola Electric,S1 X Plus,2016,80825,Electric,1st Owner,Good,110,Kerala,37800
+Ducati,Monster,2016,67075,Petrol,1st Owner,Excellent,803,Punjab,450500
+Revolt Motors,RV400,2024,18908,Electric,1st Owner,Excellent,110,Telangana,126200
+Yezdi,Roadster,2012,71198,Petrol,2nd Owner,Fair,334,Assam,39700
+Ducati,Monster,2023,17280,Petrol,1st Owner,Excellent,803,Gujarat,995300
+Jawa,42 Bobber,2015,107736,Petrol,1st Owner,Good,334,Ladakh,66000
+Yezdi,Roadster,2024,16083,Petrol,2nd Owner,Good,334,Andhra Pradesh,179300
+Triumph,Scrambler 400 X,2013,82209,Petrol,1st Owner,Fair,400,Chandigarh,86700
+Suzuki,Access 125,2014,62011,Petrol,1st Owner,Fair,125,Uttar Pradesh,32800
+TVS,Jupiter 110,2011,120000,Petrol,1st Owner,Fair,125,Haryana,23300
+Bajaj,Pulsar RS200,2015,45648,Petrol,1st Owner,Excellent,160,Nagaland,60500
+BMW Motorrad,S 1000 RR,2015,64511,Petrol,1st Owner,Good,813,Uttarakhand,519200
+Ducati,Panigale V2,2016,100527,Petrol,2nd Owner,Good,1303,Mizoram,964300
+Ducati,Monster,2016,86576,Petrol,1st Owner,Fair,803,Puducherry,350200
+Benelli,TRK 502X,2021,49982,Petrol,1st Owner,Fair,374,Kerala,169600
+Simple Energy,Simple One,2016,53976,Electric,1st Owner,Good,110,Karnataka,64100
+Honda,CB300R,2017,87971,Petrol,1st Owner,Fair,125,Meghalaya,36900
+Royal Enfield,Shotgun 650,2018,68015,Petrol,2nd Owner,Excellent,349,Jharkhand,130500
+Harley-Davidson,Fat Boy,2019,50676,Petrol,1st Owner,Good,940,Odisha,757700
+Honda,SP 125,2018,78786,Petrol,1st Owner,Good,125,Nagaland,50500
+Benelli,TRK 502,2023,28337,Petrol,2nd Owner,Excellent,374,Andhra Pradesh,283700
+Revolt Motors,RV1,2011,66186,Electric,1st Owner,Excellent,110,Kerala,42000
+Yamaha,R15 V4,2021,29274,Petrol,1st Owner,Good,155,Jammu and Kashmir,83200
+Ola Electric,S1 X Plus,2011,120000,Electric,1st Owner,Good,110,Chhattisgarh,28900
+Revolt Motors,RV400 BRZ,2020,46890,Electric,2nd Owner,Good,110,Mizoram,62700
+Ultraviolette,F77 Recon,2016,101278,Electric,4th Owner & Above,Excellent,250,Maharashtra,114200
+Kawasaki,Ninja 300,2018,68261,Petrol,1st Owner,Fair,400,Maharashtra,196200
+Simple Energy,Simple One,2020,49299,Electric,3rd Owner,Good,110,Nagaland,68100
+Ola Electric,S1 Pro Gen 2,2014,120000,Electric,1st Owner,Good,110,Chhattisgarh,36000
+Bajaj,Pulsar N160,2021,29454,Petrol,1st Owner,Excellent,160,Mizoram,97600
+Vespa,ZX 125,2023,25245,Petrol,1st Owner,Excellent,125,Arunachal Pradesh,126200
+Ola Electric,S1 X 3kWh,2022,19087,Electric,1st Owner,Good,110,Kerala,93300
+Yamaha,R15M,2024,22108,Petrol,1st Owner,Excellent,155,Jharkhand,149900
+Tork Motors,Kratos Urban,2011,85944,Electric,1st Owner,Good,125,Meghalaya,41400
+Aprilia,SXR 160,2016,54667,Petrol,1st Owner,Good,160,West Bengal,96900
+Suzuki,Gixxer SF 250,2012,120000,Petrol,1st Owner,Excellent,125,Lakshadweep,32300
+Aprilia,SR 160,2022,38981,Petrol,1st Owner,Fair,160,Arunachal Pradesh,134200
+Jawa,Jawa 350,2022,31518,Petrol,3rd Owner,Good,334,Lakshadweep,108900
+Benelli,Imperiale 400,2016,85846,Petrol,1st Owner,Poor,374,Andaman and Nicobar Islands,86500
+Tork Motors,Kratos R,2021,28589,Electric,1st Owner,Fair,125,Chhattisgarh,77700
+Ducati,Monster,2017,56684,Petrol,1st Owner,Excellent,803,Arunachal Pradesh,686000
+Yamaha,Fascino 125,2015,91836,Petrol,1st Owner,Fair,155,Ladakh,45500
+Tork Motors,Kratos Urban,2011,95139,Electric,3rd Owner,Excellent,125,Bihar,29300
+Ducati,Scrambler Icon,2022,20668,Petrol,2nd Owner,Fair,803,Tripura,590700
+Suzuki,Avenis,2018,67044,Petrol,2nd Owner,Good,125,Delhi NCR,49100
+Yezdi,Roadster,2019,59308,Petrol,1st Owner,Excellent,334,Tamil Nadu,110800
+Kawasaki,Eliminator 500,2019,53100,Petrol,1st Owner,Excellent,400,Madhya Pradesh,306500
+Harley-Davidson,Fat Boy,2020,37767,Petrol,1st Owner,Good,940,Tripura,683700
+Triumph,Trident 660,2023,28269,Petrol,1st Owner,Good,400,Puducherry,236200
+Ather Energy,450S,2018,78478,Electric,1st Owner,Fair,110,Manipur,58800
+Ducati,Panigale V2,2018,38517,Petrol,2nd Owner,Excellent,1303,Goa,1476600
+TVS,iQube EV,2014,57579,Electric,1st Owner,Poor,125,Dadra and Nagar Haveli and Daman and Diu,21400
+TVS,Apache RR 310,2022,27677,Petrol,3rd Owner,Good,125,Uttar Pradesh,55000
+Ultraviolette,F77 Recon,2012,117691,Electric,1st Owner,Excellent,250,Andhra Pradesh,116100
+Hero MotoCorp,Glamour,2016,63043,Petrol,1st Owner,Good,110,Uttar Pradesh,31600
+BMW Motorrad,G 310 GS,2020,50062,Petrol,1st Owner,Good,313,Sikkim,227900
+Aprilia,SR 160,2023,29447,Petrol,1st Owner,Excellent,160,Punjab,214700
+Ducati,Scrambler Icon,2022,28739,Petrol,1st Owner,Excellent,803,Tripura,865100
+Triumph,Scrambler 400 X,2018,46888,Petrol,1st Owner,Excellent,400,Odisha,181600
+Ola Electric,S1 Pro Gen 2,2022,32216,Electric,2nd Owner,Excellent,110,Madhya Pradesh,87500
+Ather Energy,Rizta,2024,10120,Electric,2nd Owner,Good,110,Haryana,90300
+Honda,Shine 125,2024,15842,Petrol,1st Owner,Excellent,125,Chandigarh,88200
+Ather Energy,Rizta,2017,73851,Electric,1st Owner,Excellent,110,Andaman and Nicobar Islands,61600
+Ola Electric,S1 X Plus,2019,50833,Electric,2nd Owner,Fair,110,Jharkhand,47600
+Aprilia,SR 125,2021,45693,Petrol,1st Owner,Good,160,Lakshadweep,123200
+Aprilia,SR 125,2014,84266,Petrol,4th Owner & Above,Good,160,Lakshadweep,45300
+Yamaha,Fascino 125,2019,39654,Petrol,1st Owner,Good,155,Assam,95600
+BMW Motorrad,G 310 R,2015,78548,Petrol,4th Owner & Above,Excellent,313,Madhya Pradesh,113800
+Suzuki,Gixxer SF 250,2013,110043,Petrol,2nd Owner,Good,125,Ladakh,27700
+Kawasaki,Ninja 300,2019,37840,Petrol,2nd Owner,Excellent,400,Haryana,255200
+BMW Motorrad,G 310 R,2016,45470,Petrol,1st Owner,Good,313,Maharashtra,155000
+Jawa,Jawa Perak,2018,80546,Petrol,1st Owner,Fair,334,Chhattisgarh,84800
+Aprilia,RS 457,2017,83799,Petrol,1st Owner,Fair,160,Bihar,88000
+Simple Energy,Simple Dot One,2015,50347,Electric,2nd Owner,Excellent,110,Gujarat,50700
+KTM,RC 390,2018,63413,Petrol,4th Owner & Above,Good,250,Chhattisgarh,82200
+Ultraviolette,F77 Mach 2,2024,15636,Electric,1st Owner,Fair,250,West Bengal,275800
+Honda,CB350RS,2019,35895,Petrol,1st Owner,Fair,125,West Bengal,43200
+Ducati,Multistrada V4,2018,72182,Petrol,2nd Owner,Excellent,803,Andhra Pradesh,475400
+Benelli,Imperiale 400,2011,93881,Petrol,3rd Owner,Good,374,Nagaland,67500
+Hero MotoCorp,Xpulse 200 4V,2018,58993,Petrol,3rd Owner,Excellent,110,Dadra and Nagar Haveli and Daman and Diu,34800
+Hero MotoCorp,Splendor Plus,2014,55270,Petrol,2nd Owner,Fair,100,Goa,18000
+Ather Energy,Rizta,2013,108971,Electric,1st Owner,Good,110,Mizoram,34100
+TVS,Star City Plus,2024,15179,Petrol,1st Owner,Poor,125,Chhattisgarh,60100
+Honda,Activa 125,2024,20948,Petrol,1st Owner,Fair,125,Himachal Pradesh,58200
+BMW Motorrad,S 1000 RR,2018,36943,Petrol,1st Owner,Good,813,West Bengal,657600
+KTM,250 Adventure,2015,59214,Petrol,1st Owner,Excellent,250,Meghalaya,105200
+Hero MotoCorp,HF Deluxe,2021,48639,Petrol,1st Owner,Good,100,Telangana,34800
+TVS,Apache RTR 200 4V,2023,33003,Petrol,2nd Owner,Excellent,125,Maharashtra,84100
+Hero MotoCorp,Destini 125,2020,43288,Petrol,1st Owner,Excellent,110,Rajasthan,57600
+Husqvarna,Svartpilen 250,2014,67659,Petrol,2nd Owner,Good,250,Dadra and Nagar Haveli and Daman and Diu,66700
+Ducati,Panigale V2,2013,97996,Petrol,2nd Owner,Good,1303,Andhra Pradesh,1165500
+Kawasaki,Eliminator 500,2023,20962,Petrol,4th Owner & Above,Excellent,400,Ladakh,279000
+Harley-Davidson,X440,2021,39309,Petrol,1st Owner,Good,440,Ladakh,258300
+Yamaha,R15 V4,2022,30907,Petrol,2nd Owner,Excellent,155,Telangana,121100
+BMW Motorrad,G 310 GS,2019,32948,Petrol,1st Owner,Good,313,Uttarakhand,195500
+Suzuki,Burgman Street,2018,50997,Petrol,1st Owner,Excellent,125,Himachal Pradesh,71200
+BMW Motorrad,G 310 R,2014,112227,Petrol,2nd Owner,Fair,313,Andaman and Nicobar Islands,100500
+Triumph,Tiger 900,2019,53094,Petrol,1st Owner,Good,400,Meghalaya,182600
+Ather Energy,Rizta,2011,120000,Electric,2nd Owner,Excellent,110,Kerala,25700
+Ather Energy,450X Gen 3,2022,23732,Electric,1st Owner,Good,110,Tripura,109800
+Triumph,Tiger 900,2016,94740,Petrol,1st Owner,Good,400,Nagaland,121200
+Triumph,Speed 400,2016,97224,Petrol,1st Owner,Excellent,400,Maharashtra,111900
+Tork Motors,Kratos Urban,2021,32995,Electric,1st Owner,Good,125,Tripura,113300
+Aprilia,RS 457,2019,61237,Petrol,1st Owner,Good,160,Madhya Pradesh,119000
+Kawasaki,Ninja 650,2017,74650,Petrol,1st Owner,Excellent,400,Jharkhand,184300
+Royal Enfield,Shotgun 650,2022,27289,Petrol,1st Owner,Good,349,Delhi NCR,166700
+TVS,iQube EV,2017,74686,Electric,1st Owner,Good,125,Uttarakhand,39400
+Triumph,Trident 660,2020,39999,Petrol,1st Owner,Excellent,400,Puducherry,167300
+Ola Electric,S1 Pro Gen 2,2019,69401,Electric,1st Owner,Good,110,Arunachal Pradesh,60100
+Bajaj,Pulsar 150,2015,85023,Petrol,3rd Owner,Good,160,Arunachal Pradesh,35600
+Ducati,Monster,2016,102542,Petrol,1st Owner,Good,803,Nagaland,435800
+Benelli,TRK 502,2024,13106,Petrol,2nd Owner,Good,374,Delhi NCR,291100
+Suzuki,Gixxer 150,2012,117372,Petrol,3rd Owner,Excellent,125,Punjab,26100
+Harley-Davidson,Iron 883,2020,62681,Petrol,1st Owner,Poor,440,Tripura,135200
+Kawasaki,Ninja 400,2012,107558,Petrol,1st Owner,Good,400,Dadra and Nagar Haveli and Daman and Diu,103100
+Yamaha,FZ-X,2022,38796,Petrol,1st Owner,Good,155,Andaman and Nicobar Islands,111300
+Hero MotoCorp,Passion Plus,2021,27907,Petrol,1st Owner,Excellent,110,Arunachal Pradesh,51000
+Husqvarna,Svartpilen 250,2018,76192,Petrol,1st Owner,Fair,250,Lakshadweep,111000
+Yamaha,FZ-S FI,2011,120000,Petrol,1st Owner,Fair,155,Karnataka,29500
+Bajaj,CT 110X,2012,59189,Petrol,1st Owner,Excellent,160,Chhattisgarh,49800
+Ultraviolette,F77 Mach 2,2012,79411,Electric,1st Owner,Excellent,250,Arunachal Pradesh,121100
+Ultraviolette,F77 Recon,2013,57594,Electric,2nd Owner,Fair,250,Goa,104000
+Harley-Davidson,X440,2023,20454,Petrol,1st Owner,Good,440,Uttar Pradesh,267200
+BMW Motorrad,S 1000 RR,2018,43053,Petrol,1st Owner,Excellent,813,Puducherry,539600
+Simple Energy,Simple One,2016,58563,Electric,1st Owner,Excellent,110,Uttar Pradesh,71200
+Ducati,Scrambler Icon,2012,63368,Petrol,1st Owner,Good,803,Haryana,327100
+Honda,Unicorn,2023,27477,Petrol,1st Owner,Good,125,Arunachal Pradesh,76100
+BMW Motorrad,G 310 GS,2024,23550,Petrol,2nd Owner,Excellent,313,Andhra Pradesh,269100
+Bajaj,Dominar 250,2016,77744,Petrol,1st Owner,Excellent,160,Bihar,64800
+Yezdi,Roadster,2019,70597,Petrol,1st Owner,Excellent,334,Gujarat,131200
+Aprilia,RS 457,2011,120000,Petrol,1st Owner,Good,160,Delhi NCR,56700
+Bajaj,Avenger Cruise 220,2019,39614,Petrol,1st Owner,Excellent,160,Arunachal Pradesh,75900
+Kawasaki,Eliminator 500,2016,94477,Petrol,2nd Owner,Good,400,Odisha,158400
+Simple Energy,Simple Dot One,2011,70213,Electric,1st Owner,Good,110,Himachal Pradesh,39000
+Hero MotoCorp,HF Deluxe,2016,49398,Petrol,3rd Owner,Excellent,100,Arunachal Pradesh,21200
+TVS,Sport,2011,103453,Petrol,3rd Owner,Good,125,Karnataka,21400
+BMW Motorrad,S 1000 RR,2023,14981,Petrol,2nd Owner,Good,813,Jharkhand,904000
+Aprilia,SR 160,2022,33223,Petrol,1st Owner,Fair,160,Puducherry,168500
+Revolt Motors,RV400 BRZ,2013,57345,Electric,1st Owner,Poor,110,Puducherry,31500
+Bajaj,Pulsar 150,2017,80639,Petrol,1st Owner,Good,160,Odisha,61600
+Harley-Davidson,Iron 883,2022,39527,Petrol,2nd Owner,Good,440,Andaman and Nicobar Islands,276000
+Triumph,Scrambler 400 X,2015,70452,Petrol,1st Owner,Good,400,Bihar,90400
+Revolt Motors,RV1,2017,77220,Electric,1st Owner,Poor,110,West Bengal,43300
+Kawasaki,Ninja 400,2022,21352,Petrol,1st Owner,Excellent,400,Arunachal Pradesh,419700
+Yamaha,R15M,2021,37701,Petrol,1st Owner,Excellent,155,Assam,99800
+Suzuki,Gixxer SF 250,2015,52651,Petrol,1st Owner,Excellent,125,Telangana,38500
+Triumph,Scrambler 400 X,2012,75781,Petrol,1st Owner,Excellent,400,Kerala,99400
+Ather Energy,450 Apex,2012,99373,Electric,1st Owner,Good,110,Andaman and Nicobar Islands,33600
+Jawa,42 Bobber,2019,34523,Petrol,1st Owner,Good,334,Uttar Pradesh,117400
+TVS,Jupiter 110,2023,31180,Petrol,2nd Owner,Good,125,Tamil Nadu,78600
+TVS,Apache RTR 160 4V,2023,29664,Petrol,1st Owner,Good,125,Dadra and Nagar Haveli and Daman and Diu,90700
+BMW Motorrad,F 900 XR,2017,49752,Petrol,1st Owner,Fair,313,Bihar,164400
+Bajaj,Dominar 250,2015,65292,Petrol,3rd Owner,Good,160,Jharkhand,42800
+Hero MotoCorp,Pleasure Plus,2013,93621,Petrol,1st Owner,Excellent,110,Sikkim,28000
+TVS,Apache RR 310,2021,48038,Petrol,1st Owner,Excellent,125,Kerala,70300
+Ultraviolette,F77 Recon,2020,32291,Electric,1st Owner,Fair,250,Ladakh,174400
+Jawa,Jawa 42,2014,110356,Petrol,2nd Owner,Fair,334,Sikkim,47400
+Ducati,Multistrada V4,2011,120000,Petrol,2nd Owner,Excellent,803,Ladakh,245300
+TVS,XL100,2018,56875,Petrol,1st Owner,Good,100,Chhattisgarh,37000
+Revolt Motors,RV400,2016,43720,Electric,1st Owner,Good,110,Tamil Nadu,58700
+Harley-Davidson,Fat Boy,2022,27054,Petrol,1st Owner,Poor,940,Haryana,616200
+KTM,125 Duke,2018,45522,Petrol,1st Owner,Good,250,Rajasthan,128300
+Jawa,Jawa Perak,2020,39979,Petrol,1st Owner,Good,334,Kerala,124500
+KTM,390 Duke,2014,62110,Petrol,1st Owner,Good,250,Madhya Pradesh,86000
+Revolt Motors,RV1,2021,51954,Electric,1st Owner,Excellent,110,Gujarat,77400
+Kawasaki,Ninja 300,2015,61189,Petrol,1st Owner,Good,400,Manipur,179600
+Ather Energy,Rizta,2022,32699,Electric,2nd Owner,Excellent,110,Tamil Nadu,92700
+Revolt Motors,RV400,2018,71677,Electric,1st Owner,Fair,110,West Bengal,52600
+BMW Motorrad,G 310 RR,2014,84436,Petrol,1st Owner,Poor,313,Ladakh,94900
+Suzuki,Gixxer SF,2016,94495,Petrol,1st Owner,Good,125,Puducherry,34700
+TVS,Jupiter 125,2015,79144,Petrol,1st Owner,Good,125,Mizoram,32800
+Benelli,TRK 502,2015,56288,Petrol,1st Owner,Excellent,374,Uttarakhand,157300
+BMW Motorrad,G 310 GS,2012,120000,Petrol,1st Owner,Excellent,313,Uttar Pradesh,88700
+Revolt Motors,RV1,2019,67554,Electric,1st Owner,Excellent,110,Madhya Pradesh,58500
+Harley-Davidson,Street 750,2018,61322,Petrol,1st Owner,Good,440,West Bengal,198900
+Aprilia,RS 457,2023,33580,Petrol,1st Owner,Good,160,Himachal Pradesh,199800
+Yezdi,Adventure,2019,63562,Petrol,1st Owner,Excellent,334,Tripura,109100
+Vespa,SXL 150,2023,21617,Petrol,1st Owner,Excellent,125,Goa,112200
+Suzuki,V-Strom SX 250,2023,18683,Petrol,1st Owner,Poor,125,Punjab,69800
+Revolt Motors,RV400,2021,39693,Electric,1st Owner,Excellent,110,Goa,74800
+Benelli,Leoncino 500,2013,110368,Petrol,2nd Owner,Good,374,Gujarat,74900
+KTM,125 Duke,2022,22822,Petrol,2nd Owner,Good,250,Puducherry,151600
+Jawa,Jawa 42,2013,83488,Petrol,1st Owner,Fair,334,Goa,55300
+Benelli,Imperiale 400,2021,30170,Petrol,1st Owner,Good,374,Ladakh,214600
+Hero MotoCorp,Glamour,2015,84515,Petrol,1st Owner,Fair,110,Mizoram,25000
+Bajaj,Pulsar 150,2011,83688,Petrol,1st Owner,Excellent,160,Ladakh,36200
+KTM,125 Duke,2014,94485,Petrol,3rd Owner,Good,250,Bihar,59600
+Royal Enfield,Bullet 350,2021,50035,Petrol,1st Owner,Excellent,349,Rajasthan,185300
+Tork Motors,Kratos Urban,2022,24353,Electric,2nd Owner,Excellent,125,Karnataka,118000
+Aprilia,SXR 160,2021,25292,Petrol,2nd Owner,Fair,160,Karnataka,98900
+Honda,CB200X,2019,32949,Petrol,1st Owner,Good,125,Goa,48200
+Bajaj,Chetak EV,2011,85729,Electric,4th Owner & Above,Fair,160,Karnataka,18000
+Vespa,SXL 125,2013,77013,Petrol,1st Owner,Good,125,Maharashtra,47100
+Vespa,ZX 125,2012,98175,Petrol,2nd Owner,Good,125,Chandigarh,32800
+Hero MotoCorp,Karizma XMR,2023,19892,Petrol,2nd Owner,Good,110,Meghalaya,55400
+Ather Energy,450X Gen 3,2023,21839,Electric,1st Owner,Good,110,Manipur,107000
+Ducati,Multistrada V4,2014,99535,Petrol,2nd Owner,Good,803,Goa,390200
+Aprilia,SR 160,2016,71837,Petrol,1st Owner,Good,160,Himachal Pradesh,87900
+Kawasaki,Ninja 650,2017,44872,Petrol,3rd Owner,Good,400,Madhya Pradesh,162500
+Harley-Davidson,Street 750,2013,70306,Petrol,4th Owner & Above,Excellent,440,Himachal Pradesh,101400
+Triumph,Speed 400,2024,21152,Petrol,1st Owner,Excellent,400,Dadra and Nagar Haveli and Daman and Diu,262000
+Yamaha,RayZR 125 Fi,2020,48646,Petrol,3rd Owner,Good,155,Andhra Pradesh,75600
+BMW Motorrad,S 1000 RR,2013,98960,Petrol,2nd Owner,Good,813,Arunachal Pradesh,258800
+Benelli,TRK 502X,2013,90657,Petrol,1st Owner,Excellent,374,Tripura,94700
+TVS,Jupiter 110,2023,30816,Petrol,1st Owner,Fair,125,Andhra Pradesh,73000
+Simple Energy,Simple One,2014,98785,Electric,1st Owner,Excellent,110,Dadra and Nagar Haveli and Daman and Diu,53900
+Ather Energy,450 Apex,2011,70698,Electric,1st Owner,Good,110,Rajasthan,31400
+Aprilia,SXR 160,2013,100199,Petrol,2nd Owner,Good,160,Andhra Pradesh,53700
+Yezdi,Roadster,2016,102359,Petrol,1st Owner,Good,334,Odisha,87700
+Ather Energy,Rizta,2011,120000,Electric,2nd Owner,Good,110,Chhattisgarh,23100
+Suzuki,Burgman Street,2017,40897,Petrol,1st Owner,Good,125,Tripura,50400
+Husqvarna,Svartpilen 401,2012,82562,Petrol,2nd Owner,Fair,250,Tripura,46100
+BMW Motorrad,G 310 RR,2024,19556,Petrol,2nd Owner,Good,313,Madhya Pradesh,278100
+Yamaha,Aerox 155,2014,68053,Petrol,1st Owner,Good,155,West Bengal,42400
+Yezdi,Adventure,2022,39502,Petrol,2nd Owner,Excellent,334,Chandigarh,128900
+Aprilia,Tuono 660,2012,81365,Petrol,1st Owner,Excellent,160,Punjab,60500
+Kawasaki,Ninja 650,2023,26860,Petrol,1st Owner,Excellent,400,Andaman and Nicobar Islands,353700
+Yamaha,MT-15 V2,2020,32586,Petrol,1st Owner,Excellent,155,Maharashtra,109000
+Bajaj,Dominar 250,2023,20525,Petrol,2nd Owner,Excellent,160,Andaman and Nicobar Islands,94100
+Ola Electric,S1 Pro Gen 2,2018,43510,Electric,2nd Owner,Fair,110,Puducherry,47700
+KTM,200 Duke,2014,118156,Petrol,2nd Owner,Poor,250,Andaman and Nicobar Islands,41300
+Revolt Motors,RV1,2023,14343,Electric,1st Owner,Good,110,Tripura,99200
+Ola Electric,S1 X 3kWh,2021,42602,Electric,1st Owner,Poor,110,Nagaland,56100
+Yezdi,Scrambler,2012,108392,Petrol,1st Owner,Good,334,Haryana,51700
+Hero MotoCorp,Pleasure Plus,2015,92911,Petrol,1st Owner,Good,110,Nagaland,27100
+Suzuki,Avenis,2020,43373,Petrol,3rd Owner,Excellent,125,Tripura,53600
+Kawasaki,Eliminator 500,2017,84841,Petrol,1st Owner,Good,400,Andhra Pradesh,196100
+Benelli,502C,2020,61812,Petrol,1st Owner,Good,374,Meghalaya,183700
+Honda,CB200X,2020,35482,Petrol,1st Owner,Excellent,125,Chandigarh,65300
+BMW Motorrad,G 310 R,2016,60383,Petrol,1st Owner,Good,313,Chhattisgarh,146300
+Triumph,Street Triple,2021,27794,Petrol,3rd Owner,Good,400,Goa,153600
+KTM,250 Duke,2017,81040,Petrol,1st Owner,Poor,250,Arunachal Pradesh,76900
+Ducati,Monster,2011,113971,Petrol,1st Owner,Good,803,Andhra Pradesh,307300
+Benelli,TRK 502X,2014,93141,Petrol,1st Owner,Fair,374,Kerala,79700
+Yezdi,Scrambler,2018,67415,Petrol,2nd Owner,Good,334,Meghalaya,98000
+Benelli,Leoncino 500,2017,48415,Petrol,1st Owner,Good,374,Ladakh,129700
+Yezdi,Roadster,2023,23941,Petrol,1st Owner,Excellent,334,Madhya Pradesh,206300
+Ducati,Scrambler Icon,2024,18065,Petrol,1st Owner,Excellent,803,Uttar Pradesh,1083200
+Kawasaki,Z900,2011,120000,Petrol,1st Owner,Poor,400,Meghalaya,76000
+Ather Energy,450 Apex,2013,63357,Electric,1st Owner,Fair,110,Assam,34500
+Husqvarna,Svartpilen 250,2020,35001,Petrol,1st Owner,Good,250,Arunachal Pradesh,171900
+Ather Energy,450S,2016,57307,Electric,1st Owner,Good,110,Uttar Pradesh,61400
+Ola Electric,S1 X Plus,2011,120000,Electric,2nd Owner,Excellent,110,Rajasthan,25600
+Harley-Davidson,X440,2012,120000,Petrol,1st Owner,Good,440,Jharkhand,117200
+Aprilia,SXR 160,2012,112437,Petrol,1st Owner,Fair,160,Madhya Pradesh,60400
+KTM,RC 200,2017,90149,Petrol,3rd Owner,Excellent,250,Puducherry,90100
+Triumph,Tiger 900,2017,45009,Petrol,2nd Owner,Fair,400,Telangana,96900
+Ducati,Panigale V2,2014,55830,Petrol,1st Owner,Fair,1303,Delhi NCR,933400
+Ultraviolette,F77 Mach 2,2016,91430,Electric,1st Owner,Good,250,Telangana,142900
+Simple Energy,Simple One,2021,45887,Electric,2nd Owner,Excellent,110,Uttarakhand,79000
+Yamaha,Aerox 155,2021,26044,Petrol,3rd Owner,Good,155,Kerala,71000
+Aprilia,Tuono 660,2015,93166,Petrol,4th Owner & Above,Excellent,160,Mizoram,51600
+Triumph,Trident 660,2024,17474,Petrol,1st Owner,Fair,400,Andhra Pradesh,239600
+Aprilia,RS 457,2014,109312,Petrol,1st Owner,Good,160,Sikkim,80400
+KTM,RC 390,2018,67761,Petrol,1st Owner,Good,250,Arunachal Pradesh,118500
+Vespa,SXL 125,2011,120000,Petrol,1st Owner,Excellent,125,Tamil Nadu,37400
+Honda,Dio 110,2021,41543,Petrol,1st Owner,Fair,125,Tamil Nadu,53500
+BMW Motorrad,G 310 GS,2013,81761,Petrol,1st Owner,Excellent,313,Nagaland,131700
+KTM,RC 390,2024,20289,Petrol,2nd Owner,Excellent,250,Arunachal Pradesh,176700
+Yamaha,R15 V4,2016,97236,Petrol,1st Owner,Good,155,Andhra Pradesh,49200
+Triumph,Trident 660,2011,120000,Petrol,1st Owner,Good,400,Maharashtra,63400
+Simple Energy,Simple One,2013,56281,Electric,1st Owner,Good,110,Tamil Nadu,53500
+Simple Energy,Simple Dot One,2019,43655,Electric,1st Owner,Excellent,110,Andaman and Nicobar Islands,97500
+KTM,RC 200,2020,47053,Petrol,1st Owner,Good,250,Tamil Nadu,136000
+Vespa,ZX 125,2023,22768,Petrol,3rd Owner,Good,125,Ladakh,87600
+Hero MotoCorp,Mavrick 440,2016,72841,Petrol,2nd Owner,Excellent,110,Andaman and Nicobar Islands,35700
+Hero MotoCorp,Mavrick 440,2019,56034,Petrol,1st Owner,Good,110,Ladakh,47800
+Tork Motors,Kratos R,2023,21738,Electric,1st Owner,Excellent,125,Tripura,158400
+Hero MotoCorp,Passion Plus,2018,39908,Petrol,1st Owner,Good,110,Ladakh,46800
+Triumph,Speed 400,2019,68226,Petrol,1st Owner,Excellent,400,Himachal Pradesh,183500
+Yezdi,Adventure,2018,80914,Petrol,1st Owner,Good,334,Mizoram,116000
+Kawasaki,Z650,2014,93364,Petrol,1st Owner,Good,400,Nagaland,167000
+Benelli,TRK 502,2020,46052,Petrol,2nd Owner,Good,374,Andhra Pradesh,177700
+Yamaha,FZ-S FI,2023,23795,Petrol,1st Owner,Poor,155,Chhattisgarh,91000
+Ola Electric,S1 X 3kWh,2017,44012,Electric,4th Owner & Above,Good,110,Uttarakhand,37300
+Bajaj,Pulsar 150,2020,33647,Petrol,1st Owner,Good,160,Arunachal Pradesh,81100
+TVS,Ronin,2023,26565,Petrol,1st Owner,Good,125,Goa,95300
+Aprilia,SR 125,2016,52775,Petrol,1st Owner,Fair,160,Delhi NCR,72300
+Simple Energy,Simple Dot One,2022,34540,Electric,1st Owner,Good,110,Odisha,113300
+Ultraviolette,F77 Mach 2,2018,40256,Electric,4th Owner & Above,Good,250,Mizoram,106000
+Benelli,Imperiale 400,2011,120000,Petrol,1st Owner,Good,374,Delhi NCR,67400
+Aprilia,Tuono 660,2013,59136,Petrol,1st Owner,Excellent,160,Karnataka,94700
+Hero MotoCorp,Destini 125,2018,66567,Petrol,1st Owner,Excellent,110,Gujarat,46200
+BMW Motorrad,G 310 R,2023,21892,Petrol,2nd Owner,Good,313,Sikkim,283600
+Jawa,Jawa Perak,2018,64988,Petrol,2nd Owner,Excellent,334,Chandigarh,107800
+Triumph,Trident 660,2022,42185,Petrol,3rd Owner,Poor,400,Arunachal Pradesh,118000
+Tork Motors,Kratos R,2018,60563,Electric,2nd Owner,Excellent,125,Maharashtra,82700
+Vespa,VXL 125,2024,12626,Petrol,1st Owner,Excellent,125,Lakshadweep,124900
+BMW Motorrad,G 310 R,2013,86703,Petrol,1st Owner,Excellent,313,Tamil Nadu,102000
+Husqvarna,Svartpilen 401,2015,97490,Petrol,1st Owner,Good,250,Sikkim,81700
+Benelli,TRK 502,2021,27839,Petrol,2nd Owner,Good,374,Goa,217600
+Yamaha,Aerox 155,2021,28562,Petrol,2nd Owner,Excellent,155,Mizoram,112800
+Revolt Motors,RV1,2022,31089,Electric,2nd Owner,Excellent,110,Telangana,73600
+Harley-Davidson,Fat Boy,2014,57251,Petrol,2nd Owner,Good,940,Dadra and Nagar Haveli and Daman and Diu,418000
+TVS,Apache RTR 160 4V,2022,27134,Petrol,1st Owner,Fair,125,Chandigarh,66400
+Ducati,Scrambler Icon,2013,60258,Petrol,1st Owner,Excellent,803,Andaman and Nicobar Islands,475800
+Hero MotoCorp,Xtreme 125R,2017,67947,Petrol,1st Owner,Good,110,Punjab,37800
+Benelli,TRK 502,2020,56947,Petrol,1st Owner,Excellent,374,Chandigarh,202300
+Yamaha,RayZR 125 Fi,2018,55843,Petrol,1st Owner,Good,155,Delhi NCR,65200
+Tork Motors,Kratos R,2020,40013,Electric,3rd Owner,Excellent,125,Karnataka,88800
+Revolt Motors,RV400,2022,37288,Electric,2nd Owner,Excellent,110,Tamil Nadu,92900
+Honda,CB350RS,2021,46726,Petrol,4th Owner & Above,Excellent,125,Tripura,42100
+Revolt Motors,RV1,2014,54400,Electric,3rd Owner,Excellent,110,Uttarakhand,33200
+Bajaj,Pulsar N250,2021,42079,Petrol,2nd Owner,Good,160,Manipur,78500
+Tork Motors,Kratos Urban,2013,120000,Electric,2nd Owner,Good,125,Arunachal Pradesh,32800
+Vespa,ZX 125,2022,35328,Petrol,1st Owner,Fair,125,Madhya Pradesh,71000
+Ather Energy,450X Gen 3,2012,111529,Electric,3rd Owner,Excellent,110,Maharashtra,28200
+Triumph,Tiger 900,2022,42999,Petrol,1st Owner,Good,400,Meghalaya,207300
+Royal Enfield,Himalayan 450,2015,52907,Petrol,1st Owner,Excellent,349,Lakshadweep,128700
+Harley-Davidson,Iron 883,2017,53652,Petrol,1st Owner,Excellent,440,Uttar Pradesh,170200
+Simple Energy,Simple Dot One,2011,119162,Electric,1st Owner,Fair,110,Gujarat,28900
+Yamaha,FZ 25,2011,112477,Petrol,1st Owner,Excellent,155,Himachal Pradesh,42200
+Suzuki,Gixxer 150,2013,79718,Petrol,2nd Owner,Poor,125,Puducherry,18300
+Yezdi,Scrambler,2011,84466,Petrol,1st Owner,Fair,334,Mizoram,42100
+BMW Motorrad,S 1000 RR,2013,119799,Petrol,1st Owner,Good,813,Ladakh,307500
+Tork Motors,Kratos R,2013,59672,Electric,1st Owner,Excellent,125,Jharkhand,55200
+Harley-Davidson,Fat Boy,2018,36904,Petrol,1st Owner,Good,940,Tamil Nadu,587700
+BMW Motorrad,G 310 RR,2022,29811,Petrol,1st Owner,Excellent,313,Chandigarh,320800
+TVS,Apache RTR 200 4V,2014,59388,Petrol,1st Owner,Good,125,Meghalaya,36400
+Ola Electric,S1 X 3kWh,2021,51644,Electric,3rd Owner,Good,110,Odisha,55500
+Tork Motors,Kratos R,2011,120000,Electric,2nd Owner,Excellent,125,Delhi NCR,34700
+Jawa,42 Bobber,2023,18129,Petrol,2nd Owner,Good,334,Assam,142200
+Harley-Davidson,Nightster,2020,50793,Petrol,1st Owner,Excellent,440,Jammu and Kashmir,301000
+KTM,250 Adventure,2015,85544,Petrol,1st Owner,Excellent,250,Chandigarh,91700
+Royal Enfield,Continental GT 650,2022,20809,Petrol,1st Owner,Poor,349,Madhya Pradesh,137200
+Ola Electric,S1 Pro Gen 2,2012,115343,Electric,1st Owner,Fair,110,Mizoram,26200
+Aprilia,RS 457,2011,120000,Petrol,2nd Owner,Good,160,Karnataka,48600
+Revolt Motors,RV400,2015,102075,Electric,2nd Owner,Excellent,110,Odisha,45600
+Husqvarna,Svartpilen 401,2017,51105,Petrol,1st Owner,Excellent,250,Andaman and Nicobar Islands,118700
+Aprilia,RS 457,2014,90149,Petrol,1st Owner,Poor,160,Assam,61200
+Vespa,VXL 125,2019,33555,Petrol,2nd Owner,Good,125,Jammu and Kashmir,63000
+Husqvarna,Svartpilen 250,2016,98488,Petrol,1st Owner,Poor,250,Ladakh,54700
+Revolt Motors,RV400,2021,47028,Electric,3rd Owner,Poor,110,Andhra Pradesh,46900
+Honda,Hornet 2.0,2023,23585,Petrol,3rd Owner,Excellent,125,Chandigarh,52600
+Revolt Motors,RV400 BRZ,2016,58540,Electric,3rd Owner,Excellent,110,Puducherry,38000
+Hero MotoCorp,Mavrick 440,2018,70703,Petrol,1st Owner,Fair,110,Punjab,38300
+Royal Enfield,Super Meteor 650,2016,76684,Petrol,1st Owner,Excellent,349,Tripura,111800
+Ather Energy,Rizta,2015,87045,Electric,1st Owner,Good,110,Manipur,51000
+Jawa,42 Bobber,2019,47015,Petrol,1st Owner,Good,334,Manipur,122900
+Revolt Motors,RV400,2024,19857,Electric,1st Owner,Good,110,Tamil Nadu,112500
+Vespa,SXL 150,2011,120000,Petrol,1st Owner,Excellent,125,Bihar,35600
+Ultraviolette,F77 Recon,2018,62691,Electric,1st Owner,Excellent,250,Chandigarh,167700
+Aprilia,Tuono 660,2022,20614,Petrol,1st Owner,Good,160,Chhattisgarh,180200
+Ola Electric,S1 Pro Gen 2,2013,94387,Electric,1st Owner,Good,110,Dadra and Nagar Haveli and Daman and Diu,31600
+Kawasaki,Ninja 300,2020,57958,Petrol,1st Owner,Good,400,Uttar Pradesh,291800
+Vespa,VXL 125,2018,68474,Petrol,2nd Owner,Good,125,Arunachal Pradesh,66800
+Hero MotoCorp,HF Deluxe,2018,47532,Petrol,2nd Owner,Good,100,Rajasthan,26500
+Ultraviolette,F77 Mach 2,2020,31013,Electric,2nd Owner,Good,250,Telangana,210000
+Ducati,Monster,2019,43550,Petrol,2nd Owner,Excellent,803,Sikkim,695500
+Vespa,VXL 125,2014,76982,Petrol,2nd Owner,Excellent,125,Odisha,40500
+Ultraviolette,F77 Mach 2,2016,50735,Electric,1st Owner,Good,250,Himachal Pradesh,124900
+Kawasaki,Eliminator 500,2020,62030,Petrol,1st Owner,Good,400,Karnataka,259800
+Vespa,SXL 150,2018,55354,Petrol,3rd Owner,Fair,125,Lakshadweep,43900
+BMW Motorrad,G 310 GS,2020,28538,Petrol,2nd Owner,Good,313,Assam,215500
+Ducati,Scrambler Icon,2018,50836,Petrol,1st Owner,Excellent,803,Mizoram,623200
+Royal Enfield,Classic 350,2013,69455,Petrol,2nd Owner,Good,349,Tamil Nadu,80100
+Suzuki,Gixxer SF 250,2023,25493,Petrol,1st Owner,Good,125,Tamil Nadu,104600
+Jawa,42 Bobber,2016,73765,Petrol,3rd Owner,Fair,334,Telangana,49800
+Ducati,Multistrada V4,2019,49703,Petrol,1st Owner,Fair,803,Jammu and Kashmir,508800
+KTM,200 Duke,2013,80830,Petrol,1st Owner,Excellent,250,Meghalaya,65100
+BMW Motorrad,F 900 XR,2013,101169,Petrol,3rd Owner,Excellent,313,Chandigarh,90600
+TVS,XL100,2016,45779,Petrol,1st Owner,Good,100,Dadra and Nagar Haveli and Daman and Diu,33300
+Ola Electric,S1 X 3kWh,2024,10205,Electric,1st Owner,Excellent,110,Lakshadweep,116000
+Jawa,42 Bobber,2015,58092,Petrol,3rd Owner,Good,334,Meghalaya,57700
+Revolt Motors,RV400,2020,50879,Electric,3rd Owner,Good,110,Goa,50500
+Hero MotoCorp,HF Deluxe,2017,63975,Petrol,1st Owner,Fair,100,Tripura,23200
+Kawasaki,Z900,2011,120000,Petrol,1st Owner,Good,400,Mizoram,109700
+Ducati,Panigale V2,2020,34941,Petrol,2nd Owner,Good,1303,Ladakh,1992600
+Suzuki,Gixxer SF 250,2021,45921,Petrol,1st Owner,Good,125,Chandigarh,60000
+Simple Energy,Simple Dot One,2011,110326,Electric,2nd Owner,Good,110,Rajasthan,29800
+Bajaj,Avenger Cruise 220,2020,54058,Petrol,1st Owner,Excellent,160,Chhattisgarh,83500
+Ducati,Monster,2022,38498,Petrol,1st Owner,Good,803,Lakshadweep,822000
+Harley-Davidson,Fat Boy,2019,64795,Petrol,1st Owner,Excellent,940,Gujarat,790400
+Ducati,Monster,2018,59688,Petrol,1st Owner,Good,803,Meghalaya,520300
+Harley-Davidson,X440,2014,108030,Petrol,1st Owner,Good,440,Madhya Pradesh,108000
+Jawa,Jawa 350,2013,76817,Petrol,1st Owner,Fair,334,Tripura,64700
+Husqvarna,Vitpilen 250,2014,76613,Petrol,1st Owner,Excellent,250,Uttarakhand,84100
+Benelli,Imperiale 400,2012,98568,Petrol,3rd Owner,Excellent,374,Chhattisgarh,66300
+Yezdi,Roadster,2024,15744,Petrol,1st Owner,Excellent,334,Nagaland,234600
+Hero MotoCorp,Glamour,2022,29849,Petrol,1st Owner,Good,110,Nagaland,60100
+Yezdi,Adventure,2023,26621,Petrol,1st Owner,Excellent,334,Jharkhand,165400
+Simple Energy,Simple One,2021,50608,Electric,1st Owner,Fair,110,Dadra and Nagar Haveli and Daman and Diu,70500
+Suzuki,Gixxer SF 250,2016,46534,Petrol,2nd Owner,Excellent,125,Telangana,51300
+Honda,CB350RS,2013,120000,Petrol,1st Owner,Good,125,Jharkhand,29000
+Kawasaki,Ninja 300,2022,42598,Petrol,2nd Owner,Excellent,400,Uttar Pradesh,368800
+TVS,Apache RTR 200 4V,2011,87594,Petrol,3rd Owner,Excellent,125,Telangana,24300
+Yamaha,R15 V4,2019,52664,Petrol,1st Owner,Good,155,Manipur,71800
+Jawa,42 Bobber,2019,46785,Petrol,1st Owner,Excellent,334,Mizoram,123400
+Ola Electric,S1 X Plus,2023,22254,Electric,1st Owner,Excellent,110,Telangana,91400
+Suzuki,Gixxer 150,2011,106370,Petrol,3rd Owner,Good,125,Tripura,22600
+Ultraviolette,F77 Recon,2015,78728,Electric,1st Owner,Good,250,Rajasthan,106000
+Ducati,Multistrada V4,2016,75010,Petrol,1st Owner,Good,803,Uttar Pradesh,443600
+Yezdi,Adventure,2023,29327,Petrol,1st Owner,Excellent,334,Kerala,183900
+KTM,200 Duke,2014,100991,Petrol,2nd Owner,Fair,250,Dadra and Nagar Haveli and Daman and Diu,47400
+TVS,XL100,2017,79334,Petrol,1st Owner,Good,100,Goa,36600
+Husqvarna,Svartpilen 250,2024,12439,Petrol,1st Owner,Excellent,250,Karnataka,275300
+Ultraviolette,F77 Mach 2,2022,38059,Electric,3rd Owner,Excellent,250,Jharkhand,201900
+Ola Electric,S1 Air,2014,51535,Electric,1st Owner,Good,110,Andhra Pradesh,33500
+Suzuki,Avenis,2020,33803,Petrol,1st Owner,Good,125,Sikkim,63700
+Ather Energy,Rizta,2022,40711,Electric,2nd Owner,Good,110,Tripura,83100
+Benelli,Leoncino 500,2015,106807,Petrol,1st Owner,Good,374,Tripura,99300
+Tork Motors,Kratos Urban,2016,54208,Electric,1st Owner,Good,125,Andhra Pradesh,65100
+Honda,CB350 Hness,2014,114470,Petrol,1st Owner,Good,125,Madhya Pradesh,24000
+Simple Energy,Simple Dot One,2024,19373,Electric,1st Owner,Fair,110,Madhya Pradesh,104300
+Ather Energy,450S,2023,25948,Electric,1st Owner,Good,110,Chandigarh,96600
+Simple Energy,Simple One,2014,117761,Electric,1st Owner,Excellent,110,Karnataka,50500
+Yamaha,FZ 25,2014,89732,Petrol,1st Owner,Fair,155,Rajasthan,45300
+Yamaha,R15 V4,2011,97571,Petrol,1st Owner,Good,155,Odisha,35500
+Honda,CB200X,2015,65440,Petrol,1st Owner,Excellent,125,Jharkhand,39700
+Jawa,Jawa Perak,2011,111312,Petrol,1st Owner,Good,334,Manipur,49300
+Husqvarna,Svartpilen 401,2015,73013,Petrol,3rd Owner,Good,250,Madhya Pradesh,67000
+BMW Motorrad,G 310 RR,2014,113064,Petrol,2nd Owner,Fair,313,Manipur,73400
+Aprilia,SXR 160,2020,40644,Petrol,2nd Owner,Fair,160,Arunachal Pradesh,103000
+Tork Motors,Kratos R,2022,25676,Electric,1st Owner,Excellent,125,Jammu and Kashmir,133800
+Yamaha,RayZR 125 Fi,2018,39924,Petrol,2nd Owner,Excellent,155,Andhra Pradesh,81700
+Vespa,SXL 150,2012,106246,Petrol,1st Owner,Fair,125,Uttar Pradesh,35700
+Harley-Davidson,Nightster,2023,22274,Petrol,1st Owner,Good,440,Telangana,353600
+Yezdi,Scrambler,2021,46418,Petrol,2nd Owner,Excellent,334,Andhra Pradesh,116300
+Triumph,Scrambler 400 X,2016,91711,Petrol,2nd Owner,Fair,400,Gujarat,92100
+Simple Energy,Simple One,2024,16370,Electric,1st Owner,Excellent,110,Chhattisgarh,156400
+Ultraviolette,F77 Recon,2021,39365,Electric,3rd Owner,Fair,250,Bihar,155900
+Ather Energy,Rizta,2011,85049,Electric,1st Owner,Fair,110,Rajasthan,27800
+Husqvarna,Svartpilen 250,2016,60145,Petrol,1st Owner,Poor,250,Chhattisgarh,59000
+KTM,RC 390,2022,36556,Petrol,2nd Owner,Fair,250,Dadra and Nagar Haveli and Daman and Diu,135600
+Royal Enfield,Himalayan 450,2012,60872,Petrol,2nd Owner,Fair,349,Lakshadweep,56200
+Hero MotoCorp,Pleasure Plus,2022,28670,Petrol,3rd Owner,Good,110,Kerala,50700
+Jawa,Jawa 42,2023,22579,Petrol,1st Owner,Good,334,Bihar,176500
+Revolt Motors,RV1,2015,65624,Electric,1st Owner,Fair,110,Assam,42000
+Ultraviolette,F77 Mach 2,2012,120000,Electric,2nd Owner,Excellent,250,Odisha,92200
+Harley-Davidson,Street 750,2016,67064,Petrol,3rd Owner,Excellent,440,Jammu and Kashmir,152400
+Husqvarna,Svartpilen 401,2011,88488,Petrol,2nd Owner,Good,250,Bihar,57900
+Husqvarna,Svartpilen 250,2022,38332,Petrol,1st Owner,Poor,250,Odisha,131800
+Suzuki,Access 125,2017,56167,Petrol,1st Owner,Excellent,125,Chandigarh,57700
+Kawasaki,Versys 650,2012,60846,Petrol,2nd Owner,Excellent,400,Telangana,155800
+Aprilia,SXR 160,2011,95895,Petrol,1st Owner,Poor,160,Tamil Nadu,40900
+Kawasaki,Ninja 300,2014,74168,Petrol,1st Owner,Good,400,Haryana,139700
+Royal Enfield,Continental GT 650,2021,27053,Petrol,1st Owner,Good,349,Gujarat,155300
+TVS,Jupiter 125,2022,30886,Petrol,1st Owner,Excellent,125,Maharashtra,73800
+Ola Electric,S1 Air,2011,98948,Electric,1st Owner,Excellent,110,Mizoram,28600
+Benelli,TRK 502,2016,57324,Petrol,1st Owner,Excellent,374,Chhattisgarh,174800
+Hero MotoCorp,Xtreme 125R,2022,20355,Petrol,1st Owner,Fair,110,Kerala,44700
+Hero MotoCorp,Destini 125,2022,38946,Petrol,1st Owner,Good,110,Rajasthan,58800
+KTM,RC 200,2012,117151,Petrol,1st Owner,Good,250,Meghalaya,57700
+Ather Energy,450X Gen 3,2022,40186,Electric,1st Owner,Good,110,Jammu and Kashmir,106400
+Simple Energy,Simple Dot One,2012,120000,Electric,2nd Owner,Fair,110,Kerala,31700
+BMW Motorrad,G 310 RR,2016,87052,Petrol,1st Owner,Excellent,313,Tamil Nadu,171000
+Suzuki,Gixxer SF,2024,11148,Petrol,1st Owner,Excellent,125,Meghalaya,117200
+Husqvarna,Vitpilen 250,2024,15473,Petrol,1st Owner,Excellent,250,Goa,248200
+Bajaj,Avenger Street 160,2021,45683,Petrol,1st Owner,Fair,160,Madhya Pradesh,63700
+Ducati,Multistrada V4,2020,46252,Petrol,1st Owner,Good,803,Andhra Pradesh,697700
+Aprilia,SR 125,2011,109468,Petrol,1st Owner,Excellent,160,Manipur,55300
+Tork Motors,Kratos R,2018,60883,Electric,1st Owner,Excellent,125,West Bengal,99100
+Husqvarna,Vitpilen 250,2011,71716,Petrol,3rd Owner,Good,250,Rajasthan,53500
+Ultraviolette,F77 Mach 2,2024,19718,Electric,2nd Owner,Fair,250,Uttarakhand,236200
+Ducati,Monster,2024,22789,Petrol,1st Owner,Excellent,803,Arunachal Pradesh,1367900
+Yamaha,Fascino 125,2018,45032,Petrol,2nd Owner,Good,155,Maharashtra,61800
+Ather Energy,450 Apex,2017,77490,Electric,1st Owner,Excellent,110,Sikkim,53700
+Aprilia,RS 457,2016,91083,Petrol,1st Owner,Good,160,Assam,91400
+Ola Electric,S1 Air,2022,37079,Electric,2nd Owner,Good,110,Telangana,67100
+Harley-Davidson,Fat Boy,2020,46812,Petrol,1st Owner,Excellent,940,Maharashtra,951800
+Yezdi,Roadster,2022,23864,Petrol,3rd Owner,Good,334,Assam,115400
+Bajaj,Dominar 400,2021,39110,Petrol,3rd Owner,Good,160,Lakshadweep,57400
+Benelli,502C,2011,85681,Petrol,1st Owner,Good,374,Goa,80500
+Tork Motors,Kratos Urban,2016,67157,Electric,4th Owner & Above,Good,125,Nagaland,39700
+Benelli,TRK 502X,2014,102543,Petrol,2nd Owner,Good,374,Himachal Pradesh,99000
+Ola Electric,S1 X 3kWh,2019,41642,Electric,1st Owner,Excellent,110,Bihar,56200
+Benelli,TRK 502X,2018,77345,Petrol,1st Owner,Good,374,Maharashtra,161200
+Triumph,Speed 400,2014,70422,Petrol,3rd Owner,Excellent,400,Himachal Pradesh,98000
+Aprilia,RS 457,2018,62243,Petrol,2nd Owner,Excellent,160,Lakshadweep,94300
+Hero MotoCorp,HF Deluxe,2021,28760,Petrol,1st Owner,Fair,100,Mizoram,30300
+Tork Motors,Kratos Urban,2021,41742,Electric,1st Owner,Good,125,Lakshadweep,86600
+Jawa,Jawa 350,2017,41629,Petrol,2nd Owner,Excellent,334,Nagaland,109000
+Honda,SP 125,2020,38087,Petrol,2nd Owner,Good,125,Chhattisgarh,43300
+Revolt Motors,RV400,2013,120000,Electric,2nd Owner,Excellent,110,Gujarat,28600
+Kawasaki,Eliminator 500,2024,21035,Petrol,1st Owner,Good,400,Kerala,419700
+Harley-Davidson,Nightster,2016,79694,Petrol,2nd Owner,Good,440,Tripura,131800
+Yezdi,Scrambler,2020,46609,Petrol,1st Owner,Good,334,Nagaland,141700
+Ola Electric,S1 Pro Gen 2,2013,72371,Electric,1st Owner,Excellent,110,Punjab,38200
+KTM,RC 200,2023,21868,Petrol,2nd Owner,Good,250,Bihar,170700
+BMW Motorrad,G 310 RR,2022,29452,Petrol,1st Owner,Excellent,313,Ladakh,276800
+Revolt Motors,RV400 BRZ,2020,26211,Electric,3rd Owner,Excellent,110,Delhi NCR,58900
+Triumph,Scrambler 400 X,2015,75168,Petrol,1st Owner,Excellent,400,Karnataka,132000
+Ducati,Multistrada V4,2011,120000,Petrol,1st Owner,Excellent,803,Tripura,310000
+Ducati,Panigale V2,2020,43758,Petrol,2nd Owner,Excellent,1303,Telangana,2267500
+Jawa,Jawa 42,2014,90407,Petrol,2nd Owner,Fair,334,Punjab,55300
+Revolt Motors,RV400 BRZ,2014,114653,Electric,1st Owner,Fair,110,Madhya Pradesh,27500
+Yezdi,Scrambler,2011,112081,Petrol,1st Owner,Good,334,Assam,51900
+Husqvarna,Vitpilen 250,2014,64421,Petrol,2nd Owner,Fair,250,Tamil Nadu,71800
+Suzuki,Access 125,2018,79009,Petrol,1st Owner,Excellent,125,Odisha,57300
+Husqvarna,Vitpilen 250,2011,68061,Petrol,2nd Owner,Good,250,Manipur,59800
+KTM,RC 390,2012,74176,Petrol,1st Owner,Good,250,Mizoram,71400
+Tork Motors,Kratos R,2014,107309,Electric,1st Owner,Good,125,Punjab,47900
+Jawa,Jawa 350,2015,63053,Petrol,1st Owner,Excellent,334,Tamil Nadu,86600
+Honda,CB350RS,2011,102606,Petrol,1st Owner,Excellent,125,Andhra Pradesh,25900
+Triumph,Scrambler 400 X,2016,73680,Petrol,1st Owner,Fair,400,Tripura,119000
+Revolt Motors,RV400,2018,47020,Electric,1st Owner,Excellent,110,Mizoram,66700
+Bajaj,Pulsar N250,2012,120000,Petrol,1st Owner,Excellent,160,Uttarakhand,42000
+Revolt Motors,RV400 BRZ,2023,30066,Electric,3rd Owner,Excellent,110,Meghalaya,83900
+Vespa,VXL 150,2019,37600,Petrol,1st Owner,Good,125,Madhya Pradesh,63800
+Yezdi,Roadster,2017,40562,Petrol,1st Owner,Excellent,334,Tripura,101700
+Simple Energy,Simple One,2022,32425,Electric,2nd Owner,Good,110,Sikkim,79000
+Revolt Motors,RV400 BRZ,2018,60477,Electric,3rd Owner,Good,110,Dadra and Nagar Haveli and Daman and Diu,51100
+Kawasaki,Ninja 300,2015,108851,Petrol,1st Owner,Excellent,400,Madhya Pradesh,150300
+Ultraviolette,F77 Mach 2,2019,56848,Electric,2nd Owner,Good,250,West Bengal,190800
+Yamaha,R15 V4,2017,64402,Petrol,1st Owner,Good,155,Sikkim,75400
+Kawasaki,Ninja 300,2015,87428,Petrol,2nd Owner,Poor,400,Meghalaya,91400
+Jawa,42 Bobber,2017,74975,Petrol,1st Owner,Good,334,Mizoram,83000
+Triumph,Street Triple,2018,75981,Petrol,2nd Owner,Good,400,Andhra Pradesh,134100
+Vespa,SXL 150,2022,38628,Petrol,1st Owner,Excellent,125,Meghalaya,105800
+Triumph,Trident 660,2024,15484,Petrol,2nd Owner,Good,400,Ladakh,198500
+Revolt Motors,RV1,2014,54066,Electric,1st Owner,Good,110,Meghalaya,48000
+Harley-Davidson,Fat Boy,2013,115886,Petrol,1st Owner,Poor,940,Mizoram,296600
+Vespa,VXL 125,2017,66381,Petrol,2nd Owner,Good,125,Puducherry,50300
+Honda,Hornet 2.0,2017,51354,Petrol,1st Owner,Good,125,Delhi NCR,43400
+BMW Motorrad,S 1000 RR,2016,69550,Petrol,1st Owner,Fair,813,Goa,329900
+Ducati,Monster,2017,48432,Petrol,1st Owner,Fair,803,Goa,515900
+Aprilia,SXR 160,2015,48882,Petrol,1st Owner,Excellent,160,Haryana,88500
+Ducati,Monster,2015,96928,Petrol,1st Owner,Good,803,West Bengal,401600
+Yezdi,Roadster,2012,99906,Petrol,1st Owner,Poor,334,Kerala,45100
+Benelli,Leoncino 500,2019,46961,Petrol,2nd Owner,Excellent,374,Andaman and Nicobar Islands,183400
+Kawasaki,Z900,2016,69179,Petrol,1st Owner,Good,400,Kerala,191000
+Triumph,Scrambler 400 X,2011,120000,Petrol,1st Owner,Excellent,400,Chhattisgarh,78700
+BMW Motorrad,G 310 GS,2015,54629,Petrol,2nd Owner,Fair,313,Gujarat,101300
+Jawa,42 Bobber,2013,120000,Petrol,1st Owner,Fair,334,Sikkim,47800
+Bajaj,Avenger Street 160,2011,101689,Petrol,1st Owner,Good,160,Madhya Pradesh,34600
+TVS,Apache RTR 200 4V,2024,17148,Petrol,1st Owner,Good,125,Madhya Pradesh,79000
+Harley-Davidson,Iron 883,2011,120000,Petrol,1st Owner,Good,440,Kerala,90500
+Bajaj,Pulsar 150,2016,100669,Petrol,1st Owner,Good,160,Chhattisgarh,42500
+Ather Energy,450 Apex,2023,30139,Electric,1st Owner,Excellent,110,Dadra and Nagar Haveli and Daman and Diu,127700
+Ducati,Scrambler Icon,2014,62703,Petrol,1st Owner,Fair,803,Sikkim,334600
+Yezdi,Roadster,2024,16691,Petrol,2nd Owner,Poor,334,Manipur,127100
+Ducati,Scrambler Icon,2024,22920,Petrol,1st Owner,Excellent,803,Jammu and Kashmir,1152400
+Hero MotoCorp,Mavrick 440,2014,106250,Petrol,2nd Owner,Good,110,Himachal Pradesh,21600
+Yezdi,Adventure,2015,58248,Petrol,1st Owner,Good,334,Himachal Pradesh,90700
+Bajaj,Dominar 400,2015,78323,Petrol,1st Owner,Good,160,Sikkim,52400
+Ola Electric,S1 X Plus,2013,59976,Electric,1st Owner,Good,110,Haryana,34700
+Hero MotoCorp,Passion Plus,2022,33230,Petrol,1st Owner,Fair,110,Assam,49100
+Hero MotoCorp,Mavrick 440,2021,52781,Petrol,3rd Owner,Good,110,West Bengal,44500
+Vespa,VXL 125,2017,68494,Petrol,1st Owner,Good,125,Arunachal Pradesh,63200
+Triumph,Trident 660,2015,104514,Petrol,1st Owner,Good,400,Madhya Pradesh,114300
+Kawasaki,Ninja 400,2017,38483,Petrol,1st Owner,Excellent,400,Gujarat,268100
+Jawa,42 Bobber,2020,50351,Petrol,1st Owner,Good,334,Dadra and Nagar Haveli and Daman and Diu,123900
+TVS,Star City Plus,2020,53964,Petrol,2nd Owner,Excellent,125,Odisha,56100
+Revolt Motors,RV400 BRZ,2022,30727,Electric,2nd Owner,Good,110,Punjab,74100
+Suzuki,Gixxer SF 250,2020,64202,Petrol,4th Owner & Above,Good,125,Ladakh,32900
+Tork Motors,Kratos R,2024,20899,Electric,1st Owner,Good,125,Odisha,127400
+Harley-Davidson,Fat Boy,2014,99755,Petrol,1st Owner,Excellent,940,Andhra Pradesh,487300
+Ducati,Monster,2016,53592,Petrol,1st Owner,Poor,803,Arunachal Pradesh,397400
+Yamaha,RayZR 125 Fi,2022,22379,Petrol,4th Owner & Above,Good,155,Puducherry,82600
+Husqvarna,Svartpilen 401,2023,20791,Petrol,1st Owner,Good,250,Puducherry,169900
+Triumph,Street Triple,2012,116665,Petrol,1st Owner,Good,400,Assam,73600
+Tork Motors,Kratos Urban,2021,50759,Electric,1st Owner,Good,125,Maharashtra,108100
+Ather Energy,450X Gen 3,2014,89047,Electric,1st Owner,Good,110,Uttar Pradesh,45200
+Ultraviolette,F77 Mach 2,2021,51139,Electric,4th Owner & Above,Fair,250,Sikkim,135700
+Yezdi,Adventure,2011,88486,Petrol,1st Owner,Excellent,334,Andhra Pradesh,66700
+Aprilia,Tuono 660,2013,82118,Petrol,1st Owner,Good,160,Dadra and Nagar Haveli and Daman and Diu,71700
+Suzuki,Access 125,2011,82177,Petrol,2nd Owner,Excellent,125,Telangana,25600
+Vespa,SXL 150,2022,25759,Petrol,2nd Owner,Good,125,Ladakh,90700
+Vespa,VXL 125,2015,112244,Petrol,1st Owner,Good,125,Nagaland,49400
+Honda,CB200X,2012,80769,Petrol,1st Owner,Good,125,Assam,21000
+Kawasaki,Z900,2015,93494,Petrol,2nd Owner,Poor,400,Himachal Pradesh,110400
+Ultraviolette,F77 Recon,2012,60605,Electric,1st Owner,Excellent,250,Rajasthan,118300
+KTM,390 Adventure,2024,13646,Petrol,1st Owner,Fair,250,Lakshadweep,152600
+Bajaj,Chetak EV,2014,97101,Electric,1st Owner,Excellent,160,Delhi NCR,41200
+TVS,Jupiter 125,2024,16572,Petrol,1st Owner,Good,125,Assam,80000
+Simple Energy,Simple Dot One,2013,120000,Electric,1st Owner,Excellent,110,Uttarakhand,52200
+Ather Energy,450 Apex,2022,37529,Electric,1st Owner,Excellent,110,Maharashtra,105300
+Husqvarna,Svartpilen 250,2018,62351,Petrol,4th Owner & Above,Good,250,Tripura,68400
+KTM,390 Duke,2022,36468,Petrol,1st Owner,Good,250,Gujarat,146000
+Harley-Davidson,Fat Boy,2013,68688,Petrol,2nd Owner,Excellent,940,Bihar,369000
+Suzuki,Access 125,2020,40678,Petrol,3rd Owner,Good,125,Nagaland,46900
+Revolt Motors,RV400,2014,78927,Electric,1st Owner,Excellent,110,Arunachal Pradesh,45700
+Benelli,TRK 502,2012,120000,Petrol,1st Owner,Excellent,374,Tamil Nadu,95300
+Ather Energy,450X Gen 3,2016,47712,Electric,1st Owner,Poor,110,Telangana,37000
+Ducati,Panigale V2,2016,49817,Petrol,1st Owner,Good,1303,Jharkhand,1383400
+Aprilia,SXR 160,2021,28286,Petrol,2nd Owner,Excellent,160,Jharkhand,173900
+Revolt Motors,RV400 BRZ,2017,54400,Electric,1st Owner,Good,110,Jharkhand,63600
+Revolt Motors,RV400 BRZ,2019,64597,Electric,1st Owner,Excellent,110,Tripura,79200
+Jawa,Jawa 42,2011,120000,Petrol,1st Owner,Excellent,334,Haryana,44600
+Bajaj,Pulsar 125,2024,13023,Petrol,1st Owner,Good,160,Jammu and Kashmir,116500
+Ultraviolette,F77 Mach 2,2016,64782,Electric,1st Owner,Excellent,250,Dadra and Nagar Haveli and Daman and Diu,196400
+Hero MotoCorp,Mavrick 440,2011,120000,Petrol,1st Owner,Fair,110,Dadra and Nagar Haveli and Daman and Diu,18000
+Simple Energy,Simple Dot One,2016,67537,Electric,1st Owner,Excellent,110,Chhattisgarh,67800
+Hero MotoCorp,Xtreme 125R,2023,20709,Petrol,1st Owner,Good,110,Uttar Pradesh,68000
+Ather Energy,Rizta,2011,104503,Electric,1st Owner,Excellent,110,Rajasthan,35500
+Tork Motors,Kratos Urban,2013,56811,Electric,2nd Owner,Good,125,Dadra and Nagar Haveli and Daman and Diu,47600
+Hero MotoCorp,Karizma XMR,2013,120000,Petrol,1st Owner,Excellent,110,Himachal Pradesh,22800
+Vespa,VXL 125,2014,65903,Petrol,3rd Owner,Excellent,125,Uttar Pradesh,45900
+Ola Electric,S1 X Plus,2015,106793,Electric,1st Owner,Good,110,Haryana,34800
+Aprilia,Tuono 660,2012,120000,Petrol,1st Owner,Fair,160,Himachal Pradesh,46400
+Honda,Shine 125,2016,83574,Petrol,1st Owner,Excellent,125,Uttar Pradesh,38900
+Suzuki,Gixxer SF 250,2022,38528,Petrol,1st Owner,Good,125,Odisha,88900
+Simple Energy,Simple One,2023,20648,Electric,1st Owner,Fair,110,Ladakh,97900
+Jawa,Jawa Perak,2012,120000,Petrol,1st Owner,Excellent,334,Punjab,60100
+Honda,Shine 100,2024,14161,Petrol,1st Owner,Excellent,100,Manipur,69500
+Suzuki,Gixxer SF 250,2011,88948,Petrol,1st Owner,Poor,125,Chandigarh,18300
+Vespa,ZX 125,2012,104150,Petrol,2nd Owner,Good,125,Odisha,28100
+BMW Motorrad,G 310 RR,2018,82637,Petrol,1st Owner,Excellent,313,Meghalaya,199800
+KTM,250 Duke,2024,20718,Petrol,1st Owner,Good,250,Odisha,204400
+Suzuki,Gixxer 250,2023,30148,Petrol,2nd Owner,Good,125,Arunachal Pradesh,71100
+Ola Electric,S1 Pro Gen 2,2018,67142,Electric,1st Owner,Good,110,Maharashtra,50500
+Hero MotoCorp,HF Deluxe,2012,120000,Petrol,1st Owner,Excellent,100,Tamil Nadu,18000
+TVS,Ronin,2021,39154,Petrol,2nd Owner,Excellent,125,Telangana,59700
+Revolt Motors,RV1,2024,21050,Electric,1st Owner,Good,110,West Bengal,94600
+Revolt Motors,RV400 BRZ,2013,115220,Electric,1st Owner,Excellent,110,Jammu and Kashmir,36800
+Royal Enfield,Classic 350,2011,85782,Petrol,1st Owner,Good,349,Assam,66300
+Yezdi,Scrambler,2011,120000,Petrol,1st Owner,Excellent,334,Chandigarh,49400
+Ola Electric,S1 X Plus,2014,82112,Electric,1st Owner,Excellent,110,Karnataka,41000
+Simple Energy,Simple Dot One,2024,21660,Electric,1st Owner,Good,110,Andhra Pradesh,119300
+Jawa,Jawa 350,2020,41491,Petrol,2nd Owner,Good,334,Sikkim,106600
+Aprilia,SR 160,2016,50184,Petrol,1st Owner,Excellent,160,Gujarat,101700
+Hero MotoCorp,Splendor Plus,2021,28270,Petrol,1st Owner,Good,100,Assam,42200
+Ducati,Scrambler Icon,2013,61984,Petrol,2nd Owner,Fair,803,Rajasthan,256400
+Yezdi,Scrambler,2013,120000,Petrol,1st Owner,Good,334,Manipur,59600
+Kawasaki,Versys 650,2015,105040,Petrol,1st Owner,Excellent,400,Odisha,188300
+Ultraviolette,F77 Mach 2,2018,41655,Electric,1st Owner,Good,250,Sikkim,215500
+Ather Energy,450S,2018,78412,Electric,2nd Owner,Excellent,110,Delhi NCR,67200
+Husqvarna,Svartpilen 401,2024,19179,Petrol,3rd Owner,Good,250,Ladakh,161000
+TVS,Jupiter 125,2011,120000,Petrol,3rd Owner,Excellent,125,Maharashtra,23400
+Jawa,Jawa 42,2018,56879,Petrol,1st Owner,Good,334,Arunachal Pradesh,87600
+KTM,390 Duke,2019,59209,Petrol,1st Owner,Excellent,250,Haryana,127800
+Husqvarna,Svartpilen 250,2017,77559,Petrol,1st Owner,Excellent,250,Meghalaya,113600
+Ather Energy,Rizta,2012,120000,Electric,1st Owner,Good,110,Assam,28500
+Ultraviolette,F77 Recon,2013,120000,Electric,2nd Owner,Good,250,Telangana,74200
+Bajaj,Dominar 400,2023,28125,Petrol,1st Owner,Excellent,160,Uttarakhand,127800
+Honda,Unicorn,2016,69121,Petrol,1st Owner,Fair,125,Kerala,26900
+Kawasaki,Z650,2023,22822,Petrol,1st Owner,Excellent,400,Tamil Nadu,442600
+Bajaj,Dominar 400,2017,55863,Petrol,1st Owner,Fair,160,Uttar Pradesh,53400
+Bajaj,Avenger Street 160,2024,16243,Petrol,1st Owner,Good,160,Karnataka,103200
+Yamaha,FZ-X,2015,110363,Petrol,1st Owner,Fair,155,Jharkhand,42200
+KTM,RC 390,2018,52301,Petrol,3rd Owner,Good,250,Delhi NCR,73900
+Ultraviolette,F77 Recon,2021,32405,Electric,1st Owner,Good,250,Ladakh,218400
+KTM,390 Adventure,2018,61959,Petrol,4th Owner & Above,Excellent,250,Jammu and Kashmir,77300
+Suzuki,V-Strom SX 250,2017,83364,Petrol,2nd Owner,Good,125,Tripura,40800
+Yezdi,Scrambler,2011,109877,Petrol,1st Owner,Good,334,Meghalaya,52600
+Honda,Shine 100,2018,80994,Petrol,1st Owner,Good,100,Arunachal Pradesh,32800
+Hero MotoCorp,Pleasure Plus,2011,83026,Petrol,2nd Owner,Excellent,110,Haryana,18000
+Benelli,TRK 502X,2013,94183,Petrol,1st Owner,Good,374,Uttarakhand,99600
+Husqvarna,Svartpilen 401,2024,16887,Petrol,1st Owner,Good,250,Himachal Pradesh,228500
+Simple Energy,Simple One,2022,34642,Electric,1st Owner,Good,110,Arunachal Pradesh,119200
+Yamaha,FZ 25,2020,57291,Petrol,1st Owner,Fair,155,Uttarakhand,64600
+Ultraviolette,F77 Mach 2,2019,63515,Electric,1st Owner,Good,250,Mizoram,189800
+Suzuki,Gixxer 150,2013,91113,Petrol,2nd Owner,Excellent,125,Himachal Pradesh,30400
+Jawa,42 Bobber,2018,44698,Petrol,2nd Owner,Good,334,Kerala,77900
+Royal Enfield,Hunter 350,2016,56567,Petrol,2nd Owner,Good,349,Madhya Pradesh,100700
+Yamaha,Fascino 125,2012,66829,Petrol,1st Owner,Good,155,Chhattisgarh,39000
+Vespa,SXL 150,2015,103127,Petrol,2nd Owner,Excellent,125,West Bengal,41100
+Simple Energy,Simple One,2016,91971,Electric,1st Owner,Good,110,Uttar Pradesh,63800
+Benelli,Imperiale 400,2012,100859,Petrol,2nd Owner,Good,374,Chandigarh,89300
+Simple Energy,Simple One,2012,106029,Electric,1st Owner,Good,110,Bihar,39400
+Suzuki,Gixxer SF 250,2021,48092,Petrol,3rd Owner,Excellent,125,Tripura,62100
+Simple Energy,Simple Dot One,2016,64786,Electric,2nd Owner,Excellent,110,Tripura,62000
+Ducati,Multistrada V4,2022,22200,Petrol,1st Owner,Excellent,803,Tamil Nadu,961500
+Harley-Davidson,Iron 883,2011,120000,Petrol,2nd Owner,Poor,440,Odisha,57100
+Ducati,Scrambler Icon,2012,100663,Petrol,1st Owner,Fair,803,Jharkhand,262200
+TVS,Apache RTR 160 4V,2013,120000,Petrol,2nd Owner,Good,125,Dadra and Nagar Haveli and Daman and Diu,26600
+Aprilia,RS 457,2024,20932,Petrol,3rd Owner,Excellent,160,Maharashtra,177600
+Triumph,Speed 400,2013,100553,Petrol,1st Owner,Good,400,Andhra Pradesh,72100
+Suzuki,Gixxer 150,2012,60305,Petrol,2nd Owner,Excellent,125,Maharashtra,27900
+Ducati,Scrambler Icon,2022,24974,Petrol,2nd Owner,Poor,803,Chhattisgarh,640900
+Yezdi,Roadster,2014,104743,Petrol,1st Owner,Good,334,Mizoram,78600
+Suzuki,Gixxer 150,2021,39775,Petrol,1st Owner,Excellent,125,Uttarakhand,92300
+Royal Enfield,Bullet 350,2019,38370,Petrol,1st Owner,Good,349,Sikkim,122700
+Husqvarna,Svartpilen 250,2019,69496,Petrol,1st Owner,Good,250,Gujarat,115500
+Ultraviolette,F77 Mach 2,2013,82966,Electric,1st Owner,Excellent,250,Punjab,118700
+Simple Energy,Simple Dot One,2014,66692,Electric,1st Owner,Good,110,Uttarakhand,46200
+Harley-Davidson,Nightster,2012,93108,Petrol,1st Owner,Excellent,440,Arunachal Pradesh,104600
+Ultraviolette,F77 Mach 2,2012,70475,Electric,1st Owner,Good,250,Telangana,102700
+Bajaj,Pulsar N160,2023,25579,Petrol,1st Owner,Excellent,160,Tripura,103600
+BMW Motorrad,G 310 GS,2017,61663,Petrol,1st Owner,Excellent,313,West Bengal,211900
+Suzuki,Burgman Street,2012,114723,Petrol,1st Owner,Fair,125,Andaman and Nicobar Islands,25000
+Husqvarna,Svartpilen 401,2015,78466,Petrol,2nd Owner,Fair,250,Jharkhand,65800
+Jawa,Jawa 42,2018,81080,Petrol,1st Owner,Good,334,Gujarat,106500
+Harley-Davidson,Iron 883,2022,39749,Petrol,1st Owner,Fair,440,Himachal Pradesh,252700
+Benelli,TRK 502X,2018,55427,Petrol,1st Owner,Excellent,374,Mizoram,165900
+Ultraviolette,F77 Mach 2,2017,50326,Electric,1st Owner,Good,250,Rajasthan,168500
+Tork Motors,Kratos R,2014,62175,Electric,1st Owner,Good,125,Punjab,47800
+Jawa,42 Bobber,2012,120000,Petrol,2nd Owner,Good,334,Jammu and Kashmir,47300
+Yezdi,Adventure,2020,31665,Petrol,1st Owner,Poor,334,Manipur,101000
+Ducati,Scrambler Icon,2013,92589,Petrol,1st Owner,Excellent,803,West Bengal,381900
+Suzuki,Gixxer 250,2016,62606,Petrol,1st Owner,Good,125,Bihar,46100
+Ather Energy,450 Apex,2021,25908,Electric,1st Owner,Good,110,Bihar,90300
+Simple Energy,Simple Dot One,2019,45785,Electric,1st Owner,Good,110,Maharashtra,84300
+Tork Motors,Kratos Urban,2012,85491,Electric,1st Owner,Excellent,125,Chhattisgarh,55300
+Harley-Davidson,X440,2018,74034,Petrol,3rd Owner,Good,440,Telangana,148800
+Honda,SP 125,2023,22639,Petrol,2nd Owner,Good,125,Chandigarh,54900
+Hero MotoCorp,Passion Plus,2018,57423,Petrol,2nd Owner,Excellent,110,Andaman and Nicobar Islands,37900
+Ultraviolette,F77 Recon,2020,42893,Electric,1st Owner,Good,250,Uttar Pradesh,223800
+Jawa,Jawa 350,2015,47203,Petrol,2nd Owner,Excellent,334,Uttarakhand,79900
+Simple Energy,Simple One,2022,36766,Electric,1st Owner,Good,110,Himachal Pradesh,91600
+Royal Enfield,Guerrilla 450,2022,22168,Petrol,1st Owner,Good,349,Assam,137800
+Simple Energy,Simple One,2015,107905,Electric,1st Owner,Good,110,Bihar,45500
+Jawa,42 Bobber,2018,59969,Petrol,1st Owner,Good,334,Delhi NCR,86000
+Husqvarna,Vitpilen 250,2019,41439,Petrol,1st Owner,Excellent,250,Meghalaya,145300
+Revolt Motors,RV1,2015,106830,Electric,1st Owner,Good,110,Assam,41800
+Harley-Davidson,Street 750,2011,112502,Petrol,1st Owner,Excellent,440,Bihar,95500
+Tork Motors,Kratos Urban,2022,25637,Electric,1st Owner,Good,125,Meghalaya,124000
+Harley-Davidson,X440,2021,39057,Petrol,4th Owner & Above,Excellent,440,Manipur,226400
+Husqvarna,Svartpilen 401,2023,29330,Petrol,1st Owner,Good,250,Jharkhand,168100
+TVS,Ronin,2013,61709,Petrol,1st Owner,Good,125,Madhya Pradesh,37600
+KTM,250 Duke,2017,64449,Petrol,1st Owner,Good,250,Arunachal Pradesh,102400
+Honda,Shine 100,2014,117353,Petrol,2nd Owner,Poor,100,Dadra and Nagar Haveli and Daman and Diu,18000
+Tork Motors,Kratos R,2021,46591,Electric,2nd Owner,Excellent,125,Tamil Nadu,109200
+Kawasaki,Versys 650,2012,110607,Petrol,1st Owner,Fair,400,Andaman and Nicobar Islands,88300
+Aprilia,SXR 160,2020,50900,Petrol,2nd Owner,Good,160,Manipur,107800
+Kawasaki,Z900,2014,56597,Petrol,1st Owner,Excellent,400,Andhra Pradesh,158800
+Ola Electric,S1 Pro Gen 2,2020,52364,Electric,1st Owner,Fair,110,Meghalaya,58300
+KTM,250 Duke,2024,18521,Petrol,1st Owner,Good,250,Andaman and Nicobar Islands,166800
+Triumph,Scrambler 400 X,2015,80865,Petrol,1st Owner,Excellent,400,Tripura,136600
+Ola Electric,S1 Air,2019,45592,Electric,1st Owner,Excellent,110,Chhattisgarh,59100
+TVS,Ronin,2022,41911,Petrol,2nd Owner,Excellent,125,Punjab,78100
+Harley-Davidson,Nightster,2011,101420,Petrol,1st Owner,Good,440,Puducherry,103600
+BMW Motorrad,G 310 R,2021,25450,Petrol,2nd Owner,Good,313,Bihar,250000
+Tork Motors,Kratos Urban,2021,42894,Electric,1st Owner,Excellent,125,Maharashtra,121400
+Husqvarna,Vitpilen 250,2011,83606,Petrol,1st Owner,Excellent,250,Jharkhand,63100
+Ola Electric,S1 X Plus,2016,91845,Electric,4th Owner & Above,Fair,110,Haryana,20300
+Suzuki,V-Strom SX 250,2011,107877,Petrol,2nd Owner,Fair,125,Maharashtra,18000
+Hero MotoCorp,Glamour,2012,97942,Petrol,2nd Owner,Good,110,Kerala,18000
+Yamaha,Fascino 125,2013,61526,Petrol,1st Owner,Good,155,Tamil Nadu,43800
+Revolt Motors,RV1,2017,89174,Electric,1st Owner,Poor,110,Rajasthan,42600
+Honda,CB350 Hness,2020,37129,Petrol,2nd Owner,Good,125,Maharashtra,55500
+Ducati,Scrambler Icon,2023,25841,Petrol,2nd Owner,Excellent,803,Uttarakhand,1040300
+Tork Motors,Kratos Urban,2015,112427,Electric,1st Owner,Fair,125,Rajasthan,46200
+Benelli,Imperiale 400,2019,47548,Petrol,2nd Owner,Good,374,Uttarakhand,153500
+Triumph,Speed 400,2020,49333,Petrol,1st Owner,Poor,400,Sikkim,104400
+BMW Motorrad,G 310 R,2013,87642,Petrol,1st Owner,Good,313,Assam,106500
+Vespa,VXL 125,2015,92079,Petrol,1st Owner,Poor,125,Tripura,36600
+Husqvarna,Svartpilen 250,2011,120000,Petrol,1st Owner,Good,250,Andhra Pradesh,59300
+Revolt Motors,RV1,2021,40158,Electric,1st Owner,Excellent,110,Manipur,80300
+Yamaha,R15M,2024,17535,Petrol,2nd Owner,Fair,155,Tripura,88900
+Simple Energy,Simple One,2015,79812,Electric,2nd Owner,Good,110,Rajasthan,52000
+Royal Enfield,Shotgun 650,2015,72622,Petrol,1st Owner,Good,349,Lakshadweep,104900
+Revolt Motors,RV400,2024,19211,Electric,1st Owner,Good,110,Chhattisgarh,101800
+Jawa,Jawa 42,2023,27012,Petrol,1st Owner,Excellent,334,Dadra and Nagar Haveli and Daman and Diu,211300
+Triumph,Speed 400,2011,112597,Petrol,1st Owner,Good,400,Punjab,62500
+BMW Motorrad,G 310 GS,2012,67257,Petrol,1st Owner,Excellent,313,Arunachal Pradesh,132100
+Ola Electric,S1 Pro Gen 2,2011,89317,Electric,2nd Owner,Good,110,Tripura,28200
+TVS,Star City Plus,2021,50110,Petrol,2nd Owner,Good,125,Delhi NCR,61400
+Aprilia,SR 125,2021,52192,Petrol,2nd Owner,Excellent,160,Arunachal Pradesh,133200
+Yamaha,FZ-S FI,2015,102206,Petrol,1st Owner,Good,155,Uttarakhand,53000
+Ather Energy,450X Gen 3,2019,48901,Electric,1st Owner,Good,110,Haryana,79600
+TVS,Star City Plus,2014,85316,Petrol,2nd Owner,Poor,125,Andaman and Nicobar Islands,18300
+Ather Energy,Rizta,2011,120000,Electric,1st Owner,Good,110,Nagaland,32100
+Tork Motors,Kratos Urban,2013,117787,Electric,2nd Owner,Excellent,125,Rajasthan,49100
+Jawa,42 Bobber,2013,93729,Petrol,2nd Owner,Good,334,Himachal Pradesh,55200
+Ducati,Monster,2017,70106,Petrol,1st Owner,Excellent,803,Arunachal Pradesh,659900
+Revolt Motors,RV400,2012,59311,Electric,1st Owner,Fair,110,Himachal Pradesh,30500
+Ola Electric,S1 X 3kWh,2020,52039,Electric,1st Owner,Poor,110,Dadra and Nagar Haveli and Daman and Diu,42000
+Kawasaki,Z900,2014,93206,Petrol,2nd Owner,Excellent,400,Dadra and Nagar Haveli and Daman and Diu,132100
+Aprilia,SR 160,2012,79552,Petrol,1st Owner,Good,160,Delhi NCR,67900
+TVS,Radeon,2021,47257,Petrol,2nd Owner,Excellent,125,Manipur,65600
+Benelli,502C,2021,49920,Petrol,1st Owner,Excellent,374,Nagaland,218600
+BMW Motorrad,G 310 R,2023,27295,Petrol,1st Owner,Good,313,Uttarakhand,306400
+Simple Energy,Simple Dot One,2020,51618,Electric,2nd Owner,Excellent,110,Kerala,87900
+Honda,Hornet 2.0,2013,120000,Petrol,1st Owner,Good,125,Meghalaya,29400
+TVS,Star City Plus,2023,31028,Petrol,1st Owner,Excellent,125,Tamil Nadu,91800
+Tork Motors,Kratos R,2013,106514,Electric,1st Owner,Excellent,125,Kerala,55600
+Yamaha,MT-15 V2,2012,101705,Petrol,1st Owner,Good,155,Manipur,37100
+TVS,Apache RTR 200 4V,2021,30302,Petrol,1st Owner,Fair,125,Bihar,61100
+Simple Energy,Simple Dot One,2016,85989,Electric,1st Owner,Excellent,110,Tamil Nadu,63600
+KTM,390 Adventure,2023,16247,Petrol,2nd Owner,Fair,250,Delhi NCR,141300
+Vespa,VXL 150,2017,46856,Petrol,3rd Owner,Excellent,125,Bihar,63900
+Honda,Hornet 2.0,2012,120000,Petrol,1st Owner,Good,125,Tripura,20100
+Simple Energy,Simple Dot One,2014,80311,Electric,1st Owner,Good,110,Meghalaya,51300
+Triumph,Speed 400,2012,66892,Petrol,3rd Owner,Good,400,Rajasthan,67000
+Royal Enfield,Shotgun 650,2024,17354,Petrol,1st Owner,Good,349,Tamil Nadu,160900
+Simple Energy,Simple Dot One,2018,40937,Electric,2nd Owner,Good,110,Bihar,68000
+Kawasaki,Eliminator 500,2013,107744,Petrol,1st Owner,Excellent,400,Mizoram,163800
+Kawasaki,Eliminator 500,2012,120000,Petrol,1st Owner,Good,400,Telangana,111700
+Aprilia,RS 457,2022,25905,Petrol,2nd Owner,Good,160,Jammu and Kashmir,162400
+Yezdi,Scrambler,2024,11447,Petrol,1st Owner,Excellent,334,Meghalaya,210700
+Benelli,502C,2012,79341,Petrol,1st Owner,Good,374,Delhi NCR,86500
+Aprilia,SR 125,2018,59856,Petrol,1st Owner,Good,160,Andaman and Nicobar Islands,117200
+Jawa,42 Bobber,2013,73732,Petrol,1st Owner,Good,334,Andhra Pradesh,71800
+Aprilia,SR 125,2012,74526,Petrol,1st Owner,Poor,160,Chandigarh,43100
+Honda,Dio 125,2012,108714,Petrol,2nd Owner,Excellent,125,Bihar,22200
+KTM,390 Duke,2020,47561,Petrol,3rd Owner,Fair,250,Maharashtra,79900
+Jawa,Jawa 42,2011,112452,Petrol,1st Owner,Good,334,Telangana,41800
+Vespa,SXL 125,2014,60806,Petrol,1st Owner,Fair,125,Telangana,49000
+Simple Energy,Simple One,2016,89168,Electric,2nd Owner,Good,110,Goa,49300
+TVS,iQube EV,2020,36975,Electric,1st Owner,Fair,125,Puducherry,61900
+Royal Enfield,Classic 350,2014,67107,Petrol,2nd Owner,Fair,349,Rajasthan,68200
+Harley-Davidson,Iron 883,2020,52228,Petrol,2nd Owner,Good,440,Andhra Pradesh,181200
+Ather Energy,450S,2013,75392,Electric,1st Owner,Good,110,Assam,37600
+Ola Electric,S1 Pro Gen 2,2023,21718,Electric,1st Owner,Excellent,110,Manipur,101300
+Aprilia,SXR 160,2013,78771,Petrol,1st Owner,Good,160,Arunachal Pradesh,78400
+TVS,Apache RTR 160 4V,2013,84010,Petrol,1st Owner,Good,125,Chhattisgarh,26500
+Harley-Davidson,X440,2019,66750,Petrol,1st Owner,Excellent,440,Nagaland,235600
+Ola Electric,S1 X 3kWh,2011,102940,Electric,1st Owner,Excellent,110,Jharkhand,27200
+Vespa,SXL 125,2023,25150,Petrol,1st Owner,Excellent,125,Uttar Pradesh,104800
+Honda,Activa 125,2011,66841,Petrol,3rd Owner,Good,125,Chandigarh,20900
+Honda,Activa 125,2013,71893,Petrol,1st Owner,Good,125,Goa,28900
+Honda,Activa 6G,2024,16081,Petrol,1st Owner,Excellent,125,Dadra and Nagar Haveli and Daman and Diu,83100
+KTM,RC 390,2018,82901,Petrol,1st Owner,Good,250,Nagaland,120300
+Jawa,Jawa 350,2014,114694,Petrol,1st Owner,Good,334,Chhattisgarh,70400
+Suzuki,Gixxer SF 250,2024,15231,Petrol,2nd Owner,Excellent,125,Ladakh,87600
+Simple Energy,Simple One,2022,19691,Electric,1st Owner,Good,110,Telangana,118900
+BMW Motorrad,G 310 RR,2013,106406,Petrol,4th Owner & Above,Good,313,Rajasthan,69600
+Yezdi,Scrambler,2023,26783,Petrol,1st Owner,Fair,334,West Bengal,169800
+Harley-Davidson,Fat Boy,2020,59492,Petrol,1st Owner,Excellent,940,Odisha,746000
+Suzuki,V-Strom SX 250,2015,75648,Petrol,1st Owner,Fair,125,Karnataka,30200
+Husqvarna,Vitpilen 250,2018,49359,Petrol,1st Owner,Fair,250,Sikkim,104700
+Tork Motors,Kratos R,2023,16245,Electric,1st Owner,Good,125,Jharkhand,117500
+Ola Electric,S1 X Plus,2017,53607,Electric,1st Owner,Fair,110,Uttar Pradesh,42000
+Revolt Motors,RV400,2023,29954,Electric,3rd Owner,Excellent,110,Gujarat,77800
+TVS,Raider 125,2016,58609,Petrol,1st Owner,Excellent,125,Goa,45300
+Simple Energy,Simple Dot One,2013,73268,Electric,1st Owner,Good,110,Maharashtra,41900
+BMW Motorrad,F 900 XR,2011,120000,Petrol,1st Owner,Good,313,Jammu and Kashmir,99500
+Aprilia,SR 160,2019,59883,Petrol,1st Owner,Excellent,160,Puducherry,152900
+Tork Motors,Kratos Urban,2023,28634,Electric,1st Owner,Good,125,Karnataka,128300
+Revolt Motors,RV400,2024,14177,Electric,1st Owner,Good,110,Uttar Pradesh,118300
+Ather Energy,Rizta,2019,45994,Electric,2nd Owner,Good,110,West Bengal,74200
+Benelli,TRK 502,2014,55130,Petrol,1st Owner,Excellent,374,Uttar Pradesh,147200
+Aprilia,Tuono 660,2012,69848,Petrol,1st Owner,Excellent,160,Karnataka,69000
+Ducati,Multistrada V4,2022,34887,Petrol,1st Owner,Excellent,803,Maharashtra,813200
+TVS,Jupiter 110,2022,23712,Petrol,3rd Owner,Good,125,Tripura,65600
+Bajaj,Avenger Street 160,2024,16639,Petrol,1st Owner,Fair,160,Assam,110600
+KTM,390 Adventure,2021,40196,Petrol,1st Owner,Good,250,Gujarat,128500
+Benelli,TRK 502,2024,21794,Petrol,2nd Owner,Excellent,374,Delhi NCR,303600
+Hero MotoCorp,Xtreme 160R,2022,25167,Petrol,2nd Owner,Good,110,Nagaland,51900
+Bajaj,Platina 110,2014,115696,Petrol,3rd Owner,Good,100,Chandigarh,19800
+Kawasaki,Z650,2020,28915,Petrol,2nd Owner,Excellent,400,Maharashtra,317300
+TVS,Ntorq 125,2023,16957,Petrol,1st Owner,Excellent,125,Bihar,102200
+Hero MotoCorp,Xtreme 160R,2021,47329,Petrol,1st Owner,Good,110,Chandigarh,53000
+Aprilia,SR 125,2021,44397,Petrol,1st Owner,Fair,160,Lakshadweep,107800
+TVS,Jupiter 110,2016,91429,Petrol,1st Owner,Good,125,Arunachal Pradesh,39400
+Royal Enfield,Bullet 350,2012,72802,Petrol,2nd Owner,Fair,349,Assam,53900
+Simple Energy,Simple One,2024,13577,Electric,1st Owner,Excellent,110,Tripura,124000
+Kawasaki,Versys 650,2011,120000,Petrol,1st Owner,Good,400,Dadra and Nagar Haveli and Daman and Diu,112500
+Honda,Activa 125,2015,53403,Petrol,3rd Owner,Poor,125,Manipur,18000
+Vespa,SXL 125,2016,49248,Petrol,2nd Owner,Fair,125,Sikkim,47700
+Yezdi,Roadster,2013,65059,Petrol,1st Owner,Fair,334,Jharkhand,58100
+Kawasaki,Eliminator 500,2024,17405,Petrol,1st Owner,Excellent,400,Nagaland,430300
+Yamaha,FZ-X,2021,50499,Petrol,1st Owner,Good,155,Ladakh,102400
+Husqvarna,Vitpilen 250,2020,56451,Petrol,4th Owner & Above,Excellent,250,Jharkhand,123700
+Revolt Motors,RV400,2014,119187,Electric,1st Owner,Good,110,Rajasthan,35800
+BMW Motorrad,S 1000 RR,2024,18012,Petrol,1st Owner,Excellent,813,Goa,1411000
+Ola Electric,S1 Air,2012,120000,Electric,1st Owner,Good,110,Chandigarh,22900
+Aprilia,SR 125,2022,28784,Petrol,3rd Owner,Good,160,Assam,116700
+Harley-Davidson,Street 750,2011,120000,Petrol,1st Owner,Fair,440,West Bengal,77200
+Yezdi,Roadster,2023,29159,Petrol,3rd Owner,Excellent,334,Chhattisgarh,156200
+Revolt Motors,RV400,2022,32762,Electric,1st Owner,Poor,110,Rajasthan,58500
+Triumph,Trident 660,2015,97009,Petrol,1st Owner,Good,400,Haryana,100900
+Revolt Motors,RV400 BRZ,2014,69198,Electric,2nd Owner,Excellent,110,Kerala,36100
+BMW Motorrad,G 310 GS,2023,30206,Petrol,2nd Owner,Good,313,Rajasthan,223000
+Simple Energy,Simple Dot One,2024,15037,Electric,2nd Owner,Poor,110,Punjab,67200
+Kawasaki,Versys 650,2022,17833,Petrol,1st Owner,Fair,400,Manipur,246500
+Triumph,Bonneville T100,2014,91109,Petrol,4th Owner & Above,Excellent,400,Meghalaya,63900
+Triumph,Trident 660,2016,66314,Petrol,1st Owner,Excellent,400,Ladakh,123100
+Simple Energy,Simple Dot One,2023,23191,Electric,1st Owner,Good,110,Andhra Pradesh,130100
+KTM,200 Duke,2014,109149,Petrol,1st Owner,Good,250,Chhattisgarh,62800
+Ultraviolette,F77 Recon,2011,71179,Electric,1st Owner,Fair,250,Tamil Nadu,83000
+Aprilia,RS 457,2024,11121,Petrol,1st Owner,Excellent,160,Puducherry,232500
+Jawa,Jawa Perak,2017,57552,Petrol,1st Owner,Excellent,334,Andaman and Nicobar Islands,119000
+Jawa,Jawa 350,2018,74795,Petrol,2nd Owner,Excellent,334,Telangana,88200
+Revolt Motors,RV1,2012,64795,Electric,2nd Owner,Excellent,110,Andhra Pradesh,35300
+BMW Motorrad,S 1000 RR,2023,14754,Petrol,1st Owner,Excellent,813,Andaman and Nicobar Islands,944800
+Revolt Motors,RV400,2024,17287,Electric,2nd Owner,Fair,110,Uttar Pradesh,85500
+Ducati,Scrambler Icon,2012,65354,Petrol,2nd Owner,Good,803,Manipur,332300
+Aprilia,SXR 160,2015,55581,Petrol,3rd Owner,Good,160,Odisha,76900
+KTM,200 Duke,2021,51874,Petrol,1st Owner,Excellent,250,Madhya Pradesh,179200
+Suzuki,Burgman Street,2015,92310,Petrol,1st Owner,Good,125,Rajasthan,38200
+Honda,Unicorn,2021,36221,Petrol,2nd Owner,Excellent,125,Sikkim,58000
+Aprilia,Tuono 660,2024,12163,Petrol,2nd Owner,Good,160,Puducherry,182500
+Vespa,SXL 125,2023,19558,Petrol,1st Owner,Good,125,Nagaland,97200
+Hero MotoCorp,Splendor Plus,2021,40344,Petrol,1st Owner,Fair,100,Dadra and Nagar Haveli and Daman and Diu,29700
+Triumph,Street Triple,2020,54196,Petrol,2nd Owner,Good,400,Lakshadweep,143500
+Royal Enfield,Interceptor 650,2024,19367,Petrol,1st Owner,Excellent,349,Andhra Pradesh,212900
+Ultraviolette,F77 Mach 2,2022,26211,Electric,1st Owner,Good,250,Telangana,276700
+Suzuki,V-Strom SX 250,2018,65946,Petrol,1st Owner,Good,125,Punjab,58200
+Simple Energy,Simple Dot One,2012,75934,Electric,2nd Owner,Excellent,110,Tamil Nadu,43200
+KTM,RC 200,2014,82176,Petrol,2nd Owner,Good,250,Haryana,62800
+Triumph,Tiger 900,2015,61520,Petrol,1st Owner,Excellent,400,Chhattisgarh,126000
+Ultraviolette,F77 Mach 2,2022,35780,Electric,1st Owner,Excellent,250,Tamil Nadu,279800
+Kawasaki,Z900,2023,32219,Petrol,1st Owner,Fair,400,Maharashtra,352300
+Kawasaki,Ninja 400,2014,112327,Petrol,2nd Owner,Excellent,400,Jharkhand,150200
+Ducati,Multistrada V4,2013,106886,Petrol,1st Owner,Excellent,803,Uttar Pradesh,392900
+Royal Enfield,Classic 350,2018,77337,Petrol,1st Owner,Fair,349,Tripura,109000
+TVS,Ronin,2013,120000,Petrol,3rd Owner,Good,125,Ladakh,25400
+Kawasaki,Ninja 650,2015,100172,Petrol,1st Owner,Fair,400,Goa,114500
+Tork Motors,Kratos Urban,2011,79307,Electric,1st Owner,Good,125,Uttar Pradesh,38600
+Ultraviolette,F77 Mach 2,2023,31584,Electric,1st Owner,Good,250,Haryana,306000
+Yamaha,MT-15 V2,2012,94329,Petrol,1st Owner,Good,155,Bihar,42200
+Simple Energy,Simple One,2019,69413,Electric,2nd Owner,Good,110,Rajasthan,73600
+Harley-Davidson,Iron 883,2018,67125,Petrol,2nd Owner,Good,440,Andaman and Nicobar Islands,143300
+Benelli,TRK 502X,2015,107601,Petrol,2nd Owner,Good,374,Gujarat,86200
+TVS,Ntorq 125,2023,17617,Petrol,2nd Owner,Poor,125,Meghalaya,48200
+Suzuki,Access 125,2022,28226,Petrol,2nd Owner,Good,125,Bihar,65900
+Honda,Shine 100,2024,14864,Petrol,4th Owner & Above,Good,100,Assam,42400
+Ather Energy,450 Apex,2016,85416,Electric,3rd Owner,Good,110,Uttarakhand,33000
+Simple Energy,Simple One,2023,32588,Electric,2nd Owner,Good,110,Mizoram,84000
+Ultraviolette,F77 Recon,2023,28862,Electric,1st Owner,Excellent,250,Maharashtra,264100
+Tork Motors,Kratos Urban,2011,120000,Electric,2nd Owner,Excellent,125,Jammu and Kashmir,30700
+Yezdi,Adventure,2019,34975,Petrol,2nd Owner,Good,334,Jharkhand,95000
+Ather Energy,450X Gen 3,2020,56280,Electric,2nd Owner,Poor,110,Lakshadweep,47600
+Ola Electric,S1 Air,2016,44554,Electric,3rd Owner,Good,110,Telangana,30900
+Simple Energy,Simple One,2011,120000,Electric,1st Owner,Fair,110,Himachal Pradesh,24300
+Royal Enfield,Himalayan 450,2012,87782,Petrol,1st Owner,Excellent,349,Gujarat,91600
+Yezdi,Scrambler,2022,22722,Petrol,1st Owner,Excellent,334,Chandigarh,170800
+Ather Energy,450S,2016,53143,Electric,2nd Owner,Good,110,West Bengal,43400
+Jawa,42 Bobber,2018,54787,Petrol,1st Owner,Good,334,Himachal Pradesh,103600
+Tork Motors,Kratos Urban,2016,48473,Electric,1st Owner,Excellent,125,Gujarat,78700
+Kawasaki,Z900,2017,46668,Petrol,2nd Owner,Fair,400,Odisha,166100
+Triumph,Speed 400,2015,74403,Petrol,1st Owner,Good,400,Jammu and Kashmir,96200
+BMW Motorrad,G 310 RR,2015,74502,Petrol,2nd Owner,Good,313,Haryana,125700
+Benelli,TRK 502,2019,57122,Petrol,1st Owner,Excellent,374,Rajasthan,206400
+Benelli,Leoncino 500,2011,120000,Petrol,1st Owner,Excellent,374,Chhattisgarh,79400
+Tork Motors,Kratos Urban,2019,60257,Electric,2nd Owner,Good,125,West Bengal,70700
+KTM,125 Duke,2015,78602,Petrol,1st Owner,Excellent,250,Sikkim,103500
+Revolt Motors,RV1,2023,25576,Electric,2nd Owner,Excellent,110,Telangana,110000
+Royal Enfield,Shotgun 650,2020,60681,Petrol,1st Owner,Good,349,Karnataka,146600
+Tork Motors,Kratos R,2024,15183,Electric,1st Owner,Good,125,Maharashtra,161200
+BMW Motorrad,S 1000 RR,2015,101029,Petrol,2nd Owner,Poor,813,Puducherry,240100
+Ather Energy,Rizta,2022,35977,Electric,1st Owner,Good,110,Andhra Pradesh,106700
+Kawasaki,Ninja 300,2014,76165,Petrol,1st Owner,Good,400,Haryana,163800
+Benelli,TRK 502,2013,120000,Petrol,1st Owner,Good,374,West Bengal,97500
+Harley-Davidson,Nightster,2012,120000,Petrol,1st Owner,Good,440,Jammu and Kashmir,108800
+Revolt Motors,RV1,2019,51721,Electric,2nd Owner,Good,110,Delhi NCR,58400
+Jawa,Jawa Perak,2018,38263,Petrol,1st Owner,Good,334,Odisha,111000
+Revolt Motors,RV1,2017,72432,Electric,1st Owner,Excellent,110,Tamil Nadu,49800
+Vespa,SXL 125,2023,23944,Petrol,1st Owner,Good,125,West Bengal,127400
+Ultraviolette,F77 Recon,2011,85376,Electric,3rd Owner,Excellent,250,Manipur,72200
+Triumph,Scrambler 400 X,2012,80570,Petrol,2nd Owner,Poor,400,Telangana,47900
+KTM,RC 200,2024,18154,Petrol,1st Owner,Excellent,250,Uttarakhand,216900
+Bajaj,Pulsar 150,2023,33073,Petrol,1st Owner,Good,160,Dadra and Nagar Haveli and Daman and Diu,102900
+Tork Motors,Kratos Urban,2017,67902,Electric,1st Owner,Good,125,Andaman and Nicobar Islands,61800
+Yezdi,Roadster,2021,49985,Petrol,1st Owner,Excellent,334,Chhattisgarh,136900
+Simple Energy,Simple One,2012,86723,Electric,2nd Owner,Good,110,Madhya Pradesh,41000
+Harley-Davidson,Street 750,2021,40635,Petrol,2nd Owner,Excellent,440,Chhattisgarh,279800
+Honda,Activa 6G,2016,75788,Petrol,1st Owner,Good,125,Kerala,35700
+Ultraviolette,F77 Recon,2017,76418,Electric,1st Owner,Good,250,Meghalaya,128700
+Suzuki,Gixxer SF,2013,78452,Petrol,1st Owner,Excellent,125,Jammu and Kashmir,41900
+Benelli,Leoncino 500,2012,120000,Petrol,1st Owner,Fair,374,Odisha,65400
+Revolt Motors,RV1,2011,120000,Electric,1st Owner,Excellent,110,Himachal Pradesh,28200
+Triumph,Speed 400,2023,19146,Petrol,3rd Owner,Good,400,Uttarakhand,205100
+KTM,390 Duke,2011,120000,Petrol,1st Owner,Good,250,Goa,49800
+Ducati,Panigale V2,2017,60102,Petrol,1st Owner,Good,1303,West Bengal,1354800
+Husqvarna,Svartpilen 401,2017,80802,Petrol,2nd Owner,Fair,250,Maharashtra,90500
+Jawa,Jawa Perak,2021,49380,Petrol,1st Owner,Good,334,Madhya Pradesh,132000
+Revolt Motors,RV1,2018,54196,Electric,1st Owner,Fair,110,Delhi NCR,58100
+Hero MotoCorp,Glamour,2018,62411,Petrol,1st Owner,Excellent,110,Sikkim,38200
+Aprilia,SR 160,2011,120000,Petrol,1st Owner,Good,160,Assam,61400
+Harley-Davidson,Nightster,2016,92239,Petrol,1st Owner,Good,440,Lakshadweep,172300
+Revolt Motors,RV1,2015,86714,Electric,2nd Owner,Good,110,Madhya Pradesh,43500
+Hero MotoCorp,Passion Plus,2013,68227,Petrol,3rd Owner,Good,110,Arunachal Pradesh,21300
+Suzuki,V-Strom SX 250,2022,38146,Petrol,2nd Owner,Excellent,125,Dadra and Nagar Haveli and Daman and Diu,74300
+Yezdi,Scrambler,2020,33148,Petrol,1st Owner,Excellent,334,Jammu and Kashmir,128900
+Royal Enfield,Bullet 350,2018,51825,Petrol,1st Owner,Good,349,Punjab,116400
+Husqvarna,Vitpilen 250,2011,115832,Petrol,1st Owner,Poor,250,Andaman and Nicobar Islands,43600
+Harley-Davidson,Street 750,2017,60363,Petrol,2nd Owner,Good,440,West Bengal,134400
+Vespa,SXL 125,2019,35341,Petrol,1st Owner,Excellent,125,Rajasthan,95400
+Husqvarna,Svartpilen 401,2017,54248,Petrol,2nd Owner,Excellent,250,Tripura,118000
+Ola Electric,S1 Air,2023,29624,Electric,2nd Owner,Good,110,Madhya Pradesh,78900
+Suzuki,Gixxer 150,2024,16204,Petrol,1st Owner,Good,125,Ladakh,97900
+Aprilia,SR 125,2012,120000,Petrol,2nd Owner,Good,160,Lakshadweep,47300
+Yezdi,Scrambler,2013,72607,Petrol,2nd Owner,Good,334,Meghalaya,52200
+Benelli,TRK 502,2016,51303,Petrol,1st Owner,Good,374,Ladakh,148700
+Ola Electric,S1 X Plus,2014,119645,Electric,1st Owner,Fair,110,Tamil Nadu,23200
+Yezdi,Scrambler,2022,23352,Petrol,1st Owner,Good,334,Bihar,138500
+BMW Motorrad,S 1000 RR,2018,73866,Petrol,1st Owner,Good,813,Manipur,623500
+Benelli,Imperiale 400,2012,120000,Petrol,2nd Owner,Good,374,West Bengal,75500
+Ather Energy,450S,2016,55875,Electric,1st Owner,Good,110,Mizoram,48900
+TVS,Jupiter 110,2014,63838,Petrol,2nd Owner,Good,125,Tripura,33800
+Aprilia,Tuono 660,2020,31143,Petrol,1st Owner,Good,160,Maharashtra,126300
+Harley-Davidson,X440,2016,100034,Petrol,1st Owner,Fair,440,Puducherry,123100
+Tork Motors,Kratos R,2021,43280,Electric,1st Owner,Excellent,125,Punjab,128600
+Aprilia,SR 160,2024,18613,Petrol,1st Owner,Good,160,Jammu and Kashmir,201300
+Ultraviolette,F77 Mach 2,2015,91067,Electric,1st Owner,Excellent,250,Rajasthan,152300
+Kawasaki,Z900,2019,63722,Petrol,1st Owner,Good,400,Telangana,198200
+Harley-Davidson,Fat Boy,2017,84881,Petrol,1st Owner,Good,940,Delhi NCR,469600
+Ather Energy,Rizta,2013,68325,Electric,1st Owner,Fair,110,Goa,36100
+Triumph,Scrambler 400 X,2011,63930,Petrol,1st Owner,Good,400,Bihar,73800
+Benelli,Leoncino 500,2020,45504,Petrol,1st Owner,Good,374,Lakshadweep,220800
+Triumph,Speed 400,2014,113209,Petrol,1st Owner,Excellent,400,West Bengal,92700
+Bajaj,Pulsar N160,2011,109305,Petrol,1st Owner,Good,160,Goa,35900
+Jawa,42 Bobber,2014,114971,Petrol,1st Owner,Excellent,334,Mizoram,78900
+Jawa,Jawa Perak,2014,62451,Petrol,2nd Owner,Good,334,Punjab,58200
+Bajaj,Pulsar RS200,2023,24787,Petrol,1st Owner,Good,160,Madhya Pradesh,108700
+Honda,Shine 125,2016,68345,Petrol,3rd Owner,Good,125,Tamil Nadu,29000
+Ultraviolette,F77 Recon,2022,21921,Electric,2nd Owner,Excellent,250,Haryana,274200
+Bajaj,Avenger Street 160,2024,14980,Petrol,2nd Owner,Good,160,Chhattisgarh,90700
+Suzuki,Access 125,2020,54530,Petrol,1st Owner,Excellent,125,Rajasthan,74200
+BMW Motorrad,F 900 XR,2023,25707,Petrol,1st Owner,Good,313,Meghalaya,294700
+Revolt Motors,RV400,2011,93754,Electric,1st Owner,Excellent,110,Bihar,35500
+Suzuki,Burgman Street,2013,104117,Petrol,2nd Owner,Good,125,Ladakh,28600
+Triumph,Street Triple,2019,35747,Petrol,1st Owner,Excellent,400,Meghalaya,192000
+Ducati,Panigale V2,2018,39413,Petrol,3rd Owner,Good,1303,Bihar,1833700
+Jawa,42 Bobber,2015,80093,Petrol,1st Owner,Excellent,334,Arunachal Pradesh,84900
+Simple Energy,Simple One,2017,93153,Electric,4th Owner & Above,Excellent,110,Uttar Pradesh,49000
+Jawa,Jawa 350,2013,120000,Petrol,2nd Owner,Good,334,Sikkim,54500
+Yezdi,Adventure,2017,60590,Petrol,4th Owner & Above,Good,334,Tamil Nadu,60000
+Aprilia,SR 160,2022,29305,Petrol,1st Owner,Good,160,Dadra and Nagar Haveli and Daman and Diu,174800
+KTM,250 Duke,2015,78078,Petrol,1st Owner,Good,250,Assam,96200
+Triumph,Scrambler 400 X,2023,29071,Petrol,3rd Owner,Good,400,Arunachal Pradesh,154700
+Hero MotoCorp,Glamour,2023,18180,Petrol,2nd Owner,Fair,110,Kerala,48000
+Revolt Motors,RV400,2012,65768,Electric,1st Owner,Good,110,Uttarakhand,32400
+Royal Enfield,Meteor 350,2014,120000,Petrol,1st Owner,Excellent,349,Meghalaya,88700
+Vespa,SXL 125,2015,70069,Petrol,1st Owner,Fair,125,Andhra Pradesh,37200
+Yezdi,Roadster,2022,40229,Petrol,1st Owner,Excellent,334,Telangana,186700
+Yezdi,Adventure,2023,25558,Petrol,3rd Owner,Fair,334,Assam,105700
+Husqvarna,Vitpilen 250,2020,52356,Petrol,2nd Owner,Excellent,250,Haryana,160700
+Jawa,Jawa 350,2024,13651,Petrol,1st Owner,Good,334,Sikkim,206400
+TVS,Radeon,2018,58663,Petrol,2nd Owner,Excellent,125,Gujarat,53600
+Aprilia,Tuono 660,2012,89225,Petrol,1st Owner,Good,160,Haryana,72800
+Kawasaki,Z650,2020,50045,Petrol,1st Owner,Excellent,400,Andhra Pradesh,297500
+Ducati,Panigale V2,2013,120000,Petrol,1st Owner,Good,1303,Rajasthan,1013500
+KTM,390 Adventure,2023,23667,Petrol,1st Owner,Fair,250,Assam,139100
+KTM,RC 390,2023,28287,Petrol,2nd Owner,Excellent,250,West Bengal,161700
+Yezdi,Scrambler,2019,66998,Petrol,1st Owner,Good,334,Gujarat,127900
+Yamaha,FZ 25,2017,50108,Petrol,3rd Owner,Good,155,Maharashtra,51300
+Ultraviolette,F77 Recon,2014,58474,Electric,1st Owner,Excellent,250,Gujarat,124700
+Hero MotoCorp,Glamour,2015,77526,Petrol,1st Owner,Fair,110,Madhya Pradesh,25100
+Simple Energy,Simple One,2020,59988,Electric,1st Owner,Good,110,Uttarakhand,74600
+Yamaha,RayZR 125 Fi,2016,83067,Petrol,3rd Owner,Fair,155,Madhya Pradesh,37500
+Revolt Motors,RV1,2022,35337,Electric,1st Owner,Good,110,Andaman and Nicobar Islands,95000
+BMW Motorrad,G 310 GS,2013,99506,Petrol,2nd Owner,Excellent,313,Sikkim,110400
+Ather Energy,450X Gen 3,2019,69687,Electric,1st Owner,Excellent,110,Goa,74200
+Ola Electric,S1 X 3kWh,2016,49267,Electric,2nd Owner,Excellent,110,Telangana,42800
+Aprilia,SXR 160,2019,39812,Petrol,1st Owner,Good,160,Andaman and Nicobar Islands,111800
+Revolt Motors,RV1,2020,58981,Electric,1st Owner,Poor,110,Delhi NCR,48400
+Jawa,Jawa 42,2024,15765,Petrol,1st Owner,Fair,334,Gujarat,129000
+Harley-Davidson,X440,2018,45839,Petrol,2nd Owner,Good,440,Andhra Pradesh,169900
+Bajaj,Pulsar RS200,2021,36017,Petrol,1st Owner,Good,160,Telangana,80700
+TVS,Ronin,2016,49431,Petrol,1st Owner,Good,125,Tamil Nadu,50500
+Tork Motors,Kratos R,2024,13748,Electric,3rd Owner,Good,125,Uttar Pradesh,108300
+Bajaj,Chetak EV,2011,110123,Electric,1st Owner,Fair,160,Tripura,31600
+Harley-Davidson,Street 750,2018,71165,Petrol,2nd Owner,Excellent,440,Assam,163400
+Hero MotoCorp,Xpulse 200 4V,2017,53237,Petrol,1st Owner,Good,110,Tripura,40000
+Kawasaki,Ninja 650,2012,116080,Petrol,1st Owner,Fair,400,Dadra and Nagar Haveli and Daman and Diu,106700
+Honda,Activa 6G,2021,46680,Petrol,4th Owner & Above,Fair,125,Chandigarh,28400
+Suzuki,V-Strom SX 250,2017,71403,Petrol,1st Owner,Excellent,125,Tripura,49500
+Triumph,Bonneville T100,2018,45066,Petrol,2nd Owner,Excellent,400,Telangana,121900
+Suzuki,Access 125,2024,21582,Petrol,3rd Owner,Good,125,Madhya Pradesh,86600
+Jawa,Jawa 350,2021,33859,Petrol,1st Owner,Excellent,334,Bihar,136900
+Honda,CB200X,2019,56963,Petrol,1st Owner,Fair,125,Rajasthan,33800
+Revolt Motors,RV1,2024,14005,Electric,1st Owner,Good,110,Goa,101200
+Ducati,Panigale V2,2022,20748,Petrol,2nd Owner,Good,1303,Odisha,2418700
+Yamaha,Aerox 155,2017,46876,Petrol,1st Owner,Excellent,155,Madhya Pradesh,64300
+Suzuki,Gixxer 250,2020,58626,Petrol,1st Owner,Excellent,125,Punjab,78500
+Vespa,ZX 125,2016,46758,Petrol,2nd Owner,Excellent,125,Nagaland,51500
+BMW Motorrad,G 310 RR,2016,49187,Petrol,2nd Owner,Good,313,Sikkim,136900
+Suzuki,Gixxer 150,2017,62954,Petrol,1st Owner,Excellent,125,Andhra Pradesh,51800
+Royal Enfield,Hunter 350,2021,46604,Petrol,1st Owner,Good,349,Maharashtra,134500
+Ultraviolette,F77 Recon,2015,66003,Electric,2nd Owner,Excellent,250,Sikkim,120400
+BMW Motorrad,G 310 RR,2019,59835,Petrol,1st Owner,Good,313,Madhya Pradesh,201300
+Royal Enfield,Guerrilla 450,2024,12579,Petrol,2nd Owner,Fair,349,Meghalaya,131400
+Triumph,Scrambler 400 X,2016,45573,Petrol,4th Owner & Above,Good,400,Uttarakhand,97000
+Hero MotoCorp,Xtreme 160R,2022,33036,Petrol,2nd Owner,Poor,110,Mizoram,41400
+Jawa,Jawa Perak,2017,85207,Petrol,1st Owner,Fair,334,Assam,82800
+Hero MotoCorp,Glamour,2012,117960,Petrol,1st Owner,Good,110,Kerala,18000
+Ducati,Scrambler Icon,2013,99972,Petrol,1st Owner,Poor,803,Karnataka,211400
+KTM,390 Duke,2022,21242,Petrol,1st Owner,Fair,250,Gujarat,139400
+Honda,SP 125,2024,18368,Petrol,2nd Owner,Good,125,Jammu and Kashmir,66800
+Tork Motors,Kratos R,2021,34010,Electric,1st Owner,Good,125,Punjab,108200
+Yamaha,Aerox 155,2016,90243,Petrol,2nd Owner,Excellent,155,Tripura,50800
+Ather Energy,450S,2024,13426,Electric,1st Owner,Excellent,110,Puducherry,111000
+Harley-Davidson,Fat Boy,2018,83174,Petrol,2nd Owner,Good,940,Karnataka,479300
+Hero MotoCorp,Glamour,2016,66857,Petrol,2nd Owner,Excellent,110,Lakshadweep,36300
+Ola Electric,S1 Pro Gen 2,2016,44530,Electric,1st Owner,Fair,110,Uttar Pradesh,41700
+Ola Electric,S1 Air,2012,120000,Electric,1st Owner,Fair,110,Odisha,25400
+Ultraviolette,F77 Recon,2012,75412,Electric,1st Owner,Good,250,Andhra Pradesh,92300
+Harley-Davidson,X440,2012,102184,Petrol,1st Owner,Good,440,Maharashtra,104000
+BMW Motorrad,G 310 GS,2014,62833,Petrol,1st Owner,Good,313,Uttar Pradesh,120500
+Ducati,Multistrada V4,2019,46654,Petrol,2nd Owner,Excellent,803,Goa,701300
+Bajaj,Pulsar 150,2022,30175,Petrol,2nd Owner,Excellent,160,Mizoram,104200
+Suzuki,Gixxer SF 250,2021,47709,Petrol,1st Owner,Excellent,125,Andaman and Nicobar Islands,85000
+Ultraviolette,F77 Mach 2,2021,25295,Electric,1st Owner,Excellent,250,Uttarakhand,304600
+Revolt Motors,RV1,2023,20484,Electric,1st Owner,Excellent,110,Sikkim,133000
+Harley-Davidson,Iron 883,2013,68737,Petrol,1st Owner,Excellent,440,Gujarat,126400
+Husqvarna,Svartpilen 401,2017,48378,Petrol,1st Owner,Good,250,Jammu and Kashmir,108400
+Honda,CB350RS,2021,41702,Petrol,2nd Owner,Fair,125,Haryana,40600
+Harley-Davidson,X440,2016,90486,Petrol,1st Owner,Excellent,440,Meghalaya,161000
+Benelli,TRK 502X,2020,53405,Petrol,2nd Owner,Excellent,374,Kerala,201500
+Ducati,Panigale V2,2016,85282,Petrol,2nd Owner,Good,1303,Kerala,1243400
+Suzuki,Gixxer SF 250,2015,53453,Petrol,3rd Owner,Good,125,Nagaland,26400
+Ultraviolette,F77 Mach 2,2022,36772,Electric,2nd Owner,Good,250,Sikkim,264800
+Yamaha,Fascino 125,2017,64875,Petrol,1st Owner,Good,155,Puducherry,70100
+Royal Enfield,Himalayan 450,2023,20406,Petrol,1st Owner,Excellent,349,Lakshadweep,222900
+Benelli,Imperiale 400,2020,54298,Petrol,2nd Owner,Good,374,Meghalaya,149600
+TVS,Ronin,2012,64649,Petrol,1st Owner,Excellent,125,Bihar,31400
+Jawa,Jawa 42,2020,44188,Petrol,1st Owner,Fair,334,Meghalaya,95200
+Benelli,TRK 502X,2013,113747,Petrol,1st Owner,Excellent,374,Haryana,105700
+KTM,RC 200,2014,116342,Petrol,3rd Owner,Good,250,Uttarakhand,44200
+Tork Motors,Kratos Urban,2012,76655,Electric,1st Owner,Excellent,125,Goa,57300
+Aprilia,SR 125,2019,63293,Petrol,1st Owner,Good,160,West Bengal,122100
+Jawa,42 Bobber,2011,117705,Petrol,1st Owner,Excellent,334,Punjab,61800
+TVS,Apache RTR 200 4V,2024,14942,Petrol,2nd Owner,Good,125,West Bengal,69700
+Suzuki,Gixxer SF 250,2022,22031,Petrol,3rd Owner,Excellent,125,Kerala,65100
+Revolt Motors,RV400,2016,85539,Electric,1st Owner,Excellent,110,Kerala,49400
+Ola Electric,S1 X Plus,2020,33644,Electric,2nd Owner,Good,110,Andaman and Nicobar Islands,63700
+Vespa,SXL 125,2014,74426,Petrol,1st Owner,Excellent,125,Tripura,60200
+Ducati,Panigale V2,2014,119714,Petrol,2nd Owner,Excellent,1303,Nagaland,881900
+Harley-Davidson,Fat Boy,2019,41117,Petrol,1st Owner,Excellent,940,Gujarat,950300
+Royal Enfield,Continental GT 650,2014,98137,Petrol,1st Owner,Fair,349,Tamil Nadu,71100
+Ola Electric,S1 X Plus,2017,88122,Electric,3rd Owner,Good,110,Kerala,32500
+Yezdi,Scrambler,2015,60323,Petrol,1st Owner,Fair,334,Dadra and Nagar Haveli and Daman and Diu,74600
+Ducati,Multistrada V4,2017,66306,Petrol,1st Owner,Good,803,Uttarakhand,560200
+Hero MotoCorp,HF Deluxe,2014,66835,Petrol,2nd Owner,Good,100,Puducherry,19300
+TVS,Sport,2021,52165,Petrol,1st Owner,Good,125,Tripura,53800
+Ola Electric,S1 X 3kWh,2024,15959,Electric,2nd Owner,Good,110,Haryana,91100
+Simple Energy,Simple One,2019,44686,Electric,3rd Owner,Excellent,110,Arunachal Pradesh,75600
+Aprilia,SR 125,2019,49507,Petrol,1st Owner,Excellent,160,Goa,156900
+Ather Energy,Rizta,2021,51529,Electric,1st Owner,Excellent,110,Sikkim,93700
+BMW Motorrad,F 900 XR,2019,53384,Petrol,1st Owner,Good,313,Madhya Pradesh,200400
+Husqvarna,Svartpilen 250,2022,42883,Petrol,2nd Owner,Poor,250,Chhattisgarh,97100
+Honda,Shine 100,2011,120000,Petrol,3rd Owner,Fair,100,Telangana,18000
+Triumph,Trident 660,2012,115872,Petrol,1st Owner,Poor,400,Assam,59800
+Royal Enfield,Meteor 350,2014,69405,Petrol,1st Owner,Excellent,349,Lakshadweep,91100
+Jawa,Jawa 350,2012,120000,Petrol,4th Owner & Above,Good,334,Dadra and Nagar Haveli and Daman and Diu,30100
+KTM,125 Duke,2018,61333,Petrol,4th Owner & Above,Fair,250,Karnataka,63100
+Hero MotoCorp,Mavrick 440,2015,59407,Petrol,1st Owner,Fair,110,Uttarakhand,26600
+Harley-Davidson,Fat Boy,2023,23516,Petrol,1st Owner,Excellent,940,Uttar Pradesh,1206500
+Hero MotoCorp,Xtreme 160R,2015,93506,Petrol,1st Owner,Excellent,110,Haryana,32200
+Husqvarna,Vitpilen 250,2013,120000,Petrol,1st Owner,Excellent,250,Andhra Pradesh,67400
+KTM,RC 200,2015,106613,Petrol,1st Owner,Good,250,Chhattisgarh,80600
+Revolt Motors,RV400 BRZ,2014,113367,Electric,1st Owner,Excellent,110,Chandigarh,44400
+Kawasaki,Z900,2011,120000,Petrol,2nd Owner,Excellent,400,Gujarat,124500
+Ather Energy,450S,2021,50510,Electric,1st Owner,Poor,110,Mizoram,61900
+TVS,iQube EV,2012,115998,Electric,3rd Owner,Poor,125,Kerala,18000
+Honda,Hornet 2.0,2023,22404,Petrol,3rd Owner,Good,125,West Bengal,59400
+KTM,250 Duke,2011,120000,Petrol,1st Owner,Good,250,Chhattisgarh,46600
+Benelli,Leoncino 500,2013,88240,Petrol,1st Owner,Excellent,374,Rajasthan,125400
+Vespa,SXL 125,2012,120000,Petrol,1st Owner,Excellent,125,Haryana,39500
+Tork Motors,Kratos Urban,2017,82514,Electric,1st Owner,Fair,125,Karnataka,62200
+Ola Electric,S1 Pro Gen 2,2012,120000,Electric,2nd Owner,Good,110,Sikkim,27000
+Ultraviolette,F77 Recon,2024,11651,Electric,1st Owner,Excellent,250,Bihar,374100
+Yezdi,Roadster,2023,27419,Petrol,1st Owner,Good,334,Uttar Pradesh,148500
+Aprilia,Tuono 660,2023,18064,Petrol,1st Owner,Excellent,160,Meghalaya,170800
+KTM,250 Duke,2024,13786,Petrol,1st Owner,Good,250,Kerala,195100
+Revolt Motors,RV1,2024,17708,Electric,2nd Owner,Poor,110,Lakshadweep,66600
+Ola Electric,S1 Air,2019,40635,Electric,2nd Owner,Good,110,Tamil Nadu,61100
+Hero MotoCorp,Mavrick 440,2022,36095,Petrol,4th Owner & Above,Poor,110,Puducherry,28400
+Aprilia,SR 125,2014,57503,Petrol,1st Owner,Good,160,Punjab,92800
+Bajaj,Chetak EV,2022,23713,Electric,1st Owner,Good,160,Chandigarh,106100
+Ather Energy,450 Apex,2016,75641,Electric,1st Owner,Fair,110,Arunachal Pradesh,40600
+Bajaj,Dominar 400,2019,61680,Petrol,1st Owner,Good,160,Bihar,68000
+Ola Electric,S1 X 3kWh,2012,73816,Electric,1st Owner,Good,110,Tripura,26200
+Hero MotoCorp,Xtreme 160R,2012,92464,Petrol,1st Owner,Excellent,110,Uttarakhand,26200
+Husqvarna,Svartpilen 401,2013,118976,Petrol,3rd Owner,Good,250,Himachal Pradesh,56100
+Tork Motors,Kratos R,2019,46920,Electric,1st Owner,Good,125,Mizoram,87900
+Honda,Unicorn,2013,120000,Petrol,2nd Owner,Excellent,125,Manipur,24000
+Ducati,Scrambler Icon,2017,48075,Petrol,1st Owner,Good,803,Nagaland,577700
+Harley-Davidson,X440,2022,21556,Petrol,2nd Owner,Excellent,440,Andaman and Nicobar Islands,280900
+Yezdi,Scrambler,2019,68681,Petrol,1st Owner,Excellent,334,Lakshadweep,147600
+Vespa,ZX 125,2016,72816,Petrol,2nd Owner,Good,125,Bihar,44600
+Harley-Davidson,Nightster,2024,22913,Petrol,1st Owner,Fair,440,Karnataka,257000
+Triumph,Tiger 900,2017,86046,Petrol,1st Owner,Good,400,Uttar Pradesh,142800
+BMW Motorrad,G 310 R,2023,27717,Petrol,1st Owner,Excellent,313,Assam,318900
+Hero MotoCorp,HF Deluxe,2021,22881,Petrol,1st Owner,Good,100,Telangana,40500
+Benelli,502C,2023,31704,Petrol,1st Owner,Fair,374,Himachal Pradesh,246400
+Ducati,Monster,2022,37483,Petrol,2nd Owner,Excellent,803,Jammu and Kashmir,800800
+Vespa,VXL 125,2017,42265,Petrol,2nd Owner,Good,125,Ladakh,64000
+Suzuki,Access 125,2014,69758,Petrol,1st Owner,Fair,125,Delhi NCR,35700
+Suzuki,Avenis,2012,115052,Petrol,2nd Owner,Excellent,125,Lakshadweep,31100
+Suzuki,Access 125,2015,46474,Petrol,3rd Owner,Fair,125,Tamil Nadu,29000
+Simple Energy,Simple One,2015,49153,Electric,1st Owner,Excellent,110,Tamil Nadu,53500
+Benelli,Imperiale 400,2024,18796,Petrol,1st Owner,Excellent,374,Chandigarh,351500
+Ather Energy,450X Gen 3,2014,80869,Electric,2nd Owner,Good,110,Haryana,35900
+Suzuki,Gixxer SF 250,2019,61426,Petrol,1st Owner,Good,125,Uttarakhand,63500
+Husqvarna,Svartpilen 250,2018,67144,Petrol,1st Owner,Fair,250,Chandigarh,96900
+Ola Electric,S1 X Plus,2021,39312,Electric,2nd Owner,Excellent,110,Tripura,76300
+Jawa,42 Bobber,2021,43123,Petrol,1st Owner,Excellent,334,Mizoram,155300
+Royal Enfield,Himalayan 450,2013,118013,Petrol,1st Owner,Good,349,Lakshadweep,74600
+Benelli,TRK 502X,2011,90641,Petrol,1st Owner,Fair,374,Goa,83200
+Simple Energy,Simple Dot One,2020,54218,Electric,1st Owner,Fair,110,Haryana,71800
+Suzuki,V-Strom SX 250,2015,100625,Petrol,2nd Owner,Excellent,125,Meghalaya,31100
+Ola Electric,S1 X 3kWh,2022,23841,Electric,3rd Owner,Fair,110,Punjab,46600
+Yezdi,Roadster,2019,50284,Petrol,2nd Owner,Fair,334,Kerala,80600
+Ultraviolette,F77 Mach 2,2014,67753,Electric,1st Owner,Excellent,250,Rajasthan,140100
+Harley-Davidson,Nightster,2015,99025,Petrol,2nd Owner,Fair,440,Assam,112400
+Ola Electric,S1 X 3kWh,2020,40607,Electric,1st Owner,Fair,110,Madhya Pradesh,51100
+Benelli,502C,2020,50114,Petrol,2nd Owner,Good,374,Jammu and Kashmir,201700
+Kawasaki,Z650,2012,98477,Petrol,1st Owner,Excellent,400,Assam,132900
+Jawa,Jawa Perak,2013,80616,Petrol,1st Owner,Excellent,334,Assam,73900
+Hero MotoCorp,Super Splendor,2024,18895,Petrol,1st Owner,Excellent,100,Bihar,58300
+Harley-Davidson,Fat Boy,2017,86311,Petrol,1st Owner,Excellent,940,Telangana,486300
+Yamaha,Fascino 125,2013,119172,Petrol,1st Owner,Excellent,155,Andaman and Nicobar Islands,43400
+Ather Energy,450S,2019,40710,Electric,1st Owner,Good,110,Haryana,82800
+Revolt Motors,RV400 BRZ,2022,38649,Electric,2nd Owner,Excellent,110,Maharashtra,91100
+Simple Energy,Simple Dot One,2020,35063,Electric,1st Owner,Good,110,Dadra and Nagar Haveli and Daman and Diu,89400
+Ducati,Multistrada V4,2015,108296,Petrol,1st Owner,Excellent,803,Kerala,439600

@@ -1,0 +1,279 @@
+{% extends 'base.html' %}
+
+{% block title %}{{ info.title }} | Used Vehicle Price Prediction{% endblock %}
+
+{% block content %}
+<div class="container py-5">
+    
+    <!-- Category Switcher Bar -->
+    <div class="d-flex flex-wrap justify-content-center gap-2 mb-4">
+        <a href="{{ url_for('prediction_form', category='cars') }}" class="btn btn-sm {% if category == 'cars' %}btn-primary-custom{% else %}btn-outline-custom{% endif %}">
+            <i class="bi bi-car-front-fill me-1"></i> Cars
+        </a>
+        <a href="{{ url_for('prediction_form', category='bikes') }}" class="btn btn-sm {% if category == 'bikes' %}btn-primary-custom{% else %}btn-outline-custom{% endif %}">
+            <i class="bi bi-bicycle me-1"></i> Bikes
+        </a>
+        <a href="{{ url_for('prediction_form', category='lorries') }}" class="btn btn-sm {% if category == 'lorries' %}btn-primary-custom{% else %}btn-outline-custom{% endif %}">
+            <i class="bi bi-truck-flatbed me-1"></i> Lorries & Trucks
+        </a>
+        <a href="{{ url_for('prediction_form', category='autos') }}" class="btn btn-sm {% if category == 'autos' %}btn-primary-custom{% else %}btn-outline-custom{% endif %}">
+            <i class="bi bi-taxi-front-fill me-1"></i> Auto-rickshaws
+        </a>
+    </div>
+
+    <div class="row justify-content-center">
+        <div class="col-lg-9">
+            <div class="custom-card p-4 p-md-5">
+                
+                <!-- Vehicle Photo Preview Banner -->
+                <div class="result-vehicle-preview mb-4" style="height: 190px;">
+                    <img src="{{ url_for('static', filename='images/' + ('car.jpg' if category == 'cars' else ('bike.jpg' if category == 'bikes' else ('lorry.jpg' if category == 'lorries' else 'auto.jpg')))) }}" alt="{{ category }}">
+                    <div class="result-vehicle-badge">
+                        <i class="bi bi-ev-front-fill text-info me-1"></i> Pre-Owned {{ info.singular }} Valuation &bull; Pointed ML Pipeline
+                    </div>
+                </div>
+
+                <!-- Form Header -->
+                <div class="d-flex align-items-center gap-3 pb-3 mb-4 border-bottom border-secondary border-opacity-25">
+                    <div class="brand-badge" style="width: 54px; height: 54px; font-size: 1.8rem;">
+                        <i class="bi {{ info.icon }}"></i>
+                    </div>
+                    <div>
+                        <h2 class="fw-bold mb-1">{{ info.title }}</h2>
+                        <p class="text-muted small mb-0">{{ info.description }}</p>
+                    </div>
+                </div>
+
+                <!-- Model Status Alert -->
+                {% if not model_info.available %}
+                <div class="alert alert-warning d-flex align-items-center gap-3 mb-4" role="alert">
+                    <i class="bi bi-exclamation-triangle-fill fs-3"></i>
+                    <div>
+                        <strong>Notice:</strong> Machine learning model for {{ category }} is not yet loaded or serialized. 
+                        Please execute <code>python ml/train_model.py --category {{ category }}</code> in your project terminal.
+                    </div>
+                </div>
+                {% else %}
+                <div class="d-flex justify-content-between align-items-center p-2 px-3 rounded mb-4" style="background: rgba(58, 134, 255, 0.08); border: 1px solid rgba(58, 134, 255, 0.2);">
+                    <small class="text-muted"><i class="bi bi-check-circle-fill text-success me-1"></i> <strong>Random Forest Model Active:</strong> Accuracy R² = {{ "%.2f"|format(model_info.metrics.r2 * 100) }}% | Test MAE = ₹ {{ format_inr(model_info.metrics.mae) }}</small>
+                    <span class="badge bg-success small">Trained Model Ready</span>
+                </div>
+                {% endif %}
+
+                <!-- Valuation Form -->
+                <form id="predictionForm" action="{{ url_for('process_prediction') }}" method="POST">
+                    <input type="hidden" name="category" id="categoryInput" value="{{ category }}">
+
+                    <div class="row g-4">
+                        
+                        <!-- 1. Brand Selection -->
+                        <div class="col-md-6">
+                            <label for="brandSelect" class="form-label">
+                                <i class="bi bi-building me-1 text-primary"></i> Vehicle Brand <span class="text-danger">*</span>
+                            </label>
+                            <select class="form-select" id="brandSelect" name="brand" required>
+                                <option value="" selected disabled>-- Select Brand --</option>
+                                {% for brand in info.brands.keys() %}
+                                <option value="{{ brand }}">{{ brand }}</option>
+                                {% endfor %}
+                            </select>
+                        </div>
+
+                        <!-- 2. Model Selection (Dynamic AJAX Dependent Dropdown) -->
+                        <div class="col-md-6">
+                            <label for="modelSelect" class="form-label">
+                                <i class="bi bi-tag-fill me-1 text-primary"></i> Model Name <span class="text-danger">*</span>
+                            </label>
+                            <select class="form-select" id="modelSelect" name="model" required disabled>
+                                <option value="" selected disabled>-- First Select Brand --</option>
+                            </select>
+                        </div>
+
+                        <!-- 3. Manufacturing Year -->
+                        <div class="col-md-6">
+                            <label for="yearInput" class="form-label">
+                                <i class="bi bi-calendar-event me-1 text-primary"></i> Manufacturing Year <span class="text-danger">*</span>
+                            </label>
+                            <select class="form-select" id="yearInput" name="year" required>
+                                <option value="" selected disabled>-- Select Year --</option>
+                                {% for y in range(current_year, 2005, -1) %}
+                                <option value="{{ y }}">{{ y }} ({{ current_year - y }} yrs old)</option>
+                                {% endfor %}
+                            </select>
+                        </div>
+
+                        <!-- 4. Kilometers Driven -->
+                        <div class="col-md-6">
+                            <label for="kmInput" class="form-label">
+                                <i class="bi bi-speedometer2 me-1 text-primary"></i> Kilometers Driven <span class="text-danger">*</span>
+                            </label>
+                            <div class="input-group">
+                                <input type="number" class="form-control" id="kmInput" name="km_driven" placeholder="e.g. 45000" min="500" max="1500000" step="500" required>
+                                <span class="input-group-text bg-dark border-secondary text-secondary">km</span>
+                            </div>
+                        </div>
+
+                        <!-- 5. Fuel Type -->
+                        <div class="col-md-6">
+                            <label for="fuelSelect" class="form-label">
+                                <i class="bi bi-fuel-pump me-1 text-primary"></i> Fuel Type <span class="text-danger">*</span>
+                            </label>
+                            <select class="form-select" id="fuelSelect" name="fuel_type" required>
+                                <option value="" selected disabled>-- Select Fuel --</option>
+                                {% for fuel in info.fuel_types %}
+                                <option value="{{ fuel }}">{{ fuel }}</option>
+                                {% endfor %}
+                            </select>
+                        </div>
+
+                        <!-- 6. Category-Specific Fields -->
+                        
+                        <!-- A. CAR: Transmission -->
+                        {% if category == 'cars' %}
+                        <div class="col-md-6">
+                            <label for="transmissionSelect" class="form-label">
+                                <i class="bi bi-gear-fill me-1 text-primary"></i> Transmission <span class="text-danger">*</span>
+                            </label>
+                            <select class="form-select" id="transmissionSelect" name="transmission" required>
+                                <option value="" selected disabled>-- Select Transmission --</option>
+                                {% for trans in info.transmissions %}
+                                <option value="{{ trans }}">{{ trans }}</option>
+                                {% endfor %}
+                            </select>
+                        </div>
+                        <div class="col-md-6">
+                            <label for="engineInput" class="form-label">
+                                <i class="bi bi-lightning-charge me-1 text-primary"></i> Engine Capacity (CC) <span class="text-danger">*</span>
+                            </label>
+                            <div class="input-group">
+                                <input type="number" class="form-control" id="engineInput" name="engine_cc" placeholder="e.g. 1197 or 1498" min="600" max="6000" required>
+                                <span class="input-group-text bg-dark border-secondary text-secondary">CC</span>
+                            </div>
+                        </div>
+                        {% endif %}
+
+                        <!-- B. BIKE: Engine CC -->
+                        {% if category == 'bikes' %}
+                        <div class="col-md-6">
+                            <label for="engineBikeInput" class="form-label">
+                                <i class="bi bi-lightning-charge me-1 text-primary"></i> Engine Displacement (CC) <span class="text-danger">*</span>
+                            </label>
+                            <div class="input-group">
+                                <input type="number" class="form-control" id="engineBikeInput" name="engine_cc" placeholder="e.g. 125, 150, 350" min="70" max="1500" required>
+                                <span class="input-group-text bg-dark border-secondary text-secondary">CC</span>
+                            </div>
+                        </div>
+                        {% endif %}
+
+                        <!-- C. LORRY: Load Capacity & Vehicle Type -->
+                        {% if category == 'lorries' %}
+                        <div class="col-md-6">
+                            <label for="loadInput" class="form-label">
+                                <i class="bi bi-box-seam me-1 text-primary"></i> Load Capacity (Payload) <span class="text-danger">*</span>
+                            </label>
+                            <div class="input-group">
+                                <input type="number" class="form-control" id="loadInput" name="load_capacity" placeholder="e.g. 3.5, 12, 25" min="0.5" max="60" step="0.5" required>
+                                <span class="input-group-text bg-dark border-secondary text-secondary">Tons</span>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <label for="vehicleTypeSelect" class="form-label">
+                                <i class="bi bi-truck me-1 text-primary"></i> Commercial Vehicle Class <span class="text-danger">*</span>
+                            </label>
+                            <select class="form-select" id="vehicleTypeSelect" name="vehicle_type" required>
+                                <option value="" selected disabled>-- Select Vehicle Class --</option>
+                                {% for vt in info.vehicle_types %}
+                                <option value="{{ vt }}">{{ vt }}</option>
+                                {% endfor %}
+                            </select>
+                        </div>
+                        {% endif %}
+
+                        <!-- D. AUTO: Passenger Capacity -->
+                        {% if category == 'autos' %}
+                        <div class="col-md-6">
+                            <label for="passCapSelect" class="form-label">
+                                <i class="bi bi-people-fill me-1 text-primary"></i> Passenger Capacity <span class="text-danger">*</span>
+                            </label>
+                            <select class="form-select" id="passCapSelect" name="passenger_capacity" required>
+                                <option value="" selected disabled>-- Select Seating --</option>
+                                {% for cap in info.passenger_capacities %}
+                                <option value="{{ cap }}">{{ cap }}</option>
+                                {% endfor %}
+                            </select>
+                        </div>
+                        {% endif %}
+
+                        <!-- 7. Number of Owners -->
+                        <div class="col-md-6">
+                            <label for="ownersSelect" class="form-label">
+                                <i class="bi bi-person-badge me-1 text-primary"></i> Number of Previous Owners <span class="text-danger">*</span>
+                            </label>
+                            <select class="form-select" id="ownersSelect" name="owners" required>
+                                <option value="" selected disabled>-- Select Ownership --</option>
+                                {% for own in info.owners %}
+                                <option value="{{ own }}">{{ own }}</option>
+                                {% endfor %}
+                            </select>
+                        </div>
+
+                        <!-- 8. Vehicle Condition -->
+                        <div class="col-md-6">
+                            <label for="conditionSelect" class="form-label">
+                                <i class="bi bi-stars me-1 text-primary"></i> Overall Vehicle Condition <span class="text-danger">*</span>
+                            </label>
+                            <select class="form-select" id="conditionSelect" name="condition" required>
+                                <option value="" selected disabled>-- Select Condition --</option>
+                                <option value="Excellent">Excellent (Like-New, Fully Serviced)</option>
+                                <option value="Good">Good (Minor Wear, Mechanically Sound)</option>
+                                <option value="Fair">Fair (Noticeable Scratches, Normal Aging)</option>
+                                <option value="Poor">Poor (Requires Repairs / Major Maintenance)</option>
+                            </select>
+                        </div>
+
+                        <!-- 9. Location -->
+                        <div class="col-md-6">
+                            <label for="locationSelect" class="form-label">
+                                <i class="bi bi-geo-alt-fill me-1 text-primary"></i> State / Union Territory (India) <span class="text-danger">*</span>
+                            </label>
+                            <select class="form-select" id="locationSelect" name="location" required>
+                                <option value="" selected disabled>-- Select State / Union Territory --</option>
+                                {% for loc in supported_locations %}
+                                <option value="{{ loc }}">{{ loc }}</option>
+                                {% endfor %}
+                            </select>
+                        </div>
+
+                    </div>
+
+                    <!-- Action Buttons -->
+                    <div class="d-flex flex-wrap gap-3 mt-5 pt-3 border-top border-secondary border-opacity-25 justify-content-between align-items-center">
+                        <button type="reset" class="btn btn-outline-secondary px-4 py-2">
+                            <i class="bi bi-arrow-counterclockwise me-1"></i> Clear Form
+                        </button>
+                        <button type="submit" class="btn-primary-custom px-5 py-3 fs-6">
+                            <i class="bi bi-calculator-fill"></i> Estimate Fair Market Value
+                        </button>
+                    </div>
+
+                </form>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- ================= Loading Animation Simulation Overlay ================= -->
+<div class="predict-loading-overlay" id="loadingOverlay">
+    <div class="text-center p-4">
+        <div class="spinner-car mb-3">
+            <i class="bi {{ info.icon }}"></i>
+        </div>
+        <h4 class="fw-bold text-light mb-2">Analyzing Vehicle Valuation...</h4>
+        <p class="text-info" id="loadingStepText" style="min-height: 24px;">Analyzing vehicle specifications & odometer readings...</p>
+        <div class="spinner-border text-primary mt-2" role="status">
+            <span class="visually-hidden">Loading...</span>
+        </div>
+    </div>
+</div>
+{% endblock %}

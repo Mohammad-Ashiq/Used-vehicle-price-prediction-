@@ -1,0 +1,1401 @@
+brand,manufacturing_year,kilometers_driven,fuel_type,passenger_or_cargo,number_of_owners,vehicle_condition,resale_price
+Bajaj Auto,2013,320000,Electric,Passenger,1,Good,46500
+Mahindra,2011,320000,CNG,Cargo,1,Good,39100
+Piaggio,2015,276544,Petrol,Passenger,2,Fair,35400
+Bajaj Auto,2015,268175,Petrol,Cargo,3,Fair,38300
+Bajaj Auto,2019,123829,Petrol,Cargo,2,Good,99500
+Mahindra,2013,318673,Diesel,Passenger,2,Excellent,35200
+Bajaj Auto,2016,266225,Petrol,Cargo,2,Good,57700
+Bajaj Auto,2018,198551,CNG,Cargo,3,Poor,48400
+Bajaj Auto,2021,65733,CNG,Passenger,1,Good,145500
+Bajaj Auto,2011,252162,CNG,Passenger,3,Excellent,30700
+Bajaj Auto,2015,194775,LPG,Cargo,4,Fair,37800
+Piaggio,2018,147283,CNG,Passenger,3,Good,74700
+Piaggio,2013,226532,CNG,Cargo,1,Excellent,59100
+Mahindra,2017,228726,Diesel,Passenger,2,Excellent,64100
+TVS King,2023,62997,CNG,Cargo,1,Good,182000
+Bajaj Auto,2011,320000,CNG,Passenger,3,Good,25000
+Bajaj Auto,2013,320000,Electric,Cargo,2,Good,47800
+Bajaj Auto,2020,92529,Diesel,Passenger,2,Excellent,99700
+Piaggio,2015,176486,CNG,Cargo,2,Fair,56500
+Bajaj Auto,2020,97635,Petrol,Passenger,2,Excellent,105600
+Piaggio,2019,168052,CNG,Cargo,2,Fair,82300
+Bajaj Auto,2016,145663,CNG,Cargo,3,Excellent,73900
+Mahindra,2025,21502,CNG,Passenger,1,Good,233100
+Piaggio,2016,156662,CNG,Passenger,1,Good,70800
+Bajaj Auto,2021,124680,CNG,Passenger,2,Poor,78000
+Bajaj Auto,2020,168233,CNG,Passenger,2,Good,100800
+Piaggio,2015,253102,CNG,Passenger,1,Excellent,64700
+Bajaj Auto,2013,299266,CNG,Passenger,2,Excellent,41300
+Bajaj Auto,2013,320000,Petrol,Cargo,2,Excellent,42400
+Piaggio,2012,249163,Electric,Passenger,2,Excellent,47700
+Bajaj Auto,2015,195779,CNG,Passenger,2,Good,54300
+Bajaj Auto,2015,250130,Electric,Cargo,3,Good,58700
+TVS King,2019,170695,LPG,Cargo,1,Excellent,98600
+Atul Auto,2021,90863,CNG,Cargo,1,Good,146700
+Atul Auto,2020,163098,CNG,Passenger,2,Fair,67700
+TVS King,2021,120601,Diesel,Passenger,1,Good,109600
+Piaggio,2016,227460,LPG,Cargo,3,Good,50900
+Atul Auto,2023,64192,Electric,Passenger,1,Good,173500
+Bajaj Auto,2015,184442,CNG,Passenger,2,Excellent,57500
+Bajaj Auto,2017,186742,Electric,Passenger,3,Good,72500
+Bajaj Auto,2017,207237,CNG,Cargo,1,Poor,61400
+Bajaj Auto,2022,91319,Petrol,Passenger,1,Fair,129000
+Bajaj Auto,2016,181119,CNG,Cargo,1,Excellent,85600
+Mahindra,2019,155727,LPG,Passenger,1,Good,99000
+Bajaj Auto,2012,320000,CNG,Passenger,1,Poor,25000
+Bajaj Auto,2013,160597,CNG,Passenger,1,Good,49800
+Bajaj Auto,2023,57400,CNG,Passenger,1,Good,175700
+Atul Auto,2021,115870,Petrol,Cargo,1,Good,112400
+Piaggio,2019,202263,Petrol,Passenger,2,Good,72100
+Mahindra,2011,320000,CNG,Passenger,2,Excellent,31300
+Bajaj Auto,2021,105659,LPG,Passenger,2,Good,107300
+Mahindra,2017,218053,LPG,Cargo,2,Poor,47000
+Bajaj Auto,2016,147240,CNG,Passenger,2,Fair,56300
+Bajaj Auto,2019,167501,CNG,Passenger,2,Excellent,101700
+Bajaj Auto,2025,38806,CNG,Passenger,2,Good,207300
+Piaggio,2019,169897,CNG,Passenger,1,Good,106300
+Bajaj Auto,2017,185205,LPG,Cargo,2,Good,66400
+Mahindra,2022,84651,Diesel,Passenger,1,Good,138400
+Bajaj Auto,2017,263805,CNG,Passenger,2,Excellent,62400
+Mahindra,2019,130105,Diesel,Passenger,1,Good,94200
+Bajaj Auto,2019,105809,CNG,Cargo,1,Fair,100100
+Piaggio,2012,291944,CNG,Cargo,2,Fair,29900
+Bajaj Auto,2019,130765,LPG,Cargo,2,Good,92900
+Piaggio,2019,158375,Diesel,Passenger,1,Good,90900
+Bajaj Auto,2013,320000,Petrol,Passenger,4,Fair,25000
+Bajaj Auto,2015,235474,CNG,Cargo,3,Excellent,58300
+TVS King,2020,172776,Diesel,Passenger,2,Excellent,89000
+Piaggio,2012,320000,Diesel,Passenger,4,Excellent,25000
+Bajaj Auto,2019,162700,CNG,Cargo,1,Good,107100
+Bajaj Auto,2014,181991,Diesel,Passenger,2,Good,45400
+Bajaj Auto,2022,126339,CNG,Passenger,1,Fair,128800
+Piaggio,2015,166596,CNG,Passenger,3,Good,50200
+Bajaj Auto,2017,127778,LPG,Passenger,1,Excellent,89400
+Bajaj Auto,2011,224136,CNG,Passenger,2,Excellent,37800
+TVS King,2020,112219,Petrol,Cargo,1,Excellent,128500
+Bajaj Auto,2020,109873,CNG,Passenger,2,Good,108100
+Atul Auto,2020,130230,CNG,Passenger,1,Good,93700
+Atul Auto,2021,61221,Petrol,Passenger,2,Good,95300
+Bajaj Auto,2015,193762,CNG,Passenger,1,Good,59300
+Piaggio,2015,280519,CNG,Cargo,1,Fair,52800
+Bajaj Auto,2015,291014,Electric,Cargo,2,Excellent,65900
+Piaggio,2017,123834,Electric,Passenger,1,Fair,86600
+Bajaj Auto,2012,237678,Diesel,Passenger,2,Fair,29400
+Piaggio,2020,90695,Petrol,Cargo,1,Good,120800
+TVS King,2013,237858,Electric,Passenger,2,Fair,38300
+Bajaj Auto,2021,123636,Petrol,Passenger,3,Good,90200
+Mahindra,2020,131750,CNG,Cargo,3,Good,100200
+TVS King,2020,92105,LPG,Passenger,2,Good,93600
+Piaggio,2018,116931,CNG,Cargo,2,Good,96200
+Mahindra,2015,168504,Petrol,Passenger,1,Poor,44100
+Bajaj Auto,2013,186001,CNG,Passenger,1,Fair,43600
+Bajaj Auto,2012,267901,LPG,Passenger,1,Fair,30700
+Bajaj Auto,2018,139547,CNG,Passenger,2,Fair,70100
+Bajaj Auto,2015,161183,CNG,Passenger,1,Good,64700
+Bajaj Auto,2018,148012,LPG,Passenger,2,Excellent,84700
+Atul Auto,2017,234930,LPG,Passenger,3,Excellent,46500
+Bajaj Auto,2014,256587,CNG,Cargo,1,Excellent,63200
+Bajaj Auto,2013,281955,Electric,Passenger,1,Good,51900
+Atul Auto,2015,227314,CNG,Passenger,2,Good,41300
+Mahindra,2019,155913,Petrol,Passenger,1,Good,91200
+Bajaj Auto,2017,156556,CNG,Passenger,1,Good,82900
+Piaggio,2021,48299,Diesel,Passenger,1,Poor,98700
+Bajaj Auto,2014,152630,Electric,Passenger,1,Poor,49400
+TVS King,2014,255323,Petrol,Passenger,1,Good,39700
+Bajaj Auto,2020,105162,LPG,Passenger,1,Good,108300
+Piaggio,2011,320000,CNG,Cargo,3,Good,27800
+TVS King,2020,132350,Petrol,Passenger,1,Good,97900
+Piaggio,2014,228489,CNG,Passenger,4,Excellent,39300
+Mahindra,2021,67942,CNG,Passenger,2,Good,121100
+Bajaj Auto,2014,309630,CNG,Passenger,1,Good,46200
+Piaggio,2020,85157,Petrol,Passenger,2,Good,98600
+Atul Auto,2016,257007,CNG,Passenger,4,Poor,25300
+Piaggio,2019,129653,Petrol,Cargo,2,Excellent,105400
+Bajaj Auto,2016,254358,LPG,Passenger,2,Good,49000
+Bajaj Auto,2019,167567,CNG,Cargo,2,Fair,85100
+Bajaj Auto,2024,36602,Diesel,Cargo,1,Fair,177900
+TVS King,2020,78163,Petrol,Cargo,2,Good,104900
+Bajaj Auto,2022,57567,LPG,Passenger,1,Excellent,152200
+Bajaj Auto,2022,74451,LPG,Passenger,2,Good,126400
+Bajaj Auto,2019,163474,CNG,Passenger,3,Fair,65500
+Atul Auto,2012,226107,CNG,Passenger,2,Good,30900
+Bajaj Auto,2016,269497,Diesel,Passenger,4,Good,35000
+Piaggio,2012,220699,CNG,Passenger,3,Good,34200
+Bajaj Auto,2012,320000,CNG,Cargo,1,Good,40400
+Piaggio,2022,97607,Diesel,Passenger,2,Good,131000
+Bajaj Auto,2022,64829,CNG,Passenger,2,Good,143700
+Mahindra,2013,270242,LPG,Passenger,1,Good,41700
+Atul Auto,2016,213232,CNG,Passenger,2,Good,47000
+Piaggio,2015,271228,CNG,Cargo,3,Good,45100
+Bajaj Auto,2018,169340,Diesel,Passenger,1,Good,85400
+Piaggio,2018,222733,Petrol,Passenger,3,Fair,43300
+Piaggio,2011,261571,CNG,Passenger,2,Excellent,35100
+Bajaj Auto,2022,109277,Petrol,Passenger,2,Good,122100
+Bajaj Auto,2012,320000,CNG,Passenger,4,Poor,25000
+TVS King,2019,177827,CNG,Passenger,3,Poor,50800
+Bajaj Auto,2018,201771,Diesel,Passenger,2,Fair,54900
+Bajaj Auto,2016,168834,Electric,Passenger,3,Good,69300
+Mahindra,2016,172086,Electric,Passenger,2,Good,78900
+Bajaj Auto,2015,180709,Electric,Passenger,2,Good,64400
+Atul Auto,2013,177704,CNG,Passenger,2,Excellent,40200
+Bajaj Auto,2014,181827,CNG,Passenger,3,Fair,37500
+Piaggio,2020,156404,Petrol,Passenger,1,Fair,84700
+Bajaj Auto,2018,164303,CNG,Cargo,2,Good,91000
+Bajaj Auto,2022,101754,LPG,Passenger,2,Excellent,130700
+Bajaj Auto,2020,109270,CNG,Passenger,2,Good,106700
+Bajaj Auto,2019,143793,Petrol,Cargo,2,Good,94300
+Atul Auto,2019,151629,CNG,Passenger,2,Fair,62100
+Atul Auto,2019,143411,CNG,Cargo,1,Excellent,106600
+Mahindra,2015,245681,CNG,Passenger,2,Fair,41800
+Bajaj Auto,2022,71873,CNG,Passenger,1,Good,152500
+Piaggio,2019,173610,CNG,Passenger,2,Fair,77500
+Bajaj Auto,2018,201492,CNG,Passenger,2,Good,75700
+Piaggio,2025,20759,LPG,Passenger,1,Fair,184400
+Bajaj Auto,2022,64389,LPG,Cargo,2,Good,140800
+Bajaj Auto,2013,248866,LPG,Cargo,3,Good,38900
+Piaggio,2015,169497,LPG,Passenger,1,Excellent,61700
+TVS King,2016,189818,CNG,Passenger,2,Fair,51100
+TVS King,2020,67977,CNG,Cargo,1,Good,145300
+Mahindra,2020,150069,CNG,Cargo,2,Good,112300
+Piaggio,2023,40007,Electric,Passenger,1,Good,200000
+Mahindra,2011,320000,Diesel,Cargo,2,Fair,25500
+Bajaj Auto,2018,138349,LPG,Cargo,2,Fair,80600
+Bajaj Auto,2015,292007,Petrol,Passenger,4,Excellent,35600
+Piaggio,2023,69167,CNG,Passenger,2,Good,160700
+Bajaj Auto,2014,320000,CNG,Passenger,2,Excellent,42000
+Bajaj Auto,2019,108347,CNG,Cargo,1,Fair,109500
+Bajaj Auto,2020,107155,Diesel,Passenger,2,Fair,82600
+Atul Auto,2025,20407,CNG,Cargo,1,Good,221500
+Piaggio,2018,161377,CNG,Passenger,1,Good,83400
+Piaggio,2013,297262,LPG,Cargo,2,Poor,27500
+Piaggio,2015,177755,Petrol,Cargo,2,Excellent,69400
+Atul Auto,2020,65931,LPG,Cargo,2,Good,100300
+Piaggio,2023,33254,CNG,Passenger,1,Good,170400
+Bajaj Auto,2014,245815,CNG,Passenger,1,Good,51300
+Piaggio,2017,137381,Diesel,Passenger,1,Fair,66000
+Piaggio,2016,151273,CNG,Passenger,3,Fair,48900
+TVS King,2019,95814,LPG,Passenger,2,Good,83800
+Piaggio,2022,80867,CNG,Passenger,3,Good,124800
+Piaggio,2020,86969,Electric,Cargo,1,Excellent,176200
+Bajaj Auto,2011,320000,Electric,Passenger,2,Poor,25000
+Piaggio,2018,232196,CNG,Passenger,1,Fair,69800
+Piaggio,2020,113705,CNG,Cargo,1,Good,132300
+Piaggio,2018,165433,LPG,Passenger,2,Good,67700
+Piaggio,2023,75231,Electric,Passenger,1,Good,194600
+Bajaj Auto,2020,149622,CNG,Passenger,1,Good,109900
+Bajaj Auto,2020,135360,CNG,Passenger,1,Fair,99900
+Bajaj Auto,2012,269468,CNG,Passenger,1,Fair,32500
+Bajaj Auto,2015,257136,Diesel,Passenger,2,Excellent,46400
+Bajaj Auto,2013,294975,Petrol,Passenger,2,Excellent,34300
+Bajaj Auto,2018,226093,CNG,Passenger,4,Good,53200
+Bajaj Auto,2023,70036,Petrol,Cargo,1,Good,182300
+Bajaj Auto,2017,177637,Diesel,Cargo,1,Good,81600
+Atul Auto,2022,57620,LPG,Passenger,2,Fair,94300
+Mahindra,2020,95955,CNG,Passenger,1,Fair,112800
+Bajaj Auto,2018,187622,Petrol,Passenger,1,Fair,66700
+Bajaj Auto,2022,73962,CNG,Passenger,1,Good,148300
+Bajaj Auto,2025,4000,CNG,Cargo,1,Good,277100
+Piaggio,2023,53219,CNG,Passenger,2,Good,150800
+Piaggio,2020,87667,Petrol,Cargo,3,Excellent,116600
+Bajaj Auto,2014,308031,CNG,Passenger,1,Good,45200
+TVS King,2017,243614,LPG,Passenger,2,Excellent,59000
+Piaggio,2022,116687,LPG,Passenger,1,Excellent,151700
+Piaggio,2020,143609,CNG,Passenger,3,Good,85000
+Piaggio,2016,263425,Electric,Passenger,3,Good,56500
+Atul Auto,2012,290163,CNG,Cargo,3,Good,28200
+Bajaj Auto,2017,219299,Petrol,Passenger,2,Good,62600
+Bajaj Auto,2021,79996,CNG,Cargo,1,Poor,111700
+Bajaj Auto,2020,83613,Diesel,Passenger,1,Fair,98400
+Piaggio,2020,135205,Diesel,Passenger,1,Good,104000
+TVS King,2020,127984,CNG,Cargo,1,Good,125300
+Atul Auto,2024,49421,CNG,Passenger,1,Fair,134500
+Mahindra,2021,124957,Petrol,Passenger,1,Excellent,141100
+Bajaj Auto,2019,195094,CNG,Cargo,1,Good,103300
+Atul Auto,2019,178322,CNG,Passenger,2,Fair,59500
+Mahindra,2021,84795,LPG,Passenger,2,Excellent,128000
+Bajaj Auto,2020,98150,Petrol,Passenger,1,Good,110300
+Bajaj Auto,2017,117069,LPG,Cargo,1,Good,89100
+Bajaj Auto,2015,287703,LPG,Cargo,2,Fair,42500
+Bajaj Auto,2012,241466,Diesel,Passenger,3,Good,28300
+Mahindra,2015,255524,Diesel,Passenger,3,Good,36800
+Bajaj Auto,2024,46883,CNG,Cargo,1,Fair,195600
+Bajaj Auto,2019,101479,Diesel,Passenger,2,Good,86100
+Bajaj Auto,2017,213804,Electric,Cargo,1,Excellent,106000
+Piaggio,2019,108038,LPG,Cargo,1,Excellent,130900
+Bajaj Auto,2021,131878,CNG,Passenger,1,Poor,83100
+Bajaj Auto,2018,119913,CNG,Passenger,1,Good,91900
+Piaggio,2011,206284,LPG,Passenger,3,Fair,25000
+Bajaj Auto,2020,166078,LPG,Cargo,2,Fair,84000
+Piaggio,2023,29284,CNG,Passenger,1,Excellent,199100
+Bajaj Auto,2018,187765,Diesel,Passenger,2,Excellent,74300
+Bajaj Auto,2022,62520,Petrol,Cargo,1,Fair,137500
+Atul Auto,2019,201208,LPG,Cargo,3,Good,63800
+Bajaj Auto,2022,85862,Diesel,Passenger,2,Fair,107000
+Atul Auto,2020,103736,LPG,Passenger,2,Poor,57100
+TVS King,2015,198424,LPG,Passenger,1,Good,50500
+Piaggio,2019,144546,CNG,Passenger,1,Good,107600
+Bajaj Auto,2011,188792,Diesel,Passenger,1,Excellent,39000
+Bajaj Auto,2021,89499,Electric,Cargo,1,Good,174600
+Piaggio,2017,227033,CNG,Passenger,2,Fair,56800
+TVS King,2021,111710,CNG,Passenger,2,Good,109200
+Bajaj Auto,2018,182814,CNG,Passenger,3,Fair,56100
+Mahindra,2022,64496,CNG,Passenger,1,Good,165000
+Bajaj Auto,2015,229179,CNG,Cargo,2,Excellent,61300
+Bajaj Auto,2016,257278,CNG,Passenger,3,Poor,30200
+Bajaj Auto,2016,237594,CNG,Passenger,3,Fair,42600
+Atul Auto,2013,247648,CNG,Passenger,1,Good,37700
+Mahindra,2020,146106,CNG,Passenger,1,Fair,103000
+TVS King,2019,191774,CNG,Passenger,2,Fair,64700
+Piaggio,2015,190031,CNG,Cargo,2,Fair,52200
+Bajaj Auto,2015,155487,CNG,Passenger,1,Good,61400
+Bajaj Auto,2017,161892,CNG,Cargo,2,Fair,73400
+Piaggio,2024,30435,CNG,Passenger,2,Excellent,195800
+Bajaj Auto,2024,16632,CNG,Passenger,1,Good,204700
+Piaggio,2018,125841,LPG,Passenger,3,Good,68600
+Atul Auto,2017,124108,CNG,Passenger,3,Good,54000
+Piaggio,2022,80839,CNG,Cargo,1,Good,174400
+Atul Auto,2017,220958,Diesel,Cargo,1,Good,63200
+Atul Auto,2017,129637,Electric,Cargo,3,Fair,67000
+Atul Auto,2014,320000,Diesel,Passenger,2,Good,29700
+Mahindra,2017,196331,LPG,Cargo,2,Good,70200
+Piaggio,2017,106109,CNG,Passenger,2,Good,80700
+Piaggio,2019,110694,CNG,Passenger,1,Fair,92000
+Bajaj Auto,2016,198016,CNG,Passenger,3,Fair,45000
+Bajaj Auto,2016,220526,CNG,Passenger,1,Poor,47700
+Bajaj Auto,2017,117375,Diesel,Cargo,1,Good,91100
+Piaggio,2016,123773,CNG,Passenger,4,Good,49500
+Bajaj Auto,2022,87537,CNG,Passenger,2,Good,132400
+TVS King,2013,320000,Electric,Cargo,1,Excellent,54700
+Bajaj Auto,2013,320000,CNG,Passenger,2,Good,36500
+Bajaj Auto,2015,199764,Petrol,Passenger,1,Fair,44400
+Bajaj Auto,2022,100151,Electric,Passenger,2,Fair,130500
+Atul Auto,2016,153920,Petrol,Passenger,2,Fair,43900
+Piaggio,2024,26876,Petrol,Cargo,1,Fair,186100
+Piaggio,2015,218856,Diesel,Cargo,4,Fair,36200
+Bajaj Auto,2011,298765,Petrol,Passenger,3,Good,25000
+Atul Auto,2014,294300,LPG,Cargo,1,Good,37600
+Bajaj Auto,2019,173624,CNG,Passenger,1,Good,93400
+Bajaj Auto,2022,89188,CNG,Passenger,1,Fair,134600
+Bajaj Auto,2018,110664,Diesel,Passenger,1,Good,82600
+Bajaj Auto,2016,264191,CNG,Passenger,2,Good,51400
+Bajaj Auto,2017,192845,CNG,Passenger,3,Excellent,64500
+Bajaj Auto,2014,254302,Electric,Passenger,2,Excellent,54500
+Mahindra,2019,130596,CNG,Cargo,1,Fair,108200
+Bajaj Auto,2015,161208,Petrol,Passenger,1,Good,57800
+Bajaj Auto,2017,206533,Petrol,Passenger,2,Fair,53800
+Piaggio,2020,163081,Electric,Cargo,1,Good,148700
+Bajaj Auto,2016,177744,CNG,Passenger,3,Good,52500
+Mahindra,2017,215409,Petrol,Cargo,2,Good,65800
+Mahindra,2015,217465,Petrol,Passenger,2,Good,46100
+Bajaj Auto,2011,200887,LPG,Passenger,1,Good,36500
+Atul Auto,2023,41276,CNG,Passenger,1,Excellent,183100
+Piaggio,2020,135500,CNG,Cargo,1,Good,125300
+Piaggio,2021,118957,CNG,Passenger,3,Good,102200
+Bajaj Auto,2018,162111,CNG,Cargo,2,Good,94300
+Mahindra,2014,212085,Diesel,Cargo,2,Excellent,55400
+TVS King,2015,191743,LPG,Cargo,3,Excellent,48100
+Bajaj Auto,2022,88468,Petrol,Passenger,2,Excellent,133700
+Bajaj Auto,2016,245596,CNG,Passenger,3,Good,47000
+Bajaj Auto,2016,250204,Diesel,Passenger,2,Excellent,55400
+Bajaj Auto,2024,34886,Electric,Passenger,1,Good,227900
+Mahindra,2018,162269,Diesel,Cargo,3,Excellent,82500
+Mahindra,2020,106299,CNG,Cargo,2,Poor,88000
+Bajaj Auto,2019,193220,Diesel,Passenger,2,Fair,63600
+Atul Auto,2014,183267,CNG,Passenger,2,Fair,35800
+TVS King,2016,226790,CNG,Passenger,3,Poor,29200
+Atul Auto,2018,95875,Petrol,Passenger,1,Excellent,85900
+TVS King,2023,85891,CNG,Cargo,1,Good,186300
+Bajaj Auto,2016,229964,Petrol,Cargo,1,Fair,58300
+Bajaj Auto,2017,208115,Petrol,Passenger,2,Excellent,67400
+Piaggio,2024,22305,CNG,Passenger,1,Good,207700
+Bajaj Auto,2023,84073,CNG,Passenger,2,Good,140200
+Bajaj Auto,2022,127996,CNG,Cargo,1,Good,171600
+Piaggio,2012,320000,CNG,Passenger,1,Good,36300
+Bajaj Auto,2022,63587,LPG,Passenger,1,Good,147700
+Piaggio,2013,296886,Petrol,Cargo,3,Good,32900
+Piaggio,2023,68553,Electric,Passenger,1,Good,205900
+Bajaj Auto,2020,130542,CNG,Passenger,1,Good,121600
+TVS King,2016,152546,LPG,Passenger,2,Excellent,57200
+Piaggio,2016,256263,CNG,Passenger,2,Good,53100
+Mahindra,2015,291120,Petrol,Cargo,2,Good,47900
+Bajaj Auto,2018,151644,LPG,Cargo,2,Fair,76400
+Piaggio,2019,185487,Petrol,Passenger,1,Good,91800
+Piaggio,2021,69520,Petrol,Passenger,1,Excellent,142900
+Piaggio,2016,126190,Diesel,Cargo,1,Good,82500
+Mahindra,2019,136567,CNG,Passenger,1,Good,101800
+Bajaj Auto,2021,136206,CNG,Cargo,3,Good,114800
+Bajaj Auto,2014,303064,LPG,Cargo,3,Good,36500
+Bajaj Auto,2012,210973,LPG,Cargo,1,Good,43400
+Piaggio,2022,98403,CNG,Passenger,1,Good,148100
+Bajaj Auto,2015,240920,CNG,Cargo,2,Good,60500
+Mahindra,2022,102152,CNG,Passenger,2,Fair,117700
+Bajaj Auto,2012,216705,CNG,Cargo,1,Good,49300
+Bajaj Auto,2016,115033,CNG,Cargo,1,Good,90600
+Atul Auto,2015,167166,LPG,Passenger,2,Fair,34900
+Atul Auto,2021,128293,CNG,Passenger,2,Fair,83300
+Mahindra,2021,133750,Diesel,Passenger,1,Excellent,135900
+TVS King,2018,140969,CNG,Passenger,1,Fair,73700
+Piaggio,2022,85589,CNG,Passenger,3,Good,111800
+Mahindra,2014,170515,CNG,Passenger,1,Fair,50000
+TVS King,2017,186929,CNG,Passenger,1,Good,73500
+Piaggio,2021,81925,Electric,Passenger,2,Fair,133400
+Bajaj Auto,2012,315450,CNG,Passenger,2,Good,32500
+Bajaj Auto,2019,159873,LPG,Passenger,2,Good,80100
+Piaggio,2021,103018,CNG,Passenger,2,Excellent,141300
+Bajaj Auto,2022,67241,LPG,Passenger,2,Good,129600
+Bajaj Auto,2017,120282,LPG,Passenger,3,Excellent,64100
+Piaggio,2018,195309,CNG,Passenger,2,Good,72300
+Mahindra,2012,254653,CNG,Passenger,1,Excellent,43700
+TVS King,2020,132601,CNG,Cargo,3,Fair,76800
+Mahindra,2018,202031,Petrol,Passenger,1,Good,82400
+Atul Auto,2014,220042,Diesel,Cargo,3,Fair,29900
+Atul Auto,2022,83181,CNG,Passenger,1,Good,121700
+Bajaj Auto,2015,311166,LPG,Passenger,2,Good,36500
+Bajaj Auto,2017,133354,CNG,Passenger,4,Good,56000
+Bajaj Auto,2019,90768,Petrol,Passenger,2,Fair,74400
+Bajaj Auto,2019,126313,Petrol,Passenger,2,Excellent,88600
+Piaggio,2015,159167,CNG,Passenger,2,Excellent,60000
+Piaggio,2018,166941,CNG,Passenger,2,Good,79800
+Mahindra,2024,60235,Diesel,Passenger,1,Excellent,202800
+Piaggio,2016,226712,Petrol,Cargo,1,Excellent,72800
+Bajaj Auto,2011,273065,LPG,Cargo,2,Good,31200
+Bajaj Auto,2017,210637,Diesel,Cargo,3,Good,62000
+Piaggio,2020,84639,LPG,Passenger,3,Good,82300
+Bajaj Auto,2011,296957,CNG,Passenger,2,Good,28800
+Bajaj Auto,2018,211467,Electric,Passenger,1,Fair,81000
+Mahindra,2018,188902,CNG,Passenger,2,Good,80300
+Piaggio,2018,196318,CNG,Passenger,2,Good,76800
+Bajaj Auto,2013,201458,LPG,Passenger,3,Excellent,39300
+Bajaj Auto,2022,52448,CNG,Cargo,1,Fair,157900
+Piaggio,2023,63989,CNG,Passenger,1,Good,180500
+Bajaj Auto,2013,287301,CNG,Passenger,2,Good,36200
+Atul Auto,2017,221763,LPG,Passenger,2,Good,45500
+Mahindra,2019,180213,CNG,Passenger,3,Good,79100
+TVS King,2013,311194,Electric,Passenger,3,Good,35400
+Bajaj Auto,2020,90016,Petrol,Passenger,2,Fair,78600
+Bajaj Auto,2011,312111,Electric,Cargo,2,Good,41400
+Bajaj Auto,2021,76531,CNG,Passenger,1,Fair,124200
+Bajaj Auto,2019,106789,Electric,Passenger,2,Excellent,123700
+Atul Auto,2016,202756,Electric,Passenger,1,Good,65300
+Bajaj Auto,2012,291030,Electric,Passenger,3,Fair,31000
+TVS King,2019,143416,Diesel,Cargo,1,Good,97600
+Bajaj Auto,2018,202196,CNG,Passenger,1,Fair,69600
+TVS King,2017,241697,CNG,Cargo,1,Poor,50700
+Bajaj Auto,2021,71243,CNG,Cargo,1,Good,151800
+TVS King,2020,156751,CNG,Passenger,2,Good,94400
+Bajaj Auto,2018,172721,Diesel,Passenger,3,Good,54500
+Bajaj Auto,2020,158716,LPG,Cargo,2,Good,93800
+Atul Auto,2021,87245,Petrol,Passenger,2,Good,95300
+Piaggio,2019,152626,Diesel,Passenger,1,Poor,62100
+Atul Auto,2019,167115,LPG,Passenger,1,Fair,63900
+Bajaj Auto,2021,73862,Diesel,Passenger,2,Fair,92800
+Bajaj Auto,2019,191821,Petrol,Passenger,2,Good,75800
+TVS King,2018,105814,CNG,Passenger,2,Good,71500
+Atul Auto,2014,187546,Electric,Passenger,1,Fair,51000
+Piaggio,2013,273426,Diesel,Passenger,1,Good,38500
+Piaggio,2023,50007,Petrol,Passenger,1,Excellent,182600
+Bajaj Auto,2015,186183,Electric,Passenger,2,Poor,48000
+Piaggio,2013,320000,CNG,Cargo,2,Good,38500
+Piaggio,2016,241900,Electric,Cargo,1,Good,81600
+Bajaj Auto,2015,245324,Petrol,Passenger,2,Fair,38500
+TVS King,2014,285016,CNG,Passenger,2,Fair,33600
+Bajaj Auto,2020,134737,CNG,Cargo,1,Good,136200
+Bajaj Auto,2019,89917,Electric,Cargo,3,Excellent,124700
+Mahindra,2018,189292,CNG,Passenger,2,Poor,59300
+Bajaj Auto,2022,69503,CNG,Passenger,1,Excellent,174300
+Bajaj Auto,2021,142908,LPG,Passenger,2,Excellent,106700
+Piaggio,2011,231139,CNG,Passenger,1,Fair,33100
+Bajaj Auto,2025,10193,CNG,Passenger,1,Good,225200
+TVS King,2017,107301,CNG,Passenger,1,Good,79800
+Mahindra,2020,81896,Diesel,Passenger,1,Good,113500
+Atul Auto,2020,161442,CNG,Passenger,3,Poor,46000
+Piaggio,2016,237692,Petrol,Passenger,2,Poor,34500
+Bajaj Auto,2017,176172,Diesel,Passenger,2,Excellent,70600
+Piaggio,2021,106788,LPG,Passenger,1,Excellent,142900
+Bajaj Auto,2016,243714,Electric,Passenger,2,Good,70700
+Atul Auto,2022,52919,Petrol,Cargo,2,Good,120600
+Piaggio,2021,83344,Electric,Passenger,1,Good,165100
+Bajaj Auto,2016,235374,CNG,Cargo,2,Excellent,70900
+Bajaj Auto,2020,132358,CNG,Passenger,1,Good,119100
+TVS King,2014,285111,CNG,Passenger,2,Fair,32200
+TVS King,2014,317308,LPG,Cargo,2,Excellent,42300
+Piaggio,2020,109909,Petrol,Passenger,2,Fair,82800
+Bajaj Auto,2019,144357,Diesel,Passenger,3,Fair,60500
+Piaggio,2019,162427,CNG,Passenger,1,Excellent,106400
+Bajaj Auto,2017,122552,Electric,Passenger,1,Excellent,105800
+Piaggio,2022,76757,Diesel,Cargo,1,Good,172300
+Bajaj Auto,2024,38410,CNG,Passenger,1,Good,196500
+Piaggio,2017,246662,CNG,Cargo,1,Excellent,83900
+Mahindra,2017,231873,CNG,Passenger,1,Poor,53600
+Piaggio,2011,238768,CNG,Passenger,1,Good,37000
+Bajaj Auto,2015,191218,CNG,Passenger,1,Poor,44300
+Piaggio,2016,196262,Petrol,Cargo,2,Fair,56600
+Bajaj Auto,2013,178706,CNG,Passenger,4,Good,32700
+Piaggio,2021,84096,CNG,Passenger,3,Excellent,109900
+Mahindra,2022,71697,CNG,Cargo,3,Good,143300
+Piaggio,2016,170647,CNG,Cargo,3,Good,59000
+Bajaj Auto,2020,84603,CNG,Cargo,1,Excellent,150000
+Piaggio,2024,30247,LPG,Passenger,1,Excellent,216300
+Piaggio,2019,148450,CNG,Passenger,1,Fair,80900
+Bajaj Auto,2016,202941,CNG,Passenger,3,Fair,42700
+Mahindra,2014,238241,Diesel,Passenger,1,Excellent,53300
+TVS King,2018,157994,CNG,Passenger,2,Excellent,83300
+Piaggio,2023,44915,CNG,Passenger,1,Good,182200
+Bajaj Auto,2017,253962,Petrol,Passenger,1,Fair,51100
+Piaggio,2019,105330,LPG,Passenger,2,Good,80900
+Mahindra,2019,127275,CNG,Cargo,3,Good,91500
+Atul Auto,2018,125251,LPG,Passenger,2,Good,61700
+Piaggio,2017,137083,CNG,Passenger,1,Fair,73800
+Piaggio,2019,184243,Electric,Passenger,2,Fair,86100
+Mahindra,2020,105377,Petrol,Passenger,2,Good,94500
+Bajaj Auto,2024,62320,Petrol,Passenger,1,Fair,152100
+Bajaj Auto,2022,80312,CNG,Cargo,1,Good,166500
+Bajaj Auto,2024,30187,Diesel,Passenger,1,Fair,153000
+Piaggio,2021,142332,CNG,Passenger,1,Excellent,139100
+TVS King,2017,187707,CNG,Passenger,1,Good,71600
+Bajaj Auto,2018,111345,LPG,Passenger,1,Good,86900
+Bajaj Auto,2018,214077,CNG,Passenger,2,Good,72500
+Bajaj Auto,2017,124492,CNG,Cargo,1,Good,92900
+Mahindra,2021,145727,LPG,Passenger,1,Fair,100700
+Piaggio,2020,115471,CNG,Cargo,1,Excellent,139600
+Atul Auto,2020,118079,CNG,Passenger,2,Excellent,92900
+Bajaj Auto,2012,320000,Diesel,Passenger,2,Good,28200
+Atul Auto,2021,77443,CNG,Cargo,2,Good,116100
+Bajaj Auto,2022,64674,Diesel,Cargo,1,Fair,141700
+Bajaj Auto,2023,48122,Petrol,Passenger,1,Good,148900
+TVS King,2024,31889,CNG,Passenger,1,Excellent,205400
+Bajaj Auto,2022,70279,Petrol,Passenger,1,Fair,112500
+Piaggio,2014,216183,CNG,Cargo,4,Excellent,42700
+Bajaj Auto,2018,193087,LPG,Passenger,2,Fair,61800
+Bajaj Auto,2012,250098,CNG,Passenger,3,Good,30600
+Bajaj Auto,2015,309240,Petrol,Cargo,4,Fair,28500
+Piaggio,2016,224807,CNG,Cargo,4,Good,50800
+Mahindra,2024,30763,CNG,Cargo,1,Excellent,252000
+Bajaj Auto,2018,226551,LPG,Passenger,1,Good,68600
+Atul Auto,2019,108453,CNG,Passenger,1,Good,87900
+Atul Auto,2016,281912,CNG,Passenger,2,Good,41100
+Bajaj Auto,2021,68649,Electric,Passenger,1,Fair,150900
+Piaggio,2019,180639,CNG,Passenger,2,Good,85300
+TVS King,2015,208250,Electric,Passenger,4,Good,42500
+Piaggio,2024,43486,CNG,Cargo,1,Good,235100
+Mahindra,2012,248539,LPG,Passenger,3,Fair,26300
+Bajaj Auto,2015,224854,Electric,Passenger,4,Good,48100
+Bajaj Auto,2017,147054,Petrol,Cargo,2,Good,76200
+TVS King,2021,130773,LPG,Cargo,1,Fair,111000
+Mahindra,2020,130042,CNG,Cargo,2,Good,122800
+Bajaj Auto,2016,246694,Electric,Cargo,2,Good,72300
+Mahindra,2025,32621,CNG,Passenger,2,Excellent,235100
+Bajaj Auto,2016,222971,LPG,Passenger,1,Fair,52100
+Mahindra,2024,46586,CNG,Cargo,1,Excellent,246700
+Atul Auto,2023,67163,CNG,Cargo,1,Good,167700
+Bajaj Auto,2020,126212,LPG,Passenger,1,Good,115300
+Bajaj Auto,2012,219479,CNG,Passenger,2,Excellent,39200
+Bajaj Auto,2021,75286,CNG,Passenger,1,Good,139700
+Bajaj Auto,2012,320000,CNG,Passenger,3,Excellent,28700
+Bajaj Auto,2011,320000,CNG,Passenger,2,Good,28800
+Bajaj Auto,2015,155040,LPG,Cargo,2,Excellent,67900
+Bajaj Auto,2020,125411,Petrol,Passenger,3,Fair,68200
+Piaggio,2017,232236,CNG,Passenger,3,Excellent,60300
+Atul Auto,2022,113259,CNG,Passenger,2,Good,110900
+Piaggio,2019,153825,CNG,Passenger,3,Good,72500
+TVS King,2011,265508,Petrol,Cargo,2,Fair,25000
+Piaggio,2016,133379,Diesel,Passenger,2,Good,63600
+Piaggio,2018,194027,Diesel,Passenger,2,Fair,60100
+Mahindra,2018,94980,CNG,Passenger,1,Good,97600
+Mahindra,2019,164792,LPG,Passenger,2,Fair,68300
+Piaggio,2015,163330,CNG,Passenger,1,Fair,54500
+Piaggio,2021,65929,Electric,Passenger,1,Good,175000
+Piaggio,2015,200200,LPG,Passenger,2,Excellent,49900
+Bajaj Auto,2016,114550,CNG,Passenger,3,Fair,49800
+Bajaj Auto,2019,177735,Electric,Passenger,1,Good,114800
+Piaggio,2020,117126,CNG,Passenger,1,Excellent,134300
+Atul Auto,2022,72982,Diesel,Passenger,2,Good,110500
+Piaggio,2023,60084,Electric,Passenger,1,Fair,179500
+Piaggio,2016,262322,Diesel,Passenger,2,Good,49500
+Mahindra,2017,194667,Electric,Cargo,2,Good,95400
+Bajaj Auto,2019,124239,CNG,Passenger,1,Poor,74000
+Piaggio,2021,115688,Diesel,Passenger,1,Poor,83000
+Bajaj Auto,2020,88330,CNG,Passenger,1,Good,125000
+Atul Auto,2023,63077,Diesel,Passenger,2,Good,109600
+Atul Auto,2018,182071,CNG,Cargo,1,Fair,69300
+TVS King,2020,136922,Petrol,Passenger,1,Excellent,108200
+Atul Auto,2018,171705,Electric,Passenger,1,Good,91600
+Bajaj Auto,2013,224162,Diesel,Cargo,2,Poor,27700
+Mahindra,2017,148665,CNG,Passenger,2,Good,77300
+Bajaj Auto,2022,63429,Diesel,Passenger,2,Fair,113600
+Atul Auto,2021,132263,CNG,Passenger,1,Fair,86700
+Mahindra,2018,148695,LPG,Passenger,3,Excellent,69400
+Piaggio,2015,254449,Diesel,Passenger,1,Good,50900
+Atul Auto,2012,166454,Electric,Passenger,3,Good,36300
+Piaggio,2012,267534,Petrol,Cargo,1,Excellent,43900
+Mahindra,2016,260836,Electric,Cargo,3,Poor,45400
+Bajaj Auto,2016,185037,Petrol,Cargo,2,Good,66000
+Mahindra,2022,82632,LPG,Passenger,1,Good,144600
+Bajaj Auto,2018,158695,CNG,Passenger,1,Excellent,89900
+Mahindra,2018,119146,CNG,Passenger,2,Good,80300
+Bajaj Auto,2017,235634,CNG,Passenger,2,Poor,44100
+Bajaj Auto,2019,100931,CNG,Passenger,3,Good,85500
+Piaggio,2022,64531,CNG,Passenger,1,Good,156100
+Piaggio,2014,210555,Petrol,Passenger,1,Good,51900
+TVS King,2013,282099,Petrol,Cargo,1,Good,43700
+Mahindra,2013,292233,Petrol,Passenger,2,Good,35600
+Piaggio,2025,16129,CNG,Passenger,1,Poor,154200
+Bajaj Auto,2012,256879,LPG,Passenger,1,Good,36700
+Piaggio,2021,135243,Petrol,Passenger,2,Fair,96800
+Piaggio,2023,80319,CNG,Passenger,1,Good,165300
+Bajaj Auto,2021,117387,CNG,Passenger,1,Excellent,143600
+Bajaj Auto,2013,209094,LPG,Cargo,2,Good,45700
+Bajaj Auto,2020,84875,CNG,Cargo,2,Good,123400
+Piaggio,2020,99116,Electric,Passenger,2,Good,124200
+Bajaj Auto,2016,179563,CNG,Cargo,2,Excellent,72500
+Bajaj Auto,2014,199136,CNG,Passenger,1,Good,53100
+Bajaj Auto,2019,114937,Diesel,Passenger,1,Good,94300
+TVS King,2011,280006,Diesel,Passenger,1,Good,27500
+Piaggio,2017,178559,Petrol,Passenger,1,Fair,59400
+Piaggio,2014,248860,Electric,Passenger,3,Fair,39800
+Bajaj Auto,2020,115845,CNG,Passenger,2,Excellent,107000
+Atul Auto,2022,79039,CNG,Passenger,3,Good,102400
+Piaggio,2011,195164,CNG,Cargo,2,Fair,36600
+Mahindra,2018,178814,Diesel,Passenger,1,Good,83800
+Piaggio,2019,160610,Petrol,Passenger,1,Excellent,104100
+Bajaj Auto,2022,77243,Electric,Passenger,1,Fair,156600
+Piaggio,2019,151884,LPG,Cargo,2,Good,91100
+Bajaj Auto,2018,101553,CNG,Passenger,1,Good,96600
+TVS King,2018,94913,CNG,Cargo,3,Excellent,88400
+Bajaj Auto,2013,216202,Electric,Cargo,4,Good,45400
+Bajaj Auto,2021,122181,LPG,Passenger,2,Fair,90000
+Mahindra,2019,158643,LPG,Passenger,2,Excellent,86000
+Bajaj Auto,2020,107529,Petrol,Passenger,1,Good,112000
+Bajaj Auto,2016,257935,Electric,Passenger,1,Fair,63800
+Piaggio,2022,55321,CNG,Passenger,1,Good,162100
+Bajaj Auto,2020,107071,CNG,Passenger,2,Excellent,116500
+Piaggio,2017,160189,CNG,Passenger,3,Fair,53800
+Piaggio,2018,202512,LPG,Cargo,3,Fair,57000
+Bajaj Auto,2020,92123,CNG,Cargo,2,Good,121700
+TVS King,2012,234942,CNG,Cargo,1,Poor,30800
+Mahindra,2017,208776,Electric,Cargo,1,Excellent,104700
+Bajaj Auto,2014,240093,Electric,Passenger,3,Excellent,55700
+Bajaj Auto,2016,142710,LPG,Passenger,2,Poor,42400
+Piaggio,2019,170177,CNG,Passenger,2,Excellent,98900
+Bajaj Auto,2022,94677,CNG,Cargo,2,Fair,129200
+Piaggio,2022,70242,Electric,Passenger,2,Good,165600
+Piaggio,2021,104110,CNG,Passenger,1,Fair,110800
+Piaggio,2021,134122,CNG,Passenger,2,Excellent,131400
+Bajaj Auto,2016,221792,CNG,Passenger,1,Poor,44700
+Bajaj Auto,2019,185022,CNG,Passenger,1,Good,97500
+Bajaj Auto,2018,132487,CNG,Cargo,2,Good,91800
+Bajaj Auto,2021,128627,Electric,Passenger,1,Fair,137000
+Bajaj Auto,2011,311901,Electric,Passenger,2,Good,35000
+Bajaj Auto,2022,65895,LPG,Passenger,2,Good,129300
+Bajaj Auto,2017,248508,Electric,Passenger,1,Fair,71400
+Mahindra,2016,195399,Diesel,Cargo,1,Good,68700
+Piaggio,2020,105099,CNG,Passenger,1,Good,116900
+Bajaj Auto,2014,213748,CNG,Passenger,1,Excellent,59500
+Bajaj Auto,2024,32681,CNG,Passenger,1,Fair,172700
+Bajaj Auto,2017,143766,Electric,Cargo,1,Poor,77500
+Mahindra,2012,282986,Diesel,Passenger,2,Good,28900
+Piaggio,2021,107627,Electric,Passenger,1,Good,158100
+Piaggio,2017,196581,Electric,Passenger,2,Poor,58000
+Piaggio,2019,99793,Electric,Cargo,1,Good,149600
+Piaggio,2018,178302,CNG,Cargo,4,Excellent,72300
+Bajaj Auto,2020,117598,CNG,Passenger,2,Good,97500
+Bajaj Auto,2016,186915,Diesel,Cargo,3,Good,55300
+Piaggio,2018,147733,Petrol,Cargo,1,Excellent,102100
+Bajaj Auto,2022,106050,LPG,Passenger,1,Excellent,150300
+Bajaj Auto,2020,122717,Electric,Passenger,3,Fair,96400
+Bajaj Auto,2021,91587,CNG,Passenger,2,Excellent,131900
+Bajaj Auto,2015,307795,LPG,Passenger,2,Excellent,45900
+TVS King,2020,133957,Petrol,Cargo,1,Good,119300
+Bajaj Auto,2021,83240,CNG,Passenger,1,Fair,118300
+Bajaj Auto,2017,160153,Petrol,Passenger,2,Good,62100
+Bajaj Auto,2012,267539,CNG,Passenger,4,Excellent,27200
+Atul Auto,2014,317574,Diesel,Passenger,1,Fair,28900
+Bajaj Auto,2019,166778,CNG,Passenger,1,Excellent,107700
+Atul Auto,2012,305272,CNG,Passenger,3,Excellent,25200
+Piaggio,2021,117559,Diesel,Cargo,1,Excellent,146800
+Piaggio,2021,103724,LPG,Passenger,1,Fair,108800
+Mahindra,2018,109471,Diesel,Passenger,2,Excellent,87100
+Bajaj Auto,2015,320000,CNG,Cargo,3,Good,45100
+Bajaj Auto,2022,58643,Petrol,Passenger,2,Good,120500
+Atul Auto,2024,37687,Petrol,Cargo,1,Good,186300
+Piaggio,2020,148437,Diesel,Cargo,2,Good,100100
+TVS King,2019,189650,Diesel,Passenger,1,Excellent,83000
+Bajaj Auto,2018,168609,Diesel,Passenger,1,Excellent,88400
+Bajaj Auto,2020,83177,CNG,Passenger,2,Fair,87300
+TVS King,2020,149840,LPG,Passenger,1,Poor,66100
+Bajaj Auto,2021,89457,CNG,Passenger,2,Good,116300
+Bajaj Auto,2022,97569,Petrol,Cargo,1,Good,149900
+Bajaj Auto,2020,90811,CNG,Cargo,2,Good,126200
+Bajaj Auto,2018,172382,LPG,Cargo,1,Good,89900
+Bajaj Auto,2022,74334,LPG,Passenger,3,Excellent,115200
+Bajaj Auto,2020,81021,Diesel,Cargo,2,Good,111500
+Bajaj Auto,2021,107389,Diesel,Passenger,3,Excellent,115300
+Piaggio,2017,250028,CNG,Cargo,2,Good,65300
+Bajaj Auto,2022,93036,CNG,Passenger,1,Good,140600
+Piaggio,2016,271597,Diesel,Passenger,3,Good,41500
+Piaggio,2018,138875,LPG,Passenger,1,Poor,54900
+Piaggio,2020,69658,CNG,Passenger,2,Good,112700
+Piaggio,2015,202062,CNG,Passenger,1,Fair,52100
+Piaggio,2017,222073,CNG,Cargo,4,Good,51900
+Piaggio,2018,103938,Petrol,Cargo,1,Poor,72100
+Atul Auto,2020,116256,CNG,Passenger,2,Fair,76200
+Atul Auto,2021,140431,Petrol,Passenger,1,Excellent,108200
+Bajaj Auto,2014,320000,CNG,Passenger,3,Excellent,33900
+Bajaj Auto,2024,54847,CNG,Passenger,1,Poor,133700
+Bajaj Auto,2016,223337,CNG,Passenger,2,Excellent,59200
+Bajaj Auto,2020,154040,Diesel,Cargo,1,Excellent,121400
+Bajaj Auto,2025,24679,LPG,Cargo,2,Good,213300
+Bajaj Auto,2019,150628,Petrol,Passenger,1,Fair,77800
+Mahindra,2012,313019,Petrol,Passenger,2,Good,28800
+Bajaj Auto,2024,57678,CNG,Passenger,1,Good,190800
+Bajaj Auto,2023,39532,Petrol,Passenger,1,Good,164700
+Bajaj Auto,2011,298594,CNG,Passenger,1,Poor,25000
+Bajaj Auto,2016,239218,Diesel,Passenger,3,Good,45200
+Piaggio,2016,127563,CNG,Passenger,1,Excellent,81000
+Bajaj Auto,2019,143836,CNG,Passenger,3,Good,81300
+Bajaj Auto,2018,140010,Petrol,Passenger,3,Good,66900
+Piaggio,2019,165409,Diesel,Cargo,2,Excellent,107600
+Bajaj Auto,2011,320000,Petrol,Passenger,4,Good,25000
+Bajaj Auto,2021,130875,Petrol,Passenger,2,Good,94400
+Piaggio,2014,264115,CNG,Cargo,2,Good,47600
+Piaggio,2015,268501,Petrol,Passenger,2,Excellent,50400
+Bajaj Auto,2020,167145,CNG,Passenger,1,Poor,78100
+Piaggio,2015,218311,Petrol,Passenger,1,Good,50900
+Bajaj Auto,2021,97025,CNG,Passenger,1,Good,136000
+Mahindra,2019,151595,Diesel,Passenger,2,Excellent,92200
+Bajaj Auto,2022,52201,LPG,Passenger,1,Fair,126700
+Bajaj Auto,2016,177540,CNG,Passenger,2,Good,59000
+Atul Auto,2017,117510,LPG,Passenger,1,Good,68900
+Bajaj Auto,2017,140323,Petrol,Cargo,2,Excellent,82200
+Bajaj Auto,2021,84603,CNG,Passenger,1,Good,141400
+Bajaj Auto,2019,77844,Electric,Passenger,1,Excellent,144800
+Bajaj Auto,2017,192888,Diesel,Passenger,1,Good,69500
+TVS King,2016,269182,CNG,Cargo,2,Good,52000
+Bajaj Auto,2019,130763,CNG,Passenger,3,Fair,65400
+Bajaj Auto,2019,163278,Petrol,Passenger,2,Fair,68200
+Piaggio,2019,189396,Petrol,Cargo,1,Good,94400
+Piaggio,2016,166669,Electric,Passenger,2,Excellent,85000
+Mahindra,2020,157196,Electric,Passenger,2,Good,125800
+Bajaj Auto,2020,135897,CNG,Passenger,1,Good,115200
+Bajaj Auto,2015,237229,CNG,Passenger,3,Good,44000
+Bajaj Auto,2024,46186,CNG,Passenger,1,Fair,159100
+Bajaj Auto,2015,297332,CNG,Passenger,1,Good,51100
+Mahindra,2014,203492,CNG,Passenger,2,Fair,44800
+Mahindra,2022,67076,CNG,Passenger,1,Excellent,183900
+Bajaj Auto,2019,156833,Diesel,Passenger,2,Fair,73700
+Bajaj Auto,2020,144956,Electric,Passenger,1,Poor,99600
+Mahindra,2022,92140,CNG,Cargo,2,Good,155800
+Piaggio,2019,134658,CNG,Passenger,1,Fair,94700
+Piaggio,2020,92696,CNG,Cargo,2,Excellent,139200
+TVS King,2019,203867,CNG,Cargo,2,Good,85100
+Piaggio,2022,99705,LPG,Passenger,2,Good,127600
+Piaggio,2018,184172,CNG,Passenger,2,Poor,49900
+Piaggio,2013,310721,Petrol,Cargo,1,Good,43000
+Mahindra,2018,97168,Electric,Passenger,1,Excellent,141600
+Bajaj Auto,2021,83615,LPG,Passenger,2,Fair,95600
+Bajaj Auto,2020,138895,CNG,Passenger,1,Fair,99000
+Bajaj Auto,2014,175303,CNG,Cargo,1,Good,65300
+Bajaj Auto,2021,120307,CNG,Passenger,1,Excellent,146300
+TVS King,2013,320000,Diesel,Cargo,1,Fair,32800
+Mahindra,2019,155912,LPG,Cargo,2,Good,95300
+Bajaj Auto,2013,320000,LPG,Passenger,4,Good,25000
+Bajaj Auto,2016,278219,CNG,Passenger,1,Excellent,68000
+Bajaj Auto,2011,320000,LPG,Passenger,2,Excellent,27800
+Mahindra,2017,133619,Electric,Passenger,4,Good,69500
+Mahindra,2012,320000,Electric,Passenger,2,Fair,31600
+Mahindra,2015,289131,CNG,Passenger,3,Good,43400
+Bajaj Auto,2018,101934,CNG,Passenger,3,Fair,65400
+Atul Auto,2022,47621,Diesel,Passenger,1,Fair,100500
+Bajaj Auto,2021,75028,LPG,Passenger,2,Fair,97000
+Bajaj Auto,2012,209307,LPG,Passenger,1,Good,37400
+Piaggio,2018,147444,Electric,Cargo,4,Fair,66000
+Bajaj Auto,2014,280251,Petrol,Cargo,1,Excellent,50100
+Mahindra,2015,202205,CNG,Cargo,1,Excellent,77800
+Bajaj Auto,2016,199823,CNG,Cargo,3,Good,60700
+Piaggio,2019,162841,CNG,Cargo,2,Fair,85000
+Piaggio,2019,197438,CNG,Passenger,1,Poor,66800
+Mahindra,2018,183794,Petrol,Passenger,4,Excellent,61500
+Piaggio,2016,185502,CNG,Passenger,2,Excellent,66100
+TVS King,2021,98964,Diesel,Passenger,2,Good,99800
+Bajaj Auto,2015,285774,CNG,Cargo,3,Fair,38300
+Bajaj Auto,2014,264227,Electric,Passenger,1,Good,56100
+Bajaj Auto,2015,284799,CNG,Passenger,2,Good,45900
+Bajaj Auto,2016,294307,Diesel,Passenger,1,Good,49200
+TVS King,2016,279152,CNG,Passenger,1,Fair,45400
+Piaggio,2022,71254,Petrol,Passenger,3,Excellent,123900
+Bajaj Auto,2017,169272,CNG,Passenger,1,Fair,67600
+Mahindra,2015,271708,LPG,Passenger,1,Good,52300
+Bajaj Auto,2023,37092,Petrol,Cargo,1,Good,185600
+Mahindra,2020,146896,Electric,Passenger,1,Fair,118200
+Atul Auto,2014,209370,CNG,Passenger,3,Excellent,38900
+Piaggio,2012,320000,CNG,Cargo,4,Fair,25000
+Bajaj Auto,2016,194095,CNG,Passenger,1,Good,67200
+Mahindra,2017,249606,Petrol,Cargo,3,Excellent,59900
+TVS King,2017,237540,LPG,Cargo,3,Fair,43900
+Bajaj Auto,2018,116247,Diesel,Passenger,2,Fair,63800
+Bajaj Auto,2018,104241,Diesel,Cargo,3,Good,86300
+Bajaj Auto,2019,137827,Electric,Cargo,1,Good,140300
+Bajaj Auto,2015,198352,Diesel,Passenger,2,Good,48400
+Bajaj Auto,2019,173259,LPG,Passenger,2,Fair,69500
+Bajaj Auto,2016,233340,CNG,Passenger,1,Good,63400
+Bajaj Auto,2019,153143,Electric,Cargo,1,Excellent,144800
+Mahindra,2017,240513,Petrol,Passenger,2,Good,61000
+Piaggio,2018,163548,Diesel,Passenger,3,Good,62700
+Mahindra,2012,260261,Diesel,Passenger,1,Good,36600
+Mahindra,2021,131700,CNG,Passenger,1,Fair,120700
+Bajaj Auto,2020,120693,CNG,Passenger,1,Good,122600
+Mahindra,2023,52175,CNG,Passenger,1,Excellent,176000
+Bajaj Auto,2013,316080,CNG,Passenger,2,Fair,29800
+Piaggio,2021,68940,LPG,Passenger,2,Fair,91400
+Bajaj Auto,2011,320000,CNG,Passenger,1,Poor,25000
+Atul Auto,2016,198031,Electric,Passenger,2,Excellent,69200
+Bajaj Auto,2016,148936,LPG,Passenger,2,Fair,50800
+Piaggio,2011,320000,Petrol,Passenger,1,Excellent,29100
+Bajaj Auto,2023,68802,Electric,Passenger,1,Good,210400
+Bajaj Auto,2022,91001,CNG,Passenger,1,Excellent,172300
+Bajaj Auto,2019,112172,CNG,Passenger,1,Excellent,112600
+Bajaj Auto,2020,111453,Electric,Passenger,2,Poor,84400
+Bajaj Auto,2019,111121,CNG,Passenger,1,Fair,86200
+TVS King,2014,202630,CNG,Passenger,2,Good,45600
+Bajaj Auto,2011,320000,Electric,Passenger,2,Fair,29500
+Piaggio,2023,73899,Petrol,Passenger,1,Good,159800
+Bajaj Auto,2018,167169,CNG,Passenger,3,Fair,57700
+Piaggio,2017,127239,CNG,Passenger,2,Good,78500
+Mahindra,2021,114843,LPG,Passenger,1,Excellent,145800
+Bajaj Auto,2019,169489,Electric,Cargo,1,Good,137900
+Bajaj Auto,2019,195649,CNG,Cargo,1,Excellent,119700
+Bajaj Auto,2013,312727,CNG,Cargo,2,Good,37800
+TVS King,2015,220914,CNG,Passenger,2,Good,48200
+Bajaj Auto,2018,122176,CNG,Passenger,2,Excellent,92600
+Piaggio,2020,153031,CNG,Passenger,1,Good,119200
+TVS King,2021,84251,CNG,Cargo,1,Good,146800
+Bajaj Auto,2021,132986,Diesel,Passenger,1,Good,113000
+Piaggio,2012,290685,CNG,Passenger,2,Poor,25000
+Bajaj Auto,2013,300465,CNG,Cargo,1,Fair,42400
+TVS King,2021,130205,Petrol,Cargo,1,Good,129100
+Atul Auto,2016,269087,CNG,Passenger,1,Good,51100
+Piaggio,2019,153621,Electric,Passenger,1,Good,124900
+TVS King,2019,172723,Petrol,Passenger,1,Fair,68400
+Bajaj Auto,2023,63487,Diesel,Passenger,1,Excellent,181100
+Piaggio,2013,209764,CNG,Passenger,3,Good,34200
+Bajaj Auto,2020,141731,Electric,Cargo,1,Fair,128100
+Bajaj Auto,2012,212075,CNG,Passenger,3,Poor,25000
+Bajaj Auto,2014,267335,LPG,Cargo,1,Good,50200
+Mahindra,2012,255998,Petrol,Passenger,4,Fair,25000
+Bajaj Auto,2019,128350,Diesel,Passenger,1,Good,90500
+Mahindra,2017,109937,LPG,Cargo,2,Excellent,92700
+Bajaj Auto,2020,128182,Diesel,Passenger,1,Fair,88800
+Atul Auto,2022,93974,Petrol,Passenger,2,Good,97800
+Bajaj Auto,2014,230810,LPG,Passenger,1,Poor,31300
+Bajaj Auto,2015,256261,CNG,Passenger,1,Good,52700
+Mahindra,2022,104956,LPG,Cargo,2,Excellent,150200
+TVS King,2018,166742,LPG,Passenger,2,Excellent,73600
+Bajaj Auto,2018,93859,Petrol,Cargo,3,Excellent,85700
+Bajaj Auto,2013,179471,Electric,Passenger,2,Fair,46400
+Bajaj Auto,2021,123003,CNG,Passenger,1,Good,138100
+Atul Auto,2016,258932,CNG,Cargo,2,Good,48300
+Bajaj Auto,2016,145295,CNG,Passenger,1,Good,73000
+TVS King,2017,215493,CNG,Passenger,3,Good,49500
+TVS King,2019,102367,Petrol,Cargo,1,Excellent,121000
+Bajaj Auto,2017,173764,LPG,Passenger,2,Fair,57500
+Atul Auto,2017,137076,Electric,Passenger,3,Good,67000
+Piaggio,2020,147445,CNG,Passenger,1,Fair,98300
+Bajaj Auto,2024,30184,CNG,Passenger,1,Fair,184400
+Bajaj Auto,2016,240283,CNG,Passenger,1,Fair,49100
+Mahindra,2018,90805,CNG,Cargo,3,Poor,58900
+Piaggio,2011,320000,CNG,Passenger,3,Poor,25000
+Bajaj Auto,2020,148131,Electric,Passenger,1,Good,128400
+Atul Auto,2016,123091,Electric,Passenger,2,Excellent,74400
+Bajaj Auto,2013,272678,CNG,Cargo,2,Poor,30600
+Bajaj Auto,2021,110156,Diesel,Passenger,1,Excellent,132100
+Bajaj Auto,2017,240236,CNG,Cargo,2,Fair,59700
+Bajaj Auto,2020,89999,CNG,Cargo,2,Good,110100
+Atul Auto,2014,232053,Petrol,Passenger,1,Fair,34200
+Bajaj Auto,2015,160719,Petrol,Passenger,3,Poor,31600
+Bajaj Auto,2013,240365,LPG,Passenger,1,Good,40900
+Bajaj Auto,2023,57767,CNG,Passenger,1,Good,169800
+Bajaj Auto,2021,95789,CNG,Passenger,1,Fair,122300
+Bajaj Auto,2012,320000,LPG,Passenger,3,Fair,25000
+Atul Auto,2019,163805,LPG,Passenger,1,Excellent,80600
+Bajaj Auto,2020,124760,Electric,Passenger,2,Good,120400
+Piaggio,2021,117414,CNG,Passenger,3,Fair,85000
+Mahindra,2012,186810,CNG,Passenger,4,Good,29500
+Piaggio,2014,193419,CNG,Cargo,2,Fair,49700
+Bajaj Auto,2021,79712,LPG,Passenger,1,Fair,101600
+Piaggio,2020,72170,Diesel,Passenger,2,Fair,84800
+Bajaj Auto,2021,65665,CNG,Cargo,1,Fair,135300
+Mahindra,2018,213346,Diesel,Passenger,2,Fair,64300
+Bajaj Auto,2013,320000,CNG,Passenger,2,Fair,28400
+Mahindra,2011,274957,LPG,Passenger,3,Excellent,28400
+Bajaj Auto,2018,131228,CNG,Passenger,3,Fair,63300
+Bajaj Auto,2018,158166,CNG,Cargo,1,Fair,89400
+Mahindra,2020,116709,Petrol,Passenger,3,Fair,68200
+Bajaj Auto,2020,113274,Diesel,Passenger,1,Good,105500
+Piaggio,2020,71341,LPG,Passenger,1,Good,118500
+Piaggio,2013,230743,Petrol,Cargo,2,Excellent,44500
+Piaggio,2020,164891,Petrol,Cargo,1,Excellent,123500
+Bajaj Auto,2015,303407,LPG,Passenger,1,Good,41200
+Mahindra,2018,101005,CNG,Passenger,3,Poor,57800
+Bajaj Auto,2019,183449,Electric,Cargo,1,Fair,110100
+Bajaj Auto,2020,159266,Electric,Passenger,2,Excellent,128000
+Mahindra,2017,199936,Diesel,Passenger,2,Fair,56100
+Bajaj Auto,2018,103687,CNG,Passenger,3,Good,77700
+Bajaj Auto,2015,258162,CNG,Passenger,1,Good,54300
+Mahindra,2017,233512,CNG,Passenger,2,Fair,53800
+Bajaj Auto,2015,298782,Diesel,Passenger,4,Excellent,36800
+Mahindra,2011,307524,LPG,Cargo,2,Good,29000
+Piaggio,2022,53397,CNG,Passenger,1,Good,159500
+Bajaj Auto,2020,157230,LPG,Passenger,1,Good,101100
+Bajaj Auto,2016,262413,CNG,Passenger,1,Fair,52600
+Atul Auto,2021,136465,CNG,Passenger,2,Good,93400
+Bajaj Auto,2014,301221,CNG,Passenger,1,Good,43000
+Mahindra,2014,209017,CNG,Passenger,1,Good,56500
+Piaggio,2012,241030,Petrol,Passenger,2,Good,32600
+Bajaj Auto,2017,139656,Petrol,Passenger,1,Good,72500
+Bajaj Auto,2020,120360,Diesel,Cargo,1,Fair,110800
+TVS King,2018,143207,Diesel,Passenger,3,Fair,49200
+Bajaj Auto,2016,151387,Petrol,Cargo,4,Excellent,56400
+Piaggio,2020,72939,LPG,Passenger,2,Excellent,107000
+Bajaj Auto,2014,200458,LPG,Cargo,2,Good,51100
+TVS King,2022,100199,Petrol,Passenger,1,Excellent,141600
+TVS King,2021,113964,LPG,Cargo,2,Good,113900
+Mahindra,2019,145249,Electric,Passenger,1,Good,128800
+Piaggio,2021,91238,Petrol,Passenger,3,Fair,83500
+Piaggio,2012,213809,CNG,Passenger,2,Good,37000
+Piaggio,2012,299767,Petrol,Passenger,2,Fair,25200
+Bajaj Auto,2019,166981,CNG,Passenger,2,Excellent,95000
+Mahindra,2022,47597,LPG,Cargo,2,Good,143900
+Bajaj Auto,2011,256742,Diesel,Passenger,1,Good,32200
+Bajaj Auto,2022,53624,Petrol,Passenger,1,Excellent,155600
+Piaggio,2017,160839,Petrol,Passenger,2,Excellent,73700
+Piaggio,2019,162834,CNG,Cargo,3,Excellent,95800
+Bajaj Auto,2021,91285,CNG,Cargo,1,Good,161200
+Bajaj Auto,2022,96441,Petrol,Passenger,1,Fair,118000
+Mahindra,2011,284466,Electric,Passenger,2,Good,35900
+Mahindra,2013,246993,Petrol,Cargo,2,Good,44200
+Bajaj Auto,2014,225343,Diesel,Cargo,2,Good,47100
+TVS King,2020,77958,Diesel,Cargo,2,Poor,65700
+Bajaj Auto,2019,113487,CNG,Passenger,3,Excellent,92600
+Bajaj Auto,2017,237538,Diesel,Passenger,1,Good,63100
+Bajaj Auto,2017,215402,CNG,Passenger,4,Poor,35300
+Atul Auto,2016,129117,CNG,Passenger,2,Good,60800
+Bajaj Auto,2018,144885,CNG,Passenger,3,Good,66800
+Bajaj Auto,2018,157279,CNG,Passenger,1,Fair,75100
+Piaggio,2017,145197,Diesel,Passenger,1,Excellent,78200
+Piaggio,2017,238088,LPG,Cargo,3,Good,55000
+Bajaj Auto,2016,185418,Diesel,Passenger,2,Excellent,58000
+Piaggio,2019,159897,CNG,Passenger,1,Excellent,109000
+Piaggio,2015,210586,Electric,Passenger,2,Fair,54100
+Bajaj Auto,2023,38223,CNG,Passenger,2,Good,157100
+TVS King,2017,207203,CNG,Passenger,1,Good,65300
+Bajaj Auto,2012,320000,LPG,Passenger,2,Excellent,32700
+Piaggio,2021,75257,CNG,Passenger,2,Excellent,128400
+Piaggio,2018,212132,Petrol,Passenger,2,Fair,56000
+Mahindra,2021,80908,CNG,Passenger,2,Fair,105900
+Atul Auto,2020,131821,CNG,Passenger,1,Good,96400
+Bajaj Auto,2018,202753,CNG,Cargo,1,Good,93700
+Bajaj Auto,2020,170702,CNG,Passenger,3,Poor,60100
+Piaggio,2022,51998,Electric,Passenger,1,Good,196700
+Bajaj Auto,2018,149455,LPG,Passenger,2,Good,73000
+TVS King,2021,124232,CNG,Passenger,1,Good,111300
+Piaggio,2024,46474,Electric,Cargo,1,Good,248500
+Piaggio,2015,246207,Electric,Passenger,1,Excellent,73600
+Bajaj Auto,2013,320000,Electric,Passenger,1,Good,48300
+Bajaj Auto,2017,222686,LPG,Passenger,1,Good,66400
+Piaggio,2020,117230,Diesel,Cargo,2,Good,111400
+Bajaj Auto,2013,320000,Diesel,Cargo,4,Good,26100
+Mahindra,2022,78312,Diesel,Passenger,2,Good,111600
+TVS King,2020,108789,CNG,Passenger,2,Good,90200
+Bajaj Auto,2019,129300,LPG,Passenger,1,Good,92000
+Bajaj Auto,2018,129111,Diesel,Passenger,1,Good,84200
+Bajaj Auto,2020,142594,Diesel,Passenger,1,Good,98800
+Piaggio,2018,190031,CNG,Passenger,2,Fair,64700
+Bajaj Auto,2017,110602,Electric,Passenger,1,Excellent,114600
+Bajaj Auto,2017,232219,Petrol,Cargo,1,Fair,68600
+Bajaj Auto,2011,320000,CNG,Passenger,1,Good,29900
+Bajaj Auto,2016,131296,CNG,Passenger,2,Excellent,73500
+TVS King,2012,238689,CNG,Passenger,3,Fair,26500
+TVS King,2012,232648,Diesel,Passenger,2,Poor,25000
+Mahindra,2012,281667,LPG,Passenger,3,Good,28300
+Atul Auto,2017,170033,CNG,Passenger,2,Excellent,63500
+Atul Auto,2012,299079,LPG,Cargo,1,Fair,28400
+Piaggio,2020,120278,CNG,Passenger,1,Fair,105100
+Bajaj Auto,2011,290176,Diesel,Passenger,1,Good,31100
+Piaggio,2016,210083,Diesel,Passenger,3,Good,42200
+Bajaj Auto,2015,280935,CNG,Passenger,2,Fair,39600
+Mahindra,2021,131656,LPG,Passenger,1,Excellent,136500
+TVS King,2017,140412,Diesel,Cargo,1,Fair,66400
+Piaggio,2022,88726,Electric,Passenger,2,Good,152300
+Piaggio,2023,72493,LPG,Passenger,2,Good,138800
+Bajaj Auto,2015,229975,CNG,Passenger,2,Fair,41700
+Piaggio,2020,140897,Petrol,Passenger,2,Excellent,99700
+Bajaj Auto,2018,203177,CNG,Passenger,3,Good,64800
+Bajaj Auto,2017,221643,CNG,Passenger,1,Good,77800
+TVS King,2018,107496,LPG,Passenger,2,Fair,62700
+Mahindra,2023,37419,Diesel,Passenger,1,Excellent,167400
+Bajaj Auto,2022,87052,LPG,Cargo,1,Poor,108700
+Mahindra,2019,107825,Petrol,Cargo,1,Fair,91800
+Bajaj Auto,2020,95871,Diesel,Passenger,2,Fair,84400
+Bajaj Auto,2014,273639,Petrol,Cargo,3,Excellent,42700
+Bajaj Auto,2023,50995,LPG,Passenger,1,Excellent,173200
+Piaggio,2019,196097,Diesel,Passenger,1,Poor,56600
+Mahindra,2015,263658,LPG,Passenger,3,Excellent,46800
+Bajaj Auto,2020,93055,CNG,Passenger,1,Excellent,135000
+TVS King,2016,283517,CNG,Passenger,1,Good,51300
+Atul Auto,2018,175464,CNG,Passenger,1,Excellent,79200
+Bajaj Auto,2019,114836,CNG,Cargo,1,Good,118500
+Piaggio,2020,67067,CNG,Cargo,2,Excellent,140800
+Piaggio,2019,118016,CNG,Passenger,1,Fair,89600
+Bajaj Auto,2018,144733,CNG,Passenger,1,Fair,77500
+Piaggio,2012,243319,Diesel,Passenger,2,Excellent,35700
+Bajaj Auto,2020,147919,CNG,Passenger,1,Good,108700
+Bajaj Auto,2024,59943,Petrol,Passenger,1,Fair,149900
+Piaggio,2019,117920,LPG,Cargo,2,Excellent,109800
+Piaggio,2014,305295,LPG,Cargo,1,Good,46700
+Piaggio,2022,81259,Petrol,Cargo,2,Good,132200
+Bajaj Auto,2011,320000,CNG,Passenger,1,Good,31500
+Atul Auto,2017,150319,CNG,Passenger,2,Good,64000
+Bajaj Auto,2019,83780,CNG,Cargo,2,Good,110400
+Piaggio,2022,61334,LPG,Cargo,1,Fair,143600
+Piaggio,2020,86957,Diesel,Cargo,1,Good,130300
+Atul Auto,2021,129091,CNG,Cargo,1,Good,122500
+Bajaj Auto,2019,190185,Petrol,Passenger,1,Poor,59900
+Bajaj Auto,2016,253224,Petrol,Passenger,2,Excellent,53100
+Bajaj Auto,2019,182784,Diesel,Passenger,1,Excellent,91600
+Bajaj Auto,2017,256598,LPG,Cargo,4,Good,46500
+Mahindra,2022,109703,CNG,Passenger,1,Poor,93500
+Atul Auto,2019,77552,Diesel,Passenger,2,Excellent,83000
+Atul Auto,2020,128447,CNG,Cargo,1,Good,113800
+Atul Auto,2021,87803,Electric,Passenger,1,Good,137400
+Atul Auto,2016,153610,LPG,Passenger,2,Good,47900
+TVS King,2022,67432,CNG,Passenger,3,Good,109700
+Bajaj Auto,2020,136899,Electric,Passenger,2,Good,112500
+Bajaj Auto,2018,116265,CNG,Passenger,2,Poor,57300
+Piaggio,2020,110084,CNG,Passenger,1,Good,121400
+Bajaj Auto,2019,143062,CNG,Passenger,1,Good,100400
+Piaggio,2023,84773,LPG,Cargo,2,Good,158200
+TVS King,2024,34490,CNG,Passenger,1,Good,185600
+Piaggio,2022,70149,Diesel,Cargo,2,Good,139100
+Bajaj Auto,2022,41029,Diesel,Passenger,3,Poor,74300
+Piaggio,2018,219141,CNG,Passenger,1,Good,80900
+Mahindra,2021,93453,Diesel,Passenger,1,Good,124600
+Atul Auto,2011,320000,Diesel,Cargo,1,Good,28900
+Mahindra,2016,238910,CNG,Cargo,2,Good,69600
+Bajaj Auto,2015,274338,LPG,Passenger,3,Excellent,42300
+Bajaj Auto,2019,114584,Diesel,Passenger,3,Fair,68900
+Bajaj Auto,2022,74336,LPG,Passenger,3,Fair,90300
+Piaggio,2021,143722,Diesel,Passenger,1,Good,111300
+Bajaj Auto,2014,145529,CNG,Cargo,2,Fair,53000
+Bajaj Auto,2022,100053,Petrol,Passenger,2,Fair,101500
+Bajaj Auto,2023,24907,CNG,Passenger,1,Good,195100
+Bajaj Auto,2012,181770,CNG,Passenger,1,Good,46000
+Bajaj Auto,2024,30801,LPG,Cargo,1,Good,208200
+Bajaj Auto,2015,233990,Diesel,Passenger,1,Good,50200
+Bajaj Auto,2014,242804,Petrol,Cargo,2,Good,49300
+Bajaj Auto,2019,102473,Petrol,Passenger,1,Fair,87900
+Mahindra,2017,106648,Diesel,Passenger,3,Good,64500
+Piaggio,2022,58069,Diesel,Passenger,1,Good,143400
+Bajaj Auto,2021,70079,CNG,Passenger,2,Poor,84900
+Bajaj Auto,2021,129811,CNG,Passenger,1,Poor,87800
+Mahindra,2013,233986,Electric,Passenger,3,Excellent,47500
+Bajaj Auto,2019,98455,Diesel,Passenger,2,Fair,66900
+Bajaj Auto,2021,109747,CNG,Passenger,1,Fair,113900
+Piaggio,2016,177300,CNG,Cargo,2,Fair,61500
+Piaggio,2019,149176,Electric,Passenger,1,Fair,105200
+Atul Auto,2017,166102,CNG,Passenger,3,Good,50700
+Bajaj Auto,2017,231526,Diesel,Cargo,1,Good,76600
+Bajaj Auto,2017,111799,LPG,Passenger,2,Poor,50000
+TVS King,2021,70812,LPG,Passenger,1,Poor,80200
+Mahindra,2014,203389,Diesel,Passenger,1,Fair,42300
+Bajaj Auto,2019,182374,CNG,Cargo,1,Good,106100
+Bajaj Auto,2017,210076,CNG,Passenger,2,Poor,45900
+Bajaj Auto,2021,92856,CNG,Passenger,2,Good,113300
+Piaggio,2020,165504,Diesel,Cargo,3,Fair,77800
+Piaggio,2012,320000,CNG,Passenger,4,Good,25000
+Bajaj Auto,2019,135655,CNG,Passenger,1,Good,107700
+Piaggio,2016,247401,LPG,Passenger,2,Good,51300
+Piaggio,2014,320000,Diesel,Passenger,2,Fair,29800
+Piaggio,2019,125031,Diesel,Passenger,2,Fair,74800
+Atul Auto,2012,320000,LPG,Cargo,2,Poor,25000
+Bajaj Auto,2022,63949,CNG,Passenger,2,Good,128100
+Bajaj Auto,2024,43786,Electric,Passenger,1,Excellent,272100
+Piaggio,2017,141450,CNG,Cargo,2,Fair,70100
+Piaggio,2020,98417,Diesel,Passenger,1,Excellent,119100
+Mahindra,2012,320000,CNG,Cargo,2,Good,36000
+Bajaj Auto,2020,126457,CNG,Passenger,1,Good,119200
+Piaggio,2025,19173,CNG,Passenger,1,Good,252000
+Bajaj Auto,2019,103619,Electric,Cargo,1,Good,159700
+Atul Auto,2020,167849,LPG,Passenger,2,Poor,54900
+Atul Auto,2021,99724,LPG,Passenger,2,Good,87900
+Bajaj Auto,2020,154725,CNG,Cargo,1,Fair,119300
+TVS King,2018,117358,Petrol,Cargo,3,Good,72400
+Bajaj Auto,2020,108194,LPG,Passenger,1,Good,114800
+Atul Auto,2017,204496,Petrol,Passenger,4,Excellent,41600
+Bajaj Auto,2016,194552,Electric,Passenger,2,Good,72500
+Piaggio,2013,299505,Electric,Passenger,3,Fair,32500
+Mahindra,2017,214485,Electric,Passenger,1,Excellent,95500
+Bajaj Auto,2018,104912,CNG,Passenger,2,Excellent,93100
+Bajaj Auto,2017,220348,CNG,Cargo,1,Excellent,84700
+Bajaj Auto,2017,154326,Diesel,Passenger,2,Fair,53100
+Bajaj Auto,2017,187554,Diesel,Passenger,1,Good,72300
+Bajaj Auto,2021,78337,LPG,Cargo,1,Good,150100
+TVS King,2018,151517,LPG,Passenger,2,Fair,54100
+Bajaj Auto,2017,184669,Petrol,Passenger,1,Fair,64600
+TVS King,2019,127483,Diesel,Passenger,2,Good,72800
+Bajaj Auto,2019,124300,CNG,Cargo,1,Excellent,131000
+Mahindra,2020,94987,Diesel,Passenger,1,Excellent,120700
+Atul Auto,2022,107442,Petrol,Passenger,2,Excellent,108600
+Piaggio,2020,156959,LPG,Passenger,1,Good,94900
+Bajaj Auto,2021,71506,Electric,Passenger,2,Fair,131900
+Bajaj Auto,2015,249388,CNG,Passenger,2,Good,48800
+Bajaj Auto,2025,10480,CNG,Passenger,1,Fair,206400
+Atul Auto,2020,133587,CNG,Passenger,2,Poor,63600
+Atul Auto,2018,141497,CNG,Passenger,4,Excellent,54700
+Mahindra,2017,170826,LPG,Passenger,2,Excellent,68000
+Bajaj Auto,2016,275920,CNG,Cargo,3,Good,50700
+Piaggio,2014,184894,Electric,Passenger,3,Good,49500
+Bajaj Auto,2011,309311,Electric,Passenger,2,Excellent,38300
+Bajaj Auto,2013,169042,LPG,Passenger,2,Excellent,45300
+Bajaj Auto,2020,152547,CNG,Passenger,2,Good,96000
+TVS King,2015,166870,Diesel,Cargo,3,Fair,42500
+Mahindra,2022,87970,CNG,Passenger,1,Excellent,176700
+Mahindra,2023,61441,CNG,Passenger,1,Good,183700
+Bajaj Auto,2015,297619,CNG,Cargo,1,Excellent,60300
+Piaggio,2023,27313,CNG,Passenger,1,Fair,156900
+Bajaj Auto,2015,290102,LPG,Passenger,3,Good,34400
+TVS King,2020,84964,CNG,Passenger,1,Good,118400
+TVS King,2024,49106,CNG,Passenger,2,Good,151500
+TVS King,2016,129968,Diesel,Passenger,2,Good,58900
+Piaggio,2018,109193,CNG,Passenger,2,Good,87100
+Piaggio,2019,127331,Electric,Passenger,2,Excellent,115400
+Bajaj Auto,2018,127214,CNG,Passenger,2,Good,79900
+Mahindra,2024,66614,LPG,Passenger,1,Poor,136800
+Atul Auto,2020,100999,CNG,Cargo,3,Excellent,96800
+Bajaj Auto,2020,162583,Electric,Passenger,1,Excellent,146700
+Mahindra,2020,81052,CNG,Passenger,2,Good,111900
+Bajaj Auto,2017,114393,Petrol,Cargo,1,Good,89100
+Bajaj Auto,2022,73270,Petrol,Passenger,1,Excellent,157100
+Piaggio,2016,149900,Diesel,Cargo,1,Excellent,81500
+Bajaj Auto,2020,130410,CNG,Passenger,1,Excellent,129000
+Bajaj Auto,2021,123157,CNG,Passenger,2,Good,118200
+Piaggio,2015,213563,CNG,Passenger,2,Good,51900
+Piaggio,2021,124342,Petrol,Passenger,2,Good,100900
+Bajaj Auto,2014,230145,Petrol,Passenger,3,Fair,31400
+Bajaj Auto,2022,53047,Petrol,Cargo,2,Good,143300
+Atul Auto,2021,119492,CNG,Passenger,2,Good,95700
+Mahindra,2015,163453,LPG,Passenger,1,Good,59300
+Piaggio,2011,179523,CNG,Passenger,3,Excellent,34700
+Bajaj Auto,2012,320000,CNG,Passenger,2,Excellent,33900
+Bajaj Auto,2020,158960,Diesel,Passenger,1,Fair,82200
+Bajaj Auto,2016,243813,CNG,Passenger,3,Fair,39300
+TVS King,2017,117303,CNG,Passenger,2,Good,71800
+Atul Auto,2023,44838,CNG,Passenger,2,Excellent,151300
+TVS King,2013,158746,CNG,Passenger,2,Good,42600
+Bajaj Auto,2018,152321,Diesel,Passenger,3,Fair,55000
+Piaggio,2013,305804,LPG,Passenger,4,Good,25000
+Mahindra,2014,292016,CNG,Passenger,1,Fair,41400
+TVS King,2023,49714,Petrol,Cargo,1,Fair,144000
+Bajaj Auto,2020,111390,CNG,Cargo,1,Good,126100
+Piaggio,2019,165368,CNG,Passenger,2,Fair,73000
+Bajaj Auto,2017,179028,Diesel,Passenger,2,Excellent,65400
+Bajaj Auto,2018,209311,CNG,Passenger,1,Excellent,85400
+TVS King,2020,86500,CNG,Passenger,2,Excellent,111400
+Piaggio,2013,275275,CNG,Cargo,2,Good,42000
+Piaggio,2017,224892,Electric,Passenger,1,Good,83000
+Bajaj Auto,2017,255352,CNG,Passenger,2,Good,57700
+Bajaj Auto,2021,133793,CNG,Passenger,1,Good,125000
+Bajaj Auto,2024,29665,Diesel,Cargo,1,Fair,170300
+Atul Auto,2016,227095,CNG,Passenger,1,Fair,51700
+Mahindra,2019,147252,CNG,Passenger,1,Good,100700
+Bajaj Auto,2014,197293,LPG,Passenger,2,Good,44000
+Bajaj Auto,2014,188736,CNG,Passenger,2,Poor,34500
+Bajaj Auto,2015,281096,LPG,Cargo,1,Good,53600
+TVS King,2017,138544,Electric,Passenger,1,Fair,75100
+Bajaj Auto,2016,242724,Diesel,Cargo,2,Good,59900
+Mahindra,2014,218567,CNG,Passenger,2,Good,46700
+Bajaj Auto,2017,147807,Diesel,Passenger,2,Excellent,70700
+Piaggio,2016,143997,CNG,Passenger,2,Good,72100
+Bajaj Auto,2012,319799,CNG,Passenger,2,Excellent,34500
+Atul Auto,2013,320000,Diesel,Cargo,2,Fair,25900
+Mahindra,2018,195115,Diesel,Cargo,1,Fair,74700
+TVS King,2016,166422,LPG,Passenger,1,Good,59600
+Bajaj Auto,2022,81283,CNG,Passenger,1,Poor,108000
+Bajaj Auto,2012,283336,Diesel,Passenger,1,Excellent,36000
+Bajaj Auto,2019,127792,Electric,Cargo,1,Excellent,164300
+Mahindra,2021,91036,Electric,Passenger,1,Good,176500
+Atul Auto,2017,117013,LPG,Cargo,3,Good,61300
+Piaggio,2022,75490,CNG,Passenger,2,Excellent,152200
+Bajaj Auto,2022,57726,Diesel,Passenger,1,Poor,98900
+Piaggio,2016,175291,CNG,Cargo,2,Good,73500
+TVS King,2014,249914,CNG,Passenger,3,Good,35100
+Piaggio,2011,320000,LPG,Passenger,1,Good,28000
+Atul Auto,2013,320000,CNG,Passenger,2,Excellent,29700
+Piaggio,2019,169061,Petrol,Passenger,1,Excellent,101200
+Bajaj Auto,2019,160511,LPG,Passenger,2,Excellent,81600
+Mahindra,2025,14334,Petrol,Passenger,1,Fair,180900
+Bajaj Auto,2016,201783,Petrol,Passenger,2,Good,51900
+Atul Auto,2017,126695,CNG,Passenger,1,Good,74800
+Bajaj Auto,2022,80309,LPG,Passenger,1,Good,135600
+Bajaj Auto,2018,190299,CNG,Passenger,2,Good,75200
+Bajaj Auto,2020,146025,Diesel,Passenger,2,Good,90500
+Bajaj Auto,2015,164294,LPG,Cargo,1,Good,69300
+Mahindra,2021,141917,Diesel,Passenger,1,Excellent,133700
+Piaggio,2013,181281,LPG,Passenger,2,Good,42600
+Bajaj Auto,2019,104594,CNG,Passenger,1,Fair,85900
+Mahindra,2024,44856,LPG,Passenger,1,Good,179900
+Bajaj Auto,2022,73532,Petrol,Passenger,1,Fair,118900
+Bajaj Auto,2014,244403,LPG,Cargo,1,Good,54800
+Mahindra,2012,219478,CNG,Passenger,2,Fair,33100
+Piaggio,2019,169811,Petrol,Passenger,2,Excellent,86500
+TVS King,2020,98227,Petrol,Passenger,1,Good,99500
+Mahindra,2022,43736,CNG,Passenger,2,Poor,95900
+Bajaj Auto,2020,96472,CNG,Cargo,1,Excellent,151700
+Piaggio,2022,80534,CNG,Passenger,1,Good,149600
+Piaggio,2020,147834,CNG,Passenger,1,Good,116900
+Bajaj Auto,2017,199889,LPG,Passenger,2,Good,60200
+Bajaj Auto,2014,184850,CNG,Passenger,3,Good,46300
+Bajaj Auto,2011,286563,Petrol,Passenger,2,Fair,25000
+Bajaj Auto,2011,258295,Petrol,Passenger,1,Good,31800
+Bajaj Auto,2022,51091,CNG,Passenger,3,Fair,102900
+Bajaj Auto,2011,320000,LPG,Passenger,3,Good,25000
+Piaggio,2020,166205,CNG,Passenger,1,Good,113800
+Mahindra,2018,183801,LPG,Passenger,2,Excellent,74900
+Bajaj Auto,2014,150282,Electric,Passenger,1,Good,74900
+Piaggio,2025,21791,CNG,Cargo,1,Fair,223000
+Atul Auto,2020,126628,CNG,Passenger,2,Fair,78500
+Mahindra,2018,228567,LPG,Cargo,2,Good,75500
+Piaggio,2017,131373,CNG,Cargo,2,Fair,72000
+TVS King,2018,163341,CNG,Passenger,1,Good,79600
+Bajaj Auto,2021,67232,Diesel,Passenger,1,Fair,101200
+Bajaj Auto,2017,237459,CNG,Passenger,1,Good,74500
+Atul Auto,2014,307020,CNG,Passenger,1,Fair,32600
+Bajaj Auto,2014,188925,CNG,Passenger,3,Good,42500
+Bajaj Auto,2021,105030,LPG,Passenger,1,Good,121500
+Piaggio,2023,52055,CNG,Passenger,1,Good,186400
+Bajaj Auto,2017,133681,LPG,Passenger,1,Fair,69200
+Mahindra,2016,265469,LPG,Cargo,1,Good,60500
+Atul Auto,2025,17119,LPG,Passenger,1,Good,174900
+Piaggio,2016,154379,CNG,Passenger,2,Excellent,69700
+Bajaj Auto,2017,183614,LPG,Passenger,3,Good,52800
+TVS King,2018,200902,Petrol,Cargo,1,Excellent,90900
+Bajaj Auto,2018,155620,CNG,Passenger,1,Good,91500
+Piaggio,2021,113203,CNG,Passenger,2,Good,116800
+Bajaj Auto,2012,320000,LPG,Cargo,3,Excellent,30500
+Piaggio,2013,271229,LPG,Passenger,2,Excellent,37700
+Bajaj Auto,2018,165039,CNG,Cargo,3,Good,74600
+Piaggio,2016,156355,Petrol,Passenger,3,Poor,36700
+Bajaj Auto,2019,172080,Petrol,Cargo,1,Fair,85400
+Bajaj Auto,2020,133798,CNG,Cargo,1,Fair,114900
+TVS King,2015,265974,Petrol,Passenger,2,Excellent,45000
+Piaggio,2018,129244,Electric,Cargo,2,Good,110100
+Bajaj Auto,2021,98127,Electric,Passenger,1,Fair,138000
+Bajaj Auto,2018,200202,LPG,Cargo,1,Good,82300
+Bajaj Auto,2014,172100,Electric,Passenger,2,Good,65700
+Piaggio,2020,157088,CNG,Passenger,1,Fair,89900
+Bajaj Auto,2018,183079,Electric,Passenger,2,Good,93900
+Atul Auto,2020,119892,Diesel,Passenger,1,Fair,76200
+Mahindra,2024,35506,Electric,Passenger,2,Good,204100
+Bajaj Auto,2024,38623,Petrol,Cargo,1,Poor,151900
+Piaggio,2017,184060,Electric,Cargo,3,Good,82500
+Mahindra,2021,96001,CNG,Passenger,1,Excellent,151500
+Bajaj Auto,2020,128409,Electric,Passenger,2,Good,121100
+Bajaj Auto,2020,106047,Electric,Passenger,1,Good,140600
+Bajaj Auto,2017,148161,Electric,Cargo,1,Excellent,128700
+Bajaj Auto,2018,102671,Electric,Passenger,2,Fair,84900
+Bajaj Auto,2021,91629,Petrol,Cargo,1,Good,129100
+TVS King,2022,85044,CNG,Cargo,1,Excellent,167700
+Bajaj Auto,2014,260098,CNG,Passenger,3,Good,36800
+Bajaj Auto,2023,61542,LPG,Passenger,1,Poor,103500
+Bajaj Auto,2017,149353,CNG,Passenger,1,Good,85400
+Mahindra,2017,147680,CNG,Passenger,1,Poor,60900
+Bajaj Auto,2018,147369,Petrol,Cargo,2,Good,87200
+Bajaj Auto,2012,279067,CNG,Passenger,1,Excellent,41500
+Bajaj Auto,2021,65432,CNG,Passenger,2,Good,122300
+Atul Auto,2015,286710,Diesel,Passenger,3,Good,31000
+Mahindra,2017,236881,Petrol,Passenger,1,Fair,56900
+Atul Auto,2015,227647,CNG,Passenger,2,Good,40800
+Bajaj Auto,2020,148577,LPG,Passenger,3,Poor,56900
+Bajaj Auto,2016,146834,CNG,Cargo,4,Good,54500
+Mahindra,2014,318966,LPG,Cargo,2,Excellent,45500
+Bajaj Auto,2022,84683,CNG,Passenger,1,Good,147000
+Bajaj Auto,2022,79058,LPG,Passenger,2,Good,123100
+Bajaj Auto,2014,264004,CNG,Passenger,2,Good,42100
+Bajaj Auto,2017,249765,LPG,Cargo,1,Good,70800
+Bajaj Auto,2024,43802,CNG,Passenger,1,Good,199800
+Mahindra,2012,320000,Electric,Passenger,4,Fair,25000
+Atul Auto,2020,157943,Electric,Passenger,2,Fair,88000
+Bajaj Auto,2020,124669,CNG,Passenger,2,Good,104500
+Atul Auto,2020,87903,Diesel,Passenger,1,Good,97100
+TVS King,2016,127215,Electric,Cargo,2,Good,92900
+Bajaj Auto,2014,319501,LPG,Passenger,2,Fair,29600
+Atul Auto,2025,16865,CNG,Cargo,1,Good,234300
+Atul Auto,2014,307437,Diesel,Passenger,2,Good,30600
+Piaggio,2024,31953,CNG,Passenger,2,Fair,156200
+Piaggio,2018,186480,CNG,Passenger,2,Good,80900
+Bajaj Auto,2016,237296,Diesel,Cargo,2,Excellent,63900
+Mahindra,2015,180772,CNG,Passenger,1,Fair,58500
+Bajaj Auto,2020,99666,CNG,Passenger,1,Fair,111200
+Piaggio,2019,109646,CNG,Passenger,2,Excellent,103900
+Atul Auto,2022,103946,Electric,Cargo,1,Good,171300
+Atul Auto,2019,149288,CNG,Cargo,3,Fair,71500
+Bajaj Auto,2020,135875,Petrol,Passenger,2,Good,91500
+Bajaj Auto,2018,154816,CNG,Passenger,2,Poor,54100
+Atul Auto,2017,223179,CNG,Cargo,2,Excellent,69700
+Piaggio,2019,98804,CNG,Cargo,2,Excellent,124500
+Bajaj Auto,2017,141402,Diesel,Passenger,2,Good,67600
+Piaggio,2016,266204,Petrol,Passenger,1,Poor,36600
+Mahindra,2020,94372,CNG,Cargo,1,Good,144600
+Piaggio,2020,121707,LPG,Cargo,1,Excellent,136800
+Piaggio,2014,254854,CNG,Passenger,4,Fair,25800
+Mahindra,2013,320000,CNG,Passenger,2,Excellent,38500
+Bajaj Auto,2020,122189,CNG,Passenger,1,Good,108100
+Bajaj Auto,2018,208507,CNG,Passenger,1,Good,78500
+Bajaj Auto,2012,320000,Diesel,Passenger,1,Excellent,36400
+Bajaj Auto,2019,198029,Electric,Passenger,1,Fair,88000
+Bajaj Auto,2019,142965,CNG,Passenger,1,Good,103800
+Bajaj Auto,2023,54009,Electric,Passenger,2,Good,175300
+Bajaj Auto,2014,302672,CNG,Passenger,2,Fair,31300
+Atul Auto,2017,172329,LPG,Cargo,1,Excellent,73900
+Bajaj Auto,2018,121853,CNG,Passenger,2,Fair,68900
+Bajaj Auto,2014,204143,CNG,Passenger,3,Fair,34300
+Bajaj Auto,2016,255687,CNG,Passenger,2,Good,56300
+Bajaj Auto,2024,46798,LPG,Passenger,1,Excellent,198200
+Piaggio,2018,118249,Electric,Passenger,2,Good,97100
+Piaggio,2020,60999,CNG,Passenger,1,Fair,109400
+Piaggio,2015,222265,CNG,Passenger,1,Fair,52300
+Mahindra,2022,92390,CNG,Passenger,3,Good,113800
+Piaggio,2019,97873,Diesel,Passenger,2,Fair,75300
+Piaggio,2012,248819,LPG,Passenger,4,Good,25000
+Piaggio,2019,103322,CNG,Cargo,1,Excellent,126800
+Bajaj Auto,2011,216593,CNG,Cargo,1,Fair,39000
+Piaggio,2017,246172,CNG,Passenger,2,Good,63000
+TVS King,2021,82072,CNG,Cargo,1,Good,141800
+Piaggio,2019,135233,CNG,Passenger,3,Good,80500
+Bajaj Auto,2021,73844,CNG,Cargo,3,Excellent,141200
+Piaggio,2013,205913,Petrol,Passenger,2,Excellent,41400
+Mahindra,2015,167619,CNG,Passenger,2,Poor,39000
+Bajaj Auto,2012,320000,Petrol,Cargo,2,Fair,28500
+Piaggio,2016,143776,CNG,Cargo,2,Good,74600
+Bajaj Auto,2019,172527,Petrol,Passenger,3,Excellent,70600
+Bajaj Auto,2019,109382,LPG,Passenger,1,Good,99000
+Atul Auto,2014,206712,LPG,Passenger,1,Poor,28000
+Bajaj Auto,2022,106780,CNG,Cargo,1,Fair,137000
+Mahindra,2015,178733,CNG,Passenger,1,Fair,54600
+Bajaj Auto,2024,53598,CNG,Passenger,1,Poor,132600
+Atul Auto,2020,163639,LPG,Passenger,1,Good,81800
+Bajaj Auto,2021,126624,Electric,Passenger,1,Excellent,168100
+TVS King,2023,80266,CNG,Passenger,1,Good,159200
+Piaggio,2023,44285,Electric,Cargo,1,Good,245700
+Mahindra,2014,236390,Electric,Passenger,4,Poor,29400
+Piaggio,2018,213871,LPG,Cargo,1,Good,87000
+Bajaj Auto,2022,56311,LPG,Passenger,1,Fair,129500
+Piaggio,2021,121888,Petrol,Passenger,3,Good,90500
+Bajaj Auto,2012,320000,LPG,Cargo,2,Excellent,34900
+Mahindra,2022,87821,Petrol,Passenger,1,Good,144700
+Piaggio,2019,118874,CNG,Passenger,1,Fair,93100
+Bajaj Auto,2021,105539,Electric,Cargo,1,Excellent,191500
+Piaggio,2013,320000,CNG,Passenger,2,Good,33200
+Bajaj Auto,2021,71440,CNG,Passenger,2,Fair,97800
+Bajaj Auto,2021,72349,CNG,Passenger,1,Excellent,144000
+Bajaj Auto,2023,48849,LPG,Passenger,2,Poor,106500
+Bajaj Auto,2020,108765,CNG,Passenger,2,Fair,92500
+Mahindra,2018,173071,CNG,Passenger,2,Good,79900
+Bajaj Auto,2012,249038,CNG,Passenger,3,Good,31500
+Bajaj Auto,2017,187822,CNG,Passenger,2,Good,66200
+Piaggio,2016,134370,CNG,Passenger,2,Fair,56900
+Bajaj Auto,2020,108866,LPG,Passenger,1,Good,100100
+Mahindra,2022,100254,CNG,Passenger,2,Fair,111600
+Piaggio,2018,121414,CNG,Cargo,1,Good,107900
+Piaggio,2014,269209,CNG,Passenger,1,Fair,43900
+Bajaj Auto,2018,167497,CNG,Cargo,2,Good,93100
+TVS King,2016,175426,CNG,Passenger,2,Good,55200
+TVS King,2019,147104,Petrol,Passenger,1,Poor,62700
+Bajaj Auto,2018,167658,Diesel,Passenger,1,Poor,57000
+Bajaj Auto,2022,111895,CNG,Passenger,2,Fair,105500
+Bajaj Auto,2021,128599,CNG,Passenger,1,Poor,90300
+Piaggio,2022,71748,Petrol,Passenger,2,Excellent,137700
+Bajaj Auto,2015,280834,Electric,Passenger,2,Excellent,59000
+TVS King,2013,154405,LPG,Passenger,2,Fair,33600
+Bajaj Auto,2018,216212,Diesel,Passenger,1,Poor,50000
+Bajaj Auto,2023,96524,Diesel,Passenger,1,Good,155400
+Bajaj Auto,2022,63286,CNG,Cargo,1,Excellent,218300
+Bajaj Auto,2013,220514,Electric,Cargo,1,Fair,49200
+Atul Auto,2013,283192,Petrol,Passenger,2,Poor,25000
+Mahindra,2021,62343,CNG,Passenger,1,Fair,123700
+Atul Auto,2018,167771,CNG,Cargo,1,Good,87200
+Piaggio,2013,306400,Petrol,Passenger,2,Fair,29900
+Bajaj Auto,2022,90412,CNG,Cargo,3,Good,134200
+Mahindra,2023,70523,CNG,Cargo,1,Good,203200
+Piaggio,2015,136894,CNG,Passenger,1,Good,66400
+Bajaj Auto,2021,87420,CNG,Cargo,1,Good,155400
+Piaggio,2014,289980,LPG,Passenger,3,Good,30700
+Bajaj Auto,2020,110468,CNG,Cargo,1,Fair,110300
+Bajaj Auto,2021,114857,CNG,Passenger,1,Fair,114700
+Bajaj Auto,2022,89568,LPG,Passenger,1,Good,141100
+Bajaj Auto,2012,231841,Diesel,Passenger,3,Good,28700
+Piaggio,2022,80308,Diesel,Cargo,1,Excellent,174100
+Atul Auto,2020,147044,Diesel,Passenger,3,Fair,59000
+Bajaj Auto,2017,181456,CNG,Cargo,1,Good,90700
+Bajaj Auto,2021,56113,LPG,Passenger,1,Good,126900
+Bajaj Auto,2018,139684,Petrol,Passenger,1,Good,87300
+Bajaj Auto,2016,159280,CNG,Passenger,1,Good,73900
+TVS King,2020,94817,LPG,Passenger,2,Excellent,98200
+Piaggio,2016,265762,LPG,Passenger,2,Fair,40900
+Atul Auto,2016,166101,CNG,Cargo,2,Excellent,69200
+Bajaj Auto,2021,69666,Diesel,Passenger,2,Good,115400
+Piaggio,2018,186178,Electric,Passenger,2,Good,91200
+Piaggio,2019,92708,Diesel,Passenger,2,Good,89900
+Piaggio,2018,91285,LPG,Passenger,2,Good,78300
+Mahindra,2017,114146,Petrol,Passenger,2,Good,68900
+Bajaj Auto,2012,186136,Diesel,Passenger,4,Excellent,27900
+Bajaj Auto,2020,128284,Diesel,Passenger,2,Fair,82400
+Piaggio,2019,157817,CNG,Passenger,1,Good,106200
+Bajaj Auto,2012,315145,Diesel,Passenger,1,Fair,26900
+Bajaj Auto,2023,89532,CNG,Cargo,1,Excellent,213000
+Bajaj Auto,2019,164606,Diesel,Passenger,2,Poor,55800
+Bajaj Auto,2021,76049,Electric,Passenger,2,Poor,105100
+Piaggio,2020,92399,CNG,Cargo,2,Good,119800
+TVS King,2023,38572,CNG,Passenger,2,Good,148300
+Piaggio,2018,112767,CNG,Passenger,1,Excellent,111900
+Piaggio,2019,213816,Diesel,Passenger,1,Good,82700
+Piaggio,2013,228038,CNG,Passenger,1,Good,46100
+Piaggio,2018,157416,LPG,Passenger,2,Poor,53400
+Bajaj Auto,2022,66012,LPG,Cargo,2,Fair,120400
+Bajaj Auto,2015,246120,CNG,Passenger,2,Poor,34100
+Atul Auto,2022,110464,Diesel,Passenger,1,Fair,94100
+Bajaj Auto,2011,320000,Petrol,Passenger,1,Excellent,32200
+Bajaj Auto,2018,138023,CNG,Cargo,1,Good,109100
+Mahindra,2021,67353,CNG,Cargo,1,Good,167100
+Piaggio,2022,53753,CNG,Passenger,1,Fair,141900
+Atul Auto,2019,136110,LPG,Passenger,2,Good,71900
+Mahindra,2020,95990,CNG,Passenger,1,Excellent,139300
+Atul Auto,2012,320000,Electric,Passenger,2,Fair,27700
+Mahindra,2019,183081,Petrol,Cargo,3,Good,76500
+Piaggio,2014,182256,Diesel,Cargo,1,Fair,52300
+Piaggio,2018,106093,Electric,Passenger,4,Good,73200
+Bajaj Auto,2020,103012,CNG,Cargo,2,Good,117000
+Bajaj Auto,2017,212878,LPG,Cargo,1,Good,78200
+Piaggio,2015,291878,Diesel,Cargo,2,Fair,42000
+Atul Auto,2020,148424,CNG,Cargo,2,Good,94000
+Bajaj Auto,2023,71108,CNG,Passenger,1,Good,169700
+Bajaj Auto,2022,105864,Diesel,Cargo,3,Fair,107700
+Piaggio,2024,19619,CNG,Cargo,2,Poor,147100
+Bajaj Auto,2014,204719,CNG,Cargo,3,Good,44900
+Bajaj Auto,2016,164413,CNG,Passenger,1,Fair,61000
+Piaggio,2016,273129,Diesel,Passenger,1,Good,52400
+Bajaj Auto,2020,142579,CNG,Cargo,3,Fair,85000
+TVS King,2015,283387,Petrol,Passenger,1,Good,44000
+Piaggio,2017,238794,Petrol,Passenger,1,Excellent,62200
+Piaggio,2013,320000,Electric,Cargo,1,Excellent,56700
+Piaggio,2011,320000,CNG,Cargo,1,Fair,32000
+Bajaj Auto,2022,85498,CNG,Cargo,2,Good,153500
+Mahindra,2015,284111,CNG,Passenger,3,Excellent,46100
+TVS King,2022,83186,CNG,Passenger,1,Fair,125000
+Piaggio,2019,88916,CNG,Passenger,1,Excellent,127500
+Mahindra,2020,143885,Diesel,Cargo,1,Excellent,146600
+Bajaj Auto,2016,245513,Electric,Passenger,1,Excellent,80600
+Bajaj Auto,2019,186230,CNG,Cargo,1,Good,117700
+Piaggio,2019,194076,LPG,Passenger,1,Fair,77400
+Mahindra,2014,225221,Petrol,Passenger,1,Excellent,55000
+Bajaj Auto,2020,159388,CNG,Passenger,1,Good,107800

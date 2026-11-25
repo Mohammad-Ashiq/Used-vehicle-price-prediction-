@@ -1,0 +1,223 @@
+{% extends 'base.html' %}
+
+{% block title %}Select Vehicle Category | ReVahan{% endblock %}
+
+{% block content %}
+<div class="container py-5">
+    <div class="text-center mb-5">
+        <span class="badge-custom badge-cars mb-2">Category Selection</span>
+        <h1 class="fw-bold">Choose a Vehicle Category</h1>
+        <p class="text-muted mx-auto" style="max-width: 650px;">
+            Select your specific vehicle segment to launch the customized Machine Learning prediction form with relevant parameters, authentic photo references, and brand catalogs.
+        </p>
+    </div>
+
+    <div class="row g-4">
+        <!-- 1. Cars -->
+        <div class="col-lg-6">
+            <div class="custom-card p-0 h-100 d-flex flex-column justify-content-between overflow-hidden">
+                <div>
+                    <!-- Vehicle Photo Header -->
+                    <div class="category-img-container" style="height: 200px;">
+                        <img src="{{ url_for('static', filename='images/car.jpg') }}" alt="Second-Hand Cars">
+                        <div class="category-img-overlay">
+                            <div>
+                                <span class="badge bg-primary px-3 py-1 fw-bold mb-1"><i class="bi bi-car-front-fill me-1"></i> Pre-Owned Passenger Cars</span>
+                                <h3 class="fw-bold text-light mb-0">Cars & SUVs</h3>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="p-4">
+                        <p class="text-muted mb-3">
+                            Predict accurate resale valuations for passenger hatchbacks, executive sedans, compact crossovers, MPVs, and luxury SUVs.
+                        </p>
+                        
+                        <div class="mb-3">
+                            <small class="text-secondary fw-bold d-block mb-2">Key Evaluated Factors (Pointed Specifications):</small>
+                            <ul class="spec-pointer-list">
+                                <li><strong>Odometer Mileage:</strong> Continuous kilometer degradation curves</li>
+                                <li><strong>Fuel & Transmission:</strong> Petrol, Diesel, CNG, EV & Automatic/Manual</li>
+                                <li><strong>Engine Displacement:</strong> 796cc to 2755cc capacity profiles</li>
+                                <li><strong>Title & Maintenance:</strong> Single/Multiple owners & physical condition</li>
+                            </ul>
+                        </div>
+                        
+                        <div class="mb-2">
+                            <small class="text-secondary fw-bold d-block mb-1">Supported Top Brands:</small>
+                            <div class="d-flex flex-wrap gap-1">
+                                <span class="pointer-pill"><i class="bi bi-check2"></i> Maruti Suzuki</span>
+                                <span class="pointer-pill"><i class="bi bi-check2"></i> Hyundai</span>
+                                <span class="pointer-pill"><i class="bi bi-check2"></i> Tata Motors</span>
+                                <span class="pointer-pill"><i class="bi bi-check2"></i> Mahindra</span>
+                                <span class="pointer-pill"><i class="bi bi-check2"></i> Toyota</span>
+                                <span class="pointer-pill"><i class="bi bi-check2"></i> Honda</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="p-4 pt-0">
+                    <a href="{{ url_for('prediction_form', category='cars') }}" class="btn-primary-custom w-100 justify-content-center">
+                        <i class="bi bi-speedometer2"></i> Appraise Car Resale Price &rarr;
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <!-- 2. Bikes -->
+        <div class="col-lg-6">
+            <div class="custom-card p-0 h-100 d-flex flex-column justify-content-between overflow-hidden">
+                <div>
+                    <!-- Vehicle Photo Header -->
+                    <div class="category-img-container" style="height: 200px;">
+                        <img src="{{ url_for('static', filename='images/bike.jpg') }}" alt="Second-Hand Motorcycles">
+                        <div class="category-img-overlay">
+                            <div>
+                                <span class="badge bg-info text-dark px-3 py-1 fw-bold mb-1"><i class="bi bi-bicycle me-1"></i> Two-Wheelers & Scooters</span>
+                                <h3 class="fw-bold text-light mb-0">Bikes & Motorcycles</h3>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="p-4">
+                        <p class="text-muted mb-3">
+                            Compute data-driven second-hand valuations for commuter bikes, performance streetfighters, cruisers, and city scooters.
+                        </p>
+                        
+                        <div class="mb-3">
+                            <small class="text-secondary fw-bold d-block mb-2">Key Evaluated Factors (Pointed Specifications):</small>
+                            <ul class="spec-pointer-list">
+                                <li><strong>Engine Displacement:</strong> 97cc commuter to 650cc twin-cylinder</li>
+                                <li><strong>Fuel Dynamics:</strong> High-efficiency Petrol & Electric powertrains</li>
+                                <li><strong>Odometer Wear:</strong> Evaluated against 6,000 km/year benchmarks</li>
+                                <li><strong>Physical Grading:</strong> Fair market adjustments for paint & mechanical wear</li>
+                            </ul>
+                        </div>
+                        
+                        <div class="mb-2">
+                            <small class="text-secondary fw-bold d-block mb-1">Supported Top Brands:</small>
+                            <div class="d-flex flex-wrap gap-1">
+                                <span class="pointer-pill"><i class="bi bi-check2"></i> Royal Enfield</span>
+                                <span class="pointer-pill"><i class="bi bi-check2"></i> Hero</span>
+                                <span class="pointer-pill"><i class="bi bi-check2"></i> Honda</span>
+                                <span class="pointer-pill"><i class="bi bi-check2"></i> Bajaj</span>
+                                <span class="pointer-pill"><i class="bi bi-check2"></i> TVS</span>
+                                <span class="pointer-pill"><i class="bi bi-check2"></i> Yamaha</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="p-4 pt-0">
+                    <a href="{{ url_for('prediction_form', category='bikes') }}" class="btn-primary-custom w-100 justify-content-center" style="background: linear-gradient(135deg, #00F2FE 0%, #4FACFE 100%);">
+                        <i class="bi bi-bicycle"></i> Appraise Bike Resale Price &rarr;
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <!-- 3. Lorries -->
+        <div class="col-lg-6">
+            <div class="custom-card p-0 h-100 d-flex flex-column justify-content-between overflow-hidden">
+                <div>
+                    <!-- Vehicle Photo Header -->
+                    <div class="category-img-container" style="height: 200px;">
+                        <img src="{{ url_for('static', filename='images/lorry.jpg') }}" alt="Second-Hand Lorries & Trucks">
+                        <div class="category-img-overlay">
+                            <div>
+                                <span class="badge bg-warning text-dark px-3 py-1 fw-bold mb-1"><i class="bi bi-truck-flatbed me-1"></i> Heavy & Medium Commercial</span>
+                                <h3 class="fw-bold text-light mb-0">Lorries & Trucks</h3>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="p-4">
+                        <p class="text-muted mb-3">
+                            Evaluate fair resale prices for mini-trucks, LCVs, multi-axle freight haulers, cargo containers, and mining tippers.
+                        </p>
+                        
+                        <div class="mb-3">
+                            <small class="text-secondary fw-bold d-block mb-2">Key Evaluated Factors (Pointed Specifications):</small>
+                            <ul class="spec-pointer-list">
+                                <li><strong>Payload Capacity:</strong> 1.2 Ton mini-trucks to 40 Ton heavy freight</li>
+                                <li><strong>Vehicle Class:</strong> LCV, MCV, HCV, Tipper, Container</li>
+                                <li><strong>Commercial Usage:</strong> Scaled for heavy commercial mileage (up to 3.5L km)</li>
+                                <li><strong>Regional Fitness:</strong> State permits and fitness certificate factors</li>
+                            </ul>
+                        </div>
+                        
+                        <div class="mb-2">
+                            <small class="text-secondary fw-bold d-block mb-1">Supported Top Brands:</small>
+                            <div class="d-flex flex-wrap gap-1">
+                                <span class="pointer-pill"><i class="bi bi-check2"></i> Tata Motors</span>
+                                <span class="pointer-pill"><i class="bi bi-check2"></i> Ashok Leyland</span>
+                                <span class="pointer-pill"><i class="bi bi-check2"></i> Eicher</span>
+                                <span class="pointer-pill"><i class="bi bi-check2"></i> BharatBenz</span>
+                                <span class="pointer-pill"><i class="bi bi-check2"></i> Mahindra</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="p-4 pt-0">
+                    <a href="{{ url_for('prediction_form', category='lorries') }}" class="btn-primary-custom w-100 justify-content-center" style="background: linear-gradient(135deg, #F59E0B 0%, #EF4444 100%);">
+                        <i class="bi bi-truck-flatbed"></i> Appraise Lorry Resale Price &rarr;
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <!-- 4. Auto-rickshaws -->
+        <div class="col-lg-6">
+            <div class="custom-card p-0 h-100 d-flex flex-column justify-content-between overflow-hidden">
+                <div>
+                    <!-- Vehicle Photo Header -->
+                    <div class="category-img-container" style="height: 200px;">
+                        <img src="{{ url_for('static', filename='images/auto.jpg') }}" alt="Second-Hand Auto-Rickshaws">
+                        <div class="category-img-overlay">
+                            <div>
+                                <span class="badge px-3 py-1 fw-bold mb-1" style="background:#8B5CF6; color:#FFF;"><i class="bi bi-taxi-front-fill me-1"></i> Three-Wheeler Commercial</span>
+                                <h3 class="fw-bold text-light mb-0">Auto-Rickshaws</h3>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="p-4">
+                        <p class="text-muted mb-3">
+                            Accurately appraise passenger 3-wheelers, urban CNG cabs, e-rickshaws, and three-wheeler delivery cargo vehicles.
+                        </p>
+                        
+                        <div class="mb-3">
+                            <small class="text-secondary fw-bold d-block mb-2">Key Evaluated Factors (Pointed Specifications):</small>
+                            <ul class="spec-pointer-list">
+                                <li><strong>Seating Capacities:</strong> 3 Seater, 4 Seater, and 6 Seater models</li>
+                                <li><strong>Clean Fuel Types:</strong> CNG, LPG, Electric, and Diesel options</li>
+                                <li><strong>Commercial Odometer:</strong> Calibrated for intensive urban running</li>
+                                <li><strong>Permit Valuation:</strong> High retention value for metro autorickshaw permits</li>
+                            </ul>
+                        </div>
+                        
+                        <div class="mb-2">
+                            <small class="text-secondary fw-bold d-block mb-1">Supported Top Brands:</small>
+                            <div class="d-flex flex-wrap gap-1">
+                                <span class="pointer-pill"><i class="bi bi-check2"></i> Bajaj Auto RE</span>
+                                <span class="pointer-pill"><i class="bi bi-check2"></i> Piaggio Ape</span>
+                                <span class="pointer-pill"><i class="bi bi-check2"></i> Mahindra Treo</span>
+                                <span class="pointer-pill"><i class="bi bi-check2"></i> TVS King</span>
+                                <span class="pointer-pill"><i class="bi bi-check2"></i> Atul Auto</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="p-4 pt-0">
+                    <a href="{{ url_for('prediction_form', category='autos') }}" class="btn-primary-custom w-100 justify-content-center" style="background: linear-gradient(135deg, #8B5CF6 0%, #3A86FF 100%);">
+                        <i class="bi bi-taxi-front-fill"></i> Appraise Auto Resale Price &rarr;
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

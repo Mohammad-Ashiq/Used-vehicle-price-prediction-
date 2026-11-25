@@ -1,0 +1,130 @@
+{% extends 'base.html' %}
+
+{% block title %}Contact & FAQ | Used Vehicle Price Prediction{% endblock %}
+
+{% block content %}
+<div class="container py-5">
+    
+    <div class="text-center mb-5">
+        <span class="badge-custom badge-lorries mb-2">Support & Inquiry</span>
+        <h1 class="fw-bold">Contact Our Project Team</h1>
+        <p class="text-muted mx-auto" style="max-width: 650px;">
+            Have questions about our vehicle valuation algorithms, or need assistance interpreting an appraisal? Send us a message or browse our FAQ below.
+        </p>
+    </div>
+
+    <div class="row g-5">
+        <!-- Contact Form Column -->
+        <div class="col-lg-7">
+            <div class="custom-card p-4 p-md-5">
+                <h4 class="fw-bold mb-3"><i class="bi bi-chat-dots-fill text-primary me-2"></i> Send Us a Message</h4>
+                <p class="text-muted small mb-4">Messages are recorded directly into the SQLite project database.</p>
+
+                <form action="{{ url_for('contact') }}" method="POST">
+                    <div class="row g-3">
+                        <div class="col-md-6">
+                            <label for="contactName" class="form-label">Full Name <span class="text-danger">*</span></label>
+                            <input type="text" class="form-control" id="contactName" name="name" placeholder="Your name" required>
+                        </div>
+                        <div class="col-md-6">
+                            <label for="contactEmail" class="form-label">Email Address <span class="text-danger">*</span></label>
+                            <input type="email" class="form-control" id="contactEmail" name="email" placeholder="name@domain.com" required>
+                        </div>
+                        <div class="col-12">
+                            <label for="contactSubject" class="form-label">Subject <span class="text-danger">*</span></label>
+                            <input type="text" class="form-control" id="contactSubject" name="subject" placeholder="e.g. Valuation inquiry for Tata Nexon" required>
+                        </div>
+                        <div class="col-12">
+                            <label for="contactMessage" class="form-label">Message Details <span class="text-danger">*</span></label>
+                            <textarea class="form-control" id="contactMessage" name="message" rows="5" placeholder="Write your inquiry or feedback here..." required></textarea>
+                        </div>
+                        <div class="col-12 mt-4">
+                            <button type="submit" class="btn-primary-custom px-4 py-2">
+                                <i class="bi bi-send-fill"></i> Send Message
+                            </button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+
+        <!-- Project Info & FAQ Column -->
+        <div class="col-lg-5">
+            <!-- Contact Card -->
+            <div class="custom-card p-4 mb-4">
+                <h5 class="fw-bold mb-3"><i class="bi bi-geo-alt-fill text-danger me-2"></i> Project Coordinates</h5>
+                <div class="d-flex flex-column gap-3 text-muted small">
+                    <div class="d-flex align-items-center gap-3">
+                        <div class="brand-badge" style="width: 38px; height: 38px; font-size: 1.1rem;"><i class="bi bi-building"></i></div>
+                        <div>
+                            <strong class="text-light">Department of Computer Applications (BCA)</strong><br>
+                            Vehicle Intelligence & Data Analytics Lab
+                        </div>
+                    </div>
+                    <div class="d-flex align-items-center gap-3">
+                        <div class="brand-badge" style="width: 38px; height: 38px; font-size: 1.1rem;"><i class="bi bi-envelope-at"></i></div>
+                        <div>
+                            <strong class="text-light">Email Contact:</strong><br>
+                            support@usedvehicleprediction.local
+                        </div>
+                    </div>
+                    <div class="d-flex align-items-center gap-3">
+                        <div class="brand-badge" style="width: 38px; height: 38px; font-size: 1.1rem;"><i class="bi bi-clock"></i></div>
+                        <div>
+                            <strong class="text-light">System Availability:</strong><br>
+                            24x7 Automated ML Valuation Inference
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- FAQ Accordion -->
+            <div class="custom-card p-4">
+                <h5 class="fw-bold mb-3"><i class="bi bi-question-circle-fill text-warning me-2"></i> Frequently Asked Questions</h5>
+                
+                <div class="accordion accordion-flush" id="faqAccordion">
+                    <div class="accordion-item bg-transparent border-secondary border-opacity-25">
+                        <h2 class="accordion-header">
+                            <button class="accordion-button collapsed bg-transparent text-light fw-bold small" type="button" data-bs-toggle="collapse" data-bs-target="#faq1">
+                                How accurate are the predicted prices?
+                            </button>
+                        </h2>
+                        <div id="faq1" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                            <div class="accordion-body text-muted small">
+                                Our Random Forest models achieve an R² accuracy between 84% and 92% across test datasets, providing highly reliable benchmark figures for market negotiations.
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="accordion-item bg-transparent border-secondary border-opacity-25">
+                        <h2 class="accordion-header">
+                            <button class="accordion-button collapsed bg-transparent text-light fw-bold small" type="button" data-bs-toggle="collapse" data-bs-target="#faq2">
+                                Can I download a valuation certificate?
+                            </button>
+                        </h2>
+                        <div id="faq2" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                            <div class="accordion-body text-muted small">
+                                Yes! Every valuation result includes a one-click "Download PDF Certificate" button that generates a high-resolution, printable PDF report with full specifications and confidence ranges.
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="accordion-item bg-transparent border-secondary border-opacity-25">
+                        <h2 class="accordion-header">
+                            <button class="accordion-button collapsed bg-transparent text-light fw-bold small" type="button" data-bs-toggle="collapse" data-bs-target="#faq3">
+                                What vehicle categories are supported?
+                            </button>
+                        </h2>
+                        <div id="faq3" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
+                            <div class="accordion-body text-muted small">
+                                We support Cars (hatchbacks, sedans, SUVs), Two-wheelers & Bikes, Commercial Lorries & Trucks, and 3-wheeler Auto-rickshaws.
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+{% endblock %}

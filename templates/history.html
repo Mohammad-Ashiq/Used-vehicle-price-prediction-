@@ -1,0 +1,173 @@
+{% extends 'base.html' %}
+
+{% block title %}Valuation History | Used Vehicle Price Prediction{% endblock %}
+
+{% block content %}
+<div class="container py-5">
+    
+    <!-- Page Header -->
+    <div class="d-flex flex-wrap justify-content-between align-items-center gap-3 mb-4">
+        <div>
+            <span class="badge-custom badge-bikes mb-2">Audit Log</span>
+            <h1 class="fw-bold mb-1">Prediction History</h1>
+            <p class="text-muted small mb-0">Browse, filter, search, and download PDF certificates for all past vehicle appraisals.</p>
+        </div>
+        <div>
+            <a href="{{ url_for('categories') }}" class="btn-primary-custom">
+                <i class="bi bi-plus-circle-fill"></i> New Appraisal
+            </a>
+        </div>
+    </div>
+
+    <!-- Filter & Search Toolbar -->
+    <div class="custom-card p-3 mb-4">
+        <form action="{{ url_for('history') }}" method="GET" class="row g-3 align-items-center">
+            
+            <!-- Category Filter Pills -->
+            <div class="col-lg-6">
+                <div class="d-flex flex-wrap gap-2">
+                    <a href="{{ url_for('history', category='all', search=search) }}" 
+                       class="btn btn-sm {% if selected_category == 'all' or not selected_category %}btn-primary-custom{% else %}btn-outline-custom{% endif %}">
+                        All ({{ total_count }})
+                    </a>
+                    <a href="{{ url_for('history', category='cars', search=search) }}" 
+                       class="btn btn-sm {% if selected_category == 'cars' %}btn-primary-custom{% else %}btn-outline-custom{% endif %}">
+                        <i class="bi bi-car-front-fill me-1"></i> Cars
+                    </a>
+                    <a href="{{ url_for('history', category='bikes', search=search) }}" 
+                       class="btn btn-sm {% if selected_category == 'bikes' %}btn-primary-custom{% else %}btn-outline-custom{% endif %}">
+                        <i class="bi bi-bicycle me-1"></i> Bikes
+                    </a>
+                    <a href="{{ url_for('history', category='lorries', search=search) }}" 
+                       class="btn btn-sm {% if selected_category == 'lorries' %}btn-primary-custom{% else %}btn-outline-custom{% endif %}">
+                        <i class="bi bi-truck-flatbed me-1"></i> Lorries
+                    </a>
+                    <a href="{{ url_for('history', category='autos', search=search) }}" 
+                       class="btn btn-sm {% if selected_category == 'autos' %}btn-primary-custom{% else %}btn-outline-custom{% endif %}">
+                        <i class="bi bi-taxi-front-fill me-1"></i> Autos
+                    </a>
+                </div>
+            </div>
+
+            <!-- Search Input Box -->
+            <div class="col-lg-6">
+                <div class="input-group">
+                    <input type="hidden" name="category" value="{{ selected_category }}">
+                    <input type="text" class="form-control" name="search" value="{{ search }}" placeholder="Search by brand, model, or city...">
+                    <button class="btn btn-primary-custom" type="submit">
+                        <i class="bi bi-search"></i> Search
+                    </button>
+                    {% if search %}
+                    <a href="{{ url_for('history', category=selected_category) }}" class="btn btn-outline-secondary" title="Clear Search">
+                        <i class="bi bi-x-lg"></i>
+                    </a>
+                    {% endif %}
+                </div>
+            </div>
+
+        </form>
+    </div>
+
+    <!-- History Table Card -->
+    <div class="custom-card p-4">
+        {% if records %}
+        <div class="table-responsive">
+            <table class="table-custom">
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>Category</th>
+                        <th>Brand & Model</th>
+                        <th>Year</th>
+                        <th>Kilometers</th>
+                        <th>Fuel</th>
+                        <th>Condition</th>
+                        <th>Location</th>
+                        <th>Predicted Price (₹)</th>
+                        <th>Valuation Date</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for item in records %}
+                    <tr>
+                        <td class="text-muted">#{{ item.id }}</td>
+                        <td>
+                            <span class="badge-custom badge-{{ item.category }}">
+                                {{ item.category|capitalize }}
+                            </span>
+                        </td>
+                        <td>
+                            <strong>{{ item.brand }} {{ item.model }}</strong>
+                            {% if item.transmission %}
+                            <div class="text-muted small">{{ item.transmission }}</div>
+                            {% endif %}
+                        </td>
+                        <td>{{ item.year }}</td>
+                        <td>{{ "{:,}".format(item.km_driven) }} km</td>
+                        <td>{{ item.fuel_type }}</td>
+                        <td>
+                            <span class="badge bg-success small">{{ item.condition }}</span>
+                        </td>
+                        <td>{{ item.location }}</td>
+                        <td>
+                            <strong class="text-info fs-6">₹ {{ format_inr(item.predicted_price) }}</strong>
+                        </td>
+                        <td class="text-muted small text-nowrap">
+                            {{ item.created_at[:16] if item.created_at else "Recently" }}
+                        </td>
+                        <td>
+                            <div class="d-flex gap-1 text-nowrap">
+                                <a href="{{ url_for('prediction_result', prediction_id=item.id) }}" class="btn btn-sm btn-outline-primary" title="View Full Result">
+                                    <i class="bi bi-eye-fill"></i>
+                                </a>
+                                <a href="{{ url_for('download_report', prediction_id=item.id) }}" class="btn btn-sm btn-outline-secondary" title="Download PDF Certificate">
+                                    <i class="bi bi-file-earmark-pdf"></i>
+                                </a>
+                                <form action="{{ url_for('delete_history_record', prediction_id=item.id) }}" method="POST" onsubmit="return confirm('Delete record #{{ item.id }} from history?');" class="d-inline">
+                                    <button type="submit" class="btn btn-sm btn-outline-danger" title="Delete Record">
+                                        <i class="bi bi-trash"></i>
+                                    </button>
+                                </form>
+                            </div>
+                        </td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+
+        <!-- Pagination -->
+        {% if total_pages > 1 %}
+        <nav class="d-flex justify-content-between align-items-center mt-4 pt-3 border-top border-secondary border-opacity-25">
+            <span class="text-muted small">Showing Page {{ page }} of {{ total_pages }} ({{ total_count }} total entries)</span>
+            <ul class="pagination pagination-sm mb-0">
+                <li class="page-item {% if page <= 1 %}disabled{% endif %}">
+                    <a class="page-link bg-dark border-secondary text-secondary" href="{{ url_for('history', page=page-1, category=selected_category, search=search) }}">Previous</a>
+                </li>
+                {% for p in range(1, total_pages + 1) %}
+                <li class="page-item {% if p == page %}active{% endif %}">
+                    <a class="page-link {% if p == page %}bg-primary border-primary text-dark{% else %}bg-dark border-secondary text-secondary{% endif %}" href="{{ url_for('history', page=p, category=selected_category, search=search) }}">{{ p }}</a>
+                </li>
+                {% endfor %}
+                <li class="page-item {% if page >= total_pages %}disabled{% endif %}">
+                    <a class="page-link bg-dark border-secondary text-secondary" href="{{ url_for('history', page=page+1, category=selected_category, search=search) }}">Next</a>
+                </li>
+            </ul>
+        </nav>
+        {% endif %}
+
+        {% else %}
+        <div class="text-center py-5">
+            <i class="bi bi-search fs-1 text-muted d-block mb-3"></i>
+            <h5 class="text-light">No Matching Records Found</h5>
+            <p class="text-muted small">Try broadening your search query or reset your category filter.</p>
+            <a href="{{ url_for('history') }}" class="btn btn-outline-secondary btn-sm mt-2">
+                <i class="bi bi-arrow-counterclockwise"></i> Reset Filters
+            </a>
+        </div>
+        {% endif %}
+    </div>
+
+</div>
+{% endblock %}

@@ -1,0 +1,138 @@
+{% extends 'base.html' %}
+
+{% block title %}How It Works: ML Methodology | ReVahan{% endblock %}
+
+{% block content %}
+<div class="container py-5">
+    
+    <div class="text-center mb-5">
+        <span class="badge-custom badge-bikes mb-2">Technical Walkthrough</span>
+        <h1 class="fw-bold">How The Machine Learning Pipeline Works</h1>
+        <p class="text-muted mx-auto" style="max-width: 700px;">
+            A step-by-step breakdown of data collection, preprocessing, model architecture, and inference calculation.
+        </p>
+    </div>
+
+    <!-- Step-by-Step Flow -->
+    <div class="row g-4 mb-5">
+        <!-- Step 1 -->
+        <div class="col-lg-6">
+            <div class="custom-card p-4 h-100">
+                <div class="d-flex align-items-center gap-3 mb-3">
+                    <div class="brand-badge" style="width: 48px; height: 48px; font-size: 1.3rem;">1</div>
+                    <h4 class="fw-bold mb-0">Data Collection & Ingestion</h4>
+                </div>
+                <p class="text-muted leading-relaxed">
+                    The system maintains independent, category-specific datasets (<code>cars.csv</code>, <code>bikes.csv</code>, <code>lorries.csv</code>, <code>autos.csv</code>) reflecting realistic Indian automotive resale transactions across Tier-1 and Tier-2 cities.
+                </p>
+                <div class="p-3 rounded bg-surface border border-secondary border-opacity-25 small text-muted">
+                    <strong class="text-light d-block mb-1">Key Captured Attributes:</strong>
+                    Manufacturing Year, Odometer Kilometers, Fuel Type, Engine Displacement/Tonnage, Condition Rating, and Ownership Title.
+                </div>
+            </div>
+        </div>
+
+        <!-- Step 2 -->
+        <div class="col-lg-6">
+            <div class="custom-card p-4 h-100">
+                <div class="d-flex align-items-center gap-3 mb-3">
+                    <div class="brand-badge" style="width: 48px; height: 48px; font-size: 1.3rem;">2</div>
+                    <h4 class="fw-bold mb-0">Feature Engineering & Preprocessing</h4>
+                </div>
+                <p class="text-muted leading-relaxed">
+                    Raw inputs undergo statistical preparation in <code>ml/preprocess.py</code> before model training and inference:
+                </p>
+                <ul class="text-muted small leading-relaxed mb-0">
+                    <li><strong>Age Transformation:</strong> Converts manufacturing year into active lifecycle age: <code>Age = 2026 - Year</code>.</li>
+                    <li><strong>Numerical Standardization:</strong> Continuous values (age, km, cc, payload) are centered using <code>StandardScaler</code>.</li>
+                    <li><strong>Categorical Encoding:</strong> Multi-class variables (brand, model, fuel, condition, city) are converted into sparse binary matrices using <code>OneHotEncoder(handle_unknown='ignore')</code>.</li>
+                </ul>
+            </div>
+        </div>
+
+        <!-- Step 3 -->
+        <div class="col-lg-6">
+            <div class="custom-card p-4 h-100">
+                <div class="d-flex align-items-center gap-3 mb-3">
+                    <div class="brand-badge" style="width: 48px; height: 48px; font-size: 1.3rem;">3</div>
+                    <h4 class="fw-bold mb-0">Random Forest Ensemble Training</h4>
+                </div>
+                <p class="text-muted leading-relaxed">
+                    Our training pipeline utilizes an ensemble of 120 regression trees. Each individual tree is trained on a bootstrap sample of data with randomized feature splits.
+                </p>
+                <div class="p-3 rounded bg-surface border border-secondary border-opacity-25 small text-muted">
+                    <strong class="text-light d-block mb-1">Ensemble Prediction Formula:</strong>
+                    <code>\(\hat{y} = \frac{1}{B} \sum_{b=1}^{B} T_b(x)\)</code> where \(B = 120\) trees, eliminating individual tree noise and bias.
+                </div>
+            </div>
+        </div>
+
+        <!-- Step 4 -->
+        <div class="col-lg-6">
+            <div class="custom-card p-4 h-100">
+                <div class="d-flex align-items-center gap-3 mb-3">
+                    <div class="brand-badge" style="width: 48px; height: 48px; font-size: 1.3rem;">4</div>
+                    <h4 class="fw-bold mb-0">Confidence Range & Explainable AI</h4>
+                </div>
+                <p class="text-muted leading-relaxed">
+                    Rather than providing a single arbitrary number, our system computes:
+                </p>
+                <ul class="text-muted small leading-relaxed mb-0">
+                    <li><strong>Point Valuation:</strong> Fair market expected resale price in Indian Rupees (₹).</li>
+                    <li><strong>Confidence Interval:</strong> Negotiation spread (<code>price_min</code> to <code>price_max</code>) calculated from root mean squared error.</li>
+                    <li><strong>Impact Factor Grading:</strong> Transparent explanations highlighting why the price shifted based on condition or mileage.</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <!-- Viva Examination Preparation Guide -->
+    <div class="custom-card p-4 p-md-5">
+        <h4 class="fw-bold text-light mb-3"><i class="bi bi-mortarboard-fill text-primary me-2"></i> Viva Voce & Review Q&A Guide (BCA Final Year)</h4>
+        <div class="accordion accordion-flush" id="vivaAccordion">
+            <div class="accordion-item bg-transparent border-secondary border-opacity-25">
+                <h2 class="accordion-header">
+                    <button class="accordion-button collapsed bg-transparent text-light fw-bold" type="button" data-bs-toggle="collapse" data-bs-target="#viva1">
+                        Q1: Why did you choose Random Forest Regressor instead of Simple Linear Regression?
+                    </button>
+                </h2>
+                <div id="viva1" class="accordion-collapse collapse" data-bs-parent="#vivaAccordion">
+                    <div class="accordion-body text-muted small">
+                        Vehicle depreciation is non-linear—a car depreciates much faster in its first 2-3 years (~15-20%) and then stabilizes (~7-9% annually). Linear regression cannot capture steep exponential drops or complex interactions (e.g. diesel engines holding higher value in commercial lorries but lower in small hatchbacks). Random Forest handles non-linear relationships and interactions without requiring manual polynomial transformations.
+                    </div>
+                </div>
+            </div>
+
+            <div class="accordion-item bg-transparent border-secondary border-opacity-25">
+                <h2 class="accordion-header">
+                    <button class="accordion-button collapsed bg-transparent text-light fw-bold" type="button" data-bs-toggle="collapse" data-bs-target="#viva2">
+                        Q2: How do you prevent overfitting in your machine learning models?
+                    </button>
+                </h2>
+                <div id="viva2" class="accordion-collapse collapse" data-bs-parent="#vivaAccordion">
+                    <div class="accordion-body text-muted small">
+                        Overfitting is avoided through:
+                        1. Random Forest ensemble bagging (averaging 120 trees).
+                        2. Limiting <code>max_depth=16</code> and setting <code>min_samples_split=4</code> and <code>min_samples_leaf=2</code>.
+                        3. Evaluating exclusively on unseen 20% test splits using Scikit-Learn's <code>train_test_split</code>.
+                    </div>
+                </div>
+            </div>
+
+            <div class="accordion-item bg-transparent border-secondary border-opacity-25">
+                <h2 class="accordion-header">
+                    <button class="accordion-button collapsed bg-transparent text-light fw-bold" type="button" data-bs-toggle="collapse" data-bs-target="#viva3">
+                        Q3: How are the trained models stored and deployed in Flask?
+                    </button>
+                </h2>
+                <div id="viva3" class="accordion-collapse collapse" data-bs-parent="#vivaAccordion">
+                    <div class="accordion-body text-muted small">
+                        The trained Scikit-Learn pipelines (including the preprocessors and decision trees) are serialized into binary pickle files using <code>joblib.dump()</code> in the <code>models/</code> directory. When Flask launches, <code>ml/predict.py</code> deserializes the models into an in-memory dictionary cache, ensuring sub-50ms prediction latency.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+{% endblock %}

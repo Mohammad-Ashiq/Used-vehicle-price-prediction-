@@ -1,0 +1,158 @@
+{% extends 'base.html' %}
+
+{% block title %}About ReVahan & ML Architecture | ReVahan{% endblock %}
+
+{% block content %}
+<div class="container py-5">
+    
+    <div class="text-center mb-5">
+        <span class="badge-custom badge-cars mb-2">Academic Project Documentation</span>
+        <h1 class="fw-bold"><span class="gradient-text">ReVahan</span> &ndash; Used Vehicle Price Prediction System</h1>
+        <p class="text-muted mx-auto" style="max-width: 700px;">
+            A complete Full-Stack Data Science & Web Engineering application designed to eliminate market opacity in the Indian pre-owned vehicle ecosystem.
+        </p>
+    </div>
+
+    <!-- Project Overview & Mission -->
+    <div class="row g-4 mb-5">
+        <div class="col-lg-6">
+            <div class="custom-card p-4 h-100">
+                <h4 class="fw-bold text-light mb-3"><i class="bi bi-lightbulb-fill text-warning me-2"></i> Problem Statement & Vision</h4>
+                <p class="text-muted leading-relaxed">
+                    The used vehicle market in India is predominantly unorganized, characterized by high price volatility, asymmetrical dealer information, and arbitrary valuation markups. Buyers frequently overpay while genuine sellers struggle to establish credible fair market prices.
+                </p>
+                <p class="text-muted leading-relaxed mb-0">
+                    This project delivers an end-to-end Machine Learning solution that analyzes verified vehicle parameters—including manufacturing age, odometer mileage wear, fuel dynamics, commercial load capacity, ownership titles, and mechanical conditions—to predict an objective, data-backed fair resale value in Indian Rupees (₹).
+                </p>
+            </div>
+        </div>
+
+        <div class="col-lg-6">
+            <div class="custom-card p-4 h-100">
+                <h4 class="fw-bold text-light mb-3"><i class="bi bi-cpu text-info me-2"></i> Machine Learning Engine</h4>
+                <p class="text-muted leading-relaxed">
+                    We employ Scikit-Learn's <strong>Random Forest Regressor</strong>, an ensemble bagging technique that constructs 120 randomized decision trees during training. Random Forest was selected over linear regression and individual decision trees because:
+                </p>
+                <ul class="text-muted small leading-relaxed mb-0">
+                    <li><strong>Non-Linear Dynamics:</strong> Accurately models non-linear vehicle depreciation curves across multi-year cycles.</li>
+                    <li><strong>Robust to Overfitting:</strong> Aggregation (bagging) of 120 trees drastically reduces model variance and error.</li>
+                    <li><strong>Categorical Interactions:</strong> Seamlessly handles interactions between brands, fuel types, and transmission modes.</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <!-- System Architecture Diagram Card -->
+    <div class="custom-card p-4 p-md-5 mb-5">
+        <h4 class="fw-bold text-light mb-4 text-center"><i class="bi bi-diagram-3-fill text-primary me-2"></i> End-to-End System Architecture</h4>
+        
+        <div class="row g-3 text-center">
+            <div class="col-md-3">
+                <div class="p-3 rounded bg-surface border border-secondary border-opacity-25 h-100">
+                    <div class="fs-2 text-primary mb-2"><i class="bi bi-browser-chrome"></i></div>
+                    <h6 class="fw-bold text-light mb-1">1. Frontend Layer</h6>
+                    <small class="text-muted">HTML5, Bootstrap 5, Dark/Light Themes, Chart.js, AJAX Dropdowns</small>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="p-3 rounded bg-surface border border-secondary border-opacity-25 h-100">
+                    <div class="fs-2 text-info mb-2"><i class="bi bi-server"></i></div>
+                    <h6 class="fw-bold text-light mb-1">2. Backend Web Layer</h6>
+                    <small class="text-muted">Python Flask 3.1 REST Routes, Input Sanitization, Jinja2 Templates</small>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="p-3 rounded bg-surface border border-secondary border-opacity-25 h-100">
+                    <div class="fs-2 text-warning mb-2"><i class="bi bi-cpu-fill"></i></div>
+                    <h6 class="fw-bold text-light mb-1">3. ML Inference Layer</h6>
+                    <small class="text-muted">ColumnTransformer, StandardScaler, OneHotEncoder, Random Forest Pipeline</small>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="p-3 rounded bg-surface border border-secondary border-opacity-25 h-100">
+                    <div class="fs-2 text-success mb-2"><i class="bi bi-database-check"></i></div>
+                    <h6 class="fw-bold text-light mb-1">4. Data & Output Layer</h6>
+                    <small class="text-muted">SQLite3 Database, ReportLab PDF Engine, Printable Valuation Certificates</small>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- ML Evaluation Metrics Table -->
+    <div class="custom-card p-4 mb-5">
+        <h4 class="fw-bold text-light mb-2"><i class="bi bi-check2-all text-success me-2"></i> Machine Learning Model Performance Metrics</h4>
+        <p class="text-muted small mb-4">Evaluated strictly on independent 20% testing splits using Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), and Coefficient of Determination (R²).</p>
+
+        <div class="table-responsive">
+            <table class="table-custom">
+                <thead>
+                    <tr>
+                        <th>Vehicle Category</th>
+                        <th>Algorithm</th>
+                        <th>R² Accuracy Score</th>
+                        <th>Mean Absolute Error (MAE)</th>
+                        <th>Root Mean Squared Error (RMSE)</th>
+                        <th>Model File</th>
+                        <th>Status</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><span class="badge-custom badge-cars">Cars</span></td>
+                        <td>Random Forest (120 Trees)</td>
+                        <td><strong class="text-success">84.36%</strong></td>
+                        <td>₹ 1,13,503.81</td>
+                        <td>₹ 1,75,168.44</td>
+                        <td><code>car_model.pkl</code></td>
+                        <td><span class="badge bg-success">Trained & Active</span></td>
+                    </tr>
+                    <tr>
+                        <td><span class="badge-custom badge-bikes">Bikes</span></td>
+                        <td>Random Forest (120 Trees)</td>
+                        <td><strong class="text-success">88.65%</strong></td>
+                        <td>₹ 9,421.21</td>
+                        <td>₹ 13,614.19</td>
+                        <td><code>bike_model.pkl</code></td>
+                        <td><span class="badge bg-success">Trained & Active</span></td>
+                    </tr>
+                    <tr>
+                        <td><span class="badge-custom badge-lorries">Lorries</span></td>
+                        <td>Random Forest (120 Trees)</td>
+                        <td><strong class="text-success">91.87%</strong></td>
+                        <td>₹ 1,67,305.34</td>
+                        <td>₹ 2,39,228.24</td>
+                        <td><code>lorry_model.pkl</code></td>
+                        <td><span class="badge bg-success">Trained & Active</span></td>
+                    </tr>
+                    <tr>
+                        <td><span class="badge-custom badge-autos">Auto-rickshaws</span></td>
+                        <td>Random Forest (120 Trees)</td>
+                        <td><strong class="text-success">91.72%</strong></td>
+                        <td>₹ 12,101.86</td>
+                        <td>₹ 15,469.18</td>
+                        <td><code>auto_model.pkl</code></td>
+                        <td><span class="badge bg-success">Trained & Active</span></td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <!-- Technology Stack Badges -->
+    <div class="custom-card p-4 text-center">
+        <h5 class="fw-bold mb-3">Comprehensive Technology Stack</h5>
+        <div class="d-flex flex-wrap justify-content-center gap-2">
+            <span class="badge bg-dark border border-secondary px-3 py-2 fs-6">Python 3.9+</span>
+            <span class="badge bg-dark border border-secondary px-3 py-2 fs-6">Flask 3.1</span>
+            <span class="badge bg-dark border border-secondary px-3 py-2 fs-6">Scikit-Learn 1.6</span>
+            <span class="badge bg-dark border border-secondary px-3 py-2 fs-6">Pandas & NumPy</span>
+            <span class="badge bg-dark border border-secondary px-3 py-2 fs-6">SQLite 3</span>
+            <span class="badge bg-dark border border-secondary px-3 py-2 fs-6">ReportLab (PDF)</span>
+            <span class="badge bg-dark border border-secondary px-3 py-2 fs-6">Bootstrap 5.3</span>
+            <span class="badge bg-dark border border-secondary px-3 py-2 fs-6">Chart.js 4.4</span>
+            <span class="badge bg-dark border border-secondary px-3 py-2 fs-6">Vanilla JavaScript (ES6)</span>
+        </div>
+    </div>
+
+</div>
+{% endblock %}

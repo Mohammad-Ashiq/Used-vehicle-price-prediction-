@@ -1,0 +1,37 @@
+{
+  "manifest_version": 3,
+  "name": "ReVahan - Used Vehicle Price Predictor",
+  "version": "1.0",
+  "description": "Quickly access ReVahan AI Used Vehicle Price Predictor directly from Chrome Omnibox and Google/Bing search results.",
+  "icons": {
+    "16": "icon48.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon48.png",
+      "48": "icon48.png"
+    },
+    "default_title": "Open ReVahan"
+  },
+  "omnibox": {
+    "keyword": "revahan"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "*://www.google.com/search*",
+        "*://www.google.co.in/search*",
+        "*://www.bing.com/search*"
+      ],
+      "js": ["content.js"],
+      "run_at": "document_end"
+    }
+  ],
+  "permissions": []
+}

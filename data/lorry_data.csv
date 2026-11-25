@@ -1,0 +1,1501 @@
+brand,manufacturing_year,kilometers_driven,fuel_type,vehicle_type,load_capacity_tonnes,number_of_owners,vehicle_condition,resale_price
+Ashok Leyland,2013,394749,Diesel,Open Body,25.8,3,Excellent,584000
+Tata Motors,2010,750000,Diesel,Tipper,25.3,2,Good,361000
+Ashok Leyland,2014,530272,Diesel,Container,21.7,2,Good,712000
+Tata Motors,2009,750000,Diesel,Open Body,14.0,1,Fair,188000
+Tata Motors,2021,291069,Diesel,Open Body,29.0,2,Good,1573000
+Ashok Leyland,2016,554071,Diesel,Open Body,36.5,2,Good,873000
+Eicher,2012,473820,Diesel,Container,27.1,1,Good,756000
+Tata Motors,2008,750000,Diesel,Tanker,21.5,1,Fair,307000
+Tata Motors,2015,553311,Diesel,Flatbed,13.8,2,Good,508000
+Ashok Leyland,2017,318495,Diesel,Mini Truck,1.6,4,Good,186000
+Tata Motors,2018,447691,Diesel,Container,22.4,1,Good,1309000
+Ashok Leyland,2014,652247,Diesel,Container,33.9,1,Excellent,1049000
+Tata Motors,2017,236699,Diesel,Open Body,26.1,3,Fair,854000
+Eicher,2020,276030,Diesel,Tipper,11.5,1,Good,1444000
+Tata Motors,2022,230381,Diesel,Open Body,22.0,2,Good,1724000
+Tata Motors,2018,223794,Diesel,Flatbed,6.7,1,Excellent,983000
+Ashok Leyland,2016,323869,CNG,Container,26.7,2,Good,1177000
+Tata Motors,2023,78885,Diesel,Tipper,15.8,1,Good,2642000
+Ashok Leyland,2018,355845,Diesel,Tipper,13.1,2,Fair,803000
+Mahindra Truck,2011,526654,Diesel,Tipper,26.1,2,Good,505000
+Force Motors,2011,581187,Diesel,Container,18.4,1,Good,513000
+Eicher,2019,366722,CNG,Tipper,20.8,1,Fair,1165000
+Tata Motors,2022,175661,CNG,Tipper,15.1,1,Good,2040000
+BharatBenz,2015,669149,Diesel,Open Body,10.9,3,Good,371000
+Eicher,2022,193816,Diesel,Open Body,30.5,1,Fair,1788000
+Tata Motors,2022,197533,Diesel,Tipper,12.9,1,Good,2132000
+Eicher,2019,216961,Diesel,Open Body,27.1,1,Fair,1356000
+BharatBenz,2008,750000,Diesel,Container,18.0,2,Excellent,342000
+Ashok Leyland,2013,632667,Diesel,Tipper,12.7,1,Fair,449000
+Eicher,2016,274628,Diesel,Tipper,20.9,2,Good,949000
+BharatBenz,2019,410746,Diesel,Container,27.7,3,Fair,1246000
+Tata Motors,2014,352722,Diesel,Open Body,7.6,2,Excellent,518000
+Ashok Leyland,2010,576841,Diesel,Open Body,35.9,1,Good,486000
+Mahindra Truck,2016,349912,CNG,Tanker,18.0,4,Excellent,729000
+Ashok Leyland,2011,750000,Diesel,Tipper,21.7,2,Fair,354000
+BharatBenz,2020,373177,Diesel,Tanker,22.4,3,Excellent,1771000
+Ashok Leyland,2022,196406,Diesel,Tipper,24.0,2,Good,2230000
+Ashok Leyland,2022,243571,Diesel,Open Body,26.6,1,Poor,1402000
+Ashok Leyland,2017,560053,Diesel,Mini Truck,3.5,2,Good,247000
+Tata Motors,2013,554922,Diesel,Flatbed,27.4,3,Fair,383000
+Tata Motors,2016,455669,Diesel,Open Body,18.8,2,Fair,517000
+Ashok Leyland,2017,437064,Diesel,Mini Truck,1.3,2,Fair,178000
+Tata Motors,2017,287772,Diesel,Flatbed,15.8,1,Good,975000
+Tata Motors,2019,288450,Diesel,Container,32.0,2,Good,2110000
+Eicher,2017,436914,Diesel,Tipper,25.8,2,Fair,874000
+Tata Motors,2017,302239,Diesel,Tipper,20.5,3,Good,940000
+Ashok Leyland,2020,260017,Diesel,Tipper,25.1,2,Poor,1101000
+Ashok Leyland,2018,320721,Diesel,Tipper,13.2,1,Excellent,1311000
+Mahindra Truck,2018,446182,Diesel,Container,18.7,2,Good,1157000
+Ashok Leyland,2021,255102,Diesel,Open Body,25.8,1,Excellent,2165000
+Tata Motors,2012,601412,Diesel,Tanker,23.9,2,Good,598000
+Ashok Leyland,2019,387862,Diesel,Tanker,25.7,2,Good,1672000
+Tata Motors,2015,414467,Diesel,Open Body,37.0,3,Good,796000
+Ashok Leyland,2021,278123,Diesel,Mini Truck,2.2,1,Good,412000
+BharatBenz,2015,548169,Diesel,Tanker,17.0,2,Good,716000
+Ashok Leyland,2014,517306,Diesel,Container,20.1,2,Excellent,854000
+Tata Motors,2017,307707,Diesel,Tanker,19.0,2,Excellent,1368000
+Tata Motors,2020,140485,Diesel,Tipper,26.9,2,Excellent,2281000
+Ashok Leyland,2016,617425,Diesel,Container,18.0,4,Good,639000
+Tata Motors,2018,331149,Diesel,Tipper,16.2,1,Good,1199000
+Tata Motors,2011,384440,Diesel,Mini Truck,2.0,3,Good,120000
+Ashok Leyland,2010,544999,Diesel,Open Body,18.9,2,Fair,275000
+Tata Motors,2012,656759,Diesel,Mini Truck,3.0,2,Fair,120000
+Tata Motors,2019,201947,Diesel,Open Body,17.6,1,Good,1159000
+Force Motors,2017,393705,Diesel,Tipper,23.8,3,Excellent,994000
+Ashok Leyland,2017,367364,Diesel,Container,22.1,2,Good,1156000
+Tata Motors,2013,470015,Diesel,Tanker,26.4,1,Fair,766000
+Tata Motors,2020,298588,Diesel,Container,33.3,2,Good,2102000
+Ashok Leyland,2018,436527,Diesel,Flatbed,36.6,1,Fair,1143000
+Mahindra Truck,2018,376070,Diesel,Tipper,25.2,2,Fair,1053000
+Ashok Leyland,2013,382003,Diesel,Tipper,16.9,4,Fair,405000
+BharatBenz,2019,200036,Diesel,Tipper,24.2,2,Poor,1199000
+Tata Motors,2010,663885,Diesel,Tipper,27.5,1,Good,502000
+Ashok Leyland,2019,425178,CNG,Container,32.4,2,Excellent,1722000
+Force Motors,2011,750000,Diesel,Open Body,34.4,1,Good,429000
+Tata Motors,2011,650745,Diesel,Open Body,11.3,3,Good,236000
+Ashok Leyland,2017,537065,Diesel,Container,14.0,2,Poor,622000
+Tata Motors,2019,253829,Diesel,Tipper,13.4,1,Poor,925000
+Ashok Leyland,2011,714752,Diesel,Container,26.4,2,Fair,401000
+Tata Motors,2016,650382,Diesel,Container,23.3,2,Fair,706000
+Tata Motors,2016,558624,Diesel,Tanker,13.3,3,Good,698000
+Eicher,2013,750000,CNG,Flatbed,19.3,2,Good,325000
+Tata Motors,2012,750000,Diesel,Container,22.2,3,Good,431000
+Ashok Leyland,2017,514208,Diesel,Container,19.4,3,Poor,569000
+Tata Motors,2014,639518,Diesel,Container,33.2,3,Good,692000
+Tata Motors,2020,345861,Diesel,Container,25.7,1,Excellent,2250000
+Tata Motors,2015,647252,Diesel,Open Body,23.3,1,Excellent,761000
+Eicher,2012,413445,Diesel,Tanker,29.5,4,Good,582000
+Ashok Leyland,2020,313940,Diesel,Open Body,7.6,1,Good,966000
+Ashok Leyland,2017,400815,Diesel,Tipper,14.4,2,Fair,783000
+Ashok Leyland,2019,397671,Diesel,Tipper,15.7,1,Good,1362000
+Eicher,2011,634827,Diesel,Tipper,20.8,1,Good,469000
+Mahindra Truck,2016,434313,Diesel,Container,20.5,2,Excellent,1157000
+Eicher,2021,112293,Diesel,Open Body,14.5,1,Good,1633000
+Tata Motors,2018,483498,Diesel,Open Body,29.9,1,Fair,1060000
+Eicher,2021,134278,Diesel,Tipper,19.8,1,Good,2000000
+Tata Motors,2016,405527,Diesel,Flatbed,17.3,2,Good,747000
+Tata Motors,2012,612275,Diesel,Container,34.7,2,Good,722000
+Ashok Leyland,2016,544425,Diesel,Tanker,12.3,1,Fair,753000
+Ashok Leyland,2018,355492,Diesel,Tipper,26.4,3,Excellent,1293000
+Ashok Leyland,2019,173956,Diesel,Open Body,17.2,2,Excellent,1225000
+Eicher,2008,547456,Diesel,Open Body,14.9,3,Fair,164000
+Tata Motors,2009,750000,Diesel,Tanker,14.1,3,Good,263000
+Tata Motors,2012,750000,Diesel,Open Body,27.9,3,Excellent,429000
+Tata Motors,2018,310065,CNG,Tanker,29.2,2,Poor,1068000
+Ashok Leyland,2019,468518,Diesel,Flatbed,16.7,1,Fair,915000
+Tata Motors,2013,451655,Diesel,Tanker,24.2,3,Good,691000
+Tata Motors,2013,556308,Diesel,Open Body,19.8,3,Good,408000
+Tata Motors,2012,357401,Diesel,Tipper,11.3,3,Fair,379000
+Ashok Leyland,2011,557074,Diesel,Mini Truck,1.2,2,Fair,120000
+Tata Motors,2011,399867,Diesel,Container,24.7,2,Poor,451000
+Ashok Leyland,2018,183270,Diesel,Tipper,18.3,2,Fair,1013000
+Mahindra Truck,2016,587220,Diesel,Flatbed,28.3,1,Poor,523000
+Mahindra Truck,2019,348515,Diesel,Open Body,39.8,3,Good,1151000
+BharatBenz,2010,750000,Diesel,Tanker,13.3,2,Excellent,379000
+Tata Motors,2015,701359,Diesel,Tipper,27.5,1,Fair,687000
+Tata Motors,2015,346741,Diesel,Mini Truck,2.7,2,Excellent,258000
+Tata Motors,2008,703659,Diesel,Container,14.2,2,Fair,259000
+Ashok Leyland,2011,626958,Diesel,Open Body,17.9,2,Fair,256000
+Eicher,2010,750000,Diesel,Tipper,26.2,3,Good,308000
+Eicher,2016,462864,CNG,Open Body,10.6,3,Poor,278000
+Tata Motors,2021,167126,Diesel,Tipper,26.1,1,Fair,2007000
+Force Motors,2014,662119,Diesel,Tanker,26.0,1,Poor,489000
+Tata Motors,2020,388213,Diesel,Container,17.0,2,Good,1644000
+Force Motors,2010,750000,CNG,Tipper,14.7,1,Fair,269000
+Ashok Leyland,2011,750000,Diesel,Tipper,25.9,4,Good,352000
+Ashok Leyland,2017,312009,Diesel,Tanker,28.9,3,Good,1318000
+Tata Motors,2009,518803,Diesel,Open Body,10.1,1,Fair,243000
+Ashok Leyland,2016,499406,Diesel,Open Body,36.4,2,Good,954000
+Eicher,2008,750000,Diesel,Open Body,12.5,2,Excellent,202000
+Tata Motors,2014,292323,Diesel,Tanker,24.9,1,Excellent,1291000
+Ashok Leyland,2014,482450,Diesel,Mini Truck,1.8,3,Excellent,147000
+BharatBenz,2012,397181,Diesel,Tipper,10.7,1,Good,596000
+Tata Motors,2009,726793,Diesel,Open Body,6.5,1,Good,215000
+Ashok Leyland,2015,511577,Diesel,Open Body,12.6,2,Fair,419000
+Eicher,2014,494093,Diesel,Tipper,12.7,2,Fair,489000
+Eicher,2020,216018,Diesel,Open Body,23.2,3,Fair,1037000
+Eicher,2019,348334,Diesel,Container,34.4,2,Good,1697000
+Tata Motors,2012,402763,Diesel,Container,23.8,1,Good,781000
+Tata Motors,2014,520998,Diesel,Container,33.6,1,Fair,825000
+Tata Motors,2011,448863,Diesel,Open Body,25.8,1,Fair,469000
+BharatBenz,2017,320362,Diesel,Tanker,20.4,3,Good,1135000
+BharatBenz,2013,583665,Diesel,Flatbed,16.5,2,Excellent,444000
+Force Motors,2019,215218,Diesel,Tipper,23.5,2,Good,1463000
+Tata Motors,2011,750000,Diesel,Tanker,22.5,2,Excellent,572000
+Ashok Leyland,2013,750000,Diesel,Flatbed,5.1,3,Good,233000
+BharatBenz,2014,398001,Diesel,Tipper,15.6,2,Fair,543000
+Eicher,2014,355142,Diesel,Container,20.8,3,Good,726000
+Eicher,2019,243990,Diesel,Open Body,32.8,3,Good,1251000
+Ashok Leyland,2015,266069,Diesel,Open Body,33.6,3,Excellent,955000
+Ashok Leyland,2014,392753,Diesel,Tipper,15.1,2,Poor,465000
+Eicher,2017,521539,Diesel,Tipper,10.7,2,Good,713000
+Tata Motors,2012,750000,Diesel,Tipper,15.1,2,Fair,329000
+Ashok Leyland,2010,477760,Diesel,Mini Truck,1.6,1,Poor,120000
+Ashok Leyland,2012,750000,Diesel,Open Body,14.3,3,Fair,218000
+Tata Motors,2016,265484,CNG,Open Body,5.5,2,Poor,343000
+Tata Motors,2015,661739,CNG,Open Body,15.7,2,Poor,299000
+BharatBenz,2013,634872,Diesel,Tipper,15.6,2,Excellent,599000
+Tata Motors,2013,552599,Diesel,Open Body,10.2,3,Good,320000
+BharatBenz,2021,229092,Diesel,Flatbed,25.9,2,Excellent,2084000
+Ashok Leyland,2022,139504,Diesel,Flatbed,32.8,1,Good,2239000
+Tata Motors,2018,316494,Diesel,Container,16.6,4,Good,917000
+BharatBenz,2013,408093,Diesel,Open Body,34.8,2,Fair,625000
+BharatBenz,2015,681420,CNG,Mini Truck,2.0,1,Good,162000
+Ashok Leyland,2013,644487,Diesel,Mini Truck,3.1,3,Good,125000
+Ashok Leyland,2015,401756,Diesel,Flatbed,5.7,1,Good,507000
+Ashok Leyland,2015,598409,Diesel,Tipper,24.4,1,Fair,687000
+Tata Motors,2018,248455,Diesel,Tipper,26.9,2,Good,1637000
+Eicher,2016,481978,Diesel,Flatbed,22.9,2,Poor,491000
+Ashok Leyland,2020,360095,Diesel,Tipper,20.6,1,Fair,1450000
+Tata Motors,2019,427805,Diesel,Container,31.5,3,Good,1539000
+Ashok Leyland,2014,583109,Diesel,Tipper,11.7,1,Good,578000
+Mahindra Truck,2019,414540,Diesel,Container,23.1,2,Good,1375000
+Eicher,2021,214900,Diesel,Open Body,8.4,1,Good,1262000
+Ashok Leyland,2014,500418,Diesel,Open Body,29.3,2,Good,662000
+Ashok Leyland,2018,294959,Diesel,Flatbed,5.3,3,Fair,482000
+Tata Motors,2018,225533,Diesel,Tipper,25.0,2,Good,1489000
+Ashok Leyland,2012,688032,Diesel,Open Body,38.8,3,Excellent,493000
+Mahindra Truck,2012,669763,Diesel,Container,22.2,2,Good,551000
+Tata Motors,2012,524357,Diesel,Flatbed,28.4,2,Good,517000
+Tata Motors,2021,164480,Diesel,Mini Truck,3.3,1,Fair,512000
+Mahindra Truck,2011,560286,Diesel,Container,18.9,2,Good,470000
+Tata Motors,2018,221355,CNG,Open Body,10.9,3,Good,723000
+Ashok Leyland,2015,590828,Diesel,Container,30.1,1,Fair,863000
+Eicher,2016,531516,Diesel,Tipper,18.7,2,Poor,504000
+BharatBenz,2021,120282,Diesel,Tipper,23.0,2,Poor,1529000
+Tata Motors,2015,689155,Diesel,Tanker,16.2,1,Good,828000
+Eicher,2018,326446,Diesel,Open Body,21.4,3,Good,831000
+Tata Motors,2014,529211,Diesel,Open Body,30.9,2,Good,671000
+Tata Motors,2014,564472,Diesel,Flatbed,13.4,2,Good,452000
+Ashok Leyland,2023,177439,Diesel,Open Body,11.9,1,Excellent,1818000
+Tata Motors,2013,555196,Diesel,Open Body,33.3,3,Good,556000
+Mahindra Truck,2014,693098,Diesel,Open Body,35.5,2,Excellent,625000
+Tata Motors,2018,294638,Diesel,Open Body,25.6,2,Good,1107000
+Eicher,2020,217362,Diesel,Flatbed,5.2,2,Good,921000
+Ashok Leyland,2008,478032,Diesel,Open Body,21.7,2,Good,304000
+Tata Motors,2015,586880,Diesel,Mini Truck,1.8,1,Fair,135000
+Ashok Leyland,2012,750000,Diesel,Tanker,16.0,1,Good,538000
+Tata Motors,2011,544132,Diesel,Mini Truck,2.3,1,Good,130000
+Tata Motors,2021,146978,Diesel,Tipper,20.9,1,Good,2331000
+Tata Motors,2020,245177,CNG,Open Body,31.5,1,Poor,1212000
+Eicher,2016,460035,CNG,Tanker,12.5,2,Good,785000
+Ashok Leyland,2017,343132,Diesel,Tipper,19.3,4,Excellent,942000
+BharatBenz,2013,546570,Diesel,Open Body,21.1,4,Good,373000
+Tata Motors,2009,750000,CNG,Container,22.2,4,Excellent,293000
+Mahindra Truck,2010,506026,Diesel,Tanker,26.0,2,Poor,320000
+Tata Motors,2017,342589,Diesel,Tipper,18.9,2,Good,1036000
+Tata Motors,2021,198348,Diesel,Tipper,16.7,2,Good,1714000
+Eicher,2012,662151,Diesel,Open Body,11.0,3,Excellent,287000
+BharatBenz,2011,385290,Diesel,Open Body,27.0,1,Excellent,668000
+Ashok Leyland,2016,587191,Diesel,Container,19.6,1,Good,1019000
+Eicher,2017,571245,Diesel,Open Body,15.6,1,Fair,606000
+Tata Motors,2016,442890,CNG,Open Body,20.4,2,Good,703000
+Mahindra Truck,2014,353437,Diesel,Container,24.6,1,Fair,783000
+Ashok Leyland,2014,700099,Diesel,Open Body,38.7,1,Good,749000
+Tata Motors,2016,641394,CNG,Tipper,25.1,4,Good,567000
+BharatBenz,2017,590292,Diesel,Container,15.5,2,Good,951000
+Tata Motors,2014,384561,Diesel,Tanker,16.7,2,Excellent,999000
+BharatBenz,2011,474088,Diesel,Container,21.7,1,Fair,587000
+Mahindra Truck,2022,211779,Diesel,Container,26.2,2,Good,2292000
+Mahindra Truck,2011,575780,Diesel,Tipper,17.6,1,Good,442000
+Mahindra Truck,2021,196944,Diesel,Mini Truck,1.8,2,Fair,314000
+Tata Motors,2016,328161,Diesel,Open Body,18.5,2,Good,749000
+Eicher,2012,579048,Diesel,Open Body,39.4,2,Fair,469000
+Ashok Leyland,2017,277632,Diesel,Tipper,10.4,1,Excellent,1107000
+Mahindra Truck,2014,696108,Diesel,Tipper,16.3,3,Fair,358000
+Ashok Leyland,2017,480545,Diesel,Tipper,16.7,2,Fair,734000
+Mahindra Truck,2013,451651,Diesel,Container,25.3,2,Good,732000
+Tata Motors,2017,412286,Diesel,Container,33.2,2,Excellent,1470000
+Mahindra Truck,2021,203881,Diesel,Container,30.6,1,Poor,1750000
+Tata Motors,2012,363939,Diesel,Tanker,19.8,1,Good,743000
+Ashok Leyland,2017,264318,Diesel,Container,32.2,2,Good,1550000
+Mahindra Truck,2014,659650,Diesel,Open Body,31.2,4,Excellent,431000
+Tata Motors,2013,459641,Diesel,Open Body,25.2,1,Fair,487000
+Ashok Leyland,2018,233570,Diesel,Tipper,19.2,1,Good,1524000
+Eicher,2017,461988,Diesel,Container,30.7,3,Good,1123000
+Ashok Leyland,2015,415874,Diesel,Open Body,17.5,1,Good,672000
+Ashok Leyland,2010,733154,Diesel,Mini Truck,3.5,3,Fair,120000
+Tata Motors,2018,303385,Diesel,Flatbed,35.9,2,Poor,927000
+Eicher,2014,736905,Diesel,Open Body,20.8,3,Fair,318000
+Ashok Leyland,2021,245256,Diesel,Tipper,14.6,2,Excellent,1930000
+Mahindra Truck,2015,288697,Diesel,Container,20.9,2,Good,970000
+Ashok Leyland,2022,226159,Diesel,Tanker,16.2,1,Excellent,2753000
+Tata Motors,2010,501175,Diesel,Open Body,27.2,1,Good,449000
+Ashok Leyland,2013,565541,Diesel,Flatbed,22.5,2,Fair,395000
+Tata Motors,2019,197328,Diesel,Open Body,17.5,1,Poor,835000
+Tata Motors,2015,485658,Diesel,Open Body,7.4,4,Good,392000
+Tata Motors,2016,452645,Diesel,Open Body,7.6,1,Good,588000
+Tata Motors,2019,398568,Diesel,Container,28.3,2,Fair,1443000
+Tata Motors,2016,580475,Diesel,Tanker,15.8,1,Excellent,1044000
+Tata Motors,2021,199656,Diesel,Container,31.1,2,Poor,1586000
+Tata Motors,2021,279333,Diesel,Tanker,21.1,1,Excellent,2582000
+Ashok Leyland,2023,165593,Diesel,Tipper,17.7,2,Fair,2033000
+Ashok Leyland,2014,470904,Diesel,Container,21.6,4,Good,665000
+Ashok Leyland,2014,686267,Diesel,Open Body,26.5,2,Good,500000
+Eicher,2020,267504,Diesel,Tipper,26.0,1,Excellent,2078000
+Ashok Leyland,2018,179816,Diesel,Tipper,15.0,2,Good,1296000
+Mahindra Truck,2020,286479,Diesel,Open Body,39.1,1,Good,1944000
+Tata Motors,2023,137601,Diesel,Open Body,28.8,2,Fair,2050000
+Ashok Leyland,2020,189321,Diesel,Container,28.7,2,Excellent,2591000
+Tata Motors,2013,750000,Diesel,Tanker,25.4,2,Good,659000
+Ashok Leyland,2019,213643,Diesel,Container,20.2,2,Fair,1401000
+Tata Motors,2012,448416,Diesel,Tipper,12.8,2,Good,533000
+Force Motors,2023,232031,Diesel,Open Body,25.1,1,Poor,1268000
+Tata Motors,2014,662774,CNG,Tanker,23.8,2,Good,682000
+Eicher,2016,462250,CNG,Mini Truck,3.2,3,Excellent,184000
+Tata Motors,2016,515367,Diesel,Flatbed,34.7,2,Good,869000
+Ashok Leyland,2022,234614,Diesel,Tipper,27.1,2,Good,2368000
+Ashok Leyland,2018,241670,Diesel,Container,22.9,2,Good,1457000
+Ashok Leyland,2011,750000,Diesel,Tanker,24.3,2,Poor,300000
+Tata Motors,2016,252806,Diesel,Container,22.0,3,Fair,861000
+Ashok Leyland,2016,398810,Diesel,Container,32.3,1,Excellent,1667000
+BharatBenz,2012,488045,Diesel,Tipper,20.7,3,Excellent,541000
+BharatBenz,2022,115622,Diesel,Mini Truck,1.2,1,Good,544000
+Eicher,2023,172237,Diesel,Open Body,22.8,2,Excellent,2035000
+Tata Motors,2013,660246,Diesel,Tipper,14.0,3,Excellent,446000
+Mahindra Truck,2019,369055,Diesel,Tanker,12.1,2,Good,1212000
+Ashok Leyland,2015,417166,Diesel,Container,26.1,2,Fair,865000
+Eicher,2022,226863,Diesel,Open Body,23.9,2,Excellent,1821000
+Ashok Leyland,2015,592422,Diesel,Container,17.0,2,Good,664000
+Tata Motors,2016,522028,Diesel,Tipper,24.4,1,Poor,679000
+Tata Motors,2021,311992,Diesel,Open Body,7.2,2,Good,965000
+Ashok Leyland,2016,576934,Diesel,Tipper,22.9,1,Fair,841000
+Force Motors,2015,420676,Diesel,Mini Truck,3.0,1,Fair,169000
+Mahindra Truck,2021,197882,Diesel,Mini Truck,1.6,3,Good,323000
+Ashok Leyland,2015,606150,Diesel,Tipper,25.3,1,Good,919000
+Mahindra Truck,2008,750000,Diesel,Tanker,14.0,4,Good,214000
+Tata Motors,2015,466453,Diesel,Flatbed,21.5,2,Fair,529000
+Tata Motors,2020,219299,Diesel,Tipper,22.5,1,Excellent,2106000
+Tata Motors,2020,300441,Diesel,Tanker,20.1,1,Excellent,2327000
+Tata Motors,2021,244386,Diesel,Tipper,13.4,1,Good,1909000
+Ashok Leyland,2014,521762,Diesel,Tipper,24.2,2,Good,725000
+Tata Motors,2011,454367,Diesel,Open Body,15.0,1,Good,413000
+Tata Motors,2017,266277,Diesel,Tipper,24.4,2,Excellent,1398000
+Tata Motors,2012,467440,Diesel,Container,30.9,1,Good,884000
+Tata Motors,2018,488235,Diesel,Container,14.8,2,Fair,971000
+Ashok Leyland,2015,476674,CNG,Open Body,12.8,1,Excellent,618000
+BharatBenz,2011,646298,Diesel,Mini Truck,2.3,2,Poor,120000
+Force Motors,2017,569370,Diesel,Tipper,12.2,1,Fair,656000
+Ashok Leyland,2019,395088,Diesel,Open Body,21.3,3,Good,901000
+Tata Motors,2011,748646,Diesel,Tipper,14.6,1,Good,368000
+Ashok Leyland,2012,573537,Diesel,Container,31.4,2,Good,687000
+Tata Motors,2020,210217,Diesel,Open Body,13.7,1,Fair,1157000
+Tata Motors,2022,134160,Diesel,Container,18.1,1,Excellent,3037000
+Eicher,2010,547251,Diesel,Tanker,17.3,2,Excellent,481000
+Ashok Leyland,2014,486928,Diesel,Container,33.4,2,Fair,842000
+Ashok Leyland,2022,146469,Diesel,Tipper,16.9,1,Poor,1424000
+Tata Motors,2013,439429,Diesel,Tanker,27.1,1,Good,971000
+Ashok Leyland,2015,646651,Diesel,Open Body,38.3,2,Good,761000
+Tata Motors,2022,249489,Diesel,Open Body,26.1,1,Good,2027000
+Ashok Leyland,2013,514374,Diesel,Tipper,16.6,3,Fair,453000
+Tata Motors,2015,440241,Diesel,Container,21.2,1,Good,1077000
+Tata Motors,2016,577407,Diesel,Tipper,24.9,3,Poor,489000
+BharatBenz,2013,556012,Diesel,Container,27.4,4,Excellent,657000
+BharatBenz,2012,749505,CNG,Container,16.8,3,Excellent,447000
+Ashok Leyland,2010,555635,Diesel,Container,23.5,4,Excellent,436000
+Eicher,2019,229114,Diesel,Open Body,6.6,1,Good,895000
+Tata Motors,2017,347544,Diesel,Tanker,27.8,1,Fair,1352000
+Ashok Leyland,2019,355071,Diesel,Open Body,12.4,1,Excellent,1240000
+Ashok Leyland,2010,750000,Diesel,Open Body,31.0,2,Fair,268000
+Mahindra Truck,2019,365475,Diesel,Container,19.4,1,Fair,1297000
+Ashok Leyland,2015,382776,Diesel,Tipper,15.8,2,Good,768000
+Mahindra Truck,2016,658832,Diesel,Tipper,23.8,4,Good,546000
+Ashok Leyland,2018,210841,Diesel,Tipper,27.0,2,Poor,924000
+Ashok Leyland,2018,351674,Diesel,Flatbed,20.3,4,Good,671000
+Eicher,2016,392070,Diesel,Open Body,21.8,1,Poor,540000
+Tata Motors,2011,397543,Diesel,Open Body,17.0,1,Excellent,509000
+Tata Motors,2012,382887,Diesel,Open Body,33.7,1,Good,733000
+Eicher,2014,732385,Diesel,Tipper,27.9,1,Fair,562000
+Ashok Leyland,2018,373867,CNG,Open Body,11.1,4,Fair,489000
+Ashok Leyland,2022,245011,Diesel,Container,15.2,1,Good,2257000
+BharatBenz,2012,411308,Diesel,Flatbed,15.2,2,Fair,367000
+Tata Motors,2017,585232,Diesel,Open Body,31.0,2,Good,896000
+Force Motors,2017,310228,CNG,Tipper,12.5,1,Excellent,1023000
+Ashok Leyland,2019,347490,Diesel,Open Body,28.2,1,Fair,1196000
+Ashok Leyland,2008,661286,Diesel,Open Body,18.4,3,Good,210000
+BharatBenz,2018,334504,Diesel,Flatbed,35.7,3,Good,1179000
+Tata Motors,2008,750000,Diesel,Open Body,7.3,2,Excellent,174000
+Eicher,2011,703975,Diesel,Tanker,27.4,3,Fair,378000
+Ashok Leyland,2015,542391,Diesel,Tipper,19.3,3,Fair,488000
+Tata Motors,2016,618134,Diesel,Container,15.5,1,Good,907000
+Ashok Leyland,2011,750000,Diesel,Container,18.3,3,Good,363000
+Tata Motors,2016,235436,Diesel,Container,22.2,3,Poor,676000
+Tata Motors,2014,623534,CNG,Container,31.2,4,Good,591000
+Eicher,2017,493326,Diesel,Open Body,11.3,3,Excellent,550000
+Eicher,2016,502652,Diesel,Open Body,37.3,2,Poor,617000
+Ashok Leyland,2016,330208,Diesel,Open Body,6.7,2,Fair,472000
+Eicher,2020,268883,Diesel,Open Body,39.9,1,Fair,1538000
+Tata Motors,2015,456497,Diesel,Flatbed,32.1,1,Good,980000
+Tata Motors,2014,608056,Diesel,Container,18.7,1,Good,798000
+Mahindra Truck,2011,686887,Diesel,Tipper,14.8,3,Good,305000
+Ashok Leyland,2021,321613,Diesel,Mini Truck,1.9,2,Good,346000
+Eicher,2021,286761,Diesel,Mini Truck,3.1,1,Good,513000
+Tata Motors,2023,158689,Diesel,Container,22.3,1,Fair,2906000
+Eicher,2016,288690,Diesel,Container,29.3,2,Good,1230000
+Force Motors,2018,426550,Diesel,Open Body,18.3,2,Poor,516000
+Force Motors,2020,243821,Diesel,Open Body,37.5,1,Fair,1423000
+Tata Motors,2022,139916,Diesel,Mini Truck,2.2,1,Good,632000
+Tata Motors,2009,750000,Diesel,Open Body,38.7,1,Good,412000
+Tata Motors,2019,405482,Diesel,Container,21.7,1,Good,1790000
+Ashok Leyland,2016,502585,Diesel,Mini Truck,1.9,3,Excellent,189000
+Ashok Leyland,2008,725092,Diesel,Flatbed,37.3,4,Good,222000
+Ashok Leyland,2014,422786,Diesel,Container,17.1,2,Good,813000
+Tata Motors,2010,750000,Diesel,Flatbed,38.1,1,Excellent,472000
+Tata Motors,2014,510400,Diesel,Tipper,10.6,1,Fair,570000
+Tata Motors,2021,210552,Diesel,Flatbed,20.6,2,Good,1420000
+Tata Motors,2022,202570,CNG,Open Body,37.7,2,Fair,1880000
+Eicher,2011,741753,Diesel,Open Body,32.4,2,Poor,261000
+Eicher,2019,275134,Diesel,Container,14.2,1,Poor,1007000
+Eicher,2021,296001,Diesel,Tipper,20.4,1,Fair,1606000
+Tata Motors,2018,271266,Diesel,Open Body,30.5,3,Good,1214000
+Eicher,2016,438017,Diesel,Tanker,25.0,2,Good,1049000
+BharatBenz,2010,705547,Diesel,Tipper,27.5,2,Excellent,484000
+Eicher,2016,358319,Diesel,Open Body,38.7,4,Fair,669000
+Mahindra Truck,2012,461644,Diesel,Mini Truck,2.2,2,Good,120000
+Tata Motors,2015,366102,Diesel,Container,16.4,2,Good,931000
+Tata Motors,2022,195111,Diesel,Tanker,28.7,2,Good,2467000
+Mahindra Truck,2022,228704,Diesel,Container,25.1,1,Fair,2320000
+Ashok Leyland,2016,469420,Diesel,Open Body,21.5,4,Good,594000
+Tata Motors,2019,194679,Diesel,Tipper,14.0,1,Good,1509000
+Eicher,2020,248941,Diesel,Tipper,20.0,2,Fair,1335000
+Eicher,2012,512173,Diesel,Open Body,20.8,4,Poor,200000
+Eicher,2020,191653,Diesel,Mini Truck,3.5,2,Excellent,425000
+Ashok Leyland,2017,509292,Diesel,Tipper,19.4,3,Good,747000
+Tata Motors,2015,345227,Diesel,Tipper,23.8,2,Good,905000
+Tata Motors,2014,746907,Diesel,Container,21.9,1,Good,724000
+Eicher,2018,523443,Diesel,Container,22.5,2,Good,1108000
+Tata Motors,2012,493990,Diesel,Tipper,17.2,2,Good,534000
+Ashok Leyland,2015,547143,Diesel,Tanker,26.5,2,Fair,807000
+Tata Motors,2008,565831,Diesel,Container,20.2,2,Excellent,405000
+Tata Motors,2013,663658,Diesel,Tipper,16.4,2,Good,459000
+BharatBenz,2021,187906,CNG,Tipper,27.8,2,Fair,1812000
+Tata Motors,2014,750000,Diesel,Open Body,12.0,1,Good,398000
+Tata Motors,2012,450971,Diesel,Mini Truck,1.7,1,Fair,120000
+Ashok Leyland,2018,433701,Diesel,Container,28.7,2,Fair,1243000
+Tata Motors,2016,341680,Diesel,Open Body,29.5,1,Fair,893000
+BharatBenz,2016,273478,Diesel,Open Body,28.0,2,Good,946000
+Eicher,2015,681258,Diesel,Tanker,23.7,3,Good,723000
+Ashok Leyland,2016,431560,Diesel,Container,31.6,3,Fair,853000
+Ashok Leyland,2015,323101,Diesel,Tipper,10.2,1,Good,879000
+BharatBenz,2011,750000,Diesel,Open Body,7.1,3,Fair,172000
+Tata Motors,2021,305553,Diesel,Mini Truck,2.5,2,Good,374000
+Eicher,2014,393844,Diesel,Tipper,22.4,2,Fair,610000
+Eicher,2012,705653,Diesel,Container,23.2,2,Fair,418000
+Tata Motors,2022,198565,Diesel,Container,17.4,1,Poor,1580000
+Tata Motors,2017,578602,Diesel,Tipper,22.4,3,Good,877000
+Tata Motors,2020,259069,Diesel,Tipper,15.3,2,Fair,1203000
+Ashok Leyland,2018,351313,Diesel,Container,24.3,2,Good,1535000
+BharatBenz,2018,225728,Diesel,Tipper,12.8,1,Good,1409000
+Ashok Leyland,2021,263196,Diesel,Container,14.0,3,Good,1561000
+Ashok Leyland,2017,378777,Diesel,Flatbed,24.6,2,Good,880000
+Tata Motors,2021,155444,Diesel,Container,18.6,1,Poor,1588000
+Ashok Leyland,2009,750000,Diesel,Tanker,15.6,1,Good,429000
+BharatBenz,2013,599298,Diesel,Tipper,26.7,1,Poor,467000
+Eicher,2021,237973,Diesel,Open Body,8.2,1,Fair,983000
+Ashok Leyland,2012,507455,Diesel,Open Body,13.0,2,Fair,309000
+Tata Motors,2009,467683,Diesel,Flatbed,38.4,3,Good,396000
+BharatBenz,2013,442573,Diesel,Tanker,29.3,4,Fair,571000
+Tata Motors,2010,750000,Diesel,Tanker,15.2,1,Fair,353000
+Eicher,2018,401229,Diesel,Container,17.4,2,Fair,979000
+Mahindra Truck,2022,217722,Diesel,Tanker,29.3,1,Good,3101000
+Tata Motors,2021,222252,Diesel,Container,15.4,2,Good,1753000
+Tata Motors,2020,250806,Diesel,Flatbed,24.6,1,Good,1455000
+Eicher,2013,750000,Diesel,Open Body,11.8,3,Good,254000
+Mahindra Truck,2014,436555,Diesel,Container,20.0,2,Fair,601000
+BharatBenz,2009,750000,Diesel,Open Body,21.9,3,Fair,204000
+Ashok Leyland,2012,598471,Diesel,Container,31.9,2,Fair,582000
+Ashok Leyland,2011,632833,Diesel,Tipper,26.2,3,Good,424000
+Ashok Leyland,2019,426017,Diesel,Open Body,18.1,2,Good,944000
+Tata Motors,2011,436805,Diesel,Tipper,20.1,1,Good,612000
+Ashok Leyland,2013,750000,Diesel,Flatbed,33.6,2,Good,517000
+Tata Motors,2022,118477,Diesel,Tipper,10.9,3,Fair,1343000
+Tata Motors,2022,121187,Diesel,Mini Truck,1.3,3,Fair,353000
+Ashok Leyland,2013,613425,Diesel,Tipper,14.9,2,Good,511000
+Eicher,2009,750000,Diesel,Tanker,24.5,1,Poor,265000
+Tata Motors,2015,647338,Diesel,Open Body,34.0,1,Good,809000
+Eicher,2008,660318,Diesel,Container,19.5,1,Fair,310000
+BharatBenz,2013,550761,Diesel,Open Body,5.9,4,Excellent,330000
+Tata Motors,2017,509296,Diesel,Container,22.8,4,Fair,704000
+Eicher,2010,750000,Diesel,Tipper,23.8,2,Good,342000
+Tata Motors,2010,750000,CNG,Tipper,17.8,2,Poor,202000
+Tata Motors,2016,503729,Diesel,Tanker,16.9,3,Excellent,879000
+Ashok Leyland,2015,615517,Diesel,Tanker,25.3,2,Fair,734000
+Tata Motors,2022,159007,Diesel,Flatbed,29.4,1,Good,2446000
+Ashok Leyland,2015,642507,Diesel,Container,29.4,2,Good,861000
+Ashok Leyland,2023,188930,Diesel,Tanker,18.8,1,Poor,2150000
+Ashok Leyland,2010,750000,Diesel,Tipper,21.5,2,Good,374000
+Tata Motors,2019,291596,Diesel,Open Body,38.9,2,Poor,1057000
+Force Motors,2022,226015,Diesel,Container,34.8,2,Excellent,2753000
+Ashok Leyland,2019,277728,Diesel,Mini Truck,1.7,2,Fair,268000
+Ashok Leyland,2013,750000,Diesel,Open Body,28.6,2,Fair,401000
+Ashok Leyland,2016,492489,Diesel,Open Body,32.7,1,Fair,805000
+Ashok Leyland,2021,301111,Diesel,Tipper,23.7,2,Poor,1360000
+BharatBenz,2015,433376,Diesel,Tanker,12.1,3,Fair,609000
+Eicher,2015,689902,Diesel,Open Body,11.6,2,Good,399000
+Ashok Leyland,2009,750000,Diesel,Mini Truck,2.9,3,Good,120000
+Tata Motors,2011,560701,Diesel,Open Body,7.3,1,Excellent,307000
+Tata Motors,2014,510921,Diesel,Container,18.5,2,Fair,590000
+Ashok Leyland,2017,403116,Diesel,Flatbed,13.9,2,Fair,625000
+BharatBenz,2014,431203,Diesel,Mini Truck,2.9,2,Fair,155000
+Tata Motors,2021,163023,Diesel,Open Body,18.0,2,Fair,1247000
+Tata Motors,2011,579026,Diesel,Mini Truck,3.1,3,Good,120000
+Eicher,2018,507472,Diesel,Open Body,23.3,3,Fair,623000
+Ashok Leyland,2021,145441,CNG,Tanker,22.0,2,Poor,1500000
+Ashok Leyland,2023,152147,Diesel,Tipper,18.0,1,Excellent,2618000
+Mahindra Truck,2018,362617,Diesel,Open Body,37.6,4,Good,963000
+Mahindra Truck,2016,487977,Diesel,Flatbed,31.9,3,Good,753000
+Ashok Leyland,2021,292299,Diesel,Tipper,14.4,3,Poor,872000
+Ashok Leyland,2019,270366,Diesel,Container,24.8,1,Good,1898000
+Eicher,2017,400810,Diesel,Mini Truck,1.3,1,Fair,179000
+Ashok Leyland,2016,372326,Diesel,Mini Truck,2.1,2,Fair,179000
+Mahindra Truck,2012,750000,Diesel,Tipper,14.8,2,Fair,290000
+Ashok Leyland,2014,438454,Diesel,Open Body,38.8,1,Fair,805000
+Ashok Leyland,2012,750000,Diesel,Flatbed,34.6,2,Fair,378000
+Tata Motors,2020,273378,Diesel,Tipper,16.0,2,Good,1448000
+Ashok Leyland,2010,512368,Diesel,Container,32.9,3,Fair,442000
+Ashok Leyland,2014,626398,Diesel,Open Body,16.2,2,Good,432000
+BharatBenz,2010,750000,Diesel,Open Body,13.0,3,Poor,142000
+Tata Motors,2016,414363,Diesel,Open Body,6.2,2,Good,552000
+Tata Motors,2015,387768,Diesel,Open Body,7.7,1,Fair,440000
+Tata Motors,2017,589499,Diesel,Container,30.4,3,Poor,646000
+Tata Motors,2015,627132,CNG,Tipper,22.1,1,Good,737000
+Tata Motors,2019,324991,Diesel,Flatbed,29.6,1,Excellent,1551000
+Tata Motors,2012,366792,Diesel,Container,17.1,2,Good,658000
+Tata Motors,2010,750000,Diesel,Open Body,15.1,2,Fair,215000
+Ashok Leyland,2016,464785,Diesel,Tipper,13.6,2,Fair,655000
+Tata Motors,2017,394085,Diesel,Open Body,38.2,3,Good,1012000
+Tata Motors,2020,349923,Diesel,Container,19.9,2,Excellent,1867000
+Eicher,2020,272469,Diesel,Tipper,22.3,1,Good,1864000
+BharatBenz,2017,267508,CNG,Open Body,32.9,3,Fair,757000
+Tata Motors,2015,602397,Diesel,Tipper,22.3,3,Poor,447000
+Ashok Leyland,2009,528159,Diesel,Tanker,20.9,3,Good,389000
+Ashok Leyland,2010,584782,Diesel,Container,23.7,2,Good,493000
+Ashok Leyland,2012,750000,Diesel,Open Body,29.9,2,Good,373000
+Tata Motors,2010,497351,Diesel,Container,19.9,2,Poor,324000
+Eicher,2015,589915,Diesel,Flatbed,25.4,1,Fair,574000
+Ashok Leyland,2017,378439,Diesel,Tipper,26.4,4,Good,967000
+Tata Motors,2019,278070,Diesel,Tipper,16.0,2,Good,1281000
+Tata Motors,2016,392344,Diesel,Tipper,27.1,3,Good,944000
+Tata Motors,2022,83703,Diesel,Open Body,10.3,1,Poor,1110000
+Tata Motors,2015,390120,Diesel,Tanker,21.3,2,Poor,661000
+Ashok Leyland,2010,601384,Diesel,Tipper,17.6,1,Good,426000
+Tata Motors,2019,428148,Diesel,Container,14.5,3,Excellent,1167000
+Ashok Leyland,2017,231441,CNG,Flatbed,11.5,4,Fair,486000
+Ashok Leyland,2014,335504,CNG,Tanker,14.4,2,Fair,653000
+BharatBenz,2011,696019,CNG,Mini Truck,2.3,3,Good,120000
+Tata Motors,2014,750000,Diesel,Tipper,13.1,2,Fair,362000
+Eicher,2013,679800,Diesel,Tipper,25.5,2,Fair,441000
+Tata Motors,2021,219959,Diesel,Mini Truck,1.3,1,Good,454000
+BharatBenz,2014,634482,Diesel,Mini Truck,1.2,2,Fair,120000
+Tata Motors,2016,514539,CNG,Open Body,7.8,3,Poor,265000
+Force Motors,2009,750000,CNG,Tipper,12.8,2,Excellent,268000
+Tata Motors,2015,637830,Diesel,Tipper,15.5,4,Fair,387000
+Mahindra Truck,2016,264484,Diesel,Container,16.6,4,Good,760000
+Force Motors,2017,545027,Diesel,Tipper,13.7,1,Excellent,963000
+Tata Motors,2012,744539,Diesel,Mini Truck,3.3,2,Fair,120000
+Tata Motors,2013,503983,Diesel,Mini Truck,2.2,1,Good,170000
+Ashok Leyland,2014,449636,Diesel,Tipper,22.4,3,Fair,501000
+Ashok Leyland,2009,750000,Diesel,Container,29.4,4,Fair,272000
+Eicher,2010,651130,Diesel,Tipper,17.2,2,Excellent,393000
+Tata Motors,2017,294320,Diesel,Mini Truck,2.9,1,Fair,265000
+Tata Motors,2021,308844,Diesel,Tipper,22.4,2,Fair,1574000
+Ashok Leyland,2020,202998,Diesel,Container,18.7,1,Good,2044000
+Tata Motors,2012,470002,CNG,Open Body,23.1,2,Fair,405000
+Ashok Leyland,2017,514397,Diesel,Tanker,15.1,2,Good,935000
+Tata Motors,2013,529021,Diesel,Flatbed,29.3,4,Fair,389000
+BharatBenz,2014,332547,Diesel,Tipper,12.6,4,Fair,435000
+Ashok Leyland,2018,295158,Diesel,Mini Truck,2.2,2,Excellent,355000
+Tata Motors,2014,603041,Diesel,Open Body,10.7,1,Fair,384000
+Eicher,2016,316879,Diesel,Tipper,22.8,3,Fair,751000
+Eicher,2020,243670,Diesel,Container,17.6,1,Poor,1247000
+Ashok Leyland,2009,655872,Diesel,Open Body,29.4,2,Poor,197000
+Tata Motors,2017,271615,Diesel,Open Body,31.5,2,Poor,753000
+Eicher,2012,747976,Diesel,Open Body,39.0,1,Good,503000
+Tata Motors,2019,264290,Diesel,Tipper,16.1,3,Fair,995000
+Tata Motors,2014,647663,Diesel,Mini Truck,2.7,1,Poor,120000
+BharatBenz,2017,475814,Diesel,Open Body,5.9,1,Good,661000
+Tata Motors,2013,516831,Diesel,Flatbed,37.5,2,Fair,575000
+Mahindra Truck,2012,376486,Diesel,Container,17.6,4,Poor,300000
+Ashok Leyland,2011,750000,Diesel,Open Body,27.0,2,Good,346000
+Tata Motors,2014,735267,Diesel,Tipper,22.2,1,Good,610000
+Ashok Leyland,2017,323724,Diesel,Container,16.4,2,Good,1156000
+Ashok Leyland,2008,509711,Diesel,Container,22.8,2,Excellent,459000
+Tata Motors,2019,179256,Diesel,Container,17.5,1,Poor,1272000
+Eicher,2018,479729,Diesel,Tipper,13.9,2,Good,791000
+Tata Motors,2018,433335,Diesel,Tipper,10.7,2,Fair,776000
+Eicher,2012,701979,Diesel,Flatbed,6.0,2,Good,240000
+Tata Motors,2016,355323,Diesel,Tipper,13.3,2,Good,889000
+Ashok Leyland,2015,541985,Diesel,Container,27.6,3,Poor,540000
+Tata Motors,2018,335052,Diesel,Tanker,27.7,1,Good,1958000
+Force Motors,2017,378814,Diesel,Tanker,28.9,1,Good,1543000
+Ashok Leyland,2017,485400,Diesel,Tipper,17.5,1,Excellent,1147000
+Ashok Leyland,2011,750000,Diesel,Tipper,10.4,1,Excellent,400000
+Force Motors,2009,750000,Diesel,Open Body,12.5,3,Good,150000
+Eicher,2016,568503,Diesel,Tipper,11.8,2,Fair,547000
+Ashok Leyland,2014,686861,Diesel,Tipper,20.5,2,Good,589000
+Tata Motors,2014,414180,Diesel,Flatbed,20.4,3,Fair,396000
+Force Motors,2013,533636,Diesel,Open Body,23.8,2,Good,416000
+Ashok Leyland,2013,615732,Diesel,Mini Truck,2.8,1,Fair,129000
+Tata Motors,2014,712229,Diesel,Tanker,16.5,2,Fair,510000
+Tata Motors,2023,145328,Diesel,Tipper,10.4,1,Poor,1452000
+Ashok Leyland,2023,153626,Diesel,Container,24.5,1,Excellent,3905000
+Tata Motors,2023,172684,Diesel,Flatbed,13.2,1,Excellent,2069000
+BharatBenz,2019,253857,Diesel,Tanker,26.2,1,Good,2074000
+Ashok Leyland,2019,309138,Diesel,Container,23.6,1,Good,1836000
+Eicher,2018,424206,Diesel,Tanker,12.8,1,Excellent,1368000
+Tata Motors,2014,428871,Diesel,Tipper,14.5,4,Fair,429000
+Tata Motors,2021,148390,Diesel,Container,26.5,2,Fair,1985000
+Tata Motors,2018,462512,Diesel,Container,25.9,2,Fair,1254000
+Ashok Leyland,2011,567368,Diesel,Open Body,35.2,2,Poor,320000
+BharatBenz,2020,244219,Diesel,Flatbed,15.8,1,Good,1434000
+Ashok Leyland,2015,631148,Diesel,Tipper,14.0,2,Good,582000
+Eicher,2018,515990,CNG,Tipper,15.5,3,Excellent,847000
+Ashok Leyland,2014,664591,Diesel,Tipper,24.2,2,Good,640000
+Tata Motors,2021,186765,Diesel,Container,33.0,1,Poor,1716000
+Eicher,2020,332897,Diesel,Mini Truck,2.9,1,Good,399000
+Eicher,2016,453523,Diesel,Tanker,14.5,4,Excellent,754000
+Ashok Leyland,2013,750000,Diesel,Tanker,19.6,1,Poor,427000
+Eicher,2020,177358,Diesel,Tipper,13.2,1,Fair,1395000
+Ashok Leyland,2013,487589,Diesel,Open Body,15.3,2,Excellent,529000
+BharatBenz,2014,739771,Diesel,Open Body,8.7,1,Excellent,448000
+BharatBenz,2016,313291,Diesel,Container,31.6,3,Poor,827000
+Tata Motors,2013,568991,Diesel,Tipper,19.9,3,Fair,410000
+Tata Motors,2014,379738,Diesel,Tanker,17.8,4,Good,687000
+Mahindra Truck,2018,500360,Diesel,Container,31.5,1,Poor,957000
+Ashok Leyland,2017,399909,Diesel,Tipper,17.7,3,Good,888000
+Ashok Leyland,2017,260515,Diesel,Tipper,10.9,2,Poor,657000
+Tata Motors,2021,225732,Diesel,Open Body,37.3,2,Excellent,2262000
+BharatBenz,2013,647325,Diesel,Open Body,6.6,2,Fair,270000
+Tata Motors,2022,249490,Diesel,Tipper,23.7,1,Poor,1493000
+Ashok Leyland,2015,620955,Diesel,Tipper,23.8,1,Good,860000
+Eicher,2023,106788,Diesel,Tipper,17.8,2,Good,2323000
+Eicher,2013,516655,CNG,Open Body,15.8,3,Good,334000
+Tata Motors,2020,309487,Diesel,Tanker,19.0,1,Good,2075000
+Force Motors,2018,318347,Diesel,Tipper,13.6,3,Good,822000
+Tata Motors,2009,387660,Diesel,Mini Truck,1.5,3,Excellent,120000
+Tata Motors,2013,750000,Diesel,Open Body,19.1,2,Fair,331000
+Ashok Leyland,2017,360452,CNG,Tipper,25.4,3,Excellent,1069000
+Ashok Leyland,2015,540047,Diesel,Open Body,10.9,2,Good,444000
+Tata Motors,2018,340207,Diesel,Open Body,18.9,3,Excellent,992000
+Mahindra Truck,2021,223642,Diesel,Tanker,22.1,1,Excellent,2672000
+Tata Motors,2017,566253,Diesel,Open Body,37.2,2,Excellent,1199000
+Tata Motors,2015,515726,Diesel,Tipper,13.0,2,Fair,531000
+Eicher,2013,340146,Diesel,Mini Truck,1.7,1,Fair,146000
+Ashok Leyland,2021,288178,Diesel,Container,23.8,1,Excellent,2589000
+Mahindra Truck,2021,246696,Diesel,Tipper,12.7,2,Poor,944000
+Eicher,2010,672869,Diesel,Container,20.5,3,Poor,237000
+Mahindra Truck,2019,391833,Diesel,Open Body,35.5,1,Good,1548000
+Tata Motors,2018,228694,Diesel,Container,32.9,2,Good,1871000
+Tata Motors,2018,267174,Diesel,Tipper,26.8,3,Excellent,1315000
+Eicher,2019,259029,Diesel,Tanker,23.5,1,Good,1995000
+Tata Motors,2017,485829,Diesel,Open Body,31.8,2,Good,983000
+Eicher,2016,297173,Diesel,Mini Truck,1.9,2,Excellent,243000
+Tata Motors,2011,750000,Diesel,Tipper,12.3,2,Good,346000
+Tata Motors,2017,436157,Diesel,Open Body,18.2,4,Fair,509000
+Tata Motors,2018,352951,Diesel,Open Body,28.3,3,Good,1062000
+Ashok Leyland,2010,750000,Diesel,Open Body,31.6,1,Excellent,474000
+Tata Motors,2013,454271,Diesel,Tipper,17.4,2,Excellent,654000
+Tata Motors,2021,270428,Diesel,Open Body,15.5,1,Good,1336000
+Ashok Leyland,2015,389240,Diesel,Flatbed,17.0,3,Good,563000
+Eicher,2020,355218,Diesel,Container,30.4,3,Good,1562000
+Eicher,2011,512784,Diesel,Container,22.3,3,Good,460000
+Eicher,2016,318526,Diesel,Open Body,34.1,3,Fair,767000
+Ashok Leyland,2011,706822,CNG,Tanker,24.5,1,Fair,490000
+Eicher,2015,551668,Diesel,Open Body,18.5,2,Excellent,601000
+Ashok Leyland,2018,246988,Diesel,Open Body,10.8,1,Fair,885000
+Ashok Leyland,2013,681111,Diesel,Tipper,23.9,2,Excellent,630000
+Tata Motors,2014,587171,Diesel,Open Body,23.9,4,Good,471000
+Tata Motors,2011,566078,Diesel,Tipper,12.6,2,Poor,263000
+Ashok Leyland,2020,298614,Diesel,Tanker,27.5,1,Good,2082000
+Tata Motors,2015,406978,Diesel,Container,16.0,4,Excellent,726000
+BharatBenz,2013,716841,Diesel,Tipper,26.8,2,Good,567000
+Mahindra Truck,2012,721307,Diesel,Open Body,19.3,2,Fair,251000
+Tata Motors,2014,684061,Diesel,Tipper,27.3,2,Good,664000
+Ashok Leyland,2019,247131,Diesel,Mini Truck,1.5,1,Good,326000
+Ashok Leyland,2014,652061,Diesel,Tipper,16.0,1,Fair,496000
+Ashok Leyland,2013,750000,Diesel,Tipper,10.8,3,Good,369000
+BharatBenz,2019,303756,Diesel,Open Body,12.0,1,Good,1109000
+Ashok Leyland,2022,237495,Diesel,Open Body,27.7,2,Good,2051000
+Eicher,2011,731780,Diesel,Container,17.1,1,Good,427000
+Tata Motors,2020,230323,Diesel,Open Body,24.1,3,Good,1302000
+Tata Motors,2018,473833,Diesel,Open Body,32.5,1,Good,1288000
+Eicher,2009,640042,Diesel,Open Body,13.5,3,Poor,126000
+Ashok Leyland,2015,662371,Diesel,Flatbed,14.2,2,Good,451000
+Ashok Leyland,2021,312641,Diesel,Tipper,10.7,1,Good,1555000
+Ashok Leyland,2016,416153,Diesel,Open Body,31.4,2,Fair,809000
+Tata Motors,2019,324455,Diesel,Container,28.0,1,Good,1894000
+Tata Motors,2019,295686,Diesel,Container,20.1,1,Fair,1570000
+Tata Motors,2014,686003,CNG,Tipper,13.5,1,Good,588000
+BharatBenz,2018,279127,Diesel,Tanker,13.6,1,Excellent,1511000
+Tata Motors,2021,198147,Diesel,Tipper,11.1,2,Fair,1250000
+Tata Motors,2018,515459,Diesel,Tanker,21.0,2,Poor,827000
+Ashok Leyland,2009,750000,Diesel,Tipper,23.2,2,Fair,288000
+Ashok Leyland,2014,545096,Diesel,Open Body,28.2,4,Good,459000
+Tata Motors,2011,698306,Diesel,Tipper,26.0,2,Good,437000
+Mahindra Truck,2023,74764,Diesel,Tanker,19.2,1,Good,3253000
+Tata Motors,2019,362009,Diesel,Open Body,13.5,1,Good,1092000
+Mahindra Truck,2020,416930,Diesel,Open Body,30.5,2,Fair,1194000
+Ashok Leyland,2020,283881,Diesel,Open Body,17.7,2,Good,1152000
+Tata Motors,2016,536691,Diesel,Open Body,11.5,1,Excellent,696000
+Tata Motors,2015,717853,Diesel,Tipper,23.2,2,Good,648000
+Eicher,2022,212812,Diesel,Open Body,10.7,1,Good,1447000
+Eicher,2008,681109,Diesel,Open Body,39.0,3,Excellent,331000
+Tata Motors,2022,143874,Diesel,Mini Truck,2.1,2,Good,525000
+BharatBenz,2015,531969,Diesel,Container,31.8,2,Fair,877000
+Tata Motors,2014,412074,Diesel,Open Body,27.5,3,Fair,507000
+Ashok Leyland,2017,592861,Diesel,Open Body,5.0,2,Good,433000
+Tata Motors,2018,334336,Diesel,Container,20.2,2,Excellent,1550000
+Ashok Leyland,2011,578699,Diesel,Container,18.8,2,Poor,337000
+Eicher,2014,750000,CNG,Mini Truck,3.0,3,Fair,120000
+BharatBenz,2011,456767,Diesel,Tipper,12.6,3,Fair,316000
+Ashok Leyland,2011,678864,Diesel,Container,20.2,2,Excellent,558000
+Eicher,2019,246690,Diesel,Tipper,21.1,1,Fair,1415000
+Tata Motors,2013,476711,Diesel,Open Body,20.5,3,Excellent,470000
+BharatBenz,2016,368618,Diesel,Flatbed,20.8,2,Fair,694000
+Tata Motors,2018,321135,Diesel,Open Body,28.8,2,Good,1230000
+Eicher,2016,630005,Diesel,Tipper,13.1,3,Good,563000
+Eicher,2012,750000,Diesel,Container,25.7,1,Good,583000
+Ashok Leyland,2013,498527,CNG,Tanker,19.2,1,Fair,663000
+Ashok Leyland,2016,507733,Diesel,Tipper,23.6,2,Fair,773000
+Ashok Leyland,2021,274678,Diesel,Tipper,15.9,2,Fair,1364000
+Tata Motors,2012,750000,Diesel,Tipper,16.4,2,Good,408000
+Tata Motors,2020,181683,Diesel,Open Body,25.6,1,Fair,1531000
+Ashok Leyland,2016,665861,Diesel,Container,33.7,2,Excellent,1144000
+Tata Motors,2017,330559,Diesel,Open Body,36.9,4,Good,864000
+Tata Motors,2017,366323,Diesel,Open Body,32.5,1,Excellent,1340000
+Mahindra Truck,2018,391787,Diesel,Tipper,23.6,1,Good,1410000
+Mahindra Truck,2021,309435,Diesel,Flatbed,29.6,3,Fair,1223000
+Eicher,2014,388144,Diesel,Tipper,13.5,1,Excellent,811000
+Tata Motors,2018,492012,Diesel,Mini Truck,3.0,2,Excellent,315000
+Tata Motors,2020,368771,Diesel,Container,14.8,1,Fair,1376000
+Tata Motors,2015,348839,Diesel,Tipper,19.1,3,Fair,629000
+Eicher,2020,258520,Diesel,Tipper,26.6,1,Excellent,2315000
+BharatBenz,2010,750000,Diesel,Tipper,15.7,2,Fair,287000
+Eicher,2010,497765,Diesel,Open Body,14.8,3,Fair,226000
+Tata Motors,2023,137624,Diesel,Tipper,26.7,1,Fair,2691000
+Ashok Leyland,2014,750000,Diesel,Open Body,5.6,3,Poor,162000
+Ashok Leyland,2015,493907,Diesel,Open Body,11.8,1,Excellent,639000
+Tata Motors,2016,275711,Diesel,Open Body,33.9,1,Good,1143000
+Tata Motors,2020,298955,Diesel,Open Body,22.2,1,Excellent,1718000
+Tata Motors,2011,750000,Diesel,Tipper,13.2,2,Fair,282000
+Tata Motors,2018,428005,Diesel,Tanker,18.7,2,Excellent,1506000
+Mahindra Truck,2012,421960,Diesel,Container,22.8,1,Fair,677000
+Tata Motors,2015,316708,Diesel,Container,27.3,2,Excellent,1314000
+Tata Motors,2017,313327,Diesel,Tanker,28.4,1,Fair,1321000
+Tata Motors,2018,272898,Diesel,Container,15.3,2,Excellent,1374000
+Eicher,2017,441167,Diesel,Tipper,17.4,4,Good,707000
+Tata Motors,2020,245489,Diesel,Open Body,32.2,1,Fair,1586000
+Ashok Leyland,2016,528570,Diesel,Tipper,26.7,2,Excellent,1087000
+Ashok Leyland,2016,472053,Diesel,Container,22.5,2,Fair,882000
+Tata Motors,2016,387092,Diesel,Tanker,19.0,1,Good,1200000
+Tata Motors,2011,750000,Diesel,Tipper,12.4,3,Good,295000
+Ashok Leyland,2018,483094,CNG,Open Body,16.2,4,Good,620000
+BharatBenz,2008,750000,Diesel,Tipper,11.2,1,Good,261000
+Tata Motors,2023,140352,Diesel,Container,31.3,1,Good,3657000
+Tata Motors,2016,347428,Diesel,Open Body,28.3,2,Good,957000
+Tata Motors,2016,377562,Diesel,Open Body,12.9,4,Good,475000
+Ashok Leyland,2018,201982,Diesel,Mini Truck,2.6,2,Good,301000
+Eicher,2013,437666,Diesel,Mini Truck,1.4,4,Good,120000
+Ashok Leyland,2017,553354,Diesel,Open Body,30.4,1,Fair,866000
+Ashok Leyland,2014,558950,Diesel,Open Body,30.8,3,Good,584000
+Tata Motors,2011,750000,Diesel,Container,15.8,2,Excellent,452000
+Mahindra Truck,2011,550011,Diesel,Tipper,21.0,2,Fair,350000
+BharatBenz,2015,637486,Diesel,Open Body,35.3,1,Good,865000
+BharatBenz,2017,512753,Diesel,Open Body,38.4,3,Good,906000
+Ashok Leyland,2020,285564,Diesel,Tipper,23.3,2,Good,1613000
+BharatBenz,2019,344166,Diesel,Container,14.9,1,Excellent,1881000
+Eicher,2019,353634,Diesel,Container,35.0,3,Poor,988000
+Mahindra Truck,2018,215792,Diesel,Mini Truck,2.6,4,Good,237000
+Tata Motors,2019,361528,Diesel,Open Body,32.7,2,Excellent,1573000
+Ashok Leyland,2018,495628,Diesel,Flatbed,39.0,3,Good,1033000
+Tata Motors,2014,588702,Diesel,Container,15.3,1,Good,699000
+Eicher,2018,347511,Diesel,Container,16.6,1,Good,1285000
+Tata Motors,2022,171099,Diesel,Container,26.6,1,Good,3226000
+Eicher,2013,590180,Diesel,Tanker,16.6,2,Good,595000
+Tata Motors,2023,110557,Diesel,Open Body,31.9,1,Excellent,3387000
+Tata Motors,2010,750000,Diesel,Open Body,19.5,1,Excellent,366000
+Eicher,2016,661443,Diesel,Tipper,19.8,4,Good,583000
+Tata Motors,2009,718884,Diesel,Open Body,17.7,2,Fair,222000
+Ashok Leyland,2012,750000,Diesel,Container,14.1,4,Good,339000
+Ashok Leyland,2021,345877,Diesel,Tipper,21.2,1,Excellent,2193000
+Mahindra Truck,2016,661516,Diesel,Container,22.1,3,Fair,617000
+BharatBenz,2019,388687,CNG,Open Body,19.8,1,Good,1117000
+Tata Motors,2016,381810,Diesel,Open Body,31.0,2,Fair,806000
+Eicher,2015,583820,Diesel,Tanker,17.6,2,Fair,556000
+Tata Motors,2021,189900,Diesel,Open Body,10.1,2,Poor,830000
+Tata Motors,2013,750000,Diesel,Container,23.2,1,Excellent,677000
+Ashok Leyland,2020,272466,Diesel,Open Body,5.4,2,Poor,561000
+BharatBenz,2023,135394,Diesel,Container,20.4,1,Fair,2513000
+Tata Motors,2013,603220,Diesel,Tipper,17.3,2,Good,565000
+Ashok Leyland,2015,403992,Diesel,Container,27.4,1,Fair,921000
+BharatBenz,2008,556463,Diesel,Container,14.6,2,Excellent,377000
+Tata Motors,2012,677691,Diesel,Tipper,15.0,1,Good,493000
+Eicher,2011,750000,CNG,Flatbed,33.9,3,Fair,295000
+BharatBenz,2012,750000,Diesel,Container,28.4,3,Good,505000
+Ashok Leyland,2014,536655,Diesel,Tanker,14.1,1,Fair,613000
+Mahindra Truck,2019,316437,Diesel,Open Body,6.0,2,Good,768000
+BharatBenz,2019,306560,Diesel,Open Body,17.6,1,Good,1160000
+Tata Motors,2010,662339,CNG,Tipper,24.1,2,Fair,319000
+Ashok Leyland,2014,547057,Diesel,Open Body,38.9,2,Excellent,831000
+Mahindra Truck,2021,259613,Diesel,Open Body,35.1,1,Good,2128000
+Ashok Leyland,2019,177711,Diesel,Mini Truck,1.8,1,Good,373000
+Ashok Leyland,2021,273643,Diesel,Tanker,22.5,1,Good,2351000
+Mahindra Truck,2013,392761,Diesel,Open Body,32.3,1,Fair,626000
+Eicher,2014,369950,Diesel,Open Body,34.8,3,Excellent,731000
+Mahindra Truck,2021,327157,Diesel,Flatbed,30.5,1,Good,1839000
+Ashok Leyland,2016,396434,Diesel,Tipper,27.4,1,Poor,737000
+Tata Motors,2021,266292,Diesel,Open Body,8.2,1,Good,1254000
+Tata Motors,2020,189947,Diesel,Open Body,19.2,1,Excellent,1716000
+Tata Motors,2019,188090,Diesel,Open Body,8.8,3,Poor,498000
+Tata Motors,2015,592684,Diesel,Mini Truck,2.8,2,Fair,138000
+Eicher,2019,269483,Diesel,Container,19.9,3,Excellent,1462000
+Tata Motors,2010,750000,Diesel,Tanker,13.8,2,Good,362000
+Ashok Leyland,2017,526421,Diesel,Tipper,12.0,1,Fair,789000
+BharatBenz,2017,435955,Diesel,Open Body,13.7,3,Excellent,659000
+Tata Motors,2016,534197,CNG,Open Body,35.1,2,Poor,538000
+Ashok Leyland,2011,405662,Diesel,Tanker,14.2,3,Good,473000
+Tata Motors,2018,485032,Diesel,Mini Truck,2.4,2,Good,259000
+Ashok Leyland,2019,274751,Diesel,Open Body,19.7,1,Fair,1122000
+Mahindra Truck,2015,669571,Diesel,Open Body,32.0,2,Good,648000
+Eicher,2018,491661,Diesel,Tipper,20.7,2,Fair,906000
+Tata Motors,2021,185255,Diesel,Tanker,16.0,1,Good,2276000
+Mahindra Truck,2019,208513,Diesel,Container,18.6,1,Excellent,1978000
+Eicher,2016,611014,Diesel,Container,34.7,1,Good,1225000
+BharatBenz,2013,750000,Diesel,Mini Truck,2.9,3,Fair,120000
+Tata Motors,2023,94114,Diesel,Mini Truck,2.4,1,Fair,572000
+Tata Motors,2008,625144,Diesel,Tanker,20.8,1,Good,405000
+Ashok Leyland,2018,332284,Diesel,Tipper,17.6,3,Poor,693000
+Ashok Leyland,2020,307670,Diesel,Container,24.7,2,Good,1930000
+Ashok Leyland,2021,163596,Diesel,Open Body,34.7,1,Excellent,2594000
+Tata Motors,2018,237735,CNG,Flatbed,20.6,2,Good,1008000
+Ashok Leyland,2018,279551,Diesel,Tipper,20.2,1,Poor,1007000
+BharatBenz,2017,467005,Diesel,Tipper,26.9,2,Good,1103000
+Tata Motors,2015,365227,Diesel,Open Body,7.0,3,Fair,368000
+Force Motors,2014,477692,Diesel,Open Body,16.5,1,Excellent,656000
+Force Motors,2013,750000,Diesel,Mini Truck,2.9,2,Fair,120000
+BharatBenz,2016,531614,Diesel,Open Body,37.3,1,Excellent,1233000
+BharatBenz,2008,642205,Diesel,Container,18.9,3,Good,291000
+Tata Motors,2021,220385,Diesel,Mini Truck,2.8,3,Excellent,475000
+Ashok Leyland,2019,403676,Diesel,Container,31.0,1,Good,1883000
+Mahindra Truck,2020,342254,Diesel,Open Body,24.5,1,Fair,1185000
+Eicher,2019,447292,Diesel,Open Body,35.8,1,Good,1476000
+Ashok Leyland,2014,735624,Diesel,Container,32.1,1,Excellent,931000
+Eicher,2013,339028,Diesel,Tipper,25.1,2,Excellent,876000
+Tata Motors,2017,536660,CNG,Open Body,5.4,2,Excellent,554000
+Ashok Leyland,2013,623029,Diesel,Mini Truck,3.3,2,Good,136000
+Mahindra Truck,2014,750000,Diesel,Open Body,34.1,3,Good,439000
+Ashok Leyland,2018,305529,Diesel,Open Body,16.1,3,Good,784000
+Ashok Leyland,2016,343026,Diesel,Container,16.9,4,Good,815000
+Ashok Leyland,2018,431312,Diesel,Open Body,29.8,3,Excellent,1107000
+BharatBenz,2019,332566,CNG,Container,22.5,1,Excellent,1878000
+Ashok Leyland,2019,412472,Diesel,Open Body,30.8,1,Excellent,1486000
+Ashok Leyland,2018,418306,Diesel,Flatbed,19.6,2,Fair,684000
+Eicher,2019,247635,Diesel,Container,16.4,2,Poor,900000
+Tata Motors,2020,172933,Diesel,Container,26.8,1,Poor,1442000
+Ashok Leyland,2008,750000,Diesel,Container,20.0,2,Good,310000
+Tata Motors,2016,617628,Diesel,Open Body,10.8,2,Poor,327000
+Tata Motors,2018,420339,CNG,Flatbed,30.1,2,Good,1045000
+Eicher,2019,304960,Diesel,Mini Truck,3.4,1,Poor,273000
+Tata Motors,2020,291338,Diesel,Open Body,13.6,1,Good,1255000
+BharatBenz,2014,650985,Diesel,Tanker,20.9,2,Good,720000
+Tata Motors,2013,576715,CNG,Flatbed,29.8,1,Fair,481000
+Tata Motors,2014,617119,Diesel,Mini Truck,1.9,2,Good,149000
+Ashok Leyland,2018,490442,Diesel,Open Body,13.9,2,Good,751000
+Ashok Leyland,2013,415252,Diesel,Container,14.1,1,Fair,600000
+Eicher,2013,632947,Diesel,Container,32.4,1,Good,790000
+BharatBenz,2014,722079,Diesel,Tipper,16.0,2,Excellent,557000
+Tata Motors,2023,208234,Diesel,Flatbed,29.2,1,Excellent,2789000
+Ashok Leyland,2022,202149,Diesel,Tipper,15.0,2,Good,2037000
+Eicher,2012,564787,Diesel,Flatbed,16.5,4,Poor,184000
+BharatBenz,2018,278952,Diesel,Mini Truck,3.3,2,Excellent,379000
+Tata Motors,2011,584864,Diesel,Container,16.1,2,Excellent,526000
+Ashok Leyland,2022,214290,CNG,Container,15.1,1,Fair,1855000
+BharatBenz,2010,750000,Diesel,Tipper,22.8,3,Poor,230000
+Tata Motors,2013,557229,Diesel,Tipper,24.6,2,Good,657000
+Ashok Leyland,2020,223801,Diesel,Tipper,13.8,3,Good,1314000
+Ashok Leyland,2020,368657,Diesel,Tipper,17.3,2,Good,1409000
+Ashok Leyland,2019,257088,Diesel,Tipper,27.0,1,Good,1913000
+Tata Motors,2016,438461,Diesel,Open Body,19.8,1,Fair,737000
+Tata Motors,2016,608749,Diesel,Container,32.7,3,Good,951000
+Ashok Leyland,2018,424170,Diesel,Mini Truck,3.3,3,Fair,212000
+Tata Motors,2017,316216,Diesel,Tipper,11.4,1,Good,1071000
+Tata Motors,2008,750000,CNG,Open Body,9.1,2,Good,156000
+Tata Motors,2012,544867,Diesel,Container,24.1,2,Excellent,720000
+Tata Motors,2014,641672,Diesel,Container,28.5,2,Excellent,888000
+Tata Motors,2022,120846,Diesel,Container,28.9,1,Good,3251000
+Ashok Leyland,2017,373844,Diesel,Open Body,7.1,3,Excellent,583000
+Eicher,2021,238411,Diesel,Open Body,37.9,3,Good,1608000
+Eicher,2017,310014,CNG,Open Body,7.7,4,Excellent,548000
+Tata Motors,2019,245885,Diesel,Tanker,24.3,1,Fair,1836000
+Ashok Leyland,2010,750000,Diesel,Mini Truck,2.8,2,Good,120000
+Tata Motors,2023,151854,Diesel,Tipper,17.3,1,Good,2382000
+Eicher,2014,377883,Diesel,Container,15.9,3,Poor,430000
+Ashok Leyland,2020,191502,CNG,Flatbed,7.2,1,Good,1061000
+Ashok Leyland,2019,384375,Diesel,Open Body,30.9,3,Good,1061000
+Tata Motors,2013,706899,Diesel,Open Body,20.0,2,Poor,249000
+Tata Motors,2011,453315,Diesel,Container,32.3,2,Excellent,714000
+Tata Motors,2015,481121,Diesel,Open Body,12.6,3,Poor,286000
+Tata Motors,2014,657659,CNG,Container,23.4,1,Fair,591000
+Tata Motors,2011,534870,Diesel,Tipper,12.1,3,Fair,306000
+Eicher,2019,445925,Diesel,Container,14.0,2,Excellent,1253000
+Ashok Leyland,2010,750000,Diesel,Open Body,15.6,3,Excellent,257000
+BharatBenz,2018,510470,Diesel,Tipper,11.4,1,Poor,658000
+Ashok Leyland,2014,599791,Diesel,Tanker,19.5,2,Fair,583000
+Eicher,2017,459469,Diesel,Tipper,26.0,2,Excellent,1077000
+Tata Motors,2011,548255,Diesel,Tipper,22.9,2,Good,526000
+Tata Motors,2020,346944,Diesel,Open Body,30.0,1,Good,1716000
+Tata Motors,2019,256507,Diesel,Mini Truck,2.7,2,Fair,297000
+Tata Motors,2013,750000,Diesel,Tipper,16.0,2,Good,418000
+Mahindra Truck,2012,750000,Diesel,Container,29.3,1,Excellent,621000
+Mahindra Truck,2018,300063,Diesel,Tipper,22.7,2,Fair,1004000
+Ashok Leyland,2018,291875,Diesel,Tanker,12.6,2,Fair,997000
+Ashok Leyland,2010,750000,Diesel,Flatbed,5.9,4,Fair,137000
+Ashok Leyland,2013,624769,Diesel,Tanker,27.6,1,Good,824000
+Mahindra Truck,2014,560116,Diesel,Tipper,20.4,2,Good,562000
+Ashok Leyland,2008,750000,Diesel,Tipper,17.0,1,Fair,263000
+Ashok Leyland,2022,216687,Diesel,Mini Truck,1.5,2,Fair,325000
+Tata Motors,2013,383271,Diesel,Tanker,29.4,3,Poor,517000
+Tata Motors,2015,485351,CNG,Open Body,16.5,2,Good,585000
+Eicher,2018,493988,CNG,Container,23.8,1,Good,1137000
+Ashok Leyland,2009,750000,Diesel,Tipper,20.7,1,Good,321000
+Tata Motors,2017,404211,Diesel,Container,29.7,2,Fair,1113000
+Eicher,2013,750000,Diesel,Container,27.5,2,Good,601000
+Mahindra Truck,2016,277455,Diesel,Open Body,28.5,4,Good,673000
+BharatBenz,2013,550594,Diesel,Tanker,26.6,2,Good,806000
+Eicher,2018,395123,Diesel,Tanker,25.0,1,Good,1558000
+Tata Motors,2018,315189,Diesel,Tanker,15.2,2,Good,1395000
+Eicher,2016,269631,Diesel,Open Body,16.2,2,Good,748000
+Tata Motors,2016,292053,Diesel,Tipper,19.9,3,Poor,611000
+Tata Motors,2023,98202,Diesel,Tanker,23.7,1,Good,3545000
+Eicher,2011,535845,Diesel,Open Body,15.7,1,Good,348000
+BharatBenz,2016,410933,Diesel,Tipper,12.6,2,Good,826000
+Tata Motors,2020,241089,Diesel,Open Body,36.0,2,Good,1708000
+Tata Motors,2016,286978,Diesel,Tanker,14.2,3,Fair,766000
+Ashok Leyland,2020,198231,Diesel,Tanker,16.1,3,Good,1537000
+Tata Motors,2020,353434,Diesel,Open Body,17.2,1,Good,1273000
+Ashok Leyland,2012,540658,Diesel,Tanker,19.6,2,Good,651000
+Tata Motors,2018,495513,Diesel,Mini Truck,3.0,2,Excellent,315000
+Tata Motors,2016,478627,Diesel,Container,27.1,2,Fair,891000
+Tata Motors,2014,633721,Diesel,Tanker,28.1,2,Good,787000
+Mahindra Truck,2016,573899,Diesel,Container,14.6,2,Good,743000
+Tata Motors,2013,667845,Diesel,Mini Truck,3.4,1,Fair,144000
+Ashok Leyland,2017,444705,Diesel,Open Body,20.6,2,Poor,575000
+Tata Motors,2016,379506,Diesel,Open Body,8.1,3,Fair,403000
+Eicher,2012,412595,Diesel,Tipper,14.9,2,Good,520000
+BharatBenz,2018,523678,Diesel,Tipper,25.9,2,Excellent,1349000
+Tata Motors,2013,474964,Diesel,Container,25.4,2,Poor,499000
+Tata Motors,2015,464455,Diesel,Tipper,23.4,2,Good,780000
+Ashok Leyland,2020,401927,Diesel,Mini Truck,3.5,2,Good,376000
+Eicher,2020,370547,Diesel,Tipper,14.9,2,Excellent,1440000
+BharatBenz,2016,381761,Diesel,Open Body,38.0,3,Good,918000
+Ashok Leyland,2017,516222,Diesel,Tipper,11.1,3,Fair,575000
+Mahindra Truck,2020,408184,Diesel,Tipper,26.2,2,Poor,1042000
+Eicher,2018,330759,Diesel,Open Body,27.9,3,Fair,782000
+Ashok Leyland,2012,528401,Diesel,Flatbed,21.6,2,Good,436000
+Ashok Leyland,2013,538619,Diesel,Tanker,24.8,2,Fair,655000
+Tata Motors,2011,750000,Diesel,Open Body,24.7,2,Fair,273000
+Tata Motors,2017,384236,Diesel,Tanker,12.1,2,Excellent,1202000
+BharatBenz,2015,515308,Diesel,Tipper,17.7,3,Excellent,790000
+Ashok Leyland,2016,268178,Diesel,Tanker,17.1,2,Fair,979000
+Tata Motors,2019,266563,Diesel,Tipper,19.3,1,Fair,1245000
+Ashok Leyland,2020,306402,Diesel,Open Body,25.7,3,Poor,793000
+Tata Motors,2022,114122,Diesel,Open Body,10.3,1,Good,1599000
+Ashok Leyland,2016,608645,Diesel,Container,16.2,3,Good,727000
+Tata Motors,2011,369844,Diesel,Container,16.8,2,Fair,450000
+Tata Motors,2016,500844,Diesel,Container,33.8,3,Excellent,1111000
+Tata Motors,2020,152905,Diesel,Open Body,22.8,2,Good,1640000
+Ashok Leyland,2020,349193,Diesel,Mini Truck,2.3,2,Good,353000
+Eicher,2021,274659,Diesel,Open Body,35.0,1,Good,2063000
+Ashok Leyland,2011,525546,Diesel,Container,22.1,2,Good,519000
+Mahindra Truck,2013,725481,CNG,Open Body,9.5,2,Poor,150000
+Mahindra Truck,2014,468797,Diesel,Mini Truck,3.1,1,Fair,159000
+Tata Motors,2017,479451,Diesel,Open Body,37.4,2,Excellent,1308000
+Ashok Leyland,2016,430378,Diesel,Open Body,16.1,3,Good,550000
+Eicher,2014,750000,Diesel,Container,31.9,2,Fair,646000
+Tata Motors,2015,386347,CNG,Container,28.2,2,Poor,670000
+Tata Motors,2019,441154,Diesel,Open Body,7.0,2,Excellent,761000
+Eicher,2014,318570,Diesel,Container,29.3,1,Fair,870000
+Force Motors,2017,230865,Diesel,Tanker,20.5,3,Excellent,1185000
+Tata Motors,2016,315772,Diesel,Tipper,24.4,1,Excellent,1386000
+Eicher,2017,281514,Diesel,Open Body,37.3,4,Good,879000
+Ashok Leyland,2018,410608,Diesel,Tipper,12.7,2,Good,1016000
+Eicher,2018,306770,Diesel,Open Body,9.6,3,Excellent,676000
+Eicher,2016,435830,Diesel,Tipper,13.7,3,Good,673000
+Tata Motors,2018,434539,Diesel,Open Body,37.0,1,Excellent,1687000
+Tata Motors,2017,246061,Diesel,Flatbed,30.0,3,Good,970000
+Ashok Leyland,2015,566690,Diesel,Open Body,31.3,1,Fair,685000
+Ashok Leyland,2013,750000,Diesel,Tanker,15.2,2,Good,523000
+Ashok Leyland,2008,750000,Diesel,Container,31.4,2,Fair,327000
+Eicher,2020,286283,Diesel,Tipper,10.5,1,Good,1452000
+Ashok Leyland,2012,750000,Diesel,Tanker,23.8,2,Good,578000
+Ashok Leyland,2016,420087,Diesel,Open Body,12.9,1,Fair,583000
+Ashok Leyland,2014,567706,CNG,Container,34.0,3,Poor,510000
+Tata Motors,2021,321050,Diesel,Open Body,34.4,1,Excellent,2386000
+Tata Motors,2013,750000,Diesel,Container,15.6,3,Good,420000
+Tata Motors,2010,750000,Diesel,Tipper,17.1,1,Good,393000
+Ashok Leyland,2010,750000,Diesel,Open Body,37.5,1,Good,413000
+BharatBenz,2019,404390,Diesel,Tipper,17.2,2,Poor,805000
+Tata Motors,2021,185539,Diesel,Open Body,19.6,1,Excellent,1909000
+Ashok Leyland,2011,750000,Diesel,Container,30.9,3,Good,462000
+Tata Motors,2014,750000,Diesel,Container,22.4,3,Good,542000
+Tata Motors,2022,165438,Diesel,Flatbed,22.0,2,Good,1646000
+Tata Motors,2018,266594,Diesel,Open Body,16.7,2,Excellent,1069000
+Tata Motors,2017,537472,Diesel,Open Body,20.5,3,Good,739000
+Tata Motors,2010,580547,Diesel,Tipper,16.4,1,Excellent,502000
+Ashok Leyland,2015,488028,Diesel,Open Body,21.0,2,Excellent,746000
+Tata Motors,2014,653143,Diesel,Tipper,10.4,4,Good,391000
+Tata Motors,2014,634724,Diesel,Container,24.6,3,Poor,386000
+Ashok Leyland,2013,750000,Diesel,Container,28.5,2,Excellent,727000
+Eicher,2014,721934,Diesel,Container,33.5,2,Fair,626000
+Ashok Leyland,2023,186815,Diesel,Container,24.8,2,Good,2871000
+Tata Motors,2017,482549,Diesel,Tipper,16.8,1,Good,999000
+Tata Motors,2019,366965,Diesel,Tipper,11.2,1,Good,1343000
+Ashok Leyland,2013,374338,Diesel,Mini Truck,2.7,1,Good,202000
+Tata Motors,2013,651014,Diesel,Tanker,13.2,1,Fair,489000
+Tata Motors,2020,307042,Diesel,Tipper,13.1,1,Fair,1404000
+Eicher,2018,367314,Diesel,Open Body,16.5,1,Good,957000
+Eicher,2008,527368,Diesel,Flatbed,27.1,2,Good,297000
+Eicher,2017,300542,CNG,Container,15.4,1,Good,1179000
+Ashok Leyland,2008,750000,CNG,Container,23.5,3,Poor,192000
+BharatBenz,2022,168924,Diesel,Open Body,30.0,1,Good,2484000
+Ashok Leyland,2022,179935,Diesel,Open Body,21.9,1,Good,2119000
+Tata Motors,2016,482614,Diesel,Container,22.8,2,Good,1007000
+Ashok Leyland,2022,252743,Diesel,Open Body,36.2,2,Excellent,2454000
+Eicher,2012,587072,Diesel,Tipper,16.5,3,Fair,333000
+BharatBenz,2017,427061,Diesel,Tanker,28.9,3,Good,1290000
+Ashok Leyland,2022,95221,Diesel,Tipper,24.9,1,Good,2695000
+Tata Motors,2017,272731,Diesel,Container,20.4,2,Fair,1148000
+Ashok Leyland,2009,527884,Diesel,Flatbed,13.5,2,Fair,215000
+Eicher,2019,271261,Diesel,Container,24.0,2,Good,1698000
+Eicher,2013,315582,Diesel,Container,31.8,2,Excellent,1127000
+Ashok Leyland,2015,351156,Diesel,Container,17.6,1,Good,1080000
+Ashok Leyland,2014,353117,Diesel,Tipper,13.9,2,Poor,460000
+BharatBenz,2016,344627,Diesel,Tipper,12.3,2,Good,847000
+Tata Motors,2017,574644,Diesel,Open Body,23.2,1,Good,893000
+Ashok Leyland,2010,651208,Diesel,Open Body,13.1,4,Fair,167000
+Tata Motors,2023,102841,CNG,Container,15.1,1,Good,2788000
+Tata Motors,2017,193347,Diesel,Container,14.4,2,Fair,1111000
+Tata Motors,2012,657738,Diesel,Container,28.3,1,Good,678000
+Eicher,2021,238018,Diesel,Tipper,19.6,1,Fair,1611000
+Tata Motors,2023,113484,Diesel,Tipper,16.5,1,Poor,1618000
+Tata Motors,2018,292800,Diesel,Container,16.9,2,Fair,1020000
+Ashok Leyland,2014,750000,Diesel,Flatbed,32.6,3,Fair,413000
+Tata Motors,2013,708544,Diesel,Open Body,39.1,3,Good,508000
+Tata Motors,2012,709507,Diesel,Open Body,22.8,2,Good,394000
+BharatBenz,2014,530095,Diesel,Open Body,9.0,3,Good,356000
+Eicher,2019,304904,Diesel,Open Body,23.2,2,Good,1028000
+Tata Motors,2022,168528,Diesel,Open Body,13.8,2,Poor,955000
+Eicher,2022,248497,Diesel,Open Body,37.3,1,Good,2536000
+Ashok Leyland,2017,207248,Diesel,Tanker,26.7,2,Excellent,1674000
+Tata Motors,2009,750000,Diesel,Container,30.7,4,Good,312000
+Eicher,2010,750000,Diesel,Tanker,26.4,2,Good,431000
+Ashok Leyland,2022,225070,Diesel,Open Body,36.3,2,Good,2306000
+Mahindra Truck,2010,750000,Diesel,Open Body,37.5,3,Good,326000
+Eicher,2010,635392,Diesel,Open Body,10.5,2,Poor,159000
+Tata Motors,2018,348512,Diesel,Tipper,24.1,2,Good,1272000
+Ashok Leyland,2018,417445,Diesel,Open Body,8.8,4,Fair,501000
+Tata Motors,2015,404546,Diesel,Container,30.3,3,Fair,740000
+Mahindra Truck,2014,448096,Diesel,Tanker,16.7,1,Fair,658000
+Eicher,2014,435380,Diesel,Tipper,11.1,2,Good,602000
+Ashok Leyland,2021,180810,Diesel,Tipper,14.1,1,Fair,1669000
+Eicher,2016,269298,Diesel,Container,33.1,1,Poor,965000
+Eicher,2018,297358,Diesel,Tanker,22.5,4,Good,1188000
+Eicher,2019,205765,Diesel,Container,23.3,1,Excellent,2123000
+BharatBenz,2017,428796,Diesel,Container,18.2,1,Good,1259000
+Tata Motors,2016,597843,Diesel,Tipper,26.4,2,Fair,724000
+Ashok Leyland,2019,451188,Diesel,Open Body,26.1,2,Fair,928000
+Tata Motors,2016,603817,Diesel,Open Body,39.6,2,Good,843000
+Tata Motors,2020,393882,Diesel,Tipper,18.4,2,Fair,1224000
+Ashok Leyland,2020,163686,CNG,Container,17.3,2,Good,1541000
+Eicher,2016,483124,Diesel,Mini Truck,2.4,3,Good,168000
+Mahindra Truck,2013,719231,Diesel,Container,19.9,2,Excellent,607000
+Tata Motors,2019,221696,Diesel,Open Body,33.5,2,Good,1489000
+Tata Motors,2012,731854,Diesel,Open Body,17.7,1,Good,397000
+BharatBenz,2012,553002,Diesel,Container,23.7,1,Excellent,862000
+Mahindra Truck,2018,505085,Diesel,Container,33.7,1,Fair,1315000
+Ashok Leyland,2019,403150,Diesel,Open Body,31.8,2,Fair,1151000
+Force Motors,2019,221875,Diesel,Tipper,16.7,3,Poor,707000
+Tata Motors,2019,302704,Diesel,Tanker,14.3,2,Good,1479000
+Eicher,2019,320807,Diesel,Mini Truck,2.6,2,Fair,267000
+Tata Motors,2012,588847,CNG,Tipper,23.6,3,Good,413000
+Tata Motors,2012,750000,Diesel,Flatbed,36.4,4,Fair,278000
+Tata Motors,2010,656737,Diesel,Open Body,15.3,2,Good,278000
+Tata Motors,2015,542232,Diesel,Tipper,15.8,2,Fair,584000
+BharatBenz,2018,474441,Diesel,Open Body,5.5,3,Good,542000
+Ashok Leyland,2023,81731,Diesel,Open Body,15.7,1,Poor,1288000
+Eicher,2017,336016,Diesel,Tanker,29.1,3,Poor,819000
+Ashok Leyland,2015,416622,Diesel,Tipper,18.9,3,Fair,602000
+Tata Motors,2022,99670,Diesel,Open Body,8.2,1,Excellent,1754000
+Tata Motors,2023,73207,CNG,Open Body,16.0,1,Fair,1618000
+Tata Motors,2012,736079,Diesel,Tanker,17.6,3,Good,388000
+Tata Motors,2017,419820,Diesel,Open Body,8.6,2,Good,666000
+Ashok Leyland,2009,574112,Diesel,Open Body,21.0,2,Fair,236000
+Tata Motors,2008,559845,Diesel,Tanker,29.2,2,Good,458000
+Tata Motors,2014,342050,Diesel,Container,18.6,1,Good,980000
+Tata Motors,2011,519572,Diesel,Open Body,22.8,1,Fair,353000
+Eicher,2017,243152,Diesel,Container,31.8,2,Excellent,1534000
+Tata Motors,2017,460892,Diesel,Flatbed,40.0,2,Good,1200000
+Tata Motors,2012,479889,Diesel,Tipper,23.3,2,Fair,489000
+Ashok Leyland,2015,505578,Diesel,Open Body,26.6,1,Excellent,889000
+Eicher,2012,563106,CNG,Tipper,11.1,2,Good,338000
+Ashok Leyland,2013,750000,Diesel,Tipper,26.9,4,Good,413000
+Ashok Leyland,2021,198934,Diesel,Open Body,32.5,1,Fair,1784000
+BharatBenz,2022,111234,Diesel,Open Body,11.5,2,Fair,1266000
+Tata Motors,2010,750000,Diesel,Open Body,21.0,2,Good,289000
+Tata Motors,2012,470760,Diesel,Container,33.1,1,Fair,746000
+Tata Motors,2018,186256,Diesel,Tipper,25.2,2,Good,1401000
+Ashok Leyland,2009,750000,Diesel,Container,24.6,1,Good,433000
+Ashok Leyland,2017,478031,Diesel,Open Body,39.5,2,Good,1073000
+Ashok Leyland,2018,272284,Diesel,Open Body,6.2,1,Good,798000
+Ashok Leyland,2014,738156,Diesel,Tipper,27.5,3,Good,563000
+Ashok Leyland,2010,577764,Diesel,Tipper,16.9,1,Good,402000
+Eicher,2018,239850,Diesel,Tipper,23.6,2,Excellent,1620000
+Eicher,2011,750000,Diesel,Open Body,30.4,2,Good,357000
+Eicher,2015,606516,Diesel,Open Body,39.6,1,Good,924000
+Ashok Leyland,2016,398863,Diesel,Container,23.2,2,Fair,867000
+Tata Motors,2020,237448,Diesel,Open Body,15.6,2,Fair,922000
+Eicher,2016,302541,Diesel,Container,31.5,1,Fair,1160000
+Eicher,2012,750000,Diesel,Container,28.5,1,Fair,550000
+Tata Motors,2018,323798,Diesel,Tanker,22.3,2,Fair,1297000
+Ashok Leyland,2020,167775,Diesel,Open Body,34.1,2,Fair,1514000
+Eicher,2015,302728,CNG,Container,22.5,3,Fair,705000
+Ashok Leyland,2017,231832,Diesel,Tipper,15.8,3,Excellent,1046000
+Mahindra Truck,2014,658171,Diesel,Open Body,30.1,3,Poor,331000
+BharatBenz,2014,630006,CNG,Tipper,18.0,2,Good,588000
+Tata Motors,2012,735140,Diesel,Tipper,20.7,2,Good,486000
+Mahindra Truck,2018,445753,Diesel,Open Body,7.5,1,Excellent,722000
+Ashok Leyland,2015,477956,Diesel,Open Body,34.6,2,Good,835000
+Eicher,2012,750000,Diesel,Open Body,8.4,2,Good,243000
+Eicher,2019,208208,Diesel,Open Body,33.8,2,Good,1589000
+Tata Motors,2018,253309,Diesel,Flatbed,33.3,2,Poor,892000
+Tata Motors,2018,425608,Diesel,Tipper,16.0,1,Good,1222000
+Ashok Leyland,2015,365157,Diesel,Tipper,19.1,2,Fair,644000
+Tata Motors,2019,410133,Diesel,Open Body,28.7,2,Good,1227000
+Ashok Leyland,2018,222539,Diesel,Tanker,25.8,3,Excellent,1602000
+Tata Motors,2017,460219,Diesel,Tipper,21.3,3,Fair,786000
+Tata Motors,2015,461524,Diesel,Tipper,23.9,2,Excellent,990000
+Eicher,2010,750000,Diesel,Tipper,10.9,2,Excellent,293000
+BharatBenz,2015,683755,Diesel,Mini Truck,2.2,2,Poor,120000
+Tata Motors,2021,169327,CNG,Container,27.2,2,Fair,1951000
+Eicher,2012,345976,Diesel,Tipper,27.0,3,Good,607000
+Tata Motors,2020,159019,Diesel,Open Body,36.2,2,Good,1843000
+Eicher,2017,211362,Diesel,Open Body,14.2,2,Fair,716000
+Ashok Leyland,2022,141588,Diesel,Flatbed,19.4,2,Fair,1516000
+Eicher,2013,332305,CNG,Container,28.8,2,Poor,554000
+Ashok Leyland,2020,380914,Diesel,Open Body,15.6,2,Poor,669000
+Tata Motors,2017,527983,Diesel,Open Body,18.3,2,Good,716000
+Tata Motors,2018,315727,Diesel,Tipper,15.0,1,Fair,1085000
+Tata Motors,2015,501043,Diesel,Mini Truck,1.9,1,Fair,157000
+Eicher,2012,669993,Diesel,Mini Truck,2.1,1,Fair,120000
+BharatBenz,2019,174650,Diesel,Flatbed,31.8,1,Fair,1569000
+Ashok Leyland,2014,387733,Diesel,Tanker,21.2,1,Fair,838000
+Ashok Leyland,2013,677341,Diesel,Open Body,15.1,4,Good,292000
+Tata Motors,2019,281779,Diesel,Tipper,24.0,1,Good,1638000
+Tata Motors,2020,256187,Diesel,Tanker,23.1,2,Poor,1189000
+Ashok Leyland,2015,662186,Diesel,Open Body,18.2,3,Good,500000
+Tata Motors,2015,311856,Diesel,Container,21.5,2,Fair,814000
+Mahindra Truck,2013,508775,Diesel,Flatbed,19.6,2,Good,455000
+Ashok Leyland,2019,318830,Diesel,Mini Truck,3.1,3,Excellent,325000
+Mahindra Truck,2017,478759,Diesel,Tipper,27.5,1,Excellent,1211000
+Force Motors,2019,253576,Diesel,Container,33.7,1,Fair,1720000
+Tata Motors,2011,709844,Diesel,Tipper,11.6,2,Good,353000
+Mahindra Truck,2016,385869,Diesel,Container,19.3,2,Fair,768000
+Tata Motors,2016,311231,Diesel,Open Body,27.3,1,Excellent,1212000
+Tata Motors,2018,365463,Diesel,Tipper,25.1,1,Poor,993000
+Ashok Leyland,2012,341502,CNG,Tipper,20.5,2,Excellent,677000
+Tata Motors,2017,526035,Diesel,Open Body,16.8,1,Excellent,935000
+Eicher,2019,293588,Diesel,Container,24.8,1,Good,1758000
+Ashok Leyland,2012,750000,Diesel,Container,17.4,4,Good,349000
+Tata Motors,2020,308998,Diesel,Tipper,21.0,1,Excellent,2076000
+Eicher,2019,214637,Diesel,Flatbed,13.4,1,Good,1068000
+Ashok Leyland,2015,739683,Diesel,Container,24.8,3,Good,655000
+Tata Motors,2014,750000,Diesel,Tipper,18.5,3,Fair,380000
+Ashok Leyland,2015,485040,Diesel,Container,28.1,1,Fair,960000
+Eicher,2015,435131,Diesel,Tipper,16.5,3,Good,661000
+Ashok Leyland,2020,319387,Diesel,Open Body,28.8,1,Fair,1426000
+Mahindra Truck,2019,345502,Diesel,Container,32.0,1,Good,1889000
+Eicher,2012,750000,Diesel,Mini Truck,1.7,3,Excellent,120000
+Tata Motors,2018,371388,Diesel,Container,18.6,2,Fair,1081000
+Ashok Leyland,2017,392531,Diesel,Tipper,19.4,1,Fair,947000
+Ashok Leyland,2013,749280,Diesel,Open Body,12.9,2,Fair,278000
+Force Motors,2021,273867,Diesel,Mini Truck,3.5,1,Good,501000
+Mahindra Truck,2017,541970,Diesel,Open Body,22.7,2,Good,718000
+Ashok Leyland,2012,750000,Diesel,Container,16.2,2,Fair,389000
+Ashok Leyland,2021,132559,Diesel,Mini Truck,2.6,1,Good,549000
+Tata Motors,2014,329549,CNG,Tanker,26.2,3,Good,814000
+Tata Motors,2018,286054,Diesel,Container,14.4,4,Good,1010000
+Tata Motors,2008,750000,Diesel,Flatbed,10.3,2,Excellent,203000
+Tata Motors,2008,750000,Diesel,Container,23.9,2,Good,302000
+Tata Motors,2010,568489,Diesel,Flatbed,18.7,2,Good,312000
+Mahindra Truck,2012,641499,Diesel,Tipper,21.3,2,Good,462000
+Tata Motors,2008,750000,Diesel,Tipper,10.1,2,Poor,144000
+BharatBenz,2018,406349,Diesel,Open Body,9.4,2,Good,767000
+Ashok Leyland,2017,304846,Diesel,Tipper,21.6,1,Good,1314000
+Ashok Leyland,2022,196972,Diesel,Container,30.0,1,Good,3166000
+Ashok Leyland,2016,625821,CNG,Tipper,25.9,4,Poor,374000
+Tata Motors,2014,409620,Diesel,Container,15.3,3,Excellent,754000
+Eicher,2016,603154,Diesel,Tipper,18.3,2,Excellent,788000
+Eicher,2013,750000,Diesel,Tipper,16.0,2,Poor,267000
+Tata Motors,2018,204529,CNG,Flatbed,38.1,3,Good,1244000
+Eicher,2018,468071,Diesel,Open Body,17.4,2,Good,812000
+Tata Motors,2017,352559,Diesel,Container,33.9,2,Good,1377000
+Tata Motors,2010,750000,Diesel,Open Body,25.5,2,Excellent,367000
+Mahindra Truck,2012,690531,Diesel,Open Body,11.5,2,Fair,239000
+Ashok Leyland,2011,534579,Diesel,Open Body,29.5,1,Good,558000
+Tata Motors,2014,579793,Diesel,Container,34.7,2,Fair,761000
+Tata Motors,2015,607193,Diesel,Mini Truck,3.1,3,Excellent,179000
+Tata Motors,2017,441866,Diesel,Tanker,26.6,1,Fair,1260000
+Tata Motors,2017,387155,Diesel,Tipper,21.1,2,Excellent,1248000
+Ashok Leyland,2019,289004,Diesel,Container,31.1,1,Fair,1650000
+Tata Motors,2020,335489,Diesel,Mini Truck,2.4,2,Fair,310000
+Tata Motors,2019,189600,Diesel,Container,18.8,1,Good,1979000
+Ashok Leyland,2020,271644,Diesel,Open Body,15.4,1,Good,1294000
+Ashok Leyland,2015,273831,Diesel,Tipper,11.8,1,Fair,713000
+BharatBenz,2018,348035,Diesel,Open Body,33.6,1,Poor,916000
+BharatBenz,2016,504092,Diesel,Tipper,20.0,2,Good,895000
+Ashok Leyland,2017,262434,Diesel,Mini Truck,3.2,2,Good,288000
+Tata Motors,2016,549202,Diesel,Tipper,12.3,1,Excellent,872000
+Tata Motors,2010,750000,Diesel,Tanker,24.2,2,Fair,389000
+Ashok Leyland,2011,750000,Diesel,Open Body,16.7,3,Good,234000
+Ashok Leyland,2015,642966,Diesel,Container,30.8,3,Excellent,807000
+Ashok Leyland,2022,102604,Diesel,Mini Truck,1.3,1,Good,515000
+Tata Motors,2010,750000,Diesel,Container,28.7,3,Excellent,442000
+Ashok Leyland,2014,603274,Diesel,Container,16.4,1,Good,673000
+Ashok Leyland,2015,449286,Diesel,Mini Truck,1.9,1,Excellent,231000
+Tata Motors,2014,548026,Diesel,Open Body,28.9,3,Excellent,592000
+Eicher,2014,587621,Diesel,Mini Truck,2.7,2,Fair,134000
+Force Motors,2008,750000,Diesel,Tipper,22.6,3,Good,219000
+Ashok Leyland,2012,692354,Diesel,Container,15.8,1,Good,528000
+Mahindra Truck,2019,273676,Diesel,Container,29.2,2,Fair,1604000
+BharatBenz,2018,419029,Diesel,Open Body,18.6,1,Good,1062000
+Ashok Leyland,2015,462227,Diesel,Open Body,27.8,2,Poor,459000
+Tata Motors,2015,434802,Diesel,Tipper,10.4,3,Poor,359000
+Tata Motors,2013,614292,Diesel,Tanker,14.4,3,Excellent,562000
+Eicher,2014,380997,Diesel,Open Body,8.7,2,Good,427000
+BharatBenz,2021,77277,CNG,Tipper,20.9,2,Good,2108000
+Eicher,2019,395257,Diesel,Open Body,17.2,2,Fair,741000
+Ashok Leyland,2010,703128,Diesel,Mini Truck,1.8,2,Good,120000
+BharatBenz,2021,135246,Diesel,Open Body,36.1,2,Good,2319000
+Mahindra Truck,2012,750000,Diesel,Open Body,38.2,2,Fair,414000
+Tata Motors,2020,219980,Diesel,Tanker,23.7,2,Good,2163000
+BharatBenz,2010,644406,Diesel,Open Body,38.9,2,Poor,283000
+Tata Motors,2011,750000,Diesel,Open Body,29.6,3,Good,339000
+Ashok Leyland,2021,199907,Diesel,Open Body,9.5,2,Poor,702000
+Tata Motors,2020,212245,Diesel,Container,18.9,1,Poor,1222000
+Tata Motors,2020,221424,Diesel,Container,17.5,2,Fair,1435000
+Tata Motors,2015,569861,Diesel,Open Body,6.1,3,Fair,294000
+Tata Motors,2017,382192,Diesel,Tipper,27.6,3,Excellent,1218000
+Ashok Leyland,2013,750000,Diesel,Open Body,38.3,3,Good,429000
+BharatBenz,2013,404044,Diesel,Container,31.5,2,Excellent,1175000
+Ashok Leyland,2021,211726,Diesel,Tipper,12.3,1,Good,1818000
+Tata Motors,2014,750000,Diesel,Tipper,13.9,3,Good,404000
+Tata Motors,2020,237561,Diesel,Tipper,17.4,1,Fair,1466000
+BharatBenz,2020,296206,Diesel,Tanker,25.4,3,Good,1786000
+Ashok Leyland,2008,750000,Diesel,Container,32.0,3,Good,336000
+Tata Motors,2012,374643,Diesel,Flatbed,27.2,1,Fair,554000
+Tata Motors,2016,455453,Diesel,Tipper,19.2,3,Fair,690000
+Tata Motors,2015,484710,Diesel,Flatbed,36.7,2,Fair,715000
+BharatBenz,2017,502788,Diesel,Mini Truck,2.3,4,Excellent,204000
+Tata Motors,2011,750000,Diesel,Container,33.7,1,Poor,373000
+Eicher,2014,721962,Diesel,Container,16.7,1,Good,598000
+Ashok Leyland,2021,257807,Diesel,Container,32.3,1,Excellent,3159000
+BharatBenz,2018,263209,Diesel,Tipper,20.5,3,Excellent,1342000
+Eicher,2013,511690,Diesel,Open Body,25.4,4,Good,420000
+Ashok Leyland,2014,584568,Diesel,Flatbed,36.9,2,Fair,567000
+Tata Motors,2015,416767,Diesel,Flatbed,14.7,4,Poor,299000
+Tata Motors,2018,482516,Diesel,Tipper,21.6,2,Fair,917000
+BharatBenz,2017,370877,Diesel,Open Body,10.3,1,Good,786000
+Tata Motors,2018,323526,Diesel,Tipper,22.8,1,Fair,1197000
+Eicher,2017,335442,Diesel,Mini Truck,2.7,3,Good,215000
+Force Motors,2020,235765,Diesel,Container,21.0,2,Good,1649000
+Tata Motors,2013,507186,CNG,Tanker,29.0,1,Good,907000
+Tata Motors,2013,548563,Diesel,Container,14.9,1,Good,672000
+Tata Motors,2016,407636,Diesel,Open Body,13.8,3,Fair,429000
+Ashok Leyland,2010,493565,Diesel,Flatbed,31.5,2,Fair,361000
+Tata Motors,2022,90300,Diesel,Container,22.6,1,Excellent,3397000
+Ashok Leyland,2020,257773,Diesel,Flatbed,19.2,1,Excellent,1548000
+Tata Motors,2015,459921,Diesel,Container,22.4,2,Fair,781000
+Ashok Leyland,2014,472615,Diesel,Open Body,29.0,1,Good,829000
+Eicher,2022,152326,Diesel,Tipper,11.7,3,Excellent,1692000
+Tata Motors,2022,211906,Diesel,Tipper,19.4,2,Good,2119000
+Eicher,2011,750000,Diesel,Flatbed,29.4,3,Good,303000
+Ashok Leyland,2021,301939,Diesel,Tipper,19.8,1,Fair,1604000
+Eicher,2018,257064,Diesel,Container,22.0,2,Poor,899000
+Tata Motors,2018,249582,Diesel,Tanker,21.6,3,Poor,869000
+Ashok Leyland,2013,487089,Diesel,Container,23.9,2,Good,764000
+Ashok Leyland,2020,332298,Diesel,Tipper,26.6,1,Excellent,2148000
+Ashok Leyland,2016,274341,Diesel,Open Body,10.7,2,Excellent,725000
+Tata Motors,2010,662556,Diesel,Tipper,23.4,2,Excellent,477000
+Tata Motors,2008,750000,Diesel,Open Body,17.2,2,Good,222000
+Tata Motors,2011,669921,Diesel,Open Body,16.5,2,Fair,266000
+BharatBenz,2018,489411,Diesel,Container,20.7,4,Fair,832000
+Eicher,2016,628597,Diesel,Flatbed,28.9,2,Fair,588000
+Eicher,2019,426091,Diesel,Mini Truck,2.3,2,Fair,221000
+Eicher,2019,256707,Diesel,Container,18.5,2,Fair,1165000
+Ashok Leyland,2014,687451,Diesel,Open Body,18.1,2,Good,433000
+Tata Motors,2012,750000,Diesel,Mini Truck,2.3,2,Good,120000
+Ashok Leyland,2018,390943,Diesel,Open Body,17.5,3,Good,803000
+Tata Motors,2015,690225,Diesel,Tanker,20.0,1,Fair,725000
+Mahindra Truck,2017,292915,Diesel,Open Body,30.6,2,Poor,626000
+Tata Motors,2022,195332,Diesel,Container,24.8,1,Good,2991000
+Tata Motors,2017,287906,Diesel,Tipper,16.8,1,Poor,756000
+Tata Motors,2020,292651,Diesel,Container,14.7,1,Fair,1463000
+Tata Motors,2021,342701,Diesel,Open Body,21.0,2,Good,1421000
+Ashok Leyland,2008,527157,CNG,Tanker,28.5,3,Fair,327000
+Ashok Leyland,2020,356820,Diesel,Container,26.6,3,Good,1596000
+Tata Motors,2022,132623,Diesel,Open Body,17.6,3,Good,1450000
+BharatBenz,2012,471400,Diesel,Open Body,23.8,4,Fair,327000
+Ashok Leyland,2011,552413,Diesel,Container,33.4,2,Excellent,757000
+BharatBenz,2013,598571,Diesel,Open Body,30.4,1,Excellent,708000
+Eicher,2017,299631,Diesel,Tipper,19.9,2,Fair,1018000
+Tata Motors,2020,215418,Diesel,Container,19.5,2,Good,1946000
+Eicher,2009,750000,Diesel,Open Body,34.6,2,Poor,207000
+Tata Motors,2023,134904,Diesel,Tipper,10.6,1,Good,2133000
+Tata Motors,2018,228318,Diesel,Open Body,8.4,2,Fair,670000
+Ashok Leyland,2019,420395,Diesel,Mini Truck,3.3,1,Good,396000
+Ashok Leyland,2011,667922,Diesel,Open Body,19.2,2,Excellent,364000
+Tata Motors,2013,750000,Diesel,Container,34.1,1,Good,709000
+Tata Motors,2015,614106,Diesel,Tipper,20.7,3,Good,636000
+Tata Motors,2014,554336,Diesel,Open Body,23.7,1,Excellent,712000
+Tata Motors,2015,326664,Diesel,Container,20.9,2,Fair,806000
+Ashok Leyland,2015,719095,Diesel,Open Body,24.6,3,Good,470000
+Mahindra Truck,2021,295270,Diesel,Tipper,21.7,1,Fair,1525000
+Tata Motors,2018,220502,CNG,Tipper,19.9,2,Excellent,1336000
+Ashok Leyland,2017,230243,Diesel,Open Body,31.7,2,Excellent,1256000
+Eicher,2015,522082,Diesel,Open Body,36.1,3,Good,659000
+Ashok Leyland,2009,448860,Diesel,Container,31.5,1,Good,616000
+Tata Motors,2021,301984,Diesel,Tanker,13.0,1,Good,1904000
+Ashok Leyland,2015,379103,Diesel,Container,33.6,1,Good,1249000
+Tata Motors,2019,303499,Diesel,Open Body,11.1,2,Good,898000
+Mahindra Truck,2014,297998,CNG,Container,20.8,1,Good,932000
+Eicher,2023,188847,Diesel,Flatbed,10.5,1,Good,1706000
+Ashok Leyland,2019,238171,Diesel,Mini Truck,1.4,3,Good,258000
+Ashok Leyland,2020,225570,Diesel,Tipper,26.6,1,Poor,1233000
+Eicher,2008,750000,Diesel,Container,34.6,1,Fair,354000
+Mahindra Truck,2017,354433,Diesel,Open Body,24.7,1,Poor,693000
+Tata Motors,2018,299210,Diesel,Mini Truck,1.7,1,Good,323000
+BharatBenz,2009,750000,Diesel,Tanker,26.9,2,Excellent,448000
+Tata Motors,2015,630374,Diesel,Mini Truck,1.8,1,Excellent,184000
+Ashok Leyland,2009,750000,Diesel,Open Body,20.3,2,Excellent,281000
+BharatBenz,2018,367826,CNG,Open Body,5.8,4,Good,512000
+Ashok Leyland,2008,750000,Diesel,Tipper,25.6,1,Excellent,378000
+Tata Motors,2015,512522,Diesel,Container,23.8,1,Good,1069000
+Mahindra Truck,2009,657783,Diesel,Tipper,22.8,3,Excellent,346000
+Ashok Leyland,2019,210877,Diesel,Container,34.2,2,Good,1969000
+Ashok Leyland,2018,273720,CNG,Mini Truck,3.1,1,Fair,303000
+Force Motors,2022,153921,Diesel,Container,29.4,2,Excellent,2794000
+BharatBenz,2013,403925,Diesel,Open Body,27.7,3,Fair,455000
+Eicher,2013,692475,Diesel,Open Body,23.5,2,Good,399000
+Tata Motors,2012,583698,Diesel,Open Body,11.4,3,Excellent,321000
+Tata Motors,2011,747673,Diesel,Open Body,10.4,3,Excellent,250000
+Mahindra Truck,2013,330043,Diesel,Mini Truck,3.2,1,Good,197000
+Eicher,2018,260911,Diesel,Flatbed,32.5,1,Good,1449000
+Tata Motors,2011,625394,Diesel,Mini Truck,3.5,1,Good,138000
+Tata Motors,2020,188610,Diesel,Tanker,16.6,2,Good,1645000
+BharatBenz,2016,462790,CNG,Mini Truck,3.2,1,Fair,198000
+BharatBenz,2014,401482,Diesel,Mini Truck,2.0,1,Good,198000
+Ashok Leyland,2013,715281,Diesel,Open Body,38.2,1,Fair,542000
+Eicher,2017,522321,Diesel,Open Body,14.7,1,Excellent,831000
+Ashok Leyland,2012,404705,Diesel,Tanker,14.6,2,Good,669000
+Eicher,2018,488068,Diesel,Tipper,13.6,1,Good,1025000
+Eicher,2008,750000,Diesel,Container,25.6,3,Good,259000
+Ashok Leyland,2019,396671,Diesel,Open Body,39.7,2,Good,1652000
+Tata Motors,2021,246691,Diesel,Open Body,10.1,1,Good,1359000
+Mahindra Truck,2019,475022,CNG,Tipper,23.6,2,Fair,1070000
+Eicher,2012,741633,Diesel,Open Body,6.4,2,Good,217000
+Eicher,2011,704087,Diesel,Flatbed,31.9,1,Good,471000
+Tata Motors,2016,536197,Diesel,Tipper,20.6,4,Good,591000
+Tata Motors,2022,182762,Diesel,Container,29.2,2,Good,2924000
+Tata Motors,2011,544366,Diesel,Mini Truck,2.0,2,Poor,120000
+Ashok Leyland,2010,641609,Diesel,Open Body,27.3,1,Excellent,475000
+Ashok Leyland,2019,409976,Diesel,Open Body,24.5,2,Poor,734000
+Tata Motors,2019,403619,Diesel,Tanker,30.0,1,Good,1950000
+Ashok Leyland,2008,750000,Diesel,Open Body,39.3,2,Fair,264000
+Tata Motors,2011,602592,Diesel,Tanker,28.8,1,Poor,447000
+Ashok Leyland,2011,644007,Diesel,Mini Truck,1.3,2,Excellent,120000
+Ashok Leyland,2012,648480,Diesel,Open Body,7.5,2,Fair,229000
+Ashok Leyland,2018,446328,Diesel,Open Body,33.2,2,Excellent,1314000
+Eicher,2016,444647,Diesel,Open Body,25.6,2,Good,805000
+Tata Motors,2008,750000,Diesel,Container,14.6,4,Fair,163000
+Tata Motors,2019,304023,Diesel,Tipper,12.5,1,Fair,1148000
+BharatBenz,2022,227025,Diesel,Open Body,36.1,2,Excellent,2366000
+Tata Motors,2018,265401,Diesel,Tipper,20.7,4,Good,1084000
+Tata Motors,2018,453929,Diesel,Mini Truck,2.1,2,Good,222000
+Ashok Leyland,2019,182949,Diesel,Open Body,26.5,2,Good,1407000
+Eicher,2019,256487,Diesel,Container,28.2,2,Good,1808000
+Tata Motors,2023,88182,Diesel,Open Body,8.1,1,Excellent,1869000
+Tata Motors,2018,313342,CNG,Flatbed,14.8,2,Excellent,913000
+Tata Motors,2012,497425,Diesel,Container,25.4,1,Good,814000
+Tata Motors,2016,469626,Diesel,Tipper,23.1,1,Excellent,1218000
+Mahindra Truck,2013,707474,Diesel,Open Body,8.2,2,Good,266000
+BharatBenz,2014,617152,CNG,Open Body,10.0,1,Excellent,469000
+BharatBenz,2011,750000,Diesel,Tipper,10.6,3,Fair,240000
+Ashok Leyland,2012,750000,Diesel,Mini Truck,1.7,2,Good,120000
+Mahindra Truck,2008,750000,Diesel,Tipper,17.3,2,Fair,199000
+Tata Motors,2012,750000,Diesel,Container,28.0,2,Excellent,591000
+Tata Motors,2016,340428,Diesel,Mini Truck,2.9,2,Fair,210000
+Mahindra Truck,2013,750000,Diesel,Open Body,37.2,2,Fair,411000
+Tata Motors,2013,645656,Diesel,Tanker,18.5,2,Fair,511000
+Eicher,2017,362892,Diesel,Mini Truck,2.8,2,Good,256000
+Tata Motors,2018,260579,Diesel,Open Body,11.7,1,Fair,809000
+Ashok Leyland,2011,732139,Diesel,Flatbed,12.2,2,Good,279000
+Tata Motors,2022,101022,Diesel,Open Body,29.6,2,Fair,1898000
+Force Motors,2013,683616,Diesel,Tanker,14.8,3,Fair,356000
+Ashok Leyland,2008,490666,Diesel,Mini Truck,3.0,3,Good,120000
+Eicher,2019,321883,Diesel,Open Body,18.7,1,Good,1175000
+Tata Motors,2011,486806,Diesel,Open Body,10.2,3,Good,276000
+Tata Motors,2013,583578,Diesel,Container,28.7,1,Fair,659000
+Mahindra Truck,2014,640482,Diesel,Tipper,23.7,3,Fair,431000
+Tata Motors,2015,695678,Diesel,Tipper,24.0,1,Fair,670000
+Tata Motors,2022,116715,Diesel,Container,20.7,2,Excellent,2916000
+Tata Motors,2014,500326,Diesel,Tanker,14.8,1,Good,832000
+Ashok Leyland,2019,461589,Diesel,Open Body,5.5,2,Fair,567000
+Tata Motors,2014,694143,Diesel,Open Body,5.9,2,Good,322000
+Tata Motors,2014,534853,Diesel,Tipper,21.6,1,Fair,624000
+Ashok Leyland,2013,750000,Diesel,Open Body,33.6,1,Good,573000
+Tata Motors,2016,298337,Diesel,Tipper,15.0,3,Poor,533000
+Tata Motors,2020,206454,Diesel,Tipper,15.8,1,Good,1842000
+Tata Motors,2021,294234,Diesel,Container,26.6,1,Fair,2047000
+Eicher,2018,360801,Diesel,Container,28.8,2,Good,1467000
+Tata Motors,2017,395068,Diesel,Open Body,31.5,1,Good,1227000
+Ashok Leyland,2012,666248,Diesel,Tipper,11.4,1,Good,429000
+Mahindra Truck,2017,466876,Diesel,Tanker,16.6,3,Excellent,1010000
+Ashok Leyland,2022,107655,Diesel,Container,33.1,1,Good,3273000
+Ashok Leyland,2018,473213,Diesel,Open Body,7.2,1,Fair,596000
+Tata Motors,2016,395312,Diesel,Tanker,26.8,4,Fair,805000
+Ashok Leyland,2015,527543,Diesel,Open Body,18.5,3,Good,470000
+Tata Motors,2009,750000,Diesel,Tipper,10.2,2,Fair,228000
+Eicher,2012,750000,Diesel,Open Body,6.1,3,Excellent,223000
+Tata Motors,2014,659414,Diesel,Container,26.4,1,Poor,541000
+Ashok Leyland,2021,284284,Diesel,Open Body,6.0,1,Good,1120000
+Eicher,2013,726798,Diesel,Tanker,23.0,4,Good,459000
+Tata Motors,2012,750000,Diesel,Tipper,13.3,3,Good,332000
+Ashok Leyland,2010,750000,Diesel,Tipper,17.0,1,Excellent,406000
+Ashok Leyland,2018,214552,Diesel,Tipper,13.4,4,Excellent,1020000
+Tata Motors,2016,490528,Diesel,Flatbed,26.9,2,Poor,509000
+Ashok Leyland,2012,403048,Diesel,Open Body,39.1,1,Excellent,901000
+BharatBenz,2015,560305,CNG,Open Body,38.0,4,Good,609000
+Tata Motors,2011,513340,Diesel,Open Body,8.4,2,Excellent,299000
+Ashok Leyland,2019,414904,Diesel,Open Body,8.5,1,Fair,709000
+Ashok Leyland,2018,264164,Diesel,Tipper,22.3,2,Good,1431000
+Tata Motors,2020,252602,CNG,Flatbed,34.9,3,Good,1445000
+Tata Motors,2019,366847,Diesel,Container,24.4,1,Good,1923000
+Eicher,2021,135679,Diesel,Flatbed,21.7,3,Fair,1148000
+Tata Motors,2011,750000,Diesel,Container,18.3,1,Good,523000
+Eicher,2014,425873,Diesel,Mini Truck,1.6,1,Good,158000
+Ashok Leyland,2017,297873,Diesel,Container,32.0,2,Fair,1236000
+BharatBenz,2018,442745,Diesel,Tanker,21.9,2,Fair,1129000
+Tata Motors,2021,246097,Diesel,Open Body,19.2,1,Fair,1415000
+Force Motors,2016,352493,Diesel,Tanker,23.1,3,Poor,569000
+Ashok Leyland,2018,191032,Diesel,Open Body,25.2,3,Poor,708000
+Eicher,2013,750000,CNG,Tipper,16.6,1,Fair,397000
+Ashok Leyland,2017,328197,Diesel,Container,26.7,2,Good,1232000
+Mahindra Truck,2013,413378,Diesel,Flatbed,33.6,1,Good,741000
+BharatBenz,2022,194239,Diesel,Flatbed,39.9,1,Fair,2375000
+Ashok Leyland,2014,673952,Diesel,Open Body,28.6,2,Poor,372000
+Ashok Leyland,2011,750000,Diesel,Flatbed,35.0,2,Fair,351000
+Ashok Leyland,2016,420790,Diesel,Open Body,26.3,2,Good,780000
+Ashok Leyland,2019,301793,Diesel,Tipper,11.5,2,Good,1161000
+Tata Motors,2017,323057,Diesel,Container,34.6,1,Excellent,2028000
+Ashok Leyland,2021,117311,CNG,Tipper,10.9,3,Good,1431000
+Ashok Leyland,2018,497564,Diesel,Tanker,14.2,2,Good,1077000
+Ashok Leyland,2019,206022,Diesel,Container,19.5,2,Excellent,1762000
+Eicher,2013,678692,Diesel,Open Body,34.0,3,Good,452000
+Mahindra Truck,2013,534628,Diesel,Tanker,17.5,1,Good,666000
+Tata Motors,2017,387802,Diesel,Container,15.7,1,Excellent,1322000
+Tata Motors,2022,172774,Diesel,Container,23.0,1,Fair,2619000
+Tata Motors,2008,475691,Diesel,Tipper,13.8,3,Fair,243000
+Ashok Leyland,2019,356685,Diesel,Open Body,8.0,1,Good,932000
+Ashok Leyland,2008,750000,Diesel,Tanker,19.7,3,Fair,248000
+BharatBenz,2015,640412,Diesel,Tipper,13.4,3,Good,546000
+Ashok Leyland,2011,750000,Diesel,Tanker,15.8,3,Poor,219000
+Tata Motors,2011,678273,CNG,Tanker,12.8,1,Fair,368000
+Tata Motors,2016,577549,Diesel,Open Body,22.3,1,Excellent,830000
+Tata Motors,2016,474546,Diesel,Tipper,27.4,2,Good,1061000
+Tata Motors,2018,317234,Diesel,Flatbed,31.9,1,Fair,1355000
+Ashok Leyland,2014,632367,CNG,Tipper,15.9,3,Fair,423000
+Tata Motors,2016,620805,Diesel,Container,22.8,1,Good,983000
+Tata Motors,2018,260191,Diesel,Tipper,25.1,4,Fair,909000
+Ashok Leyland,2015,557207,Diesel,Open Body,23.3,2,Good,585000
+Tata Motors,2016,596270,Diesel,Container,27.0,1,Good,1113000
+Tata Motors,2020,218344,CNG,Open Body,16.3,1,Good,1299000
+Tata Motors,2015,566582,Diesel,Open Body,29.3,4,Fair,450000
+Tata Motors,2014,691306,Diesel,Container,33.5,1,Good,977000
+Force Motors,2018,397274,Diesel,Tipper,19.7,2,Fair,869000
+Ashok Leyland,2016,245026,Diesel,Open Body,8.7,2,Fair,523000
+Ashok Leyland,2014,469019,CNG,Flatbed,35.6,2,Good,709000
+Eicher,2011,730408,Diesel,Container,18.2,1,Fair,339000
+Tata Motors,2017,459987,Diesel,Tanker,15.7,3,Excellent,1034000
+Tata Motors,2018,358599,Diesel,Tipper,20.9,1,Good,1422000
+Ashok Leyland,2013,750000,CNG,Tipper,16.5,2,Excellent,482000
+Eicher,2008,557119,Diesel,Tipper,12.0,1,Good,315000
+Ashok Leyland,2011,750000,Diesel,Container,34.2,2,Excellent,589000
+BharatBenz,2009,657107,Diesel,Tipper,20.6,3,Good,292000
+Ashok Leyland,2015,393437,Diesel,Tipper,18.8,1,Good,891000
+Tata Motors,2013,499684,CNG,Container,25.6,2,Fair,549000
+Ashok Leyland,2008,674943,Diesel,Tanker,24.8,1,Good,448000
+BharatBenz,2015,298722,Diesel,Open Body,26.3,1,Good,927000
+Eicher,2020,227864,Diesel,Tipper,18.1,2,Good,1494000
+Force Motors,2021,263757,Diesel,Tipper,27.3,1,Poor,1370000
+Tata Motors,2019,199409,Diesel,Flatbed,30.5,1,Fair,1356000
+Tata Motors,2018,481696,Diesel,Open Body,16.7,2,Good,769000
+BharatBenz,2019,349708,Diesel,Mini Truck,1.2,2,Good,289000
+Ashok Leyland,2014,298400,Diesel,Container,20.3,3,Good,703000
+Eicher,2022,174509,Diesel,Tipper,24.8,1,Poor,1534000
+Ashok Leyland,2013,404758,CNG,Tanker,18.5,1,Excellent,912000
+Mahindra Truck,2015,659417,CNG,Open Body,27.2,2,Good,538000
+Tata Motors,2010,750000,Diesel,Tipper,21.8,4,Good,280000
+Eicher,2017,374310,Diesel,Tipper,19.0,1,Good,1119000
+Mahindra Truck,2015,642790,Diesel,Open Body,18.1,2,Fair,390000
+Tata Motors,2011,490454,Diesel,Container,19.1,2,Good,576000
+Ashok Leyland,2020,225491,Diesel,Open Body,35.3,3,Good,1611000
+Tata Motors,2011,642067,Diesel,Open Body,36.6,2,Good,456000
+Ashok Leyland,2023,81536,Diesel,Open Body,5.9,1,Good,1651000
+Eicher,2010,727130,Diesel,Tanker,21.3,2,Good,398000
+Ashok Leyland,2022,145498,Diesel,Tanker,19.9,2,Fair,1948000
+Eicher,2020,147019,Diesel,Open Body,31.6,1,Good,1930000
+Mahindra Truck,2015,274397,Diesel,Tipper,23.4,3,Good,844000
+Mahindra Truck,2018,342335,Diesel,Tipper,24.4,1,Excellent,1605000
+Tata Motors,2017,388672,Diesel,Container,17.2,1,Fair,1082000
+BharatBenz,2013,565322,Diesel,Open Body,27.5,1,Good,655000
+Ashok Leyland,2017,611190,Diesel,Open Body,21.4,2,Excellent,823000
+Tata Motors,2017,529812,Diesel,Container,23.8,2,Fair,974000
+Ashok Leyland,2017,577413,Diesel,Tipper,21.1,2,Fair,726000
+Eicher,2014,347682,Diesel,Open Body,7.9,3,Good,357000
+Ashok Leyland,2016,304123,Diesel,Open Body,17.8,2,Good,815000
+Ashok Leyland,2017,581174,Diesel,Mini Truck,1.5,2,Fair,147000
+Tata Motors,2012,732150,Diesel,Open Body,6.4,3,Excellent,242000
+Mahindra Truck,2019,437963,Diesel,Container,18.8,1,Fair,1212000
+Ashok Leyland,2020,359536,Diesel,Container,32.5,2,Good,2131000
+Tata Motors,2021,226439,Diesel,Tanker,27.0,2,Poor,1573000
+Ashok Leyland,2012,429736,CNG,Mini Truck,2.4,1,Good,149000
+Ashok Leyland,2021,232252,Diesel,Tanker,20.3,1,Fair,1867000
+Ashok Leyland,2022,242366,Diesel,Tipper,14.8,1,Good,2033000
+Eicher,2018,364024,Diesel,Tipper,15.0,1,Good,1204000
+Tata Motors,2015,475270,Diesel,Tipper,15.9,2,Excellent,915000
+Tata Motors,2020,335618,CNG,Tipper,12.8,1,Good,1422000
+Force Motors,2017,448006,Diesel,Tanker,26.0,3,Poor,668000
+Ashok Leyland,2012,750000,Diesel,Container,28.6,3,Good,484000
+Tata Motors,2013,685127,Diesel,Open Body,34.2,2,Poor,352000

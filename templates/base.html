@@ -1,0 +1,418 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}ReVahan - Used Vehicle Price Prediction System{% endblock %}</title>
+    
+    <!-- ReVahan App Icon / Favicon -->
+    <link rel="icon" type="image/png" href="{{ url_for('static', filename='images/app_icon.png') }}">
+    <link rel="shortcut icon" href="{{ url_for('static', filename='images/favicon.ico') }}">
+    <link rel="apple-touch-icon" href="{{ url_for('static', filename='images/icon-192.png') }}">
+    
+    <!-- Progressive Web App (PWA) Manifest & Mobile Meta -->
+    <link rel="manifest" href="/manifest.json">
+    <meta name="theme-color" content="#0f172a">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="ReVahan">
+
+    
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800;900&family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    
+    <!-- Bootstrap 5.3 CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Bootstrap Icons -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    
+    <!-- Application Stylesheet -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    {% block extra_css %}{% endblock %}
+</head>
+<body>
+
+    <!-- ================= Top Navigation Bar ================= -->
+    <nav class="navbar navbar-expand-lg navbar-custom">
+        <div class="container">
+            <!-- Brand Logo & Name -->
+            <a class="navbar-brand d-flex align-items-center gap-2" href="{{ url_for('index') }}">
+                <div class="brand-badge p-0 overflow-hidden" style="width: 44px; height: 44px; border: 1.5px solid var(--accent-gold);">
+                    <img src="{{ url_for('static', filename='images/app_icon.png') }}" alt="ReVahan" style="width: 100%; height: 100%; object-fit: cover;">
+                </div>
+                <div>
+                    <span class="brand-title">ReVahan</span>
+                    <span class="d-none d-sm-block text-muted" style="font-size: 0.72rem; letter-spacing: 0.08em; font-weight: 700;">AI VEHICLE VALUATION ENGINE</span>
+                </div>
+            </a>
+
+            <!-- Mobile Hamburger Toggle -->
+            <button class="navbar-toggler border-0" type="button" data-bs-toggle="collapse" data-bs-target="#navbarContent" aria-controls="navbarContent" aria-expanded="false" aria-label="Toggle navigation">
+                <i class="bi bi-list text-light fs-2"></i>
+            </button>
+
+            <!-- Navbar Links -->
+            <div class="collapse navbar-collapse" id="navbarContent">
+                <ul class="navbar-nav mx-auto mb-2 mb-lg-0 gap-1">
+                    <li class="nav-item">
+                        <a class="nav-link {% if request.endpoint == 'index' %}active{% endif %}" href="{{ url_for('index') }}">
+                            <i class="bi bi-house-door me-1"></i> Home
+                        </a>
+                    </li>
+                    <!-- Categories Dropdown -->
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle {% if request.endpoint in ['categories', 'prediction_form'] %}active{% endif %}" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            <i class="bi bi-grid-fill me-1"></i> Categories
+                        </a>
+                        <ul class="dropdown-menu dropdown-menu-dark border-secondary shadow">
+                            <li><a class="dropdown-item py-2" href="{{ url_for('prediction_form', category='cars') }}"><i class="bi bi-car-front-fill text-primary me-2"></i> Cars</a></li>
+                            <li><a class="dropdown-item py-2" href="{{ url_for('prediction_form', category='bikes') }}"><i class="bi bi-bicycle text-info me-2"></i> Bikes & Motorcycles</a></li>
+                            <li><a class="dropdown-item py-2" href="{{ url_for('prediction_form', category='lorries') }}"><i class="bi bi-truck-flatbed text-warning me-2"></i> Lorries & Trucks</a></li>
+                            <li><a class="dropdown-item py-2" href="{{ url_for('prediction_form', category='autos') }}"><i class="bi bi-taxi-front-fill text-success me-2"></i> Auto-rickshaws</a></li>
+                            <li><hr class="dropdown-divider border-secondary"></li>
+                            <li><a class="dropdown-item py-2" href="{{ url_for('categories') }}"><i class="bi bi-arrow-right-circle me-2"></i> View All Categories</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link {% if request.endpoint == 'dashboard' %}active{% endif %}" href="{{ url_for('dashboard') }}">
+                            <i class="bi bi-pie-chart-fill me-1"></i> Dashboard
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link {% if request.endpoint == 'history' %}active{% endif %}" href="{{ url_for('history') }}">
+                            <i class="bi bi-clock-history me-1"></i> History
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link {% if request.endpoint == 'how_it_works' %}active{% endif %}" href="{{ url_for('how_it_works') }}">
+                            <i class="bi bi-cpu me-1"></i> How It Works
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link {% if request.endpoint == 'about' %}active{% endif %}" href="{{ url_for('about') }}">
+                            <i class="bi bi-info-circle me-1"></i> About
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link {% if request.endpoint == 'contact' %}active{% endif %}" href="{{ url_for('contact') }}">
+                            <i class="bi bi-envelope me-1"></i> Contact
+                        </a>
+                    </li>
+                </ul>
+
+                <!-- Action Buttons: Theme Toggle, Install App & Predict CTA -->
+                <div class="d-flex align-items-center gap-2 mt-3 mt-lg-0">
+                    <button type="button" class="btn btn-sm btn-outline-info rounded-pill px-3 py-1 d-flex align-items-center gap-1 shadow-sm" id="pwaInstallBtn" style="font-weight: 700; border-color: #00f2fe; color: #00f2fe; background: rgba(0, 242, 254, 0.08);">
+                        <i class="bi bi-phone-fill"></i> <span>Install App</span>
+                    </button>
+                    <button type="button" class="btn-theme-toggle" id="themeToggleBtn" title="Toggle Dark/Light Mode">
+                        <i class="bi bi-sun-fill" id="themeIcon"></i>
+                    </button>
+                    <a href="{{ url_for('categories') }}" class="btn-primary-custom text-nowrap">
+                        <i class="bi bi-lightning-charge-fill"></i> Predict Value
+                    </a>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- ================= Flash Messages Container ================= -->
+    <div class="container mt-3">
+        {% with messages = get_flashed_messages(with_categories=true) %}
+            {% if messages %}
+                {% for category, message in messages %}
+                    <div class="alert alert-{{ category if category != 'error' else 'danger' }} alert-dismissible fade show border-0 shadow-sm" role="alert">
+                        <i class="bi {% if category == 'success' %}bi-check-circle-fill{% elif category == 'danger' %}bi-exclamation-triangle-fill{% else %}bi-info-circle-fill{% endif %} me-2"></i>
+                        {{ message }}
+                        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+                    </div>
+                {% endfor %}
+            {% endif %}
+        {% endwith %}
+    </div>
+
+    <!-- ================= Main Body Content ================= -->
+    <main class="flex-grow-1">
+        {% block content %}{% endblock %}
+    </main>
+
+    <!-- ================= Footer ================= -->
+    <footer class="footer-custom">
+        <div class="container">
+            <div class="row g-4 mb-4">
+                <div class="col-lg-4 col-md-6">
+                    <div class="d-flex align-items-center gap-2 mb-3">
+                        <div class="brand-badge p-0 overflow-hidden" style="width: 40px; height: 40px; border: 1.5px solid var(--accent-gold);">
+                            <img src="{{ url_for('static', filename='images/app_icon.png') }}" alt="ReVahan Icon" style="width: 100%; height: 100%; object-fit: cover;">
+                        </div>
+                        <span class="brand-title fs-4">ReVahan</span>
+                    </div>
+                    <p class="text-muted small leading-relaxed">
+                        An intelligent, production-ready automotive valuation portal leveraging ensemble Random Forest Machine Learning regression models to compute accurate, fair market resale estimates for Cars, Bikes, Commercial Lorries, and Auto-rickshaws across India.
+                    </p>
+                    <div class="d-flex gap-2 text-muted fs-6">
+                        <span class="badge bg-dark border border-secondary text-secondary">Flask 3.1</span>
+                        <span class="badge bg-dark border border-secondary text-secondary">Scikit-Learn</span>
+                        <span class="badge bg-dark border border-secondary text-secondary">Random Forest</span>
+                        <span class="badge bg-dark border border-secondary text-secondary">SQLite</span>
+                    </div>
+                </div>
+
+                <div class="col-lg-2 col-md-6 col-6">
+                    <h6 class="text-uppercase text-light fw-bold mb-3 small">Categories</h6>
+                    <a href="{{ url_for('prediction_form', category='cars') }}" class="footer-link"><i class="bi bi-chevron-right small me-1"></i> Cars</a>
+                    <a href="{{ url_for('prediction_form', category='bikes') }}" class="footer-link"><i class="bi bi-chevron-right small me-1"></i> Bikes & Scooters</a>
+                    <a href="{{ url_for('prediction_form', category='lorries') }}" class="footer-link"><i class="bi bi-chevron-right small me-1"></i> Commercial Lorries</a>
+                    <a href="{{ url_for('prediction_form', category='autos') }}" class="footer-link"><i class="bi bi-chevron-right small me-1"></i> Auto-rickshaws</a>
+                </div>
+
+                <div class="col-lg-3 col-md-6 col-6">
+                    <h6 class="text-uppercase text-light fw-bold mb-3 small">Quick Links</h6>
+                    <a href="{{ url_for('dashboard') }}" class="footer-link"><i class="bi bi-chevron-right small me-1"></i> Analytics Dashboard</a>
+                    <a href="{{ url_for('history') }}" class="footer-link"><i class="bi bi-chevron-right small me-1"></i> Valuation History</a>
+                    <a href="{{ url_for('how_it_works') }}" class="footer-link"><i class="bi bi-chevron-right small me-1"></i> ML Methodology</a>
+                    <a href="{{ url_for('about') }}" class="footer-link"><i class="bi bi-chevron-right small me-1"></i> Project Documentation</a>
+                    <a href="{{ url_for('contact') }}" class="footer-link"><i class="bi bi-chevron-right small me-1"></i> Help & Contact</a>
+                </div>
+
+                <div class="col-lg-3 col-md-6">
+                    <h6 class="text-uppercase text-light fw-bold mb-3 small">Academic Notice</h6>
+                    <p class="text-muted small">
+                        Developed as a complete final-year BCA academic project demonstrating Full-Stack Web Development, Data Preprocessing, Feature Engineering, and Machine Learning Model Deployment.
+                    </p>
+                    <div class="p-2 rounded border border-secondary" style="background: rgba(255,255,255,0.02);">
+                        <small class="text-muted d-block"><i class="bi bi-shield-check text-success me-1"></i> Certified Random Forest Pipeline</small>
+                        <small class="text-muted d-block"><i class="bi bi-database-check text-info me-1"></i> SQLite Persistence Enabled</small>
+                    </div>
+                </div>
+            </div>
+
+            <hr class="border-secondary my-3 opacity-25">
+
+            <div class="d-flex flex-column flex-sm-row justify-content-between align-items-center text-muted small py-2">
+                <p class="mb-0">&copy; {{ current_year }} <strong>ReVahan</strong> - Used Vehicle Price Prediction System. All rights reserved.</p>
+                <p class="mb-0">Built with <i class="bi bi-heart-fill text-danger"></i> for Academic Excellence & Practical Utility</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- ================= ReVahan AI Voice Assistant Floating Widget ================= -->
+    <div class="voice-assistant-fab" id="voiceFab" title="Talk to ReVahan Voice AI">
+        <div class="voice-fab-pulse"></div>
+        <div class="voice-fab-btn">
+            <i class="bi bi-mic-fill"></i>
+        </div>
+        <span class="voice-fab-label">AI Voice</span>
+    </div>
+
+    <!-- Voice Assistant Modal Panel -->
+    <div class="voice-panel-overlay" id="voicePanelOverlay"></div>
+    <div class="voice-panel" id="voicePanel">
+        <!-- Panel Header -->
+        <div class="voice-panel-header">
+            <div class="d-flex align-items-center gap-2">
+                <div class="voice-avatar">
+                    <i class="bi bi-robot"></i>
+                    <span class="voice-online-dot"></span>
+                </div>
+                <div>
+                    <h6 class="mb-0 fw-bold text-light">ReVahan Voice AI</h6>
+                    <small class="text-secondary" style="font-size: 0.75rem;">Two-Way Speech & ML Prediction</small>
+                </div>
+            </div>
+            <div class="d-flex align-items-center gap-2">
+                <button type="button" class="btn-voice-header" id="voiceMuteBtn" title="Toggle Voice Output">
+                    <i class="bi bi-volume-up-fill" id="voiceMuteIcon"></i>
+                </button>
+                <button type="button" class="btn-voice-header" id="voiceCloseBtn" title="Close Assistant">
+                    <i class="bi bi-x-lg"></i>
+                </button>
+            </div>
+        </div>
+
+        <!-- Waveform Visualizer & Status -->
+        <div class="voice-visualizer-container" id="voiceVisualizer">
+            <div class="voice-waveform" id="voiceWaveform">
+                <span></span><span></span><span></span><span></span><span></span><span></span><span></span>
+            </div>
+            <div class="voice-status-text" id="voiceStatusText">
+                Tap microphone to speak or type a question...
+            </div>
+        </div>
+
+        <!-- Chat Conversation History -->
+        <div class="voice-chat-messages" id="voiceChatMessages">
+            <div class="voice-bubble bot">
+                <div class="bubble-content">
+                    👋 <strong>How can I help you today?</strong><br>
+                    Ask any vehicle question or say a model to get its fair resale price:<br>
+                    ▸ <em>"Predict car price for 2021 Swift with 30000 km"</em><br>
+                    ▸ <em>"How does mileage affect car value?"</em><br>
+                    ▸ <em>"Which bike has the best resale value in India?"</em>
+                </div>
+            </div>
+        </div>
+
+        <!-- Quick Chips Suggestions -->
+        <div class="voice-quick-chips">
+            <button class="voice-chip" data-query="Predict car price for 2021 Swift with 30000 km">🚗 Swift 2021</button>
+            <button class="voice-chip" data-query="Predict bike price for 2020 Classic 350 with 15000 km">🏍️ Classic 350</button>
+            <button class="voice-chip" data-query="Predict lorry price for 2018 Tata truck with 75000 km">🚛 Tata Truck</button>
+            <button class="voice-chip" data-query="Predict auto price for 2022 Bajaj with 35000 km">🛺 Bajaj Auto</button>
+            <button class="voice-chip" data-query="How does the Machine Learning model work?">🤖 ML Accuracy</button>
+        </div>
+
+        <!-- Input Bar with Mic & Send -->
+        <div class="voice-input-bar">
+            <button type="button" class="btn-mic-main" id="voiceMicBtn" title="Click to Speak">
+                <i class="bi bi-mic-fill" id="voiceMicIcon"></i>
+            </button>
+            <input type="text" class="form-control voice-text-input" id="voiceTextInput" placeholder="Speak or type a question..." autocomplete="off">
+            <button type="button" class="btn-send-main" id="voiceSendBtn" title="Send Message">
+                <i class="bi bi-send-fill"></i>
+            </button>
+        </div>
+    </div>
+
+    <!-- Custom Automotive Cursor Elements -->
+    <div class="cursor-halo" id="cursorHalo"></div>
+    <div class="cursor-dot" id="cursorDot"></div>
+
+    <!-- ================= PWA Mobile Install Banner ================= -->
+    <div id="pwaMobileBanner" class="position-fixed bottom-0 start-50 translate-middle-x p-3 mb-3" style="display: none; z-index: 10000; width: 92%; max-width: 440px;">
+        <div class="card border-0 shadow-lg" style="background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%); border: 1.5px solid #00f2fe !important; border-radius: 16px; color: #fff;">
+            <div class="card-body p-3 d-flex align-items-center justify-content-between gap-3">
+                <div class="d-flex align-items-center gap-2">
+                    <img src="/static/images/icon-192.png" alt="ReVahan App" style="width: 44px; height: 44px; border-radius: 10px; border: 1px solid #00f2fe;">
+                    <div>
+                        <div class="fw-bold fs-6 text-white">Install ReVahan App</div>
+                        <div class="text-white-50" style="font-size: 0.75rem;">Fast, full-screen mobile app</div>
+                    </div>
+                </div>
+                <div class="d-flex align-items-center gap-1">
+                    <button type="button" class="btn btn-sm btn-info text-dark fw-bold rounded-pill px-3" id="pwaBannerInstallBtn">
+                        <i class="bi bi-download"></i> Install
+                    </button>
+                    <button type="button" class="btn btn-sm btn-link text-white-50 p-1" id="pwaBannerCloseBtn" title="Dismiss">
+                        <i class="bi bi-x-lg fs-6"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- ================= iOS Install Instruction Modal ================= -->
+    <div class="modal fade" id="iosInstallModal" tabindex="-1" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content" style="background: #0f172a; color: #fff; border: 1.5px solid #00f2fe; border-radius: 16px;">
+                <div class="modal-header border-0 pb-0">
+                    <h5 class="modal-title fw-bold text-info"><i class="bi bi-apple me-2"></i>Install ReVahan on iPhone / iPad</h5>
+                    <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body text-center py-4">
+                    <img src="/static/images/icon-192.png" alt="ReVahan" style="width: 64px; height: 64px; border-radius: 14px; margin-bottom: 16px; border: 2px solid #00f2fe;">
+                    <p class="text-light fs-6">Install ReVahan to your iPhone home screen for the full mobile app experience:</p>
+                    <ol class="text-start ps-4 mb-0 text-white-50" style="font-size: 0.95rem; line-height: 1.8;">
+                        <li>Tap the <b class="text-info">Share button <i class="bi bi-box-arrow-up"></i></b> at the bottom of Safari.</li>
+                        <li>Scroll down and tap <b class="text-info">"Add to Home Screen" <i class="bi bi-plus-square"></i></b>.</li>
+                        <li>Tap <b class="text-info">"Add"</b> in the top right.</li>
+                    </ol>
+                </div>
+                <div class="modal-footer border-0 pt-0 justify-content-center">
+                    <button type="button" class="btn btn-outline-info rounded-pill px-4" data-bs-dismiss="modal">Got it!</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Bootstrap 5.3 Bundle JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+    <!-- Chart.js CDN for Visualizations -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.2/dist/chart.umd.min.js"></script>
+    <!-- Custom Application JS -->
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+    <!-- ReVahan AI Voice Assistant JS -->
+    <script src="{{ url_for('static', filename='js/voice_assistant.js') }}"></script>
+
+    <!-- PWA Installation Script -->
+    <script>
+    (function() {
+        let deferredPrompt = null;
+        const pwaBtn = document.getElementById('pwaInstallBtn');
+        const pwaMobileBanner = document.getElementById('pwaMobileBanner');
+        const pwaBannerInstallBtn = document.getElementById('pwaBannerInstallBtn');
+        const pwaBannerCloseBtn = document.getElementById('pwaBannerCloseBtn');
+
+        // Register Service Worker
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', () => {
+                navigator.serviceWorker.register('/sw.js', { scope: '/' })
+                    .then(reg => console.log('[PWA] Service Worker registered with scope:', reg.scope))
+                    .catch(err => console.warn('[PWA] Service Worker registration failed:', err));
+            });
+        }
+
+        // Detect Android / Desktop beforeinstallprompt
+        window.addEventListener('beforeinstallprompt', (e) => {
+            e.preventDefault();
+            deferredPrompt = e;
+            if (pwaBtn) pwaBtn.style.display = 'inline-flex';
+            if (pwaMobileBanner && !sessionStorage.getItem('pwa_banner_dismissed')) {
+                pwaMobileBanner.style.display = 'block';
+            }
+        });
+
+        // Detect iOS
+        const isIos = () => {
+            const ua = window.navigator.userAgent.toLowerCase();
+            return /iphone|ipad|ipod/.test(ua);
+        };
+        const isInStandalone = () => ('standalone' in window.navigator) && (window.navigator.standalone);
+
+        if (isIos() && !isInStandalone()) {
+            if (pwaBtn) pwaBtn.style.display = 'inline-flex';
+            if (pwaMobileBanner && !sessionStorage.getItem('pwa_banner_dismissed')) {
+                pwaMobileBanner.style.display = 'block';
+            }
+        }
+
+        function triggerInstall() {
+            if (deferredPrompt) {
+                deferredPrompt.prompt();
+                deferredPrompt.userChoice.then((choice) => {
+                    if (choice.outcome === 'accepted') {
+                        if (pwaBtn) pwaBtn.style.display = 'none';
+                        if (pwaMobileBanner) pwaMobileBanner.style.display = 'none';
+                    }
+                    deferredPrompt = null;
+                });
+            } else if (isIos()) {
+                const modal = new bootstrap.Modal(document.getElementById('iosInstallModal'));
+                modal.show();
+            } else {
+                alert("To install ReVahan App:\n\nClick the 3 dots (⋮) in your browser menu and choose 'Install ReVahan' or 'Add to Home screen'!");
+            }
+        }
+
+        if (pwaBtn) pwaBtn.addEventListener('click', triggerInstall);
+        if (pwaBannerInstallBtn) pwaBannerInstallBtn.addEventListener('click', triggerInstall);
+        if (pwaBannerCloseBtn) {
+            pwaBannerCloseBtn.addEventListener('click', () => {
+                if (pwaMobileBanner) pwaMobileBanner.style.display = 'none';
+                sessionStorage.setItem('pwa_banner_dismissed', 'true');
+            });
+        }
+
+        window.addEventListener('appinstalled', () => {
+            console.log('[PWA] ReVahan App installed successfully!');
+            if (pwaBtn) pwaBtn.style.display = 'none';
+            if (pwaMobileBanner) pwaMobileBanner.style.display = 'none';
+        });
+    })();
+    </script>
+    {% block extra_js %}{% endblock %}
+</body>
+</html>

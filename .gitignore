@@ -1,0 +1,14 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+.idea/
+.vscode/
+cloudflared.exe
+*.tmp
+db.sqlite3-journal
+tools/
+
