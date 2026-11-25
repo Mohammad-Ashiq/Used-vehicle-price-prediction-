@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: revahan-ai
+    name: revahan
     runtime: python
     buildCommand: pip install -r requirements.txt
     startCommand: gunicorn app:app
