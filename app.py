@@ -206,6 +206,12 @@ def contact():
             
     return render_template('contact.html')
 
+@app.route('/privacy-policy')
+def privacy_policy():
+    """Official Privacy Policy for Google Play Store compliance"""
+    return render_template('privacy_policy.html')
+
+
 # ----------------- REST API ENDPOINTS ----------------- #
 
 @app.route('/api/models/<category>')
