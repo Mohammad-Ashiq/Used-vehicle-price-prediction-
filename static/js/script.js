@@ -291,8 +291,8 @@ function initCustomCursor() {
     const dot = document.getElementById('cursorDot');
     if (!halo || !dot) return;
 
-    // Hide custom cursor on touch/mobile devices
-    if (window.matchMedia('(pointer: coarse)').matches) {
+    // Hide custom cursor on touch/mobile devices or narrow viewports
+    if (window.matchMedia('(pointer: coarse)').matches || window.innerWidth <= 991) {
         halo.style.display = 'none';
         dot.style.display = 'none';
         return;
