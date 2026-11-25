@@ -10,7 +10,12 @@
         <a href="{{ url_for('prediction_form', category=record.category) }}" class="btn btn-outline-secondary">
             <i class="bi bi-arrow-left me-1"></i> Make Another Prediction
         </a>
-        <div class="d-flex gap-2">
+        <div class="d-flex flex-wrap gap-2">
+            <form method="POST" action="{{ url_for('garage_save_prediction', prediction_id=record.id) }}" class="d-inline">
+                <button type="submit" class="btn btn-outline-info">
+                    <i class="bi bi-car-front-fill me-1"></i> Save to My Garage
+                </button>
+            </form>
             <button onclick="window.print()" class="btn btn-outline-light">
                 <i class="bi bi-printer-fill me-1"></i> Print Result
             </button>
@@ -53,6 +58,19 @@
                 <p class="text-muted small mt-4 mb-0 px-md-4">
                     {{ details.summary }}
                 </p>
+
+                <!-- Save to Virtual Garage CTA Banner -->
+                <div class="mt-4 pt-3 border-top border-secondary border-opacity-25 d-flex flex-wrap justify-content-between align-items-center gap-2">
+                    <div class="text-start">
+                        <div class="small fw-bold text-light"><i class="bi bi-car-front-fill text-info me-1"></i> Own this {{ record.brand }} {{ record.model }}?</div>
+                        <div class="text-muted" style="font-size: 0.78rem;">Track month-by-month depreciation and export asset certificates in your Virtual Garage.</div>
+                    </div>
+                    <form method="POST" action="{{ url_for('garage_save_prediction', prediction_id=record.id) }}">
+                        <button type="submit" class="btn btn-sm btn-info text-dark fw-bold px-3 py-1.5 shadow-sm">
+                            <i class="bi bi-bookmark-plus-fill me-1"></i> Save to My Garage
+                        </button>
+                    </form>
+                </div>
             </div>
 
             <!-- Value Drivers & Influencing Factors -->

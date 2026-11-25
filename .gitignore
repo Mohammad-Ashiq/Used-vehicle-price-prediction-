@@ -12,3 +12,5 @@ cloudflared.exe
 db.sqlite3-journal
 tools/
 
+
+reports/*.pdf

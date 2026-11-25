@@ -2,45 +2,55 @@
 title ReVahan - Push to GitHub for Cloud Deployment
 cls
 echo ======================================================================
-echo             ReVahan - Connect to GitHub for 24/7 Cloud Deploy
+echo             ReVahan - Uploading to Mohammad-Ashiq GitHub
 echo ======================================================================
 echo.
-echo Your local Git repository is initialized and committed with all files:
-echo   - 4 Trained ML Models (Cars, Bikes, Lorries, Autos)
-echo   - Full Indian Datasets (70+ brands, 400+ models, 36 states)
-echo   - Progressive Web App (PWA) configuration
-echo   - Dockerfile, Procfile, render.yaml
+echo Target Repository:
+echo   https://github.com/Mohammad-Ashiq/Used-vehicle-price-prediction-.git
 echo.
-echo Step 1: Create a new repository on GitHub:
-echo         Open: https://github.com/new
-echo         Name it: revahan  (Keep it Public or Private)
+echo GitHub now requires a Personal Access Token (or login) to push code.
 echo.
-echo Step 2: Paste your GitHub repository URL below
-echo         (e.g., https://github.com/yourusername/revahan.git)
+echo If you have a GitHub Personal Access Token (starts with ghp_...):
+echo   Paste it below and press Enter.
 echo.
-set /p REPO_URL="Enter your GitHub Repository URL: "
+echo If you don't have a token:
+echo   Just press Enter directly, and Git will prompt for your GitHub login.
+echo.
 
-if "%REPO_URL%"=="" (
-    echo [ERROR] No URL entered. Exiting...
-    pause
-    exit /b
+set /p TOKEN="Enter Personal Access Token (optional, or press Enter): "
+
+echo.
+echo Configuring remote repository...
+"C:\ReVahan_Project\tools\git\cmd\git.exe" remote remove origin >nul 2>&1
+
+if "%TOKEN%"=="" (
+    "C:\ReVahan_Project\tools\git\cmd\git.exe" remote add origin https://github.com/Mohammad-Ashiq/Used-vehicle-price-prediction-.git
+) else (
+    "C:\ReVahan_Project\tools\git\cmd\git.exe" remote add origin https://%TOKEN%@github.com/Mohammad-Ashiq/Used-vehicle-price-prediction-.git
 )
 
-echo.
-echo Connecting to GitHub repository...
-"C:\ReVahan_Project\tools\git\cmd\git.exe" remote remove origin >nul 2>&1
-"C:\ReVahan_Project\tools\git\cmd\git.exe" remote add origin %REPO_URL%
 "C:\ReVahan_Project\tools\git\cmd\git.exe" branch -M main
 
 echo.
-echo Pushing code to GitHub...
-"C:\ReVahan_Project\tools\git\cmd\git.exe" push -u origin main
+echo Pushing code and models to GitHub (this may take 15-30 seconds)...
+"C:\ReVahan_Project\tools\git\cmd\git.exe" push -u origin main --force
 
-echo.
-echo ======================================================================
-echo  Code uploaded to GitHub!
-echo  Now go to https://dashboard.render.com/select-repo?type=web
-echo  and select your 'revahan' repository to deploy in 1-click!
-echo ======================================================================
+if %errorlevel% equ 0 (
+    echo.
+    echo ======================================================================
+    echo  SUCCESS! Your code is now live on GitHub:
+    echo  https://github.com/Mohammad-Ashiq/Used-vehicle-price-prediction-
+    echo.
+    echo  Now go to https://dashboard.render.com
+    echo  Click 'New +' -> 'Web Service' -> select your repo -> Name: revahan
+    echo  And Render will launch: https://revahan.onrender.com !
+    echo ======================================================================
+) else (
+    echo.
+    echo [NOTE] If login failed, you can generate a free token at:
+    echo        https://github.com/settings/tokens
+    echo        (Check 'repo' box, generate, and paste it here).
+)
+
 echo.
 pause

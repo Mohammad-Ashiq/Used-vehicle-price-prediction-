@@ -1,5 +1,5 @@
-const LOCAL_URL = "http://127.0.0.1:5000";
-const CLOUD_URL = "https://lee-duncan-similarly-halifax.trycloudflare.com";
+const LOCAL_URL = "https://revahan.onrender.com";
+const CLOUD_URL = "https://revahan.onrender.com";
 
 // Set default omnibox suggestion
 chrome.omnibox.setDefaultSuggestion({

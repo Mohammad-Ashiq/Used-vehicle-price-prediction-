@@ -1,0 +1,644 @@
+{% extends 'base.html' %}
+
+{% block title %}My Virtual Garage | ReVahan AI Vehicle Valuation{% endblock %}
+
+{% block extra_css %}
+<style>
+.garage-kpi-card {
+    background: linear-gradient(135deg, rgba(30, 41, 59, 0.7) 0%, rgba(15, 23, 42, 0.9) 100%);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 16px;
+    padding: 1.5rem;
+    position: relative;
+    overflow: hidden;
+    transition: transform 0.25s ease, border-color 0.25s ease;
+}
+.garage-kpi-card:hover {
+    transform: translateY(-3px);
+    border-color: rgba(0, 242, 254, 0.3);
+}
+.garage-vehicle-card {
+    background: linear-gradient(135deg, rgba(30, 41, 59, 0.6) 0%, rgba(15, 23, 42, 0.85) 100%);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 18px;
+    padding: 1.5rem;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    position: relative;
+}
+.garage-vehicle-card:hover {
+    transform: translateY(-4px);
+    border-color: rgba(0, 242, 254, 0.4);
+    box-shadow: 0 12px 30px rgba(0, 0, 0, 0.35);
+}
+.vehicle-avatar-badge {
+    width: 48px;
+    height: 48px;
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.5rem;
+}
+.depreciation-pill {
+    font-size: 0.75rem;
+    font-weight: 700;
+    padding: 0.25rem 0.65rem;
+    border-radius: 50px;
+}
+</style>
+{% endblock %}
+
+{% block content %}
+<div class="container py-4 py-md-5">
+
+    <!-- Top Profile & Garage Action Bar -->
+    <div class="d-flex flex-wrap justify-content-between align-items-center gap-3 mb-4">
+        <div class="d-flex align-items-center gap-3">
+            <div class="user-avatar-circle" style="width: 54px; height: 54px; border-radius: 50%; background: {{ current_user.avatar_color or '#00f2fe' }}; color: #0f172a; font-size: 1.5rem; font-weight: 800; display: flex; align-items: center; justify-content: center; box-shadow: 0 0 15px rgba(0,242,254,0.3);">
+                {{ current_user.name[0]|upper }}
+            </div>
+            <div>
+                <div class="d-flex align-items-center gap-2">
+                    <h3 class="fw-bold mb-0 text-light">{{ current_user.name }}'s Virtual Garage</h3>
+                    <span class="badge bg-primary rounded-pill px-2.5 py-1 small">
+                        <i class="bi bi-shield-check me-1"></i> Verified Owner
+                    </span>
+                </div>
+                <p class="text-muted small mb-0">
+                    <i class="bi bi-envelope me-1"></i> {{ current_user.email }}
+                    {% if current_user.phone %} &bull; <i class="bi bi-phone me-1"></i> {{ current_user.phone }}{% endif %}
+                </p>
+            </div>
+        </div>
+
+        <div class="d-flex gap-2">
+            <button type="button" class="btn btn-outline-info" onclick="window.print()">
+                <i class="bi bi-printer-fill me-1"></i> Print Portfolio
+            </button>
+            <button type="button" class="btn btn-primary-custom" data-bs-toggle="modal" data-bs-target="#addVehicleModal">
+                <i class="bi bi-plus-circle-fill me-1"></i> Add Vehicle to Garage
+            </button>
+        </div>
+    </div>
+
+    <!-- Portfolio KPI Analytics Cards -->
+    <div class="row g-3 mb-5">
+        <div class="col-sm-6 col-lg-3">
+            <div class="garage-kpi-card">
+                <div class="d-flex justify-content-between align-items-center mb-2">
+                    <span class="text-muted small fw-bold text-uppercase">Total Fleet Value</span>
+                    <i class="bi bi-wallet2 text-info fs-5"></i>
+                </div>
+                <div class="fs-3 fw-bold text-light">₹ {{ format_inr(portfolio.total_valuation) }}</div>
+                <div class="text-info small fw-bold mt-1">~ {{ format_lakhs(portfolio.total_valuation) }}</div>
+            </div>
+        </div>
+
+        <div class="col-sm-6 col-lg-3">
+            <div class="garage-kpi-card">
+                <div class="d-flex justify-content-between align-items-center mb-2">
+                    <span class="text-muted small fw-bold text-uppercase">Original Purchase</span>
+                    <i class="bi bi-receipt-cutoff text-primary fs-5"></i>
+                </div>
+                <div class="fs-3 fw-bold text-light">₹ {{ format_inr(portfolio.total_purchase) }}</div>
+                <div class="text-muted small mt-1">Acquisition Investment</div>
+            </div>
+        </div>
+
+        <div class="col-sm-6 col-lg-3">
+            <div class="garage-kpi-card">
+                <div class="d-flex justify-content-between align-items-center mb-2">
+                    <span class="text-muted small fw-bold text-uppercase">Net Depreciation</span>
+                    <i class="bi bi-graph-down-arrow text-warning fs-5"></i>
+                </div>
+                <div class="fs-3 fw-bold text-warning">- ₹ {{ format_inr(portfolio.net_depreciation) }}</div>
+                <div class="text-muted small mt-1">Lifecycle value loss</div>
+            </div>
+        </div>
+
+        <div class="col-sm-6 col-lg-3">
+            <div class="garage-kpi-card">
+                <div class="d-flex justify-content-between align-items-center mb-2">
+                    <span class="text-muted small fw-bold text-uppercase">Fleet Equity Retained</span>
+                    <i class="bi bi-pie-chart-fill text-success fs-5"></i>
+                </div>
+                <div class="fs-3 fw-bold text-success">{{ portfolio.average_retention }}%</div>
+                <div class="progress mt-2" style="height: 6px; background: rgba(255,255,255,0.08);">
+                    <div class="progress-bar bg-success" role="progressbar" style="width: {{ portfolio.average_retention }}%"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Vehicles List Section -->
+    <div class="d-flex justify-content-between align-items-center mb-3">
+        <h4 class="fw-bold mb-0 text-light">
+            <i class="bi bi-collection-fill text-primary me-2"></i> My Registered Vehicles
+            <span class="badge bg-secondary ms-1 fs-6">{{ portfolio.total_vehicles }}</span>
+        </h4>
+        <span class="text-muted small">Updated live via ReVahan AI Valuation Engine</span>
+    </div>
+
+    {% if portfolio.vehicles %}
+    <div class="row g-4">
+        {% for v in portfolio.vehicles %}
+        <div class="col-lg-6">
+            <div class="garage-vehicle-card h-100 d-flex flex-column justify-content-between">
+                <div>
+                    <!-- Card Top Header -->
+                    <div class="d-flex justify-content-between align-items-start mb-3">
+                        <div class="d-flex align-items-center gap-3">
+                            <div class="vehicle-avatar-badge" style="background: rgba(0, 242, 254, 0.1); border: 1px solid rgba(0, 242, 254, 0.25);">
+                                {% if v.category == 'cars' %}
+                                    <i class="bi bi-car-front-fill text-primary"></i>
+                                {% elif v.category == 'bikes' %}
+                                    <i class="bi bi-bicycle text-info"></i>
+                                {% elif v.category == 'lorries' %}
+                                    <i class="bi bi-truck-flatbed text-warning"></i>
+                                {% else %}
+                                    <i class="bi bi-taxi-front-fill text-success"></i>
+                                {% endif %}
+                            </div>
+                            <div>
+                                <div class="badge bg-dark border border-secondary text-uppercase mb-1" style="font-size: 0.7rem;">
+                                    {{ v.category }} &bull; Asset #RV-GAR-{{ "%04d"|format(v.id) }}
+                                </div>
+                                <h5 class="fw-bold mb-0 text-light">{{ v.year }} {{ v.brand }} {{ v.model }}</h5>
+                                <div class="text-muted small">
+                                    <i class="bi bi-tag-fill me-1 text-info"></i> <strong>&ldquo;{{ v.nickname }}&rdquo;</strong>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Retention Badge -->
+                        <span class="depreciation-pill bg-success bg-opacity-25 text-success border border-success border-opacity-50">
+                            {{ v.retained_pct }}% Retained
+                        </span>
+                    </div>
+
+                    <!-- Valuation Callout Box -->
+                    <div class="p-3 rounded mb-3" style="background: rgba(0, 0, 0, 0.3); border: 1px dashed rgba(0, 242, 254, 0.3);">
+                        <div class="d-flex justify-content-between align-items-center">
+                            <div>
+                                <span class="text-muted small text-uppercase fw-bold">Current Market Valuation</span>
+                                <div class="fs-4 fw-bold text-info">₹ {{ format_inr(v.current_valuation) }}</div>
+                                <span class="small text-muted">Fair Range: ₹ {{ format_inr(v.price_min) }} - ₹ {{ format_inr(v.price_max) }}</span>
+                            </div>
+                            <div class="text-end">
+                                <span class="text-muted small text-uppercase fw-bold">Original Purchase</span>
+                                <div class="fs-6 fw-bold text-light">₹ {{ format_inr(v.purchase_price) }}</div>
+                                <span class="small text-warning">Dep: -₹ {{ format_inr(v.total_depreciation) }}</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Specifications Mini Grid -->
+                    <div class="row g-2 text-muted small mb-3">
+                        <div class="col-6">
+                            <i class="bi bi-speedometer2 text-info me-1"></i> <strong>Odometer:</strong> {{ "{:,}".format(v.km_driven) }} km
+                        </div>
+                        <div class="col-6">
+                            <i class="bi bi-fuel-pump text-primary me-1"></i> <strong>Fuel:</strong> {{ v.fuel_type }}
+                        </div>
+                        <div class="col-6">
+                            <i class="bi bi-geo-alt-fill text-danger me-1"></i> <strong>State:</strong> {{ v.location }}
+                        </div>
+                        <div class="col-6">
+                            <i class="bi bi-check2-circle text-success me-1"></i> <strong>Condition:</strong> {{ v.condition }}
+                        </div>
+                        {% if v.notes %}
+                        <div class="col-12 mt-2 pt-2 border-top border-secondary border-opacity-25 fst-italic">
+                            <i class="bi bi-card-text me-1"></i> "{{ v.notes }}"
+                        </div>
+                        {% endif %}
+                    </div>
+                </div>
+
+                <!-- Action Button Toolbar -->
+                <div class="pt-3 border-top border-secondary border-opacity-25 d-flex flex-wrap gap-2 justify-content-between align-items-center">
+                    <div class="d-flex gap-2">
+                        <!-- Update Mileage CTA -->
+                        <button type="button" class="btn btn-sm btn-outline-light" onclick="openUpdateMileageModal({{ v.id }}, '{{ v.brand }} {{ v.model }}', {{ v.km_driven }})">
+                            <i class="bi bi-arrow-repeat me-1"></i> Update Km
+                        </button>
+
+                        <!-- View Depreciation Chart CTA -->
+                        <button type="button" class="btn btn-sm btn-outline-info" onclick="openDepreciationModal({{ v.id }})">
+                            <i class="bi bi-graph-up me-1"></i> Depreciation Curve
+                        </button>
+                    </div>
+
+                    <div class="d-flex gap-2">
+                        <!-- Branded PDF Certificate CTA -->
+                        <a href="{{ url_for('download_garage_certificate', vehicle_id=v.id) }}" class="btn btn-sm btn-primary-custom" title="Download Official Branded Asset Certificate">
+                            <i class="bi bi-file-earmark-pdf-fill me-1"></i> Certificate
+                        </a>
+
+                        <!-- Delete CTA -->
+                        <form method="POST" action="{{ url_for('garage_delete_vehicle', vehicle_id=v.id) }}" onsubmit="return confirm('Remove {{ v.brand }} {{ v.model }} from your Virtual Garage?');">
+                            <button type="submit" class="btn btn-sm btn-outline-danger" title="Remove Vehicle">
+                                <i class="bi bi-trash-fill"></i>
+                            </button>
+                        </form>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+
+    {% else %}
+    <!-- Empty Garage State -->
+    <div class="custom-card p-5 text-center my-4">
+        <div class="mb-3">
+            <i class="bi bi-car-front text-info" style="font-size: 4rem; opacity: 0.6;"></i>
+        </div>
+        <h4 class="fw-bold text-light">Your Virtual Garage is Empty</h4>
+        <p class="text-muted mx-auto" style="max-width: 500px;">
+            Add your personal cars, bikes, commercial trucks, or auto-rickshaws to track monthly market depreciation, recalculate value with new mileage, and download official branded asset certificates.
+        </p>
+        <div class="d-flex justify-content-center gap-3 mt-4">
+            <button type="button" class="btn btn-primary-custom" data-bs-toggle="modal" data-bs-target="#addVehicleModal">
+                <i class="bi bi-plus-circle-fill me-1"></i> Add Your First Vehicle
+            </button>
+            <a href="{{ url_for('categories') }}" class="btn btn-outline-secondary">
+                <i class="bi bi-lightning-charge-fill me-1"></i> Run a Price Prediction
+            </a>
+        </div>
+    </div>
+    {% endif %}
+
+</div>
+
+
+<!-- ================= MODAL: ADD VEHICLE TO GARAGE ================= -->
+<div class="modal fade" id="addVehicleModal" tabindex="-1" aria-labelledby="addVehicleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg modal-dialog-centered">
+        <div class="modal-content bg-dark border-secondary text-light shadow-lg">
+            <div class="modal-header border-secondary">
+                <h5 class="modal-title fw-bold" id="addVehicleModalLabel">
+                    <i class="bi bi-plus-circle-fill text-info me-2"></i> Add Vehicle to My Virtual Garage
+                </h5>
+                <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            
+            <form method="POST" action="{{ url_for('garage_add_vehicle') }}" id="garageAddForm">
+                <div class="modal-body p-4">
+                    
+                    <div class="row g-3">
+                        <!-- Category Selector -->
+                        <div class="col-md-6">
+                            <label class="form-label small fw-bold">Vehicle Category</label>
+                            <select name="category" id="garageCategorySelect" class="form-select bg-dark text-light border-secondary" onchange="loadGarageBrands(this.value)" required>
+                                <option value="cars" selected>Car (Hatchback / Sedan / SUV)</option>
+                                <option value="bikes">Bike / Motorcycle / Scooter</option>
+                                <option value="lorries">Commercial Lorry / Truck</option>
+                                <option value="autos">Auto-rickshaw (3-Wheeler)</option>
+                            </select>
+                        </div>
+
+                        <!-- Vehicle Nickname -->
+                        <div class="col-md-6">
+                            <label class="form-label small fw-bold">Garage Nickname / Label</label>
+                            <input type="text" name="nickname" class="form-control bg-dark text-light border-secondary" placeholder="e.g. My Daily Commuter, Family Car">
+                        </div>
+
+                        <!-- Brand Selection -->
+                        <div class="col-md-6">
+                            <label class="form-label small fw-bold">Brand / Manufacturer</label>
+                            <select name="brand" id="garageBrandSelect" class="form-select bg-dark text-light border-secondary" onchange="loadGarageModels(this.value)" required>
+                                <option value="">Select Brand</option>
+                            </select>
+                        </div>
+
+                        <!-- Model Selection -->
+                        <div class="col-md-6">
+                            <label class="form-label small fw-bold">Model</label>
+                            <select name="model" id="garageModelSelect" class="form-select bg-dark text-light border-secondary" required>
+                                <option value="">Select Model</option>
+                            </select>
+                        </div>
+
+                        <!-- Manufacturing Year -->
+                        <div class="col-md-4">
+                            <label class="form-label small fw-bold">Manufacturing Year</label>
+                            <select name="year" class="form-select bg-dark text-light border-secondary" required>
+                                {% for yr in range(current_year, current_year - 25, -1) %}
+                                <option value="{{ yr }}" {% if yr == current_year - 2 %}selected{% endif %}>{{ yr }}</option>
+                                {% endfor %}
+                            </select>
+                        </div>
+
+                        <!-- Odometer (Kilometers Driven) -->
+                        <div class="col-md-4">
+                            <label class="form-label small fw-bold">Current Odometer (km)</label>
+                            <input type="number" name="km_driven" class="form-control bg-dark text-light border-secondary" placeholder="e.g. 35000" min="0" required>
+                        </div>
+
+                        <!-- Original Purchase Price -->
+                        <div class="col-md-4">
+                            <label class="form-label small fw-bold">Purchase Price (₹)</label>
+                            <input type="number" name="purchase_price" class="form-control bg-dark text-light border-secondary" placeholder="e.g. 1200000" min="10000">
+                        </div>
+
+                        <!-- Fuel Type -->
+                        <div class="col-md-4">
+                            <label class="form-label small fw-bold">Fuel Type</label>
+                            <select name="fuel_type" class="form-select bg-dark text-light border-secondary" required>
+                                <option value="Petrol">Petrol</option>
+                                <option value="Diesel">Diesel</option>
+                                <option value="CNG">CNG</option>
+                                <option value="Electric">Electric</option>
+                                <option value="Hybrid">Hybrid</option>
+                            </select>
+                        </div>
+
+                        <!-- Transmission -->
+                        <div class="col-md-4">
+                            <label class="form-label small fw-bold">Transmission</label>
+                            <select name="transmission" class="form-select bg-dark text-light border-secondary">
+                                <option value="Manual">Manual</option>
+                                <option value="Automatic">Automatic</option>
+                            </select>
+                        </div>
+
+                        <!-- Vehicle Condition -->
+                        <div class="col-md-4">
+                            <label class="form-label small fw-bold">Condition</label>
+                            <select name="condition" class="form-select bg-dark text-light border-secondary" required>
+                                <option value="Excellent">Excellent (Immaculate)</option>
+                                <option value="Good" selected>Good (Minor wear)</option>
+                                <option value="Fair">Fair (Needs cosmetic work)</option>
+                                <option value="Poor">Poor (High wear/repair needed)</option>
+                            </select>
+                        </div>
+
+                        <!-- Ownership -->
+                        <div class="col-md-6">
+                            <label class="form-label small fw-bold">Ownership Title</label>
+                            <select name="owners" class="form-select bg-dark text-light border-secondary" required>
+                                <option value="1st Owner">1st Owner</option>
+                                <option value="2nd Owner">2nd Owner</option>
+                                <option value="3rd Owner">3rd Owner</option>
+                                <option value="4th Owner & Above">4th Owner & Above</option>
+                            </select>
+                        </div>
+
+                        <!-- Location -->
+                        <div class="col-md-6">
+                            <label class="form-label small fw-bold">Registered State / Location</label>
+                            <select name="location" class="form-select bg-dark text-light border-secondary" required>
+                                {% for loc in supported_locations %}
+                                <option value="{{ loc }}" {% if loc in ['Delhi', 'Delhi NCR', 'Maharashtra', 'Karnataka', 'Tamil Nadu', 'Kerala'] and loop.first %}selected{% endif %}>{{ loc }}</option>
+                                {% endfor %}
+                            </select>
+                        </div>
+
+                        <!-- Notes -->
+                        <div class="col-12">
+                            <label class="form-label small fw-bold">Owner Notes / Service History</label>
+                            <textarea name="notes" class="form-control bg-dark text-light border-secondary" rows="2" placeholder="e.g. Full service record at authorized dealer, new tyres installed last month."></textarea>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="modal-footer border-secondary">
+                    <button type="button" class="btn btn-outline-secondary" data-bs-dismiss="modal">Cancel</button>
+                    <button type="submit" class="btn btn-primary-custom">
+                        <i class="bi bi-check-circle-fill me-1"></i> Save & Recalibrate Valuation
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+
+<!-- ================= MODAL: UPDATE ODOMETER MILEAGE ================= -->
+<div class="modal fade" id="updateMileageModal" tabindex="-1" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content bg-dark border-secondary text-light shadow-lg">
+            <div class="modal-header border-secondary">
+                <h5 class="modal-title fw-bold">
+                    <i class="bi bi-speedometer2 text-info me-2"></i> Update Odometer Reading
+                </h5>
+                <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal"></button>
+            </div>
+            <form method="POST" id="updateMileageForm" action="">
+                <div class="modal-body p-4">
+                    <p class="text-muted small">Update your vehicle's current kilometers driven. ReVahan will re-run the Machine Learning model to calculate your refreshed market valuation and update your depreciation curve.</p>
+                    
+                    <div class="mb-3">
+                        <label class="form-label small fw-bold text-light" id="mileageModalVehicleName">Vehicle</label>
+                        <div class="input-group">
+                            <input type="number" name="km_driven" id="modalKmInput" class="form-control bg-dark text-light border-secondary fs-5" min="0" required>
+                            <span class="input-group-text bg-dark border-secondary text-muted">KM</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer border-secondary">
+                    <button type="button" class="btn btn-outline-secondary" data-bs-dismiss="modal">Cancel</button>
+                    <button type="submit" class="btn btn-primary-custom">
+                        <i class="bi bi-arrow-repeat me-1"></i> Recalculate Value
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+
+<!-- ================= MODAL: DEPRECIATION CURVE CHART ================= -->
+<div class="modal fade" id="depreciationModal" tabindex="-1" aria-hidden="true">
+    <div class="modal-dialog modal-lg modal-dialog-centered">
+        <div class="modal-content bg-dark border-secondary text-light shadow-lg">
+            <div class="modal-header border-secondary">
+                <h5 class="modal-title fw-bold" id="depreciationModalTitle">
+                    <i class="bi bi-graph-up text-info me-2"></i> Depreciation & Valuation Curve
+                </h5>
+                <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal"></button>
+            </div>
+            <div class="modal-body p-4">
+                <div class="chart-container" style="position: relative; height: 320px; width: 100%;">
+                    <canvas id="depreciationChartCanvas"></canvas>
+                </div>
+                
+                <div class="mt-4">
+                    <h6 class="fw-bold small text-muted text-uppercase mb-2">Valuation Milestones & 6-Month Forecast</h6>
+                    <div class="table-responsive" style="max-height: 200px; overflow-y: auto;">
+                        <table class="table table-dark table-sm table-striped small align-middle mb-0">
+                            <thead>
+                                <tr class="text-muted">
+                                    <th>Period</th>
+                                    <th>Estimated Valuation</th>
+                                    <th>Retained %</th>
+                                    <th>Phase</th>
+                                </tr>
+                            </thead>
+                            <tbody id="depreciationTableBody">
+                                <!-- Populated dynamically -->
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer border-secondary">
+                <button type="button" class="btn btn-outline-secondary" data-bs-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Include Chart.js -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+
+<script>
+// Catalog brand metadata injected for dynamic garage vehicle adder
+const categoriesInfo = {{ categories_info|tojson }};
+
+function loadGarageBrands(category) {
+    const brandSelect = document.getElementById('garageBrandSelect');
+    const modelSelect = document.getElementById('garageModelSelect');
+    brandSelect.innerHTML = '<option value="">Select Brand</option>';
+    modelSelect.innerHTML = '<option value="">Select Model</option>';
+    
+    if (categoriesInfo[category] && categoriesInfo[category].brands) {
+        const brands = Object.keys(categoriesInfo[category].brands).sort();
+        brands.forEach(b => {
+            const opt = document.createElement('option');
+            opt.value = b;
+            opt.textContent = b;
+            brandSelect.appendChild(opt);
+        });
+    }
+}
+
+function loadGarageModels(brand) {
+    const category = document.getElementById('garageCategorySelect').value;
+    const modelSelect = document.getElementById('garageModelSelect');
+    modelSelect.innerHTML = '<option value="">Select Model</option>';
+    
+    if (categoriesInfo[category] && categoriesInfo[category].brands[brand]) {
+        const models = categoriesInfo[category].brands[brand];
+        models.forEach(m => {
+            const opt = document.createElement('option');
+            opt.value = m;
+            opt.textContent = m;
+            modelSelect.appendChild(opt);
+        });
+    }
+}
+
+// Initialize brands on page load
+document.addEventListener('DOMContentLoaded', function() {
+    loadGarageBrands('cars');
+});
+
+function openUpdateMileageModal(vehicleId, vehicleName, currentKm) {
+    const form = document.getElementById('updateMileageForm');
+    form.action = `/garage/update-mileage/${vehicleId}`;
+    document.getElementById('mileageModalVehicleName').innerText = `Odometer for ${vehicleName}`;
+    document.getElementById('modalKmInput').value = currentKm;
+    new bootstrap.Modal(document.getElementById('updateMileageModal')).show();
+}
+
+let activeChart = null;
+
+function openDepreciationModal(vehicleId) {
+    const modalEl = document.getElementById('depreciationModal');
+    const bsModal = new bootstrap.Modal(modalEl);
+    
+    fetch(`/api/garage/depreciation/${vehicleId}`)
+    .then(res => res.json())
+    .then(data => {
+        if (data.error) {
+            alert(data.error);
+            return;
+        }
+        
+        document.getElementById('depreciationModalTitle').innerHTML = 
+            `<i class="bi bi-graph-up text-info me-2"></i> Depreciation Curve: ${data.nickname}`;
+            
+        const labels = data.history.map(pt => pt.label);
+        const values = data.history.map(pt => pt.valuation);
+        
+        // Populate table
+        const tbody = document.getElementById('depreciationTableBody');
+        tbody.innerHTML = '';
+        data.history.forEach(pt => {
+            const tr = document.createElement('tr');
+            const typeBadge = pt.type === 'current' 
+                ? '<span class="badge bg-success">Current</span>' 
+                : (pt.type === 'historical' ? '<span class="badge bg-primary">Historical</span>' : '<span class="badge bg-warning text-dark">Forecast</span>');
+            tr.innerHTML = `
+                <td><strong>${pt.label}</strong></td>
+                <td class="text-info fw-bold">₹ ${Number(pt.valuation).toLocaleString('en-IN')}</td>
+                <td>${pt.retained_pct}%</td>
+                <td>${typeBadge}</td>
+            `;
+            tbody.appendChild(tr);
+        });
+        
+        // Render Chart.js
+        const ctx = document.getElementById('depreciationChartCanvas').getContext('2d');
+        if (activeChart) {
+            activeChart.destroy();
+        }
+        
+        activeChart = new Chart(ctx, {
+            type: 'line',
+            data: {
+                labels: labels,
+                datasets: [{
+                    label: 'Market Valuation (₹)',
+                    data: values,
+                    borderColor: '#00f2fe',
+                    backgroundColor: 'rgba(0, 242, 254, 0.1)',
+                    borderWidth: 3,
+                    fill: true,
+                    tension: 0.35,
+                    pointBackgroundColor: data.history.map(pt => pt.type === 'current' ? '#38ef7d' : (pt.type === 'forecast' ? '#f59e0b' : '#00f2fe')),
+                    pointRadius: data.history.map(pt => pt.type === 'current' ? 7 : 4),
+                    pointHoverRadius: 8
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    legend: { display: false },
+                    tooltip: {
+                        callbacks: {
+                            label: function(context) {
+                                return ' ₹ ' + Number(context.raw).toLocaleString('en-IN');
+                            }
+                        }
+                    }
+                },
+                scales: {
+                    x: {
+                        grid: { color: 'rgba(255, 255, 255, 0.05)' },
+                        ticks: { color: '#94a3b8', font: { size: 10 } }
+                    },
+                    y: {
+                        grid: { color: 'rgba(255, 255, 255, 0.05)' },
+                        ticks: {
+                            color: '#94a3b8',
+                            callback: function(value) {
+                                return '₹ ' + (value >= 100000 ? (value / 100000).toFixed(1) + ' L' : value.toLocaleString('en-IN'));
+                            }
+                        }
+                    }
+                }
+            }
+        });
+        
+        bsModal.show();
+    })
+    .catch(err => {
+        alert("Failed to load depreciation history: " + err);
+    });
+}
+</script>
+{% endblock %}
