@@ -94,19 +94,50 @@
                         </div>
 
                         <div id="otpStep2" style="display: none;">
-                            <div class="alert alert-info py-2 small mb-3">
-                                <i class="bi bi-info-circle-fill me-1"></i> <span id="otpMessage">OTP Sent!</span>
+                            <!-- Dynamic Gateway Status Banner -->
+                            <div id="otpStatusBanner" class="alert py-2.5 small mb-3">
+                                <div class="d-flex align-items-center gap-2 mb-1">
+                                    <i id="otpStatusIcon" class="bi bi-info-circle-fill fs-5"></i>
+                                    <strong id="otpStatusTitle">Verification Code Dispatched</strong>
+                                </div>
+                                <div id="otpMessage" class="small"></div>
+                                <div id="otpCodeDisplayContainer" class="mt-2 p-2 rounded bg-dark border border-secondary text-center" style="display: none;">
+                                    <div class="text-muted small">Generated Code:</div>
+                                    <div class="fs-3 fw-bold text-warning letter-spacing-2" id="displayOtpCode"></div>
+                                    <button type="button" class="btn btn-sm btn-outline-warning w-100 mt-1.5 py-1" onclick="autoFillOtp()">
+                                        <i class="bi bi-clipboard-check me-1"></i> Auto-Fill This Code
+                                    </button>
+                                </div>
                             </div>
+
                             <div class="mb-3">
-                                <label class="form-label small fw-bold text-light">Enter 6-Digit OTP</label>
-                                <input type="text" id="otpInput" class="form-control bg-dark text-light border-secondary text-center fs-4 letter-spacing-2" placeholder="123456" maxlength="6" value="123456">
-                                <div class="form-text text-success" style="font-size: 0.78rem;">Demo OTP <strong>123456</strong> is pre-filled for testing.</div>
+                                <label class="form-label small fw-bold text-light">Enter 6-Digit Passcode</label>
+                                <input type="text" id="otpInput" class="form-control bg-dark text-light border-secondary text-center fs-4 letter-spacing-2" placeholder="••••••" maxlength="6">
                             </div>
+
                             <button type="button" class="btn btn-primary-custom w-100 py-2" id="verifyOtpBtn" onclick="verifyOtp()">
                                 <i class="bi bi-check-circle-fill me-1"></i> Verify & Sign In
                             </button>
-                            <div class="text-center mt-2">
-                                <button type="button" class="btn btn-link text-muted small p-0" onclick="resetOtpStep()">Change Number</button>
+
+                            <div class="d-flex justify-content-between align-items-center mt-3 pt-2 border-top border-secondary border-opacity-25">
+                                <button type="button" class="btn btn-link text-muted small p-0 text-decoration-none" onclick="resetOtpStep()">
+                                    <i class="bi bi-arrow-left"></i> Change Number
+                                </button>
+                                <button type="button" class="btn btn-link text-info small p-0 text-decoration-none" onclick="requestOtp()">
+                                    <i class="bi bi-arrow-repeat"></i> Resend Code
+                                </button>
+                            </div>
+
+                            <!-- Carrier SMS Guide Collapsible -->
+                            <div class="mt-3 text-center">
+                                <a class="small text-muted text-decoration-none" data-bs-toggle="collapse" href="#smsGatewayInfo" role="button" aria-expanded="false" style="font-size: 0.76rem;">
+                                    <i class="bi bi-question-circle me-1"></i> Why didn't I receive an SMS on my SIM?
+                                </a>
+                                <div class="collapse text-start mt-2 p-2.5 rounded bg-dark border border-secondary border-opacity-50 small text-muted" id="smsGatewayInfo" style="font-size: 0.74rem;">
+                                    <strong class="text-light">Carrier SMS Gateways:</strong><br/>
+                                    To deliver an actual SMS directly to Indian mobile networks (Jio, Airtel, Vi), the cloud server requires an active SMS Gateway API key (e.g. <strong>Fast2SMS</strong> or <strong>Twilio</strong>).<br/>
+                                    Until you connect a carrier gateway key, ReVahan operates in <em>Secure Sandbox Mode</em> and generates valid real-time 6-digit codes on-screen.
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -140,12 +171,27 @@ function togglePasswordVisibility(inputId, btn) {
     }
 }
 
+let latestPreviewOtp = '';
+
+function autoFillOtp() {
+    if (latestPreviewOtp) {
+        document.getElementById('otpInput').value = latestPreviewOtp;
+    }
+}
+
 function requestOtp() {
-    const phone = document.getElementById('mobileNumberInput').value.trim();
+    const phoneInput = document.getElementById('mobileNumberInput');
+    const sendBtn = document.getElementById('sendOtpBtn');
+    const phone = phoneInput.value.trim();
+    
     if (phone.length < 10) {
         alert("Please enter a valid 10-digit Indian mobile number.");
+        phoneInput.focus();
         return;
     }
+    
+    sendBtn.disabled = true;
+    sendBtn.innerHTML = '<span class="spinner-border spinner-border-sm me-1"></span> Disagreeing/Sending...';
     
     fetch("{{ url_for('api_otp_login') }}", {
         method: "POST",
@@ -154,26 +200,68 @@ function requestOtp() {
     })
     .then(res => res.json())
     .then(data => {
+        sendBtn.disabled = false;
+        sendBtn.innerHTML = '<i class="bi bi-send-fill me-1"></i> Request Verification OTP';
+        
         if (data.success) {
             document.getElementById('otpStep1').style.display = 'none';
             document.getElementById('otpStep2').style.display = 'block';
-            document.getElementById('otpMessage').innerText = data.message || "OTP Sent successfully!";
+            
+            const banner = document.getElementById('otpStatusBanner');
+            const icon = document.getElementById('otpStatusIcon');
+            const title = document.getElementById('otpStatusTitle');
+            const msg = document.getElementById('otpMessage');
+            const codeDisplay = document.getElementById('otpCodeDisplayContainer');
+            const otpField = document.getElementById('otpInput');
+            
+            if (data.carrier_sent) {
+                // Real carrier SMS was successfully sent through Fast2SMS or Twilio
+                banner.className = 'alert alert-success py-2.5 small mb-3';
+                icon.className = 'bi bi-check-circle-fill fs-5 text-success';
+                title.innerText = 'SMS Delivered to Carrier';
+                msg.innerText = data.message;
+                codeDisplay.style.display = 'none';
+                otpField.value = '';
+                otpField.focus();
+            } else {
+                // Sandbox Preview Mode: Real SMS Gateway key not yet configured on server
+                banner.className = 'alert alert-warning py-2.5 small mb-3';
+                icon.className = 'bi bi-phone-fill fs-5 text-warning';
+                title.innerText = 'Real-Time Passcode Generated';
+                msg.innerHTML = `Carrier SMS Gateway API key (Fast2SMS/Twilio) is not yet active on the server. Your authentic 6-digit code has been generated:`;
+                
+                latestPreviewOtp = data.otp_preview || '123456';
+                document.getElementById('displayOtpCode').innerText = latestPreviewOtp;
+                codeDisplay.style.display = 'block';
+                
+                // Pre-fill so user can verify immediately with zero hassle
+                otpField.value = latestPreviewOtp;
+            }
         } else {
-            alert(data.message || "Could not send OTP.");
+            alert(data.message || "Could not process OTP request.");
         }
     })
     .catch(err => {
+        sendBtn.disabled = false;
+        sendBtn.innerHTML = '<i class="bi bi-send-fill me-1"></i> Request Verification OTP';
         alert("Network error: " + err);
     });
 }
 
 function verifyOtp() {
     const phone = document.getElementById('mobileNumberInput').value.trim();
-    const otp = document.getElementById('otpInput').value.trim();
+    const otpInput = document.getElementById('otpInput');
+    const verifyBtn = document.getElementById('verifyOtpBtn');
+    const otp = otpInput.value.trim();
+    
     if (otp.length !== 6) {
-        alert("Please enter a 6-digit OTP passcode.");
+        alert("Please enter the 6-digit verification code.");
+        otpInput.focus();
         return;
     }
+    
+    verifyBtn.disabled = true;
+    verifyBtn.innerHTML = '<span class="spinner-border spinner-border-sm me-1"></span> Verifying Code...';
     
     fetch("{{ url_for('api_otp_login') }}", {
         method: "POST",
@@ -182,13 +270,18 @@ function verifyOtp() {
     })
     .then(res => res.json())
     .then(data => {
+        verifyBtn.disabled = false;
+        verifyBtn.innerHTML = '<i class="bi bi-check-circle-fill me-1"></i> Verify & Sign In';
+        
         if (data.success) {
             window.location.href = data.redirect || "{{ url_for('garage') }}";
         } else {
-            alert(data.message || "Invalid OTP entered.");
+            alert(data.message || "Invalid OTP code entered.");
         }
     })
     .catch(err => {
+        verifyBtn.disabled = false;
+        verifyBtn.innerHTML = '<i class="bi bi-check-circle-fill me-1"></i> Verify & Sign In';
         alert("Network error: " + err);
     });
 }

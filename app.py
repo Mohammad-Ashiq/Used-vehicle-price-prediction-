@@ -1,5 +1,6 @@
 import os
 import sys
+import time
 from functools import wraps
 from datetime import datetime
 from flask import (
@@ -20,6 +21,7 @@ from ml.preprocess import validate_and_format_input, CURRENT_YEAR
 from ml.predict import predict_price, get_model_info, format_inr, format_lakhs
 from ml.voice_assistant import process_voice_query
 from utils.pdf_generator import generate_prediction_pdf, generate_garage_certificate
+from utils.sms_service import generate_otp_code, sanitize_phone_number, send_carrier_sms
 
 app = Flask(__name__)
 app.config.from_object(Config)
@@ -192,27 +194,68 @@ def demo_login():
 
 @app.route('/api/otp-login', methods=['POST'])
 def api_otp_login():
-    """Quick Mobile OTP / Phone Instant Verification"""
+    """Quick Mobile OTP / Phone Instant Verification with SMS Carrier Gateway integration"""
     data = request.get_json(silent=True) or request.form
     phone = data.get('phone', '').strip()
     otp = data.get('otp', '').strip()
     
-    if not phone or len(phone.replace(' ', '').replace('+91', '')) < 10:
-        return jsonify({'success': False, 'message': 'Please enter a valid 10-digit mobile number.'}), 400
+    clean_phone = sanitize_phone_number(phone)
+    if len(clean_phone) != 10:
+        return jsonify({'success': False, 'message': 'Please enter a valid 10-digit Indian mobile number.'}), 400
         
-    # Standard simulated OTP verification (accepts demo OTP '123456' or any 6-digit entered during preview)
-    if otp and len(otp) == 6:
-        user = create_or_get_otp_user(phone)
-        session['user_id'] = user['id']
-        session['user_name'] = user['name']
-        session['user_email'] = user['email']
-        return jsonify({'success': True, 'redirect': url_for('garage')})
-    else:
-        # Step 1: Send OTP simulation
+    # Step 2: Verification of submitted OTP code
+    if otp:
+        expected_otp = session.get('active_otp')
+        otp_expiry = session.get('otp_expiry', 0)
+        otp_phone = session.get('otp_phone')
+        
+        # Valid if matches current session OTP (not expired) OR matches demo universal code 123456
+        is_valid = False
+        if time.time() <= otp_expiry and otp_phone == clean_phone and str(otp).strip() == str(expected_otp).strip():
+            is_valid = True
+        elif str(otp).strip() == '123456':  # Master developer test code
+            is_valid = True
+            
+        if is_valid:
+            user = create_or_get_otp_user(clean_phone)
+            session['user_id'] = user['id']
+            session['user_name'] = user['name']
+            session['user_email'] = user['email']
+            session.pop('active_otp', None)
+            session.pop('otp_expiry', None)
+            session.pop('otp_phone', None)
+            flash(f"Mobile number +91 {clean_phone} verified successfully! Welcome to your Garage.", "success")
+            return jsonify({'success': True, 'redirect': url_for('garage')})
+        else:
+            return jsonify({'success': False, 'message': 'Incorrect OTP code entered. Please check the OTP and try again.'}), 400
+
+    # Step 1: Generate & Dispatch OTP Code
+    otp_code = generate_otp_code(6)
+    session['active_otp'] = otp_code
+    session['otp_phone'] = clean_phone
+    session['otp_expiry'] = time.time() + 600  # 10 minutes expiry
+    
+    # Attempt carrier SMS dispatch
+    carrier_success, gateway_name, carrier_msg = send_carrier_sms(clean_phone, otp_code)
+    
+    if carrier_success:
         return jsonify({
             'success': True,
             'step': 'otp_sent',
-            'message': f"OTP sent to {phone}. Use demo code 123456 to verify instantly."
+            'carrier_sent': True,
+            'gateway': gateway_name,
+            'phone': clean_phone,
+            'message': f"Real SMS containing verification code sent to +91 {clean_phone} via {gateway_name}."
+        })
+    else:
+        return jsonify({
+            'success': True,
+            'step': 'otp_sent',
+            'carrier_sent': False,
+            'otp_preview': otp_code,
+            'phone': clean_phone,
+            'gateway_msg': carrier_msg,
+            'message': f"Your 6-digit verification code is: {otp_code}"
         })
 
 @app.route('/logout')
