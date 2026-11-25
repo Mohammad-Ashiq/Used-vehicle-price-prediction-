@@ -258,6 +258,15 @@ def service_worker():
 def pwa_manifest():
     return send_from_directory(app.static_folder, 'manifest.json', mimetype='application/manifest+json')
 
+@app.route('/robots.txt')
+def robots():
+    return send_from_directory(app.static_folder, 'robots.txt', mimetype='text/plain')
+
+@app.route('/sitemap.xml')
+def sitemap():
+    return send_from_directory(app.static_folder, 'sitemap.xml', mimetype='application/xml')
+
+
 
 if __name__ == '__main__':
     port = int(os.environ.get('PORT', 5000))

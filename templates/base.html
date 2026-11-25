@@ -18,6 +18,46 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <meta name="apple-mobile-web-app-title" content="ReVahan">
 
+    <!-- Global Google Search SEO Meta Tags -->
+    <meta name="title" content="ReVahan - Used Vehicle Price Prediction System">
+    <meta name="description" content="ReVahan is India's premier AI Used Vehicle Price Predictor. Instant, accurate resale market valuation for Cars, Bikes, Commercial Lorries, and Auto Rickshaws across all 36 Indian States and UTs.">
+    <meta name="keywords" content="revahan, revahan.in, re vahan, revahan app, used vehicle price prediction, used car valuation india, second hand bike price, commercial vehicle valuation, auto rickshaw price predictor, AI vehicle price">
+    <meta name="author" content="ReVahan">
+    <meta name="robots" content="index, follow">
+
+    <!-- OpenGraph (WhatsApp, Facebook, LinkedIn Previews) -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://www.revahan.in/">
+    <meta property="og:title" content="ReVahan - AI Used Vehicle Price Predictor">
+    <meta property="og:description" content="Instant AI resale valuation for Cars, Bikes, Lorries, and Autos across India. Free valuation certificate!">
+    <meta property="og:image" content="{{ url_for('static', filename='images/app_icon.png', _external=True) }}">
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="ReVahan - Used Vehicle Price Prediction System">
+    <meta name="twitter:description" content="Calculate real market value for any used vehicle in India in seconds using Machine Learning.">
+    <meta name="twitter:image" content="{{ url_for('static', filename='images/app_icon.png', _external=True) }}">
+
+    <!-- Google Structured Data (Schema.org JSON-LD) -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebApplication",
+      "name": "ReVahan",
+      "alternateName": ["ReVahan AI", "ReVahan Price Predictor"],
+      "url": "https://www.revahan.in",
+      "applicationCategory": "BusinessApplication, UtilitiesApplication",
+      "operatingSystem": "All (Web, Android, iOS, Windows, macOS)",
+      "description": "AI-powered valuation engine predicting resale prices of used cars, motorcycles, commercial vehicles, and three-wheelers across India.",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "INR"
+      }
+    }
+    </script>
+
+
     
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
